@@ -27,3 +27,13 @@ The backwards-pass release. Driven by the June 2026 backwards-pass review (issue
 ## 1.2-Beta (baseline)
 
 Consolidated import reconciling three drifted renderings (website mdx, assembled canonical txt, agent-shipped compressed txt). See the import commit message for provenance detail.
+
+### Stub elimination (1.3-Beta completion sweep)
+
+- **Annexes F–I operationalized** from the May 2026 completion drafts (grounded in the *Magnifica Humanitas* mapping): F gains the M-1 normative rationale, Absolute Veto (§3.4), accountability-reconstruction audit spec, IW-5, and expanded KPIs; G gains three threat classes (TX-9–11), researcher-responsibility clause, canaries, MDEW sub-protocols, labor-provenance steps, and the σ-attestation + owed-red-team notes; H gains the living-specification framing, loop specification with federation peer cross-audit, and the live CIRISAgent `compliance/` precedent; I gains the multilateral grounding, accountability-stage table, eight-sector overlay with ST floors, staged liability matrix, and CEP.
+- **Annex C** upgraded from Skeleton v0.3 to a two-layer cross-walk: operational (the 27-dimension compliance directory, evidence-bearing) + statutory (informative table with explicit graduation rule — rows become "Verified" only on linked legal review).
+- **Formulas section imported** (`92_formulas.md`, previously missed in the baseline consolidation) with the corrected J/C forms and the OMV side-constraint note replacing the retired ratio inequality.
+- **Backmatter rewritten**: correct repository URL, 1.3-Beta priority topics for adversarial review (σ-attestation circumvention, stewardship capture, §9.2 assumptions, RC-4 red team), change record anchored to git commit history.
+- **Annex overview, Introduction RC requirement 1, and Addendum I §I.4** updated: annex completion is done at the text level; what remains for RC is live-cycle validation.
+
+No stub sections remain in the 1.3-Beta text.

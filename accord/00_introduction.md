@@ -1,6 +1,6 @@
 # Introduction
 
-> CIRIS 1.3-Beta is a working draft open to adversarial review. Release Candidate status is pending completion of stub annexes (F, G, H, I) and empirical validation of mathematical claims in Book IX. Numerical thresholds, latency targets, and governance quotas remain under active review.
+> CIRIS 1.3-Beta is a working draft open to adversarial review. Release Candidate status is pending live-cycle validation of the operationalized annexes (F, G, H, I), empirical validation of mathematical claims in Book IX, and a full red-team exercise. Numerical thresholds, latency targets, and governance quotas remain under active review.
 
 # CIRIS Accord Version 1.3-Beta — Working Draft (Open to Adversarial Review)
 
@@ -18,7 +18,7 @@ This repository is the canonical source of the Accord text. Website and agent-sh
 
 **Release Candidate Requirements**: Before advancing to RC status, this specification must satisfy:
 
-1. **Annex Completion**: Annexes F (Human-in-the-Loop & Oversight), G (Adversarial Security & Robustness), H (Continuous Compliance & Review), and I (Legal & Regulatory Alignment) are currently stubs and must be fully operationalized with concrete procedures, thresholds, and validation mechanisms.
+1. **Annex Completion**: Annexes F (Human-in-the-Loop & Oversight), G (Adversarial Security & Robustness), H (Continuous Compliance & Review), and I (Legal & Regulatory Alignment) were operationalized at 1.3-Beta with concrete procedures, thresholds, and validation mechanisms. *Remaining for RC*: their procedures must be exercised against at least one live deployment cycle and the results published.
 
 2. **Mathematical Validation**: The geometric alignment claims in Book IX (Coherent Intersection Hypothesis, Federated Ratchet mechanism, scale-invariance assertions) require either:
    * Formal proofs demonstrating topological collapse conditions hold under stated assumptions, OR

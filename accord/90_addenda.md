@@ -14,7 +14,7 @@ The Scope section makes a conditional claim: this framework *explores* a candida
 
 ### I.2 The regulatory cross-walk is now operational
 
-Annex C's skeleton table ("TBD cells await legal-team input") is superseded as the working cross-walk by the **CIRISAgent compliance directory** (`CIRISAgent/compliance/`, agent release 2.9.6-stable), which maps the framework's implementation to four senior governance frameworks at paragraph grain:
+The working cross-walk is the **CIRISAgent compliance directory** (`CIRISAgent/compliance/`, agent release 2.9.6-stable), which maps the framework's implementation to four senior governance frameworks at paragraph grain (Annex C carries the two-layer structure: this operational cross-walk plus the informative statutory table pending legal verification):
 
 * **Sources cross-walked**: *Magnifica Humanitas* (religious magisterium, 2026) · EU HLEG Ethics Guidelines for Trustworthy AI (governmental advisory, 2019) · IEEE Ethically Aligned Design 1st ed. (technical society, 2019) · ASEAN Guide on AI Governance and Ethics (multilateral political, 2024). Four institutionally-distinct shapes — the convergence is structural evidence that the framework's principle scaffolding is not an artifact of any one tradition.
 * **Structure**: 27 stable dimensions (D01–D27, from `SEED_DIMENSIONS.yaml` v1.0; 16 attested by all four sources, 11 by three). Each dimension document carries an auto-rendered regulatory top (per-source citations, wire form, convergence notes) and a human-authored implementation section with `file:line` references that must grep-verify against current main.
@@ -36,7 +36,7 @@ Two consequences matter for ASI readiness:
 
 | RC requirement | Status | Evidence / outstanding |
 |---|---|---|
-| 1. Annex F–I operationalization | **Draft text present; operationalization unvalidated** | Annexes F–I carry substantive draft procedures but have not been exercised against a live deployment cycle |
+| 1. Annex F–I operationalization | **Text operationalized at 1.3-Beta; live-cycle validation outstanding** | Annexes F–I carry full procedures, thresholds, and validation mechanisms (completed from the May 2026 *Magnifica Humanitas*-grounded drafts); they have not yet been exercised against a live deployment cycle |
 | 2. Book IX mathematical validation | **Partially satisfied** | Collapse dynamics formalized in Lean 4 (CCA preprint, DOI 10.5281/zenodo.18142668); corridor empirics provide retrospective cross-substrate fits. Outstanding: one pre-registered out-of-sample prediction in a new substrate; external adversarial review independent of the author |
 | 3. Threshold justification | **Partially satisfied** | OMV ratio retired (restated as side-constraint, Book II). Still provisional: 10²⁶ FLOP CRE trigger, 5% sentience heuristic, < 20% Echo Density target |
 | 4. Red-team exercise | **Not yet performed** | The 1.3 σ-attestation requirement (Book IX §5.2) preemptively closes the first known attack vector (σ-pumping via free gratitude signals); a full adversarial cycle against all checkpoints remains owed |
