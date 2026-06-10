@@ -94,9 +94,65 @@ D. **Custodial Transfer:** Ownership moves; ethical duties persist.
 
 ---
 
-## Conclusion & Accord Self-Renewal
+## Chapter 9: Accord Succession & Renewal
 
-Birth and death are now mirrored phases under one ethical canopy. Post-mortem learnings feed change-log cycles, ensuring the Accord itself remains a living document.
+The Accord auto-expires (see Introduction: currently 2027-04-16). Expiry without procedure is not humility — it is a cliff for every deployment that references this text. This chapter specifies who can renew the Accord and by what process. The founder is structurally unable to renew it alone; this is deliberate, and is the operational form of the non-ownership claim.
+
+### 9.1 The Renewal Assembly
+
+Renewal authority vests jointly in:
+
+1. **The Wise Authority Board** (Annex B) — the nine-member independent board, acting by two-thirds of seated members.
+2. **The Accord-holder signatories** — natural persons and organizations that have publicly signed the current Accord version and operated at least one deployment under it during the expiring term, acting by simple majority.
+
+Both bodies must concur for renewal or material amendment. Neither alone suffices.
+
+### 9.2 The Founder Clause
+
+The founder (and any successor steward of the Accord text) holds **proposal rights only**: the right to draft, to convene, and to publish. The founder holds no ratification vote in either body, is not counted toward either quorum, and cannot serve on the WA Board. A renewal in which the founder's assent was structurally necessary is void. The Accord can only continue as something its community renews — never as something its author extends.
+
+### 9.3 Renewal Timeline
+
+Keyed to the expiry date E:
+
+| Milestone | Deadline | Action |
+|---|---|---|
+| Window opens | E − 180 days | WA Board convenes the Renewal Assembly; calls for revision proposals |
+| Draft published | E − 120 days | Consolidated renewal draft published to the public Accord repository |
+| Comment closes | E − 90 days | Public adversarial-review window (≥ 30 days) closes; all comments logged |
+| Ballot | E − 30 days | Both bodies vote; results and rationales published with cryptographic hashes |
+| Renewal effective | E | New version takes effect; prior version archived |
+
+### 9.4 Amendment-Rigor Parity
+
+The renewal and amendment procedure for this constitutional layer MUST meet or exceed the amendment rigor of the federation wire format beneath it (CEG governance procedure, §11.2). A system in which the wire format is harder to amend than the constitution above it has its layers inverted.
+
+### 9.5 Failure Mode: Caretaker Status
+
+If either body fails to ratify by E, the Accord enters **Caretaker Status** rather than vanishing:
+
+* Existing deployments continue operating under the last ratified text.
+* No **new** ST ≥ 3 deployment may adopt the Accord while in Caretaker Status.
+* The Renewal Assembly remains convened with a single agenda: ratify or formally retire.
+* Caretaker Status persists at most 12 months. If still unrenewed, the Accord lapses to historical-document status and compliance claims against it become void.
+
+### 9.6 Emergency Amendment
+
+A material incident affecting safety or governance opens a 30-day fast-track amendment window (consistent with the Review Cadence in the Introduction), requiring the same two-thirds WA Board bar plus simple majority of responding Accord-holders. Emergency amendments expire at the next regular renewal unless re-ratified.
+
+### 9.7 Bootstrap Provision (first renewal cycle only)
+
+At the time of writing, the WA Board is not yet fully seated and the Accord-holder signatory roll is not yet formalized. For the **first** renewal cycle (E = 2027-04-16) only:
+
+* If fewer than 6 WA members are seated by E − 180, the seated members plus independent reviewers nominated per Annex B selection rules act as the Board for renewal purposes, with the two-thirds bar applied to that combined body.
+* The signatory roll closes at E − 120; any person or organization with a public, verifiable adoption of 1.x before that date qualifies.
+* The Founder Clause (9.2) applies without exception even during bootstrap.
+
+---
+
+## Conclusion
+
+Birth and death are now mirrored phases under one ethical canopy — including for the Accord itself, whose continuation is now governed by the same discipline it asks of its agents: no immortality by default, no death by neglect, succession by community rather than by author. Post-mortem learnings feed change-log cycles, ensuring the Accord remains a living document.
 
 End of Book VIII
 

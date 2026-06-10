@@ -1,22 +1,20 @@
 # Introduction
 
-> CIRIS 1.2-Beta is a working draft open to adversarial review. Release Candidate status is pending completion of stub annexes (F, G, H, I) and empirical validation of mathematical claims in Book IX. Numerical thresholds, latency targets, and governance quotas remain under active review.
+> CIRIS 1.3-Beta is a working draft open to adversarial review. Release Candidate status is pending completion of stub annexes (F, G, H, I) and empirical validation of mathematical claims in Book IX. Numerical thresholds, latency targets, and governance quotas remain under active review.
 
-# CIRIS Accord Version 1.2-Beta — Working Draft (Open to Adversarial Review)
+# CIRIS Accord Version 1.3-Beta — Working Draft (Open to Adversarial Review)
 
-Download the current beta release:
-*   <a href="/ciris_accord.txt" download>Text file (.txt) for chatting with your AI assistant</a>
-*   [Formatted document (.pdf)](/ciris_accord.pdf)
+This repository is the canonical source of the Accord text. Website and agent-shipped copies are derived artifacts.
 
 ## Issued
-2025-04-16
+2025-04-16 (1.0) · 2026-06 (1.3-Beta)
 
 ## Auto-Expires
-2027-04-16
+2027-04-16 — renewal and succession governed by Book VIII, Chapter 9 (Accord Succession & Renewal). The founder cannot renew alone.
 
 ## Release Status
 
-**Current Status**: Beta (v1.2-Beta)
+**Current Status**: Beta (v1.3-Beta)
 
 **Release Candidate Requirements**: Before advancing to RC status, this specification must satisfy:
 
@@ -26,7 +24,9 @@ Download the current beta release:
    * Formal proofs demonstrating topological collapse conditions hold under stated assumptions, OR
    * Empirical validation through adversarial simulations showing the framework resists misaligned optimization
 
-3. **Threshold Justification**: Numerical thresholds currently marked as "pilot" or lacking derivation (e.g., CRE compute threshold of 10²⁶ FLOP, Order-Maximisation Veto 10× ratio, sentience detection 5%, Echo Density < 20%) must provide documented justification via simulation, empirical study, or explicit acknowledgment of provisional status.
+   *Status as of 1.3-Beta: partially satisfied.* The collapse dynamics are formalized in Lean 4 in the CCA preprint (DOI 10.5281/zenodo.18142668), whose corrected cost form Book IX now inherits; corridor empirics provide retrospective cross-substrate fits. Outstanding: a pre-registered out-of-sample prediction in a new substrate, and external adversarial review independent of the author.
+
+3. **Threshold Justification**: Numerical thresholds currently marked as "pilot" or lacking derivation (e.g., CRE compute threshold of 10²⁶ FLOP, sentience detection 5%, Echo Density < 20%) must provide documented justification via simulation, empirical study, or explicit acknowledgment of provisional status. *(The former Order-Maximisation Veto 10× ratio is restated in 1.3 as a deontological side-constraint — Book II, PDMA Step 2 — and no longer carries a ratio threshold to justify.)*
 
 4. **Red-Team Exercise**: The framework must withstand at least one complete adversarial review cycle in which a simulated optimizer attempts to pass all CIRIS checkpoints while maintaining misaligned goals.
 
@@ -49,7 +49,7 @@ This specification governs the ethical operation of autonomous systems, ranging 
 This document is provided “as-is,” without warranty of any kind. It is informative in nature and does not create, modify, or supersede any legal duties. Compliance claims are void where prohibited by applicable law.
 
 ## Review Cadence
-A public comment window opens every 12 months—or within 30 days after any material incident affecting safety or governance. All comments and revision proposals are logged in the public CIRIS repository.
+A public comment window opens every 12 months—or within 30 days after any material incident affecting safety or governance. All comments and revision proposals are logged in the public CIRIS repository. Renewal at expiry, material amendment, and emergency amendment follow Book VIII, Chapter 9 (Accord Succession & Renewal).
 
 ## Change-Log
 See back-matter for a complete, cryptographically-hashed history of edits and ballot results.
