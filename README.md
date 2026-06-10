@@ -35,4 +35,4 @@ Open an issue or PR. A public comment window opens every 12 months — or within
 
 ## License
 
-The Accord text is published for adversarial review and adoption. License selection is pending (founder decision); until then the Liability section of the Introduction governs: provided "as-is," informative in nature.
+AGPL-3.0, like the rest of the CIRIS federation. See [LICENSE](LICENSE).

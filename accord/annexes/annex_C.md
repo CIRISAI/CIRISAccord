@@ -6,6 +6,8 @@
 ANNEX C REGULATORY CROSS‑WALK   (Skeleton v 0.3)
 ---
 
+**Note (1.3-Beta):** the live, evidence-bearing cross-walk is the CIRISAgent `compliance/` directory (27 dimensions, four senior frameworks, per-dimension implementation references and dated baselines) — see **Addendum I (ASI-Readiness Status & Regulatory Cross-Walk Binding)** in the Addenda. This annex remains the future home of statutory mappings (EU AI Act articles, NIST AI RMF, ISO/IEC 42001) pending legal review.
+
 Purpose  
 Map CIRIS clauses to major external standards to simplify dual compliance.
 Table (“TBD” cells await legal‑team input)
