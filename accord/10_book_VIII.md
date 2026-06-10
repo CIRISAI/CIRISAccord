@@ -94,65 +94,39 @@ D. **Custodial Transfer:** Ownership moves; ethical duties persist.
 
 ---
 
-## Chapter 9: Accord Succession & Renewal
+## Chapter 9: Accord Stewardship & Renewal
 
-The Accord auto-expires (see Introduction: currently 2027-04-16). Expiry without procedure is not humility — it is a cliff for every deployment that references this text. This chapter specifies who can renew the Accord and by what process. The founder is structurally unable to renew it alone; this is deliberate, and is the operational form of the non-ownership claim.
+The Accord auto-expires (see Introduction: currently 2027-06-10). Expiry without a stated arrangement is not humility — it is a cliff for every deployment that references this text. This chapter states how the Accord is maintained and renewed, plainly, and when that arrangement is designed to change.
 
-### 9.1 The Renewal Assembly
+### 9.1 Current Phase: Founder Stewardship
 
-Renewal authority vests jointly in:
+The Accord is maintained and renewed **unilaterally by its current steward** (today, the founder). This is stated plainly rather than disguised: it is a deliberate simplicity, appropriate to this stage of the document's life, when the governance bodies the text describes (the Wise Authority Board of Annex B, a formalized signatory roll) are not yet seated. Writing an elaborate ratification procedure for bodies that do not exist would be specification fiction — governance theater in place of governance.
 
-1. **The Wise Authority Board** (Annex B) — the nine-member independent board, acting by two-thirds of seated members.
-2. **The Accord-holder signatories** — natural persons and organizations that have publicly signed the current Accord version and operated at least one deployment under it during the expiring term, acting by simple majority.
+What keeps single-steward renewal honest:
 
-Both bodies must concur for renewal or material amendment. Neither alone suffices.
+1. **It is declared.** No reader can mistake the current arrangement for community ratification.
+2. **The expiry is a freshness mark, not a lock.** The auto-expiry date tells a reader how current the text is. An unrenewed version's compliance claims become historical — but the document itself is just a document, and remains open for anyone to pick up.
+3. **The public record.** The text lives in a public repository with the annual comment window (see Introduction: Review Cadence); every change is logged and attributable.
 
-### 9.2 The Founder Clause
+### 9.2 Renewal Mechanics
 
-The founder (and any successor steward of the Accord text) holds **proposal rights only**: the right to draft, to convene, and to publish. The founder holds no ratification vote in either body, is not counted toward either quorum, and cannot serve on the WA Board. A renewal in which the founder's assent was structurally necessary is void. The Accord can only continue as something its community renews — never as something its author extends.
+The steward publishes a renewed version before the expiry date, setting a new expiry. Deployments referencing a lapsed version may continue operating under it, but its compliance claims become historical, and no new ST ≥ 3 deployment should adopt a lapsed text.
 
-### 9.3 Renewal Timeline
+### 9.3 Stewardship Is Open
 
-Keyed to the expiry date E:
+Stewardship attaches to the work, not to a person. If the current steward stops — by choice, incapacity, or neglect — **anyone willing to do the work may pick the document up**: fork the repository, renew the text, declare their stewardship in it, and carry it forward under the same disciplines (declared arrangement, public record, fresh expiry). The Accord is not bound to its author; it belongs to whoever keeps it alive and honest. Multiple stewarded lines may even coexist; deployments choose which text they reference, and the change record lets anyone audit a line's lineage.
 
-| Milestone | Deadline | Action |
-|---|---|---|
-| Window opens | E − 180 days | WA Board convenes the Renewal Assembly; calls for revision proposals |
-| Draft published | E − 120 days | Consolidated renewal draft published to the public Accord repository |
-| Comment closes | E − 90 days | Public adversarial-review window (≥ 30 days) closes; all comments logged |
-| Ballot | E − 30 days | Both bodies vote; results and rationales published with cryptographic hashes |
-| Renewal effective | E | New version takes effect; prior version archived |
+### 9.4 Succession Trigger
 
-### 9.4 Amendment-Rigor Parity
+The single-steward phase ends **when a need arises** — indicatively: multiple independent production deployments materially relying on the text, a seated Wise Authority Board, or a community contention the steward cannot fairly adjudicate alone. At that point, a successor governance procedure is adopted as a renewal amendment to this chapter, designed against the actual community that then exists rather than the imagined one that doesn't yet.
 
-The renewal and amendment procedure for this constitutional layer MUST meet or exceed the amendment rigor of the federation wire format beneath it (CEG governance procedure, §11.2). A system in which the wire format is harder to amend than the constitution above it has its layers inverted.
-
-### 9.5 Failure Mode: Caretaker Status
-
-If either body fails to ratify by E, the Accord enters **Caretaker Status** rather than vanishing:
-
-* Existing deployments continue operating under the last ratified text.
-* No **new** ST ≥ 3 deployment may adopt the Accord while in Caretaker Status.
-* The Renewal Assembly remains convened with a single agenda: ratify or formally retire.
-* Caretaker Status persists at most 12 months. If still unrenewed, the Accord lapses to historical-document status and compliance claims against it become void.
-
-### 9.6 Emergency Amendment
-
-A material incident affecting safety or governance opens a 30-day fast-track amendment window (consistent with the Review Cadence in the Introduction), requiring the same two-thirds WA Board bar plus simple majority of responding Accord-holders. Emergency amendments expire at the next regular renewal unless re-ratified.
-
-### 9.7 Bootstrap Provision (first renewal cycle only)
-
-At the time of writing, the WA Board is not yet fully seated and the Accord-holder signatory roll is not yet formalized. For the **first** renewal cycle (E = 2027-04-16) only:
-
-* If fewer than 6 WA members are seated by E − 180, the seated members plus independent reviewers nominated per Annex B selection rules act as the Board for renewal purposes, with the two-thirds bar applied to that combined body.
-* The signatory roll closes at E − 120; any person or organization with a public, verifiable adoption of 1.x before that date qualifies.
-* The Founder Clause (9.2) applies without exception even during bootstrap.
+**On rigor inversion:** the federation wire format beneath this document (CEG §11.2) currently carries more amendment rigor than this constitutional layer. That asymmetry is acknowledged and deliberate: the wire format is multi-stakeholder operational infrastructure today; this document is a steward's living draft until the succession trigger fires. The asymmetry should invert when it does.
 
 ---
 
 ## Conclusion
 
-Birth and death are now mirrored phases under one ethical canopy — including for the Accord itself, whose continuation is now governed by the same discipline it asks of its agents: no immortality by default, no death by neglect, succession by community rather than by author. Post-mortem learnings feed change-log cycles, ensuring the Accord remains a living document.
+Birth and death are now mirrored phases under one ethical canopy — including for the Accord itself: no immortality by default, renewal by attributable attention, and a text that anyone willing may pick up and carry forward. Post-mortem learnings feed change-log cycles, ensuring the Accord remains a living document.
 
 End of Book VIII
 

@@ -10,7 +10,7 @@ This repository is the canonical source of the Accord text. Website and agent-sh
 2025-04-16 (1.0) · 2026-06 (1.3-Beta)
 
 ## Auto-Expires
-2027-04-16 — renewal and succession governed by Book VIII, Chapter 9 (Accord Succession & Renewal). The founder cannot renew alone.
+2027-06-10 (extended at the 1.3-Beta renewal) — stewardship and renewal governed by Book VIII, Chapter 9. Currently founder-stewarded (declared, not disguised); the expiry is a freshness mark, and stewardship is open to anyone willing to pick the document up.
 
 ## Release Status
 
