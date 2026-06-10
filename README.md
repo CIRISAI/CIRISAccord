@@ -28,8 +28,8 @@ Before this repo existed, the Accord text lived in three drifting renderings (th
 - **1.3-RC1** — the backwards-pass release, promoted to Release Candidate: J/C formula correction (CCA-validated form), σ attestation requirement, truth-inclusion assumption, OMV side-constraint restatement, forward citations to formal artifacts, the Book VIII Ch 9 stewardship & renewal chapter, Annexes F–I operationalized, Addendum 1 (ASI-readiness binding). RC reflects text completeness; the four Introduction requirements gate Final status. See [CHANGELOG.md](CHANGELOG.md).
 
 Where Book IX and the formally verified artifacts disagree, the formal artifact is authoritative:
-- CCA preprint (Lean 4): DOI [10.5281/zenodo.18142668](https://doi.org/10.5281/zenodo.18142668)
-- Coherence Ratchet proofs: DOI [10.5281/zenodo.18137161](https://doi.org/10.5281/zenodo.18137161)
+- CCA preprint (Lean 4), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688)
+- Coherence Ratchet formal results, carried in *Corridor Dynamics in Coordinated Systems*: concept DOI [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773)
 
 ## How to propose changes
 
