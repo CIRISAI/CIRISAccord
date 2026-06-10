@@ -1,0 +1,16 @@
+# परिशिष्ट
+
+> सहायक ढाँचे और प्रोटोकॉल। 1.3-RC1 तक सभी परिशिष्टों में क्रियान्वित पाठ है; कोई भी प्रारूप-मात्र नहीं रहा।
+
+* [Annex A — Flourishing Metrics Framework](annex_A.md)
+* [Annex B — Wise-Authority Governance Charter](annex_B.md)
+* [Annex C — Regulatory Cross-Walk](annex_C.md)
+* [Annex D — Catastrophic-Risk Evaluation (CRE) Protocol](annex_D.md)
+* [Annex E — Structural Influence (SI) and Coherence Stake (CS) Mechanisms](annex_E.md)
+* [Annex F — Human-in-the-Loop & Oversight](annex_F.md)
+* [Annex G — Adversarial Security & Robustness](annex_G.md)
+* [Annex H — Continuous Compliance & Review](annex_H.md)
+* [Annex I — Legal & Regulatory Alignment](annex_I.md)
+* [Annex J — Benchmarking & Automated Validation](annex_J.md)
+
+क्रियान्वयन स्थिति: Annexes F–I को 1.3-RC1 पर पूर्ण किया गया (मई 2026 के पूर्णता प्रारूपों से, जो *Magnifica Humanitas* मानचित्रण पर आधारित हैं); उनकी प्रक्रियाओं का अभी तक किसी सक्रिय परिनियोजन चक्र के विरुद्ध परीक्षण नहीं हुआ है — वह सत्यापन RC आवश्यकता 1 के अंतर्गत ट्रैक किया जा रहा है (देखें Introduction and Addendum 1 §1.4)।

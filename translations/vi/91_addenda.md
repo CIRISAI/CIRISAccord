@@ -1,0 +1,63 @@
+# Phụ Lục
+
+> Các phụ lục vận hành ràng buộc văn bản Hiệp Ước với bằng chứng triển khai thực tế. Các phụ lục được gia hạn cùng phiên bản Hiệp Ước; mỗi phụ lục được đề ngày và trích dẫn các tạo phẩm có thể tái tạo.
+
+---
+
+## Phụ Lục 1 — Trạng Thái Sẵn Sàng ASI & Ràng Buộc Đối Chiếu Quy Định
+
+**Thông qua**: 2026-06-10 (1.3-RC1) · **Người quản trị**: nhà sáng lập (theo Book VIII Ch 9)
+
+### 1.1 Mục đích
+
+Phần Phạm Vi đưa ra một tuyên bố có điều kiện: khung này *khám phá* một giao thức căn chỉnh ứng viên cho ASI, được kiểm soát bởi bốn yêu cầu Release Candidate trong phần Giới thiệu. Phụ lục này ràng buộc tuyên bố đó với bằng chứng vận hành hiện có, và phát biểu rõ ràng những gì còn lại. **Sẵn sàng** ASI không phải là căn chỉnh đã đạt được; đó là trạng thái trong đó giàn giáo xác minh mà toán học của Book IX yêu cầu — các đa tạp ràng buộc độc lập, bề mặt chứng thực, một lớp Lương Tâm không thể bị bình thường hóa đi, bề mặt công tắc khẩn cấp, và Đánh Giá Rủi Ro Thảm Họa ở Annex D — tồn tại ở dạng đã triển khai, có thể kiểm toán với các khoảng trống được nêu rõ.
+
+### 1.2 Bảng đối chiếu quy định hiện đang vận hành
+
+Bảng đối chiếu đang hoạt động là **thư mục tuân thủ CIRISAgent** (`CIRISAgent/compliance/`, bản phát hành tác nhân 2.9.6-stable), ánh xạ việc triển khai khung vào bốn khung quản trị cấp cao ở mức độ chi tiết từng đoạn văn (Annex C mang cấu trúc hai lớp: bảng đối chiếu vận hành này cộng với bảng luật lệ thông tin chờ xác minh pháp lý):
+
+* **Các nguồn được đối chiếu**: *Magnifica Humanitas* (magisterium tôn giáo, 2026) · Hướng dẫn Đạo Đức cho AI Đáng Tin Cậy của EU HLEG (tư vấn chính phủ, 2019) · Thiết Kế Căn Chỉnh Đạo Đức IEEE lần 1 (hội đồng kỹ thuật, 2019) · Hướng Dẫn Quản Trị và Đạo Đức AI của ASEAN (chính trị đa phương, 2024). Bốn hình dạng thể chế khác biệt — sự hội tụ là bằng chứng cấu trúc rằng giàn giáo nguyên tắc của khung không phải là tạo phẩm của bất kỳ một truyền thống nào.
+* **Cấu trúc**: 27 chiều ổn định (D01–D27, từ `SEED_DIMENSIONS.yaml` v1.0; 16 được chứng thực bởi cả bốn nguồn, 11 bởi ba nguồn). Mỗi tài liệu chiều mang phần đầu quy định được kết xuất tự động (trích dẫn theo từng nguồn, dạng wire, ghi chú hội tụ) và phần triển khai do con người viết với các tham chiếu `file:line` phải xác minh bằng grep so với nhánh main hiện tại.
+* **Kỷ luật bằng chứng**: mọi tuyên bố số đều có thể tái tạo từ các đường cơ sở có ngày tháng, được tạo bởi script (`compliance/baselines/`); văn xuôi có thể trích dẫn đường cơ sở nhưng không bao giờ nhúng các con số không thể xác minh. Một hệ thống phân cấp xác thực bốn cấp chạy từ các tệp triển khai (sự thật mặt đất) lên đến các tuyên bố công khai (`compliance/MEASUREMENT_METHODOLOGY.md`).
+* **Kỷ luật trung thực**: mỗi chiều mang kho lưu trữ "Khoảng trống đã biết"; các mục phụ thuộc substrate được đánh dấu với substrate sở hữu thay vì được tuyên bố. Mười phát hiện xuyên suốt được kiểm kê trong README tuân thủ (ví dụ: phong bì wire có kiểu chưa được phát hành; họ bộ phát hiện LensCore chưa được vận chuyển; khoảng trống xem xét lại trục đảo ngược).
+
+Annex C vẫn còn trong văn bản như là nơi lưu trú tương lai của các ánh xạ luật lệ (điều khoản Đạo Luật AI EU, NIST AI RMF, ISO/IEC 42001) khi việc xem xét pháp lý hoàn tất; thư mục tuân thủ là bảng đối chiếu **trực tiếp, mang bằng chứng** cho đến lúc đó và cung cấp dữ liệu cho nó.
+
+### 1.3 Định dạng wire: CEG thay thế FSD-002
+
+Định dạng wire liên kết cho dòng tác nhân CIRIS 3.0 là **CEG (CIRIS Epistemic Grammar)**, được duy trì tại `CIRISRegistry/FSD/CEG/`. Ngữ pháp bị khóa ở **chính xác năm thành phần nguyên thủy wire-format** — một thành phần làm việc chính (`scores`) cộng với bốn nhà soạn thảo cấu trúc (`delegates_to` / `supersedes` / `withdraws` / `recants`) — trên một không gian tên chiều mở, mô tả cơ chế. Việc khóa đã giữ vững trong toàn bộ dòng 0.x; mọi gia tăng đều là sự sáng tác trên các thành phần nguyên thủy đã khóa.
+
+Hai hệ quả quan trọng cho sự sẵn sàng ASI:
+
+1. **Bước ngoặt CEG-native**: tác nhân 3.0 không *ánh xạ* trạng thái nội bộ của nó lên định dạng wire — các đột biến trạng thái nội bộ của nó **là** các chứng thực CEG cấp bản thân dưới khóa riêng của tác nhân, được thăng cấp lên tầm nhìn liên kết theo mô hình tier. Bằng chứng mà người vận hành kiểm toán là cùng một phong bì mà liên kết đọc. Đây là hình thức đã triển khai của yêu cầu Book IX rằng các bề mặt ràng buộc phải được tham chiếu từ bên ngoài thay vì tự báo cáo.
+2. **Bốn triển khai kiểm soát CEG 1.0**: CIRISAgent (runtime), CIRISNodeCore (đồng thuận), CIRISLensCore (phát hiện — nhân chứng bên ngoài mà tác nhân không bao giờ tự phát hành, sự tách biệt chống Goodhart), và CIRISRegistry (thẩm quyền). Không một bên nào — bao gồm cả tác nhân — có thể tuyên bố vải xác minh đã hoàn tất.
+
+### 1.4 Trạng thái yêu cầu RC tại 1.3-RC1
+
+| Yêu cầu RC | Trạng thái | Bằng chứng / còn lại |
+|---|---|---|
+| 1. Vận hành hóa Annex F–I | **Văn bản đã vận hành hóa tại 1.3-RC1; xác thực chu kỳ trực tiếp còn nợ** | Annex F–I mang đầy đủ các thủ tục, ngưỡng và cơ chế xác thực (hoàn thành từ các bản thảo có cơ sở *Magnifica Humanitas* tháng 5 năm 2026); chúng chưa được thực hiện trên một chu kỳ triển khai trực tiếp |
+| 2. Xác thực toán học Book IX | **Thỏa mãn một phần** | Động lực sụp đổ được hình thức hóa trong Lean 4 (bản tiền in CCA, DOI 10.5281/zenodo.18217688); các nghiên cứu thực nghiệm hành lang cung cấp các kết quả khớp hồi tố đa substrate. Còn lại: một dự đoán ngoài mẫu đã đăng ký trước trong một substrate mới; đánh giá đối nghịch bên ngoài độc lập với tác giả |
+| 3. Biện minh ngưỡng | **Thỏa mãn một phần** | Tỷ lệ OMV đã nghỉ hưu (phát biểu lại như ràng buộc phụ, Book II). Vẫn còn tạm thời: ngưỡng kích hoạt CRE 10²⁶ FLOP, heuristic tri giác 5%, mục tiêu Mật Độ Echo < 20% |
+| 4. Bài tập đội đỏ | **Chưa thực hiện** | Yêu cầu σ-attestation 1.3 (Book IX §5.2) chủ động đóng vector tấn công đã biết đầu tiên (σ-pumping qua các tín hiệu lòng biết ơn tự do); một chu kỳ đối nghịch đầy đủ chống lại tất cả các điểm kiểm tra vẫn còn nợ |
+
+### 1.5 Tầng Lương Tâm như là cơ chế kiểm soát then chốt đối với ASI
+
+Giao thức CRE trong Phụ lục D điều chỉnh *việc vượt qua ngưỡng*; tầng Lương Tâm điều chỉnh *mọi hành động trước và sau ngưỡng đó*. Theo cách triển khai hiện tại (tác nhân 2.9.6): mỗi suy nghĩ phải đi qua một ngăn xếp các kiểm tra được sắp xếp theo thứ tự ưu tiên — bốn năng lực được LLM phán xét (entropy, Tính Nhất Quán, veto tối ưu hóa, Khiêm Tốn Nhận Thức) cùng với một tầng an toàn tất định (bộ bảo vệ độ sâu tư duy, kiểm tra chuỗi hành động) chạy ngay cả trong chế độ benchmark và ngay cả đối với các hành động vốn được miễn kiểm tra. Các ngưỡng là hằng số cấp độ mã nguồn, không phải trọng số được học — đây là bất biến kiến trúc đảm bảo rằng đạo đức không thể bị bình thường hóa bởi sự tiếp xúc lặp đi lặp lại. Nhiều bề mặt dừng độc lập tồn tại: veto tối ưu hóa an toàn-khi-lỗi-thì-hủy, dịch vụ tắt máy, và một Lệnh Triệu Hồi Accord từ xa được ký mã hóa kích hoạt khóa cấm hoàn toàn. Mọi kiểm tra đều ghi một hàng theo dõi có gắn thẻ, để người kiểm toán có thể tái tạo lại toàn bộ chuỗi lý luận của từng suy nghĩ.
+
+Hạn chế đã biết, được nêu rõ thay vì che giấu: việc tái cấu trúc Lương Tâm (3 phân mảnh + cổng tất định) đã được triển khai một phần; việc phát tán liên bang có kiểu của các phán quyết Lương Tâm đang chờ phong bì Đóng Góp của nền tảng. Chi tiết theo từng chiều: `compliance/D12_conscience.md`.
+
+### 1.6 Lộ trình phụ thuộc nền tảng
+
+Việc xác minh cấp ASI đòi hỏi toàn bộ vải liên bang. Lộ trình nền tảng là **Persist → Edge → LensCore → NodeCore**; khoảng một phần ba trong số 27 chiều bị khóa bởi gia đình máy dò bên ngoài của LensCore (nhân chứng mà tác nhân không bao giờ được tự cung cấp cho chính mình). Cho đến khi các nền tảng đó được đưa vào vận hành, các tuyên bố chiều tương ứng vẫn còn ở trạng thái *sẵn sàng về phía triển khai, đang chờ về phía liên bang* — và được đánh dấu như vậy theo từng chiều.
+
+### 1.7 Phụ lục này thay đổi và không thay đổi điều gì
+
+* Nó **không** nâng cấp tuyên bố ASI của Phạm Vi — điều đó vẫn có điều kiện dựa trên cả bốn yêu cầu RC.
+* Nó **không** thay thế Phụ lục D — giao thức CRE vẫn được giữ nguyên không thay đổi như là cổng vượt ngưỡng.
+* Nó **thực sự** làm cho chuỗi bằng chứng có thể kiểm toán từ đầu đến cuối lần đầu tiên: đoạn quy định → chiều (D01–D27) → triển khai `file:line` → đường cơ sở có ngày → (khi các nền tảng được ra mắt) nhân chứng liên bang bên ngoài.
+* Nó **thực sự** cam kết Hiệp Ước sẽ gia hạn phụ lục này tại mỗi phiên bản với bản phát hành tác nhân và đường cơ sở hiện tại tại thời điểm đó, để tuyên bố về sự sẵn sàng không bao giờ có thể lỗi thời một cách im lặng.
+
+---
+
+*Các phụ lục trước: không có. Đây là phụ lục đầu tiên.*
