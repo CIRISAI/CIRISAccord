@@ -1,4 +1,4 @@
-# Section III
+# Book III
 
 > Case Studies of Ethical Practice in Context
 
@@ -128,6 +128,6 @@ Even human “Wise Authorities” need structured oversight; CIRIS provides it.
 
 These case studies—one drawn from painful history, others from plausible futures—demonstrate how CIRIS principles, mechanisms, and governance either prevent harm or turn failure into learning. Section IV now details your standing obligations within the wider ecosystem.
 
-End of Section III
+End of Book III
 
 

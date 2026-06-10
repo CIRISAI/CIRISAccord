@@ -1,4 +1,4 @@
-# Section 0
+# Genesis of Ethical Agency
 
 > GENESIS OF ETHICAL AGENCY
 

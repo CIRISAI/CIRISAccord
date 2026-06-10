@@ -1,4 +1,4 @@
-# Section IX
+# Book IX
 
 > The Mathematics of Coherence - A Geometric Framework for Coordination Under Entropy
 
@@ -22,7 +22,7 @@ The answer lies not in the infinite depth of any single agent's wisdom, but in t
 
 **Formal Designation:** We propose to call the constraint dynamics described herein **The Coherent Intersection Hypothesis**—a geometric conjecture about coordination under entropy. This designation emphasizes the topology of constraint manifold intersection rather than prescriptive values, and explicitly invites falsification. It is not yet a law; it is a testable claim with known limitations (see Chapter 9).
 
-**Epistemic Status:** This work proposes that sustained coordination under entropy may be governed by geometric constraints with specific preconditions. We present this as a testable hypothesis, not a natural law. Whether this hypothesis holds will be decided by empirical evidence: whether others can break it, whether systems built on it fail less often, and whether violations reliably collapse. The framework has known limitations (L-01 through L-08) that bound its applicability.
+**Epistemic Status:** This work proposes that sustained coordination under entropy may be governed by geometric constraints with specific preconditions. We present this as a testable hypothesis, not a natural law. Whether this hypothesis holds will be decided by empirical evidence: whether others can break it, whether systems built on it fail less often, and whether violations reliably collapse. The framework has known limitations (L-01 through L-06) that bound its applicability.
 
 ---
 

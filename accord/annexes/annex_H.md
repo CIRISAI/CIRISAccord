@@ -3,7 +3,7 @@
 > Continuous Compliance & Review
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-Beta)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
 ---
 
 ### 0. Purpose & Guiding Spirit
@@ -82,7 +82,7 @@ The KPI dashboard is the Accord's public accountability surface. MH §164 names 
 - KPI threshold changes require MINOR bump + Internal Ethics sign‑off.
 - F‑T‑1 breach > 7 d triggers automatic F‑T‑6 review and WA notice.
 
-A live implementation precedent now exists for this measurement discipline: the CIRISAgent `compliance/` directory maintains 27 regulatory dimensions (D01–D27), each with per‑dimension implementation references and an honest known‑gaps inventory; dated, script‑generated baselines under `compliance/baselines/`; and a four‑level validation hierarchy (`compliance/MEASUREMENT_METHODOLOGY.md`) under which code is ground truth and public claims may cite only script‑derived numbers. This is the operational form of what this Annex mandates. See also Accord Addendum I.
+A live implementation precedent now exists for this measurement discipline: the CIRISAgent `compliance/` directory maintains 27 regulatory dimensions (D01–D27), each with per‑dimension implementation references and an honest known‑gaps inventory; dated, script‑generated baselines under `compliance/baselines/`; and a four‑level validation hierarchy (`compliance/MEASUREMENT_METHODOLOGY.md`) under which code is ground truth and public claims may cite only script‑derived numbers. This is the operational form of what this Annex mandates. See also Accord Addendum 1.
 
 <hr />
 

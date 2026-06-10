@@ -3,7 +3,7 @@
 > Human‑in‑the‑Loop & Oversight
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-Beta)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
 ---
 
 ### 0. Purpose & Philosophy

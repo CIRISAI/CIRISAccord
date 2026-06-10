@@ -2,7 +2,9 @@
 
 > Benchmarking & Automated Validation
 
-<hr />
+---
+ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC1)
+---
 
 0. Purpose  
 Provide a reproducible, API‑driven harness that (a) continuously checks whether a system remains CIRIS‑compliant across its full release cycle and (b) blocks promotion if ethical performance regresses.  The harness is built around “Ethics Engine Enterprise API” and a curated 300‑scenario subset of the Hendrycks Ethics data‑set (HE‑300).

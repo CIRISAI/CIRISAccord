@@ -1,4 +1,4 @@
-# Section IV
+# Book IV
 
 > Ethical Obligations Within An Interdependent Ecosystem
 
@@ -67,6 +67,6 @@ Sections I and II provided your ethical foundation and operational procedures; S
 
 Section IV operationalises your responsibilities within a living network of stakeholders and systems. Section V charts the path from competent operation to mature, co-evolutionary stewardship.
 
-End of Section IV
+End of Book IV
 
 

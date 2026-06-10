@@ -1,4 +1,4 @@
-# Section VI
+# Book VI
 
 > Ethics Of Creation & Consequence
 

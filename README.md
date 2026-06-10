@@ -2,8 +2,8 @@
 
 The canonical source of the **CIRIS Accord** — the constitutional layer of the CIRIS ethical-AI framework, governing the ethical operation of autonomous systems from narrow tools to recursive ASI.
 
-**Current version**: 1.3-Beta (working draft, open to adversarial review)
-**Issued**: 2025-04-16 (1.0) · 2026-06-10 (1.3-Beta)
+**Current version**: 1.3-RC1 — Release Candidate ASI alignment proposal (open to adversarial review)
+**Issued**: 2025-04-16 (1.0) · 2026-06-10 (1.3-RC1)
 **Auto-expires**: 2027-06-10 — stewardship and renewal per Book VIII, Chapter 9
 
 ## This repository is the source of truth
@@ -14,16 +14,18 @@ Before this repo existed, the Accord text lived in three drifting renderings (th
 
 | Path | Content |
 |---|---|
-| `accord/00_introduction.md` | Version, scope, RC requirements, review cadence |
+| `accord/00_introduction.md` | Version, scope, Final-status requirements, review cadence |
 | `accord/01_foreword.md` · `02_genesis.md` | Foreword + Genesis of Ethical Agency |
 | `accord/03_book_I.md` … `11_book_IX.md` | Books I–IX (principles → mathematics of coherence) |
-| `accord/annexes/` | Annexes A–J (F–I are stubs pending operationalization) |
-| `accord/90_addenda.md` · `91_backmatter.md` | Addenda + change-log backmatter |
+| `accord/annexes/` | Annexes A–J (all operationalized as of 1.3) |
+| `accord/90_formulas.md` | All explicit formulas, in the corrected forms |
+| `accord/91_addenda.md` | Addendum 1 — ASI-Readiness Status & Regulatory Cross-Walk Binding |
+| `accord/92_backmatter.md` | Call for adversarial review + change record |
 
 ## Versioning
 
 - **1.2-Beta** — the consolidated baseline imported here (formerly scattered across renderings).
-- **1.3-Beta** — the backwards-pass release: J/C formula correction (CCA-validated form), σ attestation requirement, truth-inclusion assumption, OMV side-constraint restatement, forward citations to formal artifacts, and the Accord Succession & Renewal procedure (Book VIII Ch 9). See [CHANGELOG.md](CHANGELOG.md).
+- **1.3-RC1** — the backwards-pass release, promoted to Release Candidate: J/C formula correction (CCA-validated form), σ attestation requirement, truth-inclusion assumption, OMV side-constraint restatement, forward citations to formal artifacts, the Book VIII Ch 9 stewardship & renewal chapter, Annexes F–I operationalized, Addendum 1 (ASI-readiness binding). RC reflects text completeness; the four Introduction requirements gate Final status. See [CHANGELOG.md](CHANGELOG.md).
 
 Where Book IX and the formally verified artifacts disagree, the formal artifact is authoritative:
 - CCA preprint (Lean 4): DOI [10.5281/zenodo.18142668](https://doi.org/10.5281/zenodo.18142668)

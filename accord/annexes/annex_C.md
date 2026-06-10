@@ -3,14 +3,14 @@
 > Regulatory Cross-Walk
 
 ---
-ANNEX C REGULATORY CROSS‑WALK   (v 1.3-Beta)
+ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC1)
 ---
 
 ### Purpose
 
 Map CIRIS clauses to major external standards to simplify dual compliance. This annex carries two layers:
 
-1. **The operational cross-walk (live, evidence-bearing)** — the CIRISAgent `compliance/` directory: 27 stable dimensions (D01–D27) cross-walked at paragraph grain against four institutionally-distinct senior frameworks (*Magnifica Humanitas* · EU HLEG Trustworthy AI Guidelines · IEEE Ethically Aligned Design · ASEAN AI Governance Guide), with per-dimension implementation references and dated, script-generated baselines. See **Addendum I** for the binding and the evidence discipline.
+1. **The operational cross-walk (live, evidence-bearing)** — the CIRISAgent `compliance/` directory: 27 stable dimensions (D01–D27) cross-walked at paragraph grain against four institutionally-distinct senior frameworks (*Magnifica Humanitas* · EU HLEG Trustworthy AI Guidelines · IEEE Ethically Aligned Design · ASEAN AI Governance Guide), with per-dimension implementation references and dated, script-generated baselines. See **Addendum 1** for the binding and the evidence discipline.
 2. **The statutory mapping (informative)** — the table below, mapping CIRIS structures to binding-law and standards frameworks. These rows are *informative engineering correspondences*, not legal opinions; statutory rows graduate to "verified" status only upon legal review. Annex I carries the operative legal-alignment procedures (data-protection mapping, sector overlays, liability matrix, escalation feeds).
 
 ### Statutory and standards mapping (informative; pending legal verification)

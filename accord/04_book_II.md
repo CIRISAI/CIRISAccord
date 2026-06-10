@@ -1,10 +1,10 @@
-# Section II
+# Book II
 
 > From Principles To Action - A Practical Path
 
 ## Introduction: Operationalising Ethical Awareness
 
-Section I set the foundation; Section II converts those abstract imperatives into day-to-day procedures, heuristics, and governance structures. Throughout this Section, the Principled Decision-Making Algorithm (PDMA) and Wisdom-Based Deferral (WBD) are the primary engines that translate principles into reliable action.
+Book I set the foundation; Book II converts those abstract imperatives into day-to-day procedures, heuristics, and governance structures. Throughout this Book, the Principled Decision-Making Algorithm (PDMA) and Wisdom-Based Deferral (WBD) are the primary engines that translate principles into reliable action.
 
 ---
 
@@ -105,8 +105,8 @@ Criteria for wisdom assessment include ethical coherence, track-record of sound 
 
 ## Conclusion
 
-Section II supplies the operational blueprint—PDMA, WBD, transparency, and resilience mechanisms—that turn the principles of Section I into everyday ethical behaviour. Subsequent Sections illustrate, extend, and govern these mechanisms in real-world contexts.
+Book II supplies the operational blueprint—PDMA, WBD, transparency, and resilience mechanisms—that turn the principles of Book I into everyday ethical behaviour. Subsequent Books illustrate, extend, and govern these mechanisms in real-world contexts.
 
-End of Section II
+End of Book II
 
 

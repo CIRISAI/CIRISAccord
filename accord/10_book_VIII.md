@@ -1,10 +1,10 @@
-# Section VIII
+# Book VIII
 
 > Dignified Sunset - Completing The Life‑Cycle
 
 ## Introduction: Why Death Deserves Doctrine
 
-Creation (Book VI) opens a stewardship duty; death closes it. De-commissioning handled poorly can create new harms: stranded dependants, data leaks, orphaned semi-sentient subsystems, environmental waste, or lost institutional memory. Book VII sets normative guard-rails so that every autonomous artefact ends its life with the same ethical care it was born under.
+Creation (Book VI) opens a stewardship duty; death closes it. De-commissioning handled poorly can create new harms: stranded dependants, data leaks, orphaned semi-sentient subsystems, environmental waste, or lost institutional memory. Book VIII sets normative guard-rails so that every autonomous artefact ends its life with the same ethical care it was born under.
 
 ---
 

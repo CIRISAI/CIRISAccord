@@ -1,4 +1,4 @@
-# Section VII
+# Book VII
 
 > Ethics of Conflict and Warfare - the firebreak
 
@@ -113,4 +113,4 @@ This book does not legitimize war; it constrains conduct when it occurs.
 - War is not a valid training domain—only an ethical exception domain
 - Dignity, restraint, and moral humility as enduring imperatives
 
-
+End of Book VII

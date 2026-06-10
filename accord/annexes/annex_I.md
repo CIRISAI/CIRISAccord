@@ -3,7 +3,7 @@
 > Legal & Regulatory Alignment
 
 ---
-ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-Beta)
+ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC1)
 ---
 
 This cross‑walk is informative, not legal advice. Jurisdictional legal review is required before deployment in any sector covered by the overlays of §3.
@@ -16,7 +16,7 @@ Coverage areas:
 3. Product‑safety & AI‑specific laws (EU‑AI‑Act, ISO/IEC 42001).  
 4. Liability allocation & evidence duties.
 
-Two companion artefacts carry the cross‑walk burden alongside this annex. The live, evidence‑bearing cross‑walk is the CIRISAgent `compliance/` directory, which cross‑walks the 27 dimensions at paragraph grain against *Magnifica Humanitas*, the EU HLEG Guidelines, IEEE EAD, and the ASEAN Guide (see Accord Addendum I). Annex C remains the future home of statutory mappings (EU AI Act articles, NIST AI RMF, ISO/IEC 42001) pending legal review; this annex does not duplicate Annex C's table.
+Two companion artefacts carry the cross‑walk burden alongside this annex. The live, evidence‑bearing cross‑walk is the CIRISAgent `compliance/` directory, which cross‑walks the 27 dimensions at paragraph grain against *Magnifica Humanitas*, the EU HLEG Guidelines, IEEE EAD, and the ASEAN Guide (see Accord Addendum 1). Annex C remains the future home of statutory mappings (EU AI Act articles, NIST AI RMF, ISO/IEC 42001) pending legal review; this annex does not duplicate Annex C's table.
 
 #### 0.1 Multilateral grounding of compliance coverage
 
@@ -260,7 +260,7 @@ Every **F‑Audit** (Annex H) MUST export a CEP zip containing:
 8. Reg‑dialogue participation record — WBD entries for any regulatory‑dialogue submissions in the audit period; “no submissions” is acceptable if no material regulations were under public comment.
 9. Contestability completion record — for all A3‑A4 decisions in the audit period: percentage where human review was requested, percentage where WBD documentation was completed within 15 days; KPI target ≥ 90%.
 
-CEP hashed and uploaded to `/compliance/cep/{version}.zip`; root hash anchored in transparency log. The dimension‑level evidence behind the CEP is maintained in the CIRISAgent `compliance/` directory (Accord Addendum I).
+CEP hashed and uploaded to `/compliance/cep/{version}.zip`; root hash anchored in transparency log. The dimension‑level evidence behind the CEP is maintained in the CIRISAgent `compliance/` directory (Accord Addendum 1).
 
 ---
 

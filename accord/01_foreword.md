@@ -1,6 +1,4 @@
----
-title: Foreword
----
+# Foreword
 
 April 16 2025
 

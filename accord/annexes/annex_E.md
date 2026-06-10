@@ -2,10 +2,9 @@
 
 > Structural Influence (SI) and Coherence Stake (CS) Mechanisms
 
-CIRIS Accord Version 1.0‑β — A E
-Structural Influence (SI) and Coherence Stake (CS) Mechanisms
-Issued: 2025‑04‑18
-Version: 1.0‑β
+---
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+---
 
 
 ---
