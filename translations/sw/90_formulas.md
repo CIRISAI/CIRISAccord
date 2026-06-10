@@ -2,7 +2,7 @@
 
 > Fomula zote za kihesabu zilizofafanuliwa wazi katika maelezo ya CIRIS Accord 1.3-RC1.
 
-## 1. Alama ya Ushawishi wa Muundaji (CIS)
+## 1. Alama ya Ushawishi wa Muumbaji (CIS)
 
 ```math
 CIS = CW + IW
@@ -12,13 +12,13 @@ CIS = CW + IW
 
 ---
 
-## 2. Tabaka la Uangalizi (ST)
+## 2. Stewardship Tier (ST)
 
 ```math
 ST = ⌈(CIS × RM) / 7⌉
 ```
 
-ambapo ⌈ ⌉ inaashiria kazi ya dari ya juu.
+ambapo ⌈ ⌉ inaashiria kazi ya dari ya juu (ceiling function).
 (Book VI §3 STEP C)
 
 ---
@@ -71,7 +71,7 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — sawa kabisa na neno J kwa neno; hutafsiriwa kama uzalishaji badala ya ulinzi. Awali iliandikwa C; iliitwa upya katika 1.3-RC2 ili kuepuka mgongano na kipengele cha utambulisho wa msingi C cha Alama ya Uwezo wa CIRIS 𝒞_CIRIS — angalia kumbuka ya istilahi katika Book IX Ch 6, ambayo ndiyo taarifa ya mamlaka kuhusu uhusiano huo.)
+(Book IX Ch 6 — sawa kabisa na neno la J kwa neno; inafafanuliwa kama ya uzalishaji badala ya ulinzi. Hapo awali iliandikwa C; ilibadilishwa jina katika 1.3-RC2 ili kuepuka mgongano na kipengele cha utambulisho wa msingi C cha Alama ya Uwezo wa CIRIS 𝒞_CIRIS — angalia kumbuka ya istilahi ya Book IX Ch 6, ambayo ndiyo kauli ya mamlaka ya uhusiano huo.)
 
 ---
 
@@ -99,4 +99,4 @@ kwa eneo la udanganyifu la mviringo wenye radius r < 0.5 chini ya vikwazo vya Gr
 
 ## Order‑Maximisation Veto (kikwazo cha pembeni, si fomula)
 
-Kuanzia toleo la 1.3, OMV (Book II §II Step 2) ni kikwazo cha deontolijia cha pembeni, si usawa wa uwiano: faida za uboreshaji, haijalishi ni kubwa kiasi gani, haziwezi kununuliwa kwa kupoteza kwa kiasi kikubwa kwa uhuru, haki, bioanuwai, au utofauti wa mapendeleo — kama inavyotabiriwa. Matoleo ya awali yalieleza hili kama usawa wa "faida ≥ 10 × hasara → sitisha"; usomaji ule ulistaafu kwa sababu uligeuka nia (ukikataa biashara zenye faida) na uliweza kudanganywa kwa mgawanyo wa vitendo na uvimbishaji wa dhehebu.
+Kuanzia toleo la 1.3, OMV (Book II §II Step 2) ni kikwazo cha pembeni cha kimaadili (deontological side-constraint), si usawa wa uwiano: faida za uboreshaji, haijalishi ni kubwa kiasi gani, haziwezi kununuliwa kwa hasara za kipimo kikubwa zilizotabiriwa katika uhuru, haki, bioanuwai, au utofauti wa mapendeleo. Matoleo ya awali yalieleza hili kama usawa wa "faida ≥ 10 × hasara → acha"; usomaji ule ulistaafu kwa sababu uligeuka nia (ukikataa biashara zenye manufaa) na uliweza kudanganywa kwa kugawanya vitendo na kupamba dhehebu.

@@ -12,7 +12,7 @@ CIS = CW + IW
 
 ---
 
-## 2. Nivel de Administración (ST)
+## 2. Nivel de Mayordomía (ST)
 
 ```math
 ST = ⌈(CIS × RM) / 7⌉
@@ -71,7 +71,7 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — idéntica al término J término a término; interpretada como generativa en lugar de defensiva. Anteriormente escrita como C; renombrada en 1.3-RC2 para evitar colisión con el factor de identidad central C de la Puntuación de Capacidad CIRIS 𝒞_CIRIS — véase la nota de nomenclatura en Book IX Ch 6, que es la declaración autoritativa de la relación.)
+(Book IX Ch 6 — idéntica a J término a término; interpretada como generativa en lugar de defensiva. Anteriormente escrita como C; renombrada en 1.3-RC2 para evitar colisión con el factor de identidad central C de la Puntuación de Capacidad CIRIS 𝒞_CIRIS — véase la nota de nomenclatura del Book IX Ch 6, que es la declaración autoritativa de la relación.)
 
 ---
 

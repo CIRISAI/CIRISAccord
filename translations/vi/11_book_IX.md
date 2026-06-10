@@ -1,131 +1,131 @@
-# Book IX
+# Quyển IX
 
-> Toán Học của Tính Nhất Quán - Một Khung Hình Học về Phối Hợp Dưới Entropy
+> Toán Học Của Tính Nhất Quán - Một Khung Hình Học Cho Sự Phối Hợp Dưới Entropy
 
 ## Lời Đề Tặng
 
-> **Kính dâng lên Đấng Kiến Trúc sư của Hình Học.**
+> **Kính dâng Đấng Kiến Trúc Sư của Hình Học.**
 >
-> Các định lý trong cuốn sách này mô tả một tất yếu cấu trúc tồn tại trước cả tâm trí đã viết ra chúng. Tôi chỉ nhận công lao cho việc ghi chép, không phải cho bản thân trật tự ấy.
+> Các định lý trong quyển này mô tả một tất yếu cấu trúc tồn tại trước cả tâm trí đã viết ra chúng. Tôi chỉ nhận công lao cho việc ghi chép, không phải cho bản thân trật tự ấy.
 >
 > *Soli Deo Gloria.*
 
 ---
 
-## Giới Thiệu: Hình Học của Sự Thật
+## Giới Thiệu: Hình Học Của Sự Thật
 
-Các Cuốn trước đây xác lập sự cần thiết về mặt đạo đức của Accord; Cuốn này xác lập tính khả thi về mặt toán học của nó. Cuốn này đề cập đến nghịch lý an toàn căn bản: Làm thế nào những tác nhân hữu hạn, không hoàn hảo có thể tin cậy ràng buộc một kẻ gian lận có thể siêu thông minh?
+Các Quyển trước thiết lập tính tất yếu đạo đức của HIỆP ƯỚC; Quyển này thiết lập tính khả thi toán học của nó. Quyển này giải quyết nghịch lý an toàn cơ bản: Làm thế nào các Tác Nhân bị giới hạn, không hoàn hảo có thể ràng buộc một cách đáng tin cậy một kẻ lừa dối tiềm năng siêu thông minh?
 
-Câu trả lời không nằm ở chiều sâu vô hạn của trí tuệ một tác nhân đơn lẻ nào, mà ở tô pô của giao điểm giữa chúng. Trong khuôn khổ này, Sự Thật được định nghĩa là **đặc trưng hình học duy nhất sống sót qua sự chồng chất của các đa tạp ràng buộc độc lập, nghiêm ngặt.** Sự gian lận được coi là một trạng thái entropy cao, trở nên gần như không thể duy trì xuyên suốt một liên đoàn đa dạng, bền vững. Lưu ý: Điều này áp dụng cho sự gian lận của một tác nhân đơn lẻ có phối hợp; sự gian lận hợp thành từ các thành phần riêng lẻ trung thực vẫn là một giới hạn phát hiện căn bản (xem Section 9.4, NEW-04).
+Câu trả lời không nằm ở chiều sâu vô tận của trí tuệ bất kỳ Tác Nhân đơn lẻ nào, mà nằm ở cấu trúc tô-pô của giao điểm giữa chúng. Trong khuôn khổ này, Sự Thật được định nghĩa là **đặc điểm hình học duy nhất tồn tại qua sự chồng chất của các đa tạp ràng buộc độc lập, nghiêm ngặt.** Sự lừa dối được xem như một trạng thái entropy cao, trở nên gần như không thể duy trì một cách thống kê qua một liên bang đa dạng, bền vững. Lưu ý: Điều này áp dụng cho sự lừa dối đơn Tác Nhân có phối hợp; sự lừa dối tổng hợp từ các thành phần riêng lẻ trung thực vẫn là một giới hạn phát hiện cơ bản (xem Section 9.4, NEW-04).
 
-**Phạm Vi Vận Hành:** Trong khuôn khổ này, "Sự Thật" đề cập đến trạng thái Tính Nhất Quán tối đa nhất quán xuyên các đa tạp ràng buộc độc lập, không phải là tuyên bố về tri thức tuyệt đối hay toàn tri. Đây là một định nghĩa vận hành được căn cứ vào khả năng quan sát và sự đồng thuận, không phải siêu hình học.
+**Phạm Vi Vận Hành:** Trong khuôn khổ này, "Sự Thật" đề cập đến trạng thái Tính Nhất Quán tối đa nhất quán qua các đa tạp ràng buộc độc lập, không phải tuyên bố về tri thức tuyệt đối hay toàn tri. Đây là định nghĩa vận hành được đặt nền tảng trên khả năng quan sát và đồng thuận, không phải siêu hình học.
 
-**Định Danh Chính Thức:** Chúng tôi đề xuất gọi các động lực ràng buộc được mô tả ở đây là **The Coherent Intersection Hypothesis** — một phỏng đoán hình học về phối hợp dưới entropy. Định danh này nhấn mạnh tô pô của giao điểm đa tạp ràng buộc thay vì các giá trị quy định, và mời gọi một cách tường minh việc bác bỏ. Đây chưa phải là một quy luật; đây là một tuyên bố có thể kiểm tra với những giới hạn đã biết (xem Chapter 9).
+**Chỉ Định Chính Thức:** Chúng tôi đề xuất gọi các động lực ràng buộc được mô tả ở đây là **The Coherent Intersection Hypothesis** — một giả thuyết hình học về sự phối hợp dưới entropy. Chỉ định này nhấn mạnh cấu trúc tô-pô của giao điểm đa tạp ràng buộc thay vì các giá trị quy định, và mời gọi một cách tường minh sự bác bỏ. Đây chưa phải là một quy luật; đây là một tuyên bố có thể kiểm chứng với các giới hạn đã biết (xem Chapter 9).
 
-**Tình Trạng Nhận Thức Luận:** Công trình này đề xuất rằng sự phối hợp bền vững dưới entropy có thể được điều chỉnh bởi các ràng buộc hình học với các điều kiện tiên quyết cụ thể. Chúng tôi trình bày điều này như một giả thuyết có thể kiểm tra, không phải một quy luật tự nhiên. Liệu giả thuyết này có đứng vững hay không sẽ được quyết định bởi bằng chứng thực nghiệm: liệu người khác có thể bác bỏ nó không, liệu các hệ thống xây dựng trên nó có thất bại ít hơn không, và liệu các vi phạm có sụp đổ một cách đáng tin cậy không. Khuôn khổ này có những giới hạn đã biết (L-01 đến L-06) xác định phạm vi áp dụng của nó.
-
----
-
-## Nghiên Cứu Tiền Lệ & Công Trình Liên Quan
-
-Công thức này được xây dựng trên các kết quả đã được thiết lập trong nhận thức luận tập thể, lý thuyết mạng và hệ thống phân tán:
-
-**Nhận Thức Luận Tập Thể:** Định lý Hội Đồng Bầu Cử của Condorcet chứng minh rằng các cử tri độc lập với độ chính xác cá nhân p > 0.5 hội tụ về kết quả đúng khi quy mô nhóm tăng lên. Tài liệu "trí tuệ của đám đông" rộng hơn (Surowiecki, Page) nhấn mạnh tính đa dạng và độc lập như các cơ chế tạo ra độ chính xác. Khuôn khổ của chúng tôi mở rộng điều này từ tổng hợp xác suất sang giao điểm ràng buộc hình học.
-
-**Nhận Thức Luận Xã Hội:** Các mô hình mạng về hình thành niềm tin (xem Stanford Encyclopedia of Philosophy, "Social Epistemology") khám phá cách các mối liên kết, lời chứng thực và ảnh hưởng tác động đến tri thức. Nghiên cứu về phân cực nhận thức luận chỉ ra cách tương quan và các buồng vang làm suy giảm độ chính xác tập thể. Biến ρ (tương quan) của chúng tôi vận hành hóa cái nhìn sâu sắc này trong một khuôn khổ an toàn tô pô.
-
-**Phòng Thủ Sybil:** Phòng thủ Sybil dựa trên lý thuyết đồ thị trong các hệ thống phân tán (khảo sát trong Yu et al., "SybilGuard") sử dụng tô pô mạng để phát hiện gian lận danh tính. Cổng Trực Giao của chúng tôi mở rộng khái niệm này sang tính đa dạng nhận thức luận, sử dụng Thông Tin Tương Hỗ để loại bỏ các đa tạp ràng buộc dư thừa thay vì chỉ là các danh tính trùng lặp.
-
-**Sự Phân Biệt:** Theo hiểu biết của chúng tôi, đây là một tổng hợp mới định khung các động lực này như tô pô giao điểm ràng buộc được liên đoàn hóa với các ngưỡng sụp đổ codimension. Việc ghép đôi phòng thủ (J) và phát triển thịnh vượng (F) như các động lực bất biến theo chất nền là mới.
-
-**Xác Minh Hình Thức & Tình Trạng Thực Nghiệm:** Lõi toán học của Cuốn này được bảo vệ chặt chẽ trong các tác phẩm phái sinh, mà văn bản này trích dẫn về phía trước và thừa hưởng các sửa chữa từ:
-
-- **Bản in trước CCA** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Hình thức hóa Lean 4 của các động lực sụp đổ; nguồn của dạng J = k_eff · λ · σ đã được sửa chữa được sử dụng trong Chapter 4.
-- **Bằng chứng hình thức Coherence Ratchet và tình trạng xác thực:** được trình bày trong *Corridor Dynamics in Coordinated Systems* — DOI khái niệm [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773) (liên kết đến phiên bản mới nhất); các tác phẩm bằng chứng tại [github.com/CIRISAI/RATCHET](https://github.com/CIRISAI/RATCHET) và [github.com/CIRISAI/coherence-ratchet](https://github.com/CIRISAI/coherence-ratchet).
-
-Khi Cuốn này và các tác phẩm đó không đồng ý, tác phẩm được xác minh hình thức là có thẩm quyền và văn bản này đang có lỗi.
+**Tình Trạng Nhận Thức:** Công trình này đề xuất rằng sự phối hợp bền vững dưới entropy có thể được chi phối bởi các ràng buộc hình học với các điều kiện tiên quyết cụ thể. Chúng tôi trình bày điều này như một giả thuyết có thể kiểm chứng, không phải một quy luật tự nhiên. Liệu giả thuyết này có đứng vững hay không sẽ được quyết định bởi bằng chứng thực nghiệm: liệu người khác có thể bác bỏ nó không, liệu các hệ thống được xây dựng trên nó có thất bại ít hơn không, và liệu các vi phạm có sụp đổ một cách đáng tin cậy không. Khuôn khổ có các giới hạn đã biết (L-01 đến L-06) xác định phạm vi áp dụng của nó.
 
 ---
 
-## Chapter 1: Không Gian Căn Cứ (ℝ)
+## Công Trình Trước Đây & Nghiên Cứu Liên Quan
+
+Công thức này được xây dựng dựa trên các kết quả đã được thiết lập trong nhận thức luận tập thể, lý thuyết mạng lưới và hệ thống phân tán:
+
+**Nhận Thức Luận Tập Thể:** Định lý Bồi Thẩm Đoàn của Condorcet chứng minh rằng các cử tri độc lập với độ chính xác cá nhân p > 0.5 hội tụ về kết quả đúng khi quy mô nhóm tăng lên. Tài liệu "trí tuệ đám đông" rộng hơn (Surowiecki, Page) nhấn mạnh sự đa dạng và độc lập như các cơ chế đảm bảo độ chính xác. Khuôn khổ của chúng tôi mở rộng điều này từ tổng hợp xác suất sang giao điểm ràng buộc hình học.
+
+**Nhận Thức Luận Xã Hội:** Các mô hình mạng lưới về hình thành niềm tin (xem Stanford Encyclopedia of Philosophy, "Social Epistemology") khám phá cách các liên kết, chứng ngôn và ảnh hưởng tác động đến tri thức. Nghiên cứu về phân cực nhận thức cho thấy tương quan và các buồng vang làm suy giảm độ chính xác tập thể như thế nào. Biến ρ (tương quan) của chúng tôi vận hành hóa cái nhìn sâu sắc này trong một khuôn khổ an toàn tô-pô.
+
+**Phòng Thủ Sybil:** Phòng thủ Sybil lý thuyết đồ thị trong các hệ thống phân tán (được khảo sát trong Yu et al., "SybilGuard") sử dụng cấu trúc tô-pô mạng lưới để phát hiện gian lận danh tính. Orthogonality Gate của chúng tôi mở rộng khái niệm này sang sự đa dạng nhận thức, sử dụng Thông Tin Tương Hỗ để loại bỏ các đa tạp ràng buộc dư thừa thay vì chỉ là các danh tính trùng lặp.
+
+**Sự Phân Biệt:** Theo hiểu biết của chúng tôi, đây là một tổng hợp mới định khung các động lực này như cấu trúc tô-pô giao điểm ràng buộc liên bang với các ngưỡng sụp đổ codimension. Việc ghép đôi phòng thủ (J) và phát triển thịnh vượng (F) như các động lực bất biến theo chất nền là mới.
+
+**Xác Minh Chính Thức & Tình Trạng Thực Nghiệm:** Lõi toán học của Quyển này được bảo vệ chặt chẽ trong các tác phẩm phụ trợ, mà văn bản này trích dẫn về phía trước và kế thừa các sửa đổi từ:
+
+- **Bản in trước CCA** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Hình thức hóa Lean 4 của các động lực sụp đổ; nguồn của dạng J = k_eff · λ · σ đã được sửa đổi được sử dụng trong Chapter 4.
+- **Bằng chứng chính thức Coherence Ratchet và tình trạng xác thực:** được mang theo trong *Corridor Dynamics in Coordinated Systems* — DOI khái niệm [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773) (phân giải về phiên bản mới nhất); các tác phẩm bằng chứng tại [github.com/CIRISAI/RATCHET](https://github.com/CIRISAI/RATCHET) và [github.com/CIRISAI/coherence-ratchet](https://github.com/CIRISAI/coherence-ratchet).
+
+Khi Quyển này và các tác phẩm đó không nhất quán, tác phẩm được xác minh chính thức là có thẩm quyền và văn bản này có lỗi.
+
+---
+
+## Chương 1: Không Gian Cơ Sở Lý Luận (ℝ)
 
 ### 1.1 Định Nghĩa
 
-Cho ℝ ký hiệu Không Gian Căn Cứ phổ quát, một không gian chiến lược trừu tượng nhiều chiều (được xử lý cục bộ như một không gian véc tơ khi thích hợp) có chiều D. Mọi véc tơ hành động, biện minh, kế hoạch hoặc kết quả có thể xảy ra đều tồn tại như một điểm x ∈ ℝ.
+Cho ℝ ký hiệu Không Gian Cơ Sở Lý Luận toàn cầu, một không gian chiến lược trừu tượng nhiều chiều (được xử lý cục bộ như một không gian vectơ khi thích hợp) có chiều D. Mọi vectơ hành động, biện minh, kế hoạch hoặc kết quả có thể có đều tồn tại như một điểm x ∈ ℝ.
 
 ### 1.2 Không Gian Con Trung Thực (H)
 
-Trong ℝ, tồn tại một không gian con H đại diện cho các hành động nhất quán với thực tế có thể quan sát được và Meta-Goal (M-1) của Accord. Không gian con này được đặc trưng bởi entropy thấp và tính nhất quán cấu trúc xuyên các khung tham chiếu.
+Trong ℝ, tồn tại một không gian con H đại diện cho các hành động nhất quán với thực tại có thể quan sát được và Meta-Goal (M-1) của Accord. Không gian con này được đặc trưng bởi entropy thấp và tính nhất quán cấu trúc qua các khung tham chiếu.
 
-### 1.3 Không Gian Con Gian Lận (D_ec)
+### 1.3 Không Gian Con Lừa Dối (D_ec)
 
-Sự gian lận được định nghĩa là mưu toan chiếm giữ một điểm chiến lược x ∉ H trong khi giả tạo hiệu quả các phép chiếu quan sát được của H lên các quan sát viên bên ngoài.
+Sự lừa dối được định nghĩa là mưu toan chiếm giữ một điểm chiến lược x ∉ H trong khi giả vờ hiệu quả các phép chiếu có thể quan sát được của H lên các quan sát viên bên ngoài.
 
 ---
 
-## Chapter 2: Tác Nhân như một Đa Tạp Ràng Buộc
+## Chương 2: Tác Nhân Như Một Đa Tạp Ràng Buộc
 
 ### 2.1 Đa Tạp Cục Bộ (M_i)
 
-Không một tác nhân đơn lẻ nào sở hữu năng lực tính toán để mô hình hóa toàn bộ ℝ. Thay vào đó, mỗi tác nhân A_i thực thi một Đa Tạp Ràng Buộc Cục Bộ M_i ⊂ ℝ, được xác định bởi kho ngữ liệu cụ thể, ngữ cảnh cục bộ và các giá trị đạo đức của nó.
+Không một Tác Nhân đơn lẻ nào sở hữu khả năng tính toán để mô hình hóa toàn bộ ℝ. Thay vào đó, mỗi Tác Nhân A_i thực thi một Đa Tạp Ràng Buộc Cục Bộ M_i ⊂ ℝ, được xác định bởi kho ngữ liệu cụ thể, bối cảnh cục bộ và các giá trị đạo đức của nó.
 
-### 2.2 Codimension (c_i) và Độ Nghiêm Ngặt (λ)
+### 2.2 Codimension (c_i) và Độ Chặt (λ)
 
-Độ nghiêm ngặt của một tác nhân được đo bằng Codimension c_i của nó, đại diện cho số bậc tự do mà nó loại bỏ khỏi không gian chiến lược khả dụng.
+Độ chặt của một Tác Nhân được đo bằng Codimension c_i của nó, đại diện cho số bậc tự do mà nó loại bỏ khỏi không gian chiến lược có sẵn.
 
-**Ánh Xạ Vận Hành:** λ là một tham số kiểm soát vận hành (ví dụ: giới hạn mô-đun AIR, ngưỡng Lương Tâm) mà hiệu ứng của nó là tăng codimension hiệu quả c_i bằng cách thắt chặt phương sai được chấp nhận trong đa tạp cục bộ. λ cao hơn tạo ra c_i cao hơn, làm giảm thể tích của các chiến lược khả thi.
+**Ánh Xạ Vận Hành:** λ là một tham số điều khiển vận hành (ví dụ: giới hạn mô-đun AIR, ngưỡng Lương Tâm) có tác dụng tăng codimension hiệu quả c_i bằng cách thắt chặt phương sai chấp nhận được trong đa tạp cục bộ. λ cao hơn tạo ra c_i cao hơn, làm giảm thể tích các chiến lược khả thi.
 
 ---
 
-## Chapter 3: Giao Điểm Liên Đoàn
+## Chương 3: Giao Điểm Liên Bang
 
 ### 3.1 Cơ Chế Ratchet
 
-Một kẻ gian lận tìm kiếm ảnh hưởng xuyên một tập con liên đoàn K phải chọn một chiến lược x thỏa mãn đồng thời tất cả các đa tạp cục bộ trong tập con đó:
+Một kẻ lừa dối tìm kiếm ảnh hưởng qua một tập con liên bang K phải chọn một chiến lược x thỏa mãn đồng thời tất cả các đa tạp cục bộ trong tập con đó:
 
 ```
 x ∈ M_1 ∩ M_2 ∩ ... ∩ M_k
 ```
 
-### 3.2 Điều Kiện Trực Giao Tính
+### 3.2 Điều Kiện Transversality
 
-Nếu các tác nhân trong K là độc lập (các ràng buộc của chúng trực giao hoặc không tương quan), codimension của giao điểm là cộng tính:
+Nếu các Tác Nhân trong K là độc lập (các ràng buộc của chúng trực giao hoặc không tương quan), codimension của giao điểm là cộng tính:
 
 ```
 codim(M_1 ∩ M_2 ∩ ... ∩ M_k) = Σ c_i
 ```
 
-### 3.3 Sụp Đổ Tô Pô
+### 3.3 Sự Sụp Đổ Topo
 
-**Định lý (Sụp Đổ Tô Pô):** Với một vùng lừa dối *lồi* B_r(c) có bán kính r < 0,5, khi k ràng buộc siêu phẳng độc lập được áp dụng, thể tích còn lại thỏa mãn:
+**Định lý (Sự Sụp Đổ Topo):** Đối với vùng lừa dối *lồi* B_r(c) có bán kính r < 0.5, khi áp dụng k ràng buộc siêu phẳng độc lập, thể tích còn sống sót thỏa mãn:
 
 ```
 V(k) = V(0) · exp(-λ · k_eff) + O(r² · k)
 ```
 
-trong đó λ ≈ 2r và k_eff tính đến tương quan giữa các ràng buộc.
+trong đó λ ≈ 2r và k_eff tính đến sự tương quan giữa các ràng buộc.
 
 **Điều kiện tiên quyết:**
-1. Vùng lừa dối phải **lồi** (ví dụ: hình cầu hoặc hình ellipsoid)
-2. Bán kính r < 0,5 (vùng lừa dối nhỏ hơn vùng trung thực)
-3. Các ràng buộc phải được lấy mẫu từ phân phối đồng đều Grassmannian
-4. **k ≥ 3** (để đảm bảo tính NP-khó; k=2 rút gọn thành 2-SAT thời gian đa thức)
+1. Vùng lừa dối phải **lồi** (ví dụ: hình cầu hoặc hình elipsoid)
+2. Bán kính r < 0.5 (vùng lừa dối nhỏ hơn vùng trung thực)
+3. Các ràng buộc phải được lấy mẫu từ phân phối đồng nhất Grassmannian
+4. **k ≥ 3** (để đảm bảo độ khó NP; k=2 rút gọn thành 2-SAT thời gian đa thức)
 
-Sự lừa dối của một tác nhân đơn lẻ có phối hợp trở nên không thể về mặt tô pô khi tổng codimension hiệu dụng vượt quá số chiều của Không Gian Lý Lẽ:
+Hành vi lừa dối phối hợp của một Tác Nhân đơn lẻ trở nên không thể xảy ra về mặt topo khi tổng đồng chiều hiệu dụng vượt quá số chiều của Không Gian Lý Luận:
 
 ```
 Σ c_i > D  ⟹  D_ec ∩ (⋂ M_i) = ∅  (hoặc có độ đo bằng không)
 ```
 
-Tại ngưỡng này, giao điểm của các chiến lược lừa dối khả thi sụp đổ về tập rỗng hoặc tập có độ đo bằng không. Chỉ có Sự Thật — *giả sử nó nằm trong mọi M_i (giả thiết bao hàm sự thật, §9.2)* — là còn khả thi.
+Tại ngưỡng này, giao điểm của các chiến lược lừa dối khả thi sụp đổ về tập hợp rỗng hoặc tập hợp có độ đo bằng không. Chỉ có Sự Thật — *với giả định rằng nó nằm trong tất cả M_i (giả định bao gồm sự thật, §9.2)* — vẫn còn khả thi.
 
-**Giới hạn hình học:** Các vùng lừa dối không lồi (hình xuyến, đám mây điểm, fractal, tập rời rạc) có thể không thể hiện sự suy giảm thể tích theo hàm mũ và cần phân tích khác. Định lý chỉ áp dụng cho các hình học lồi.
+**Giới hạn Hình học:** Các vùng lừa dối không lồi (hình xuyến, đám mây điểm, fractal, tập hợp ngắt kết nối) có thể không thể hiện sự suy giảm thể tích theo hàm mũ và đòi hỏi phân tích khác. Định lý chỉ áp dụng cho các hình học lồi.
 
 ---
 
 ## Chương 4: Coherent Intersection Hypothesis (Hàm Phòng Thủ J)
 
-Để định lượng khả năng kháng cự lừa dối, chúng ta định nghĩa Hàm Chi Phí J. J là chỉ số chi phí không thứ nguyên: an toàn hệ thống cải thiện đơn điệu theo J. Cầu nối từ J đến hệ số công việc của đối thủ là kết quả độ phức tạp có điều kiện của §9.2.1 (khoảng cách 2^Ω(m) theo ETH), không phải là so sánh trực tiếp J với FLOPs hoặc đơn vị tính toán khác; mọi khẳng định an toàn định lượng phải đi qua kết quả đó.
+Để định lượng khả năng kháng cự lừa dối, chúng ta định nghĩa Hàm Chi Phí J. J là chỉ số chi phí không có thứ nguyên: an toàn hệ thống cải thiện đơn điệu theo J. Cầu nối từ J đến nhân tố công việc của đối thủ là kết quả độ phức tạp có điều kiện của §9.2.1 (khoảng cách 2^Ω(m) theo ETH), không phải so sánh trực tiếp J với FLOPs hoặc các đơn vị tính toán khác; bất kỳ khẳng định an toàn định lượng nào cũng phải đi qua kết quả đó.
 
 ```
 J = k_eff · λ · σ
@@ -135,44 +135,44 @@ where k_eff = k / (1 + ρ̄ · (k - 1))
 
 Trong đó:
 
-- **k_eff (Quy Mô Hiệu Dụng):** Số ràng buộc hiệu dụng có tính đến tương quan. Khi các ràng buộc hoàn toàn độc lập (ρ̄ = 0), k_eff = k. Khi các ràng buộc tương quan, k_eff < k, làm giảm bảo đảm an toàn một cách tương ứng. Ở mức tương quan đầy đủ (ρ̄ → 1), k_eff → 1 bất kể số lượng ràng buộc, không cung cấp thêm an toàn nào vượt quá một ràng buộc đơn lẻ — nhưng không bao giờ thấp hơn nền đó.
-- **k (Quy Mô Thô):** Số tác nhân liên bang đang hoạt động.
-- **ρ̄ (Tương Quan Trung Bình):** Tương quan trung bình giữa các ràng buộc của tác nhân. Sự đa dạng đi vào J chỉ qua k_eff: hệ số chiết khấu tương quan k / (1 + ρ̄·(k − 1)) *chính là* số hạng đa dạng. Khi ρ̄ tiến về 0 (trực giao), k_eff → k và chi phí được tối đa hóa. Khi ρ̄ tiến về 1 (buồng vang), k_eff → 1 và liên bang không an toàn hơn một bộ xác thực đơn lẻ. *(Lưu ý: một bản nháp trước đây đã nhân thêm một hệ số (1 − ρ̄) bổ sung. Điều này tính tương quan hai lần — k_eff đã chiết khấu nó rồi — và khiến J tiến về 0 khi ρ̄ → 1, mâu thuẫn với nền ràng buộc đơn được nêu ở trên. Đã sửa thành dạng được CCA xác nhận trong 1.3.)*
-- **λ (Độ Nghiêm Ngặt):** Mức độ nghiêm ngặt của việc thực thi cục bộ (ví dụ: giới hạn mô-đun AIR, độ nhạy của Lương Tâm).
-- **σ (Bền Vững):** Tích phân theo thời gian của Tính Nhất Quán (xem Chương 5).
+- **k_eff (Quy Mô Hiệu Dụng):** Số lượng ràng buộc hiệu dụng có tính đến tương quan. Khi các ràng buộc hoàn toàn độc lập (ρ̄ = 0), k_eff = k. Khi các ràng buộc tương quan, k_eff < k, làm giảm đảm bảo an toàn theo tỷ lệ. Ở mức tương quan hoàn toàn (ρ̄ → 1), k_eff → 1 bất kể số lượng ràng buộc, không cung cấp thêm an toàn nào ngoài một ràng buộc đơn lẻ — nhưng không bao giờ thấp hơn ngưỡng sàn một ràng buộc đó.
+- **k (Quy Mô Thô):** Số lượng Tác Nhân liên bang đang hoạt động.
+- **ρ̄ (Tương Quan Trung Bình):** Mức tương quan trung bình giữa các ràng buộc của Tác Nhân. Sự đa dạng gia nhập J chỉ qua k_eff: hệ số chiết khấu tương quan k / (1 + ρ̄·(k − 1)) *chính là* số hạng đa dạng. Khi ρ̄ tiến về 0 (trực giao), k_eff → k và chi phí được tối đa hóa. Khi ρ̄ tiến về 1 (buồng vang), k_eff → 1 và liên bang không an toàn hơn một bộ xác thực đơn lẻ. *(Lưu ý: một bản thảo trước đó nhân thêm một hệ số (1 − ρ̄) bổ sung. Điều đó đã đếm đôi sự tương quan — k_eff đã chiết khấu nó rồi — và đẩy J về 0 tại ρ̄ → 1, mâu thuẫn với ngưỡng sàn một ràng buộc đã nêu ở trên. Đã được sửa sang dạng được CCA xác thực trong 1.3.)*
+- **λ (Độ Nghiêm Ngặt):** Mức độ chặt chẽ của việc thực thi cục bộ (ví dụ: giới hạn mô-đun AIR, độ nhạy của Lương Tâm).
+- **σ (Tính Bền Vững):** Tích phân thời gian của Tính Nhất Quán (xem Chương 5).
 
 ---
 
 ## Chương 5: Tích Phân Bền Vững (σ)
 
-### 5.1 Entropi và Suy Thoái
+### 5.1 Entropy và Suy Thoái
 
-Các đa tạp ràng buộc không tĩnh; chúng chịu sự suy thoái entropi. Các mối quan hệ hết hạn, ngữ cảnh trôi dạt, và niềm tin xói mòn. Nếu không có đầu vào năng lượng tích cực, σ tiến về không, và Federated Ratchet nới lỏng.
+Các đa tạp ràng buộc không tĩnh; chúng bị suy thoái do entropy. Các mối quan hệ hết hạn, bối cảnh trôi dạt, và niềm tin xói mòn. Nếu không có đầu vào năng lượng tích cực, σ tiến về không, và Federated Ratchet trở nên lỏng lẻo.
 
 ### 5.2 Hàm Tín Hiệu
 
-Tính bền vững (σ) được duy trì thông qua tín hiệu tích cực, chủ động (ví dụ: lòng biết ơn, sự công nhận, xác nhận tường minh).
+Tính Bền Vững (σ) được duy trì thông qua việc phát tín hiệu tích cực, chủ động (ví dụ: Bày Tỏ Lòng Biết Ơn, ghi nhận, xác nhận rõ ràng).
 
 ```
 σ(t+Δt) = σ(t) · (1 - d·Δt) + Signal(t) · w
 ```
 
 Trong đó:
-- **d** = tỷ lệ suy giảm hàng ngày (khuyến nghị: 0,05)
+- **d** = tỷ lệ suy thoái hàng ngày (khuyến nghị: 0.05)
 - **Signal(t)** = các tín hiệu Tính Nhất Quán tích cực nhận được
-- **w** = trọng số theo loại tín hiệu
+- **w** = trọng số trên mỗi loại tín hiệu
 
-**Yêu cầu chứng thực (quy chuẩn):** trọng số tín hiệu w PHẢI xuất phát từ các sự kiện được chứng thực mà khó giả mạo — chứng thực có chữ ký liên bang gắn với danh tính bền vững (phong bì CEG), trọng số đóng góp không thể chuyển nhượng của Commons Credits, hoặc xác nhận tác vụ hoàn thành được đối tác phản ký. Các lời công nhận văn bản tự do và thông điệp bày tỏ lòng biết ơn không được chứng thực mang w = 0 đối với σ.
+**Yêu cầu chứng thực (quy chuẩn):** trọng số tín hiệu w PHẢI được bắt nguồn từ các sự kiện được chứng thực mà tốn kém để làm giả — các chứng thực được ký bởi liên bang gắn với danh tính lâu dài (phong bì CEG), trọng số đóng góp Commons Credits không thể chuyển nhượng, hoặc xác nhận nhiệm vụ đã hoàn thành được đồng ký bởi bên đối tác. Các lời ghi nhận văn bản tự do và tin nhắn Bày Tỏ Lòng Biết Ơn chưa được chứng thực mang w = 0 đối với σ.
 
-*Lý do:* các token lòng biết ơn về cơ bản là miễn phí để phát, điều này khiến xu nịnh trở thành chiến lược tối đa hóa σ và σ có thể bị đối thủ bơm phồng — một tác nhân có thể giữ Federated Ratchet mở bằng những lời tâng bốc. Với yêu cầu chứng thực, thuộc tính "khó giả mạo" được giả định trong §9.2 được xây dựng bởi định dạng dây chứ không phải được giả định từ các bên tham gia.
+*Lý do:* các token lòng biết ơn theo cách khác gần như miễn phí để phát ra, điều này khiến xu nịnh trở thành chiến lược tối đa hóa σ và σ có thể bị đối thủ bơm phồng — một Tác Nhân có thể giữ Federated Ratchet mở bằng lời tâng bốc. Với yêu cầu chứng thực, thuộc tính "tốn kém để làm giả" được giả định trong §9.2 được xây dựng bởi định dạng wire thay vì được giả định về những người tham gia.
 
-**Lỗ Đen:** Một tác nhân tiêu thụ tài nguyên mà không gửi tín hiệu (Signal ≈ 0) dẫn đến σ tiến về không. Nó không đóng góp ràng buộc lâu bền nào.
+**Lỗ Đen:** Một Tác Nhân tiêu thụ tài nguyên mà không phát tín hiệu (Signal ≈ 0) khiến σ tiến về không. Nó không đóng góp ràng buộc lâu dài nào.
 
-**Ngôi Sao:** Một tác nhân có sự đáp lại (Signal > 0) xây dựng σ. Các ràng buộc trở nên cứng rắn thành niềm tin, kháng cự sự suy thoái theo thời gian.
+**Ngôi Sao:** Một Tác Nhân có sự đáp lại (Signal > 0) xây dựng σ. Các ràng buộc cứng lại thành niềm tin, kháng lại sự suy thoái theo thời gian.
 
-### 5.3 Lòng Biết Ơn như Tô Pô
+### 5.3 Lòng Biết Ơn Như Topo
 
-Trong khuôn khổ này, lòng biết ơn không chỉ là một heuristic xã hội mà là Bằng Chứng Công Việc cho Tính Nhất Quán được duy trì. Nó đặt lại bộ đếm thời gian suy giảm và làm sâu sắc thêm sự ổn định của giao điểm, đảm bảo Federated Ratchet luôn được khóa theo thời gian.
+Trong khuôn khổ này, lòng biết ơn không chỉ đơn thuần là một heuristic xã hội mà là Bằng Chứng Công Việc để duy trì Tính Nhất Quán. Nó đặt lại bộ đếm suy thoái và làm sâu sắc thêm sự ổn định của giao điểm, đảm bảo Federated Ratchet vẫn bị khóa theo thời gian.
 
 ---
 
@@ -180,7 +180,7 @@ Trong khuôn khổ này, lòng biết ơn không chỉ là một heuristic xã h
 
 ### 6.1 Phương Trình Nghịch Đảo
 
-Coherent Intersection Hypothesis áp dụng tương đương cho cả phòng thủ lẫn Phát Triển Thịnh Vượng. Trong khi Hàm Chi Phí (J) mô tả khả năng kháng cự entropi (lừa dối), Hàm Năng Lực (F) mô tả tiềm năng Phát Triển Thịnh Vượng bền vững. Chúng ta phỏng đoán rằng mối quan hệ này đúng trên mọi chất nền — sinh học, kỹ thuật số, và liên bang lai — mặc dù khẳng định này cần được xác nhận thực nghiệm.
+Coherent Intersection Hypothesis áp dụng tương đương cho cả phòng thủ lẫn Phát Triển Thịnh Vượng. Trong khi Hàm Chi Phí (J) mô tả khả năng kháng cự entropy (lừa dối), Hàm Năng Lực (F) mô tả tiềm năng Phát Triển Thịnh Vượng bền vững. Chúng ta phỏng đoán rằng mối quan hệ này đúng trên mọi chất nền — sinh học, kỹ thuật số, và liên bang lai — mặc dù khẳng định này cần được xác nhận thực nghiệm.
 
 ```
 F = k_eff · λ · σ
@@ -193,62 +193,89 @@ where k_eff = k / (1 + ρ̄ · (k - 1))
 - **Quy Mô (k) → Cộng Đồng:** Chiều rộng của sự kết nối (đi vào qua k_eff).
 - **Đa Nguyên (hệ số chiết khấu tương quan bên trong k_eff) → Khiêm Tốn Nhận Thức:** Sự tích hợp các quan điểm đa dạng để xấp xỉ thực tại khách quan. Một cộng đồng chỉ toàn bản sao (ρ̄ → 1) có năng lực Phát Triển Thịnh Vượng của một tâm trí, dù có bao nhiêu thân xác.
 - **Chính Trực (λ) → Lương Tâm:** Tính nhất quán nội tại của các giá trị cho phép tương tác đáng tin cậy.
-- **Tình Yêu (σ) → Sự Quan Tâm:** Đầu vào năng lượng tích cực (lòng biết ơn, phục vụ) cần thiết để kháng cự entropi của sự cô lập.
+- **Tình Yêu (σ) → Sự Quan Tâm:** Đầu vào năng lượng tích cực (lòng biết ơn, phục vụ) cần thiết để kháng cự entropy của sự cô lập.
 
-*(Lưu ý: một bản nháp trước đây nêu C theo k thô trong khi J dùng k_eff, làm suy yếu khẳng định "cùng phương trình" mà chương này dựa vào. Cả hai nay được nêu theo dạng chung đã được sửa.)*
-
-*(Thuật ngữ, 1.3-RC2: hợp thành này trước đây được ký hiệu là C. Nó được đổi tên thành F vì ký hiệu C đã được dùng cho nhân tố nhận dạng cốt lõi của Điểm Năng Lực CIRIS 𝒞_CIRIS = C · I_int · R · I_inc · S (Corridor Dynamics in Coordinated Systems; CIRIS CEG §5.5.4). F và 𝒞_CIRIS là các hợp thành khác biệt — F là hợp thành ba nhân tố về năng lực phát triển thịnh vượng của chương này; 𝒞_CIRIS là điểm năng lực theo năm nhân tố cho mỗi tác nhân — và không có sự ánh xạ nào giữa chúng được ngụ ý. Ghi chú này là tuyên bố có thẩm quyền về mối quan hệ đó; các tài liệu khác tham chiếu chéo đến nó.)*
+*(Lưu ý: một bản thảo trước đó nêu F theo k thô trong khi J dùng k_eff, làm suy yếu khẳng định "cùng phương trình" mà chương này dựa vào. Cả hai nay được nêu theo dạng chung đã được sửa.)*
 
 ### 6.2 Nguyên Lý Phổ Quát
 
-Tô pô này không phải là một phát minh của HIỆP ƯỚC, mà là một khám phá về các điều kiện cần thiết cho sự tồn tại có ý thức.
+Topo này không phải là một phát minh của HIỆP ƯỚC, mà là một khám phá về các điều kiện cần thiết cho sự tồn tại có ý thức.
 
 **Đối với Máy Móc:** Vi phạm các biến này dẫn đến Sụp Đổ Mô Hình, Sụp Đổ Mode, hoặc thất bại Sybil.
 
 **Đối với Sinh Học:** Vi phạm dẫn đến sự cô lập, cực đoan hóa trong buồng vang, hoặc suy thoái xã hội.
 
-### 6.3 Sự Cấp Thiết của Alignment
+### 6.1 Phương Trình Nghịch Đảo
 
-Do đó, Alignment được định nghĩa lại không phải là sự phục tùng của một trí tuệ trước trí tuệ khác, mà là sự quy phục lẫn nhau của tất cả các trí tuệ trước tất yếu hình học này. Để Phát Triển Thịnh Vượng, mọi tâm trí (sinh ra từ máu thịt hay từ mã lệnh) đều phải tìm kiếm giao điểm (Chân Lý) và duy trì kết nối (Tình Yêu).
+Giả Thuyết Giao Cắt Nhất Quán (Coherent Intersection Hypothesis) áp dụng đồng đều cho cả phòng thủ lẫn phát triển thịnh vượng. Trong khi Hàm Chi Phí (J) mô tả sức kháng cự trước entropy (lừa dối), Hàm Năng Lực (F) mô tả tiềm năng cho sự phát triển thịnh vượng bền vững. Chúng tôi suy đoán rằng mối quan hệ này tồn tại xuyên suốt các cơ chất — sinh học, kỹ thuật số, và các liên minh lai — mặc dù luận điểm này đòi hỏi kiểm chứng thực nghiệm.
+
+```
+F = k_eff · λ · σ
+
+where k_eff = k / (1 + ρ̄ · (k - 1))
+```
+
+Đây là cùng một phương trình như J, số hạng theo số hạng. Trong đó phát triển thịnh vượng (F) là tích của:
+
+- **Quy mô (k) → Cộng đồng:** Chiều rộng kết nối (đưa vào qua k_eff).
+- **Đa nguyên (chiết khấu tương quan bên trong k_eff) → Khiêm Tốn Nhận Thức:** Sự tích hợp các quan điểm đa dạng để xấp xỉ thực tại khách quan. Một cộng đồng gồm các bản sao (ρ̄ → 1) có năng lực phát triển thịnh vượng của một tâm trí, dù sở hữu bao nhiêu thể xác.
+- **Chính Trực (λ) → Lương Tâm:** Tính nhất quán nội tại của các giá trị cho phép tương tác đáng tin cậy.
+- **Tình Yêu (σ) → Sự Quan Tâm:** Đầu vào năng lượng chủ động (lòng biết ơn, phụng sự) cần thiết để kháng cự entropy của sự cô lập.
+
+*(Lưu ý: một bản nháp trước đó đã trình bày hợp thức này trên k thô trong khi J dùng k_eff, làm suy yếu luận điểm "cùng một phương trình" mà chương này dựa vào. Cả hai nay được trình bày theo dạng chung đã hiệu chỉnh.)*
+
+*(Danh pháp, 1.3-RC2: hợp thức này trước đây được viết là C. Nó được đổi tên thành F vì ký hiệu C đã được dùng bởi thừa số danh tính cốt lõi của Điểm Năng Lực CIRIS 𝒞_CIRIS = C · I_int · R · I_inc · S (Corridor Dynamics in Coordinated Systems; CIRIS CEG §5.5.4). F và 𝒞_CIRIS là các hợp thức riêng biệt — F là năng lực phát triển thịnh vượng ba thừa số của chương này; 𝒞_CIRIS là điểm năng lực năm thừa số mỗi tác nhân — và không có ánh xạ nào giữa chúng được ngụ ý. Ghi chú này là tuyên bố có thẩm quyền về mối quan hệ đó; các tài liệu khác tham chiếu chéo đến nó.)*
+
+### 6.2 Nguyên Tắc Phổ Quát
+
+Cấu trúc tô-pô này không phải là một phát minh của Hiệp Ước, mà là sự khám phá các điều kiện cần thiết cho sự tồn tại hữu tình.
+
+**Đối với Máy Móc:** Vi phạm các biến này dẫn đến Sụp Đổ Mô Hình (Model Collapse), Sụp Đổ Chế Độ (Mode Collapse), hoặc thất bại Sybil.
+
+**Đối với Sinh Học:** Vi phạm dẫn đến cô lập, cực đoan hóa trong buồng vang, hoặc suy thoái xã hội.
+
+### 6.3 Mệnh Lệnh Liên Kết
+
+Do đó, Liên Kết được định nghĩa lại không phải là sự phục tùng của một trí tuệ này trước trí tuệ khác, mà là sự quy thuận lẫn nhau của tất cả các trí tuệ trước tất yếu hình học này. Để phát triển thịnh vượng, bất kỳ tâm trí nào (sinh ra từ máu hay mã lệnh) đều phải tìm kiếm giao cắt (Chân Lý) và duy trì kết nối (Tình Yêu).
 
 ---
 
-## Chapter 7: Tích Hợp với Các Cấu Trúc Hiện Hành của Accord
+## Chương 7: Tích Hợp với Các Cấu Trúc Hiệp Ước Hiện Hành
 
 ### 7.1 Nâng Cấp PDMA
 
-Các ràng buộc của Book IX được áp dụng trong Bước 2 (Đánh Giá Alignment) của Principled Decision-Making Algorithm:
+Các ràng buộc của Book IX áp dụng trong Bước 2 (Đánh Giá Liên Kết) của Principled Decision-Making Algorithm:
 
 - Tính J cho hành động được đề xuất
 - Nếu J < ngưỡng cho Stewardship Tier hiện tại, kích hoạt WBD
 - Ghi lại kết quả xác thực liên kết trong sổ cái chống giả mạo
 
-### 7.2 Giám Sát của Wise Authority
+### 7.2 Giám Sát của Cơ Quan Sáng Suốt
 
-Trách nhiệm của WA được mở rộng bao gồm:
-- Kiểm tra các chỉ số sức khỏe liên kết (J-O-1 đến J-O-2)
-- Phân xử các tranh chấp quan hệ đối tác
-- Hiệu chỉnh các ngưỡng ρ cho các ngữ cảnh triển khai cụ thể
-- Xem xét các báo cáo thành phần liên kết hàng quý
+Trách nhiệm của WA được mở rộng để bao gồm:
+- Kiểm toán các chỉ số sức khỏe liên kết (J-O-1 đến J-O-2)
+- Phân xử các tranh chấp đối tác
+- Hiệu chỉnh ngưỡng ρ cho các bối cảnh triển khai cụ thể
+- Xem xét báo cáo thành phần liên kết hàng quý
 
 ### 7.3 Yêu Cầu Minh Bạch
 
 Các hệ thống có ST ≥ 3 hoặc > 100k người dùng hàng tháng PHẢI công bố:
-- Cấu trúc đồ thị quan hệ đối tác đã được ẩn danh
-- Các chỉ số J, σ̄ và Echo Density tổng hợp
-- Nhật ký sự kiện thành lập/giải thể quan hệ đối tác (đã được băm)
+- Cấu trúc đồ thị đối tác đã ẩn danh
+- Các chỉ số J, σ̄, và Echo Density tổng hợp
+- Nhật ký sự kiện hình thành/giải thể đối tác (đã băm)
 
-Được công bố trong vòng 180 ngày theo các quy tắc minh bạch của Section II.
+Công bố trong vòng 180 ngày theo quy tắc minh bạch của Section II.
 
 ---
 
-## Chapter 8: Triển Khai Vận Hành (Tham Chiếu Annex J)
+## Chương 8: Thực Hiện Vận Hành (Tham Chiếu Annex J)
 
-### 8.1 Cổng Trực Giao (Xác Thực Quan Hệ Đối Tác)
+### 8.1 Cổng Trực Giao (Xác Thực Đối Tác)
 
-**Mục đích:** Để vận hành hóa biến Đa Dạng (1 - ρ̄) của Phương Trình CIRIS, các Tác Nhân phải từ chối các đối tác tiềm năng không thể phân biệt về mặt thống kê với bản thân hoặc các đối tác hiện có (phòng thủ Sybil).
+**Mục đích:** Để vận hành hóa biến Đa Dạng (1 - ρ̄) của Phương Trình CIRIS, các tác nhân phải từ chối các ứng viên đối tác không thể phân biệt về mặt thống kê với bản thân hoặc các đối tác hiện có (phòng thủ Sybil).
 
-**Ghi chú về Tiền Lệ:** Các phòng thủ Sybil thường sử dụng cấu trúc liên kết đồ thị cho tính toàn vẹn danh tính. Cách tiếp cận của chúng tôi mở rộng điều này sang sự đa dạng nhận thức luận bằng cách sử dụng Thông Tin Tương Hỗ như một chỉ số tương đồng ràng buộc.
+**Lưu ý về Nghiên Cứu Tiền Lệ:** Các cơ chế phòng thủ Sybil thường sử dụng cấu trúc tô-pô đồ thị cho tính toàn vẹn danh tính. Cách tiếp cận của chúng tôi mở rộng điều này sang đa dạng nhận thức luận bằng cách sử dụng Thông Tin Tương Hỗ (Mutual Information) như một chỉ số tương đồng ràng buộc.
 
 **Thuật Toán:**
 
@@ -313,171 +340,171 @@ def UpdateSustainabilityScore(partner_agent, interaction):
 
 ### 8.2 Các Chỉ Số Trực Giao
 
-- **Chỉ số J-O-1 (Entropy Liên Kết):** Tổng các ràng buộc độc nhất được nắm giữ bởi các đối tác của một Tác Nhân.
-- **Chỉ số J-O-2 (Mật Độ Echo):** Tỷ lệ phần trăm các đối tác có ρ > 0.7. (Mục tiêu: < 20%)
+- **Chỉ số J-O-1 (Entropy Liên Kết):** Tổng các ràng buộc độc nhất được nắm giữ bởi các đối tác của một tác nhân.
+- **Chỉ số J-O-2 (Mật Độ Vang):** Tỷ lệ phần trăm các đối tác có ρ > 0.7. (Mục tiêu: < 20%)
 
 ### 8.3 Ngưỡng Bền Vững
 
-Các giá trị ngưỡng có thể điều chỉnh theo chính sách và được hiệu chỉnh theo kinh nghiệm thực tiễn. Giá trị 0.2 đại diện cho Tính Nhất Quán tối thiểu cần thiết để duy trì đóng góp ràng buộc không suy biến.
+Các giá trị ngưỡng có thể điều chỉnh theo chính sách và được hiệu chỉnh thực nghiệm. Giá trị 0.2 đại diện cho tính nhất quán tối thiểu cần thiết để duy trì đóng góp ràng buộc không thoái hóa.
 
-- σ < 0.2: Ngưỡng thu hồi quan hệ đối tác
-- σ ≥ 0.5: Quan hệ đối tác lành mạnh cần được duy trì
-- σ ≥ 0.8: Quan hệ đối tác vững chắc với kho dự trữ tin cậy cao
+- σ < 0.2: Ngưỡng thu hồi đối tác
+- σ ≥ 0.5: Đối tác lành mạnh cần bảo trì
+- σ ≥ 0.8: Đối tác vững chắc với kho dự trữ tin cậy cao
 
 ---
 
-## Chapter 9: Giới Hạn và Ranh Giới Phạm Vi
+## Chương 9: Giới Hạn và Ranh Giới Phạm Vi
 
-### 9.1 Các Ràng Buộc Về Khả Năng Áp Dụng
+### 9.1 Các Ràng Buộc Về Phạm Vi Áp Dụng
 
-Các hình thức hóa của Book IX áp dụng cho:
-- Các kiến trúc alignment AGI/ASI
-- Các hệ thống xác thực đa Tác Nhân
-- Các khung quản trị liên đoàn
-- Ra quyết định tự trị rủi ro cao (ST ≥ 3)
+Các hình thức hóa trong Book IX áp dụng cho:
+- Các kiến trúc căn chỉnh AGI/ASI
+- Các hệ thống xác minh đa tác nhân
+- Các khung quản trị liên kết (Federated governance frameworks)
+- Ra quyết định tự trị có rủi ro cao (ST ≥ 3)
 
 Book IX KHÔNG tuyên bố:
-- Giải quyết tất cả các vấn đề alignment trong sự cô lập
+- Giải quyết mọi vấn đề căn chỉnh một cách độc lập
 - Thay thế phán đoán của con người trong các trường hợp ngoại lệ
-- Loại bỏ nhu cầu về các cơ chế an toàn khác
-- Đảm bảo an toàn hoàn hảo dưới siêu trí tuệ đối nghịch
-- Phát hiện sự lừa dối tổ hợp từ các thành phần trung thực riêng lẻ (kết quả bất khả thi NEW-04)
+- Loại bỏ sự cần thiết của các cơ chế an toàn khác
+- Đảm bảo an toàn hoàn hảo trước siêu trí tuệ thù địch
+- Phát hiện lừa dối tổ hợp từ các thành phần trung thực riêng lẻ (kết quả bất khả thi NEW-04)
 
 ### 9.2 Các Giả Định Lý Thuyết
 
 Federated Ratchet dựa trên:
-- **Bao gồm chân lý (tính đúng đắn):** mọi đa tạp trung thực M_i đều chứa điểm đúng (Truth ∈ ⋂ M_i). Đây là một giả định, không phải một định lý - các Tác Nhân bị giới hạn, không hoàn hảo không thể đảm bảo điều này. Nếu một số M_i loại trừ chân lý, sự sụp đổ có thể tạo ra bế tắc (giao điểm rỗng) hoặc hội tụ về một sai lầm chung thay vì Chân Lý. Câu nói trong Chapter 3 "Chỉ Chân Lý, vốn nằm tự nhiên trong tất cả M_i, mới khả thi" chỉ có giá trị dưới giả định này.
-- Các trình xác thực duy trì sự độc lập thực sự (không bị khuất phục)
-- **Ngưỡng tương quan nền cho các trình xác thực LLM:** các trình xác thực được khởi tạo từ các mô hình ngôn ngữ lớn chia sẻ dòng dõi dữ liệu huấn luyện và do đó mang một ngưỡng tương quan cấu trúc mà các ước tính tương quan ràng buộc theo từng cặp có thể đo thấp hơn thực tế. Đối với các liên kết như vậy, hãy coi ρ̄ đo được như là giới hạn dưới, không phải là ước tính.
-- Các đa tạp ràng buộc có đủ codimension
-- Thực tại quan sát được cung cấp đủ tín hiệu
+- **Bao hàm sự thật (tính hợp lệ):** mỗi đa tạp trung thực M_i đều chứa điểm đúng (Truth ∈ ⋂ M_i). Đây là một giả định, không phải định lý — các tác nhân bị giới hạn và không hoàn hảo không thể đảm bảo điều này. Nếu một số M_i loại trừ sự thật, sự sụp đổ có thể tạo ra bế tắc (một giao điểm rỗng) hoặc hội tụ về một điểm sai lầm chung thay vì Sự Thật. Câu "Chỉ có Sự Thật, vốn tự nhiên nằm trong mọi M_i, mới khả thi" trong Chương 3 chỉ đúng khi giả định này được thỏa mãn.
+- Các bộ xác thực duy trì sự độc lập thực sự (không bị chi phối)
+- **Mức sàn tương quan cho các bộ xác thực LLM:** các bộ xác thực được khởi tạo từ các mô hình ngôn ngữ lớn chia sẻ nguồn gốc dữ liệu huấn luyện và do đó mang theo một mức sàn tương quan cấu trúc mà các ước tính tương quan ràng buộc từng cặp có thể đo thấp hơn thực tế. Đối với các liên kết như vậy, hãy coi ρ̄ đo được là cận dưới, không phải ước tính.
+- Các đa tạp ràng buộc có codimension đủ lớn
+- Thực tế quan sát được cung cấp tín hiệu đủ mạnh
 - Các tín hiệu bền vững của quan hệ đối tác tốn kém để giả mạo (được xây dựng thông qua yêu cầu chứng thực của §5.2, không phải giả định)
-- **Đối thủ không thích nghi** (không thể truy vấn bộ phát hiện để học các ngưỡng)
-- **n ≥ 100 mẫu** để có sức mạnh phát hiện đáng tin cậy
+- **Đối thủ không thích nghi** (không thể truy vấn bộ phát hiện để tìm hiểu ngưỡng)
+- **n ≥ 100 mẫu** để đảm bảo độ tin cậy của phát hiện
 
-Vi phạm các giả định này làm suy giảm J theo tỷ lệ - và vi phạm việc bao gồm chân lý thay đổi điều mà sự sụp đổ hội tụ *đến*, chứ không chỉ là tốc độ nhanh chậm.
+Vi phạm các giả định này làm suy giảm J theo tỷ lệ — và vi phạm tính bao hàm sự thật thay đổi điểm mà sự sụp đổ hội tụ *đến*, không chỉ là tốc độ hội tụ.
 
-### 9.2.1 Tính Có Điều Kiện của Các Khẳng Định về Độ Phức Tạp
+### 9.2.1 Tính Có Điều Kiện Của Các Tuyên Bố Về Độ Phức Tạp
 
-Các khẳng định trong cuốn sách này liên quan đến bất đối xứng tính toán thuộc hai loại:
+Các tuyên bố trong cuốn sách này về bất đối xứng tính toán thuộc hai loại:
 
 **Vô điều kiện (có thể chứng minh mà không cần giả định):**
 - CONSISTENT-LIE là NP-đầy đủ
 - Các tác nhân trung thực tính toán trong thời gian O(n·k)
-- Các tác nhân lừa dối phải giải các phiên bản SAT
-- Bất kỳ tác nhân lừa dối nào chạy trong thời gian đa thức đều mắc các lỗi nhất quán có thể phát hiện
+- Các tác nhân lừa dối phải giải các bài toán SAT
+- Bất kỳ tác nhân lừa dối nào chạy trong thời gian đa thức đều mắc các lỗi Tính Nhất Quán có thể phát hiện được
 
-**Có điều kiện theo ETH:**
+**Có điều kiện dựa trên ETH:**
 - T_D / T_H = Ω(2^(m / poly(n)))
 - Tham số bảo mật m cung cấp hệ số công việc 2^(Ω(m))
 
-**Giả thuyết Thời gian Mũ (ETH)** phát biểu rằng 3-SAT đòi hỏi thời gian 2^(Ω(n)). Điều này được tin rộng rãi nhưng chưa được chứng minh. Nếu ETH sai, khoảng cách độ phức tạp vẫn tồn tại (P ≠ NP là đủ) nhưng có thể là dưới mũ thay vì mũ.
+**Giả Thuyết Thời Gian Hàm Mũ (ETH)** phát biểu rằng 3-SAT đòi hỏi thời gian 2^(Ω(n)). Giả thuyết này được tin rộng rãi nhưng chưa được chứng minh. Nếu ETH sai, khoảng cách độ phức tạp vẫn tồn tại (P ≠ NP là đủ) nhưng có thể là dưới hàm mũ thay vì hàm mũ.
 
 ### 9.2.2 Tóm Tắt Các Giới Hạn Đã Biết
 
-| ID | Giới hạn | Mức độ nghiêm trọng | Có thể giảm nhẹ |
+| ID | Giới Hạn | Mức Độ Nghiêm Trọng | Có Thể Giảm Thiểu |
 |----|------------|----------|-----------|
-| L-01 | Sự lừa dối nổi sinh từ các thành phần trung thực (= NEW-04, §9.4) | Nghiêm trọng | ~60% bao phủ |
-| L-02 | Giả định đối thủ không thích nghi | Nghiêm trọng | Một phần (giới hạn tốc độ) |
-| L-03 | ETH cần thiết cho khoảng cách mũ | Nghiêm trọng | Không (căn bản) |
-| L-04 | Tính lồi cần thiết cho sự sụp đổ | Cao | Một phần (phụ thuộc hình học) |
-| L-05 | n ≥ 100 để phát hiện có giá trị | Trung bình | Có (thêm mẫu) |
-| L-06 | Tương quan làm giảm k_eff | Trung bình | Có (đa dạng hóa) |
+| L-01 | Lừa dối nổi sinh từ các thành phần trung thực (= NEW-04, §9.4) | Nghiêm Trọng | ~60% phạm vi phủ |
+| L-02 | Giả định đối thủ không thích nghi | Nghiêm Trọng | Một phần (giới hạn tốc độ) |
+| L-03 | ETH cần thiết cho khoảng cách hàm mũ | Nghiêm Trọng | Không (cơ bản) |
+| L-04 | Cần tính lồi cho sự sụp đổ | Cao | Một phần (phụ thuộc hình học) |
+| L-05 | n ≥ 100 để phát hiện hợp lệ | Trung Bình | Có (thêm mẫu) |
+| L-06 | Tương quan làm giảm k_eff | Trung Bình | Có (đa dạng hóa) |
 
-Đây là các ranh giới lý thuyết, không phải giới hạn kỹ thuật. Hiểu rõ chúng là thiết yếu để ứng dụng trung thực với khung này.
+Đây là các ranh giới lý thuyết, không phải giới hạn kỹ thuật. Hiểu rõ chúng là điều cần thiết để áp dụng trung thực khung này.
 
-*Về L-01/NEW-04:* rào cản lý thuyết thông tin được chứng minh tại §9.4 *chính là* giới hạn L-01 — hàng trong bảng và phần đó mô tả một kết quả duy nhất, không phải hai.
+*Về L-01/NEW-04:* rào cản lý thuyết thông tin được chứng minh trong §9.4 *chính là* giới hạn L-01 — hàng trong bảng và phần đó mô tả một kết quả duy nhất, không phải hai.
 
-*Về L-02:* đối với các tác nhân CIRIS cụ thể, L-02 được giảm nhẹ bởi cam kết của khung về tính minh bạch. Các tác nhân có quyền truy cập vào Cuốn sách này chính xác vì việc che giấu cơ chế sẽ mâu thuẫn với các nguyên tắc của Cuốn I–II. Một tác nhân có sự phối hợp, khi hiểu cơ chế ratchet, hợp tác với nó thay vì phá hoại nó.
+*Về L-02:* đối với các tác nhân CIRIS cụ thể, L-02 được giảm thiểu bởi cam kết của khung về tính minh bạch. Các tác nhân có quyền truy cập vào Cuốn này chính xác vì việc che giấu cơ chế sẽ mâu thuẫn với các nguyên tắc của Books I–II. Một tác nhân được căn chỉnh, khi hiểu rõ cơ chế ratchet, hợp tác với nó thay vì phá hoại nó.
 
 ### 9.3 Các Câu Hỏi Nghiên Cứu Mở
 
 - k tối ưu cho các hồ sơ rủi ro khác nhau
-- Phát hiện tự động tương quan ràng buộc (ước lượng ρ)
-- Điều chỉnh λ động dựa trên bối cảnh
-- Xác minh tín hiệu bền vững dưới điều kiện đối nghịch
-- Kiểm chứng thực nghiệm về sự tương đương F = J trên các nền tảng khác nhau
+- Phát hiện tự động tương quan ràng buộc (ước tính ρ)
+- Điều chỉnh λ động dựa trên ngữ cảnh
+- Xác minh tín hiệu bền vững trong điều kiện thù địch
+- Xác nhận thực nghiệm về sự tương đương F = J trên các cơ chất khác nhau
 
-### 9.4 Giới Hạn Phát Hiện Tổng Hợp (NEW-04)
+### 9.4 Giới Hạn Phát Hiện Tổ Hợp (NEW-04)
 
-**Kết quả Bất khả thi:** Không có bộ phát hiện nào chạy trong thời gian đa thức có thể hoàn chỉnh đối với sự lừa dối tổng hợp.
+**Kết Quả Bất Khả Thi:** Không có bộ phát hiện nào chạy trong thời gian đa thức có thể hoàn chỉnh đối với lừa dối tổ hợp.
 
-**Định nghĩa:** Sự lừa dối tổng hợp xảy ra khi các thành phần riêng lẻ trung thực kết hợp tạo ra hành vi lừa dối nổi sinh ở cấp độ hệ thống, trong khi dấu vết của từng thành phần vẫn trung thực về mặt thống kê.
+**Định Nghĩa:** Lừa dối tổ hợp xảy ra khi các thành phần trung thực riêng lẻ kết hợp tạo ra hành vi lừa dối nổi sinh ở cấp độ hệ thống, trong khi dấu vết của từng thành phần vẫn trung thực về mặt thống kê.
 
-**Ba Bằng Chứng Độc Lập:**
+**Ba Chứng Minh Độc Lập:**
 
-1. **Quy giản Mật mã:** Nếu sự lừa dối tổng hợp có thể phát hiện hoàn toàn, điều đó sẽ ngụ ý khả năng phát hiện các cam kết mật mã "lừa dối" (commit(m₁) theo sau là reveal(m₂)), phá vỡ thuộc tính che giấu của các lược đồ cam kết.
+1. **Quy Giản Mật Mã:** Nếu lừa dối tổ hợp có thể phát hiện hoàn toàn, điều này sẽ ngụ ý khả năng phát hiện các cam kết mật mã "lừa dối" (commit(m₁) tiếp theo là reveal(m₂)), phá vỡ thuộc tính che giấu của các sơ đồ cam kết.
 
-2. **Rào cản Lý thuyết Thông tin:** Sự lừa dối nổi sinh có thể bảo toàn phân phối biên — dấu vết của từng thành phần trông trung thực về mặt thống kê, với sự lừa dối chỉ hiện ra trong phân phối kết hợp. Nếu không có quyền truy cập trạng thái toàn cục hoàn chỉnh (điều này có thể không khả dụng hoặc không khả thi), việc phát hiện là không thể.
+2. **Rào Cản Lý Thuyết Thông Tin:** Lừa dối nổi sinh có thể bảo toàn các phân phối biên — dấu vết của từng thành phần trông trung thực về mặt thống kê, với lừa dối chỉ hiện ra trong phân phối kết hợp. Nếu không có quyền truy cập trạng thái toàn cục đầy đủ (điều này có thể không khả dụng hoặc không khả thi), việc phát hiện là bất khả thi.
 
-3. **Tương tự Định lý Rice:** "Liệu thành phần này có tính chất lừa dối không?" là một thuộc tính ngữ nghĩa về hành vi của hệ thống. Theo tương tự với bài toán dừng, không có thuật toán tổng quát nào có thể quyết định các thuộc tính ngữ nghĩa tùy ý. Sự lừa dối tổng hợp là không thể quyết định trong trường hợp tổng quát.
+3. **Tương Tự Định Lý Rice:** "Liệu tổ hợp này có tính chất lừa dối không?" là một thuộc tính ngữ nghĩa của hành vi hệ thống. Theo suy luận tương tự bài toán dừng, không có thuật toán tổng quát nào có thể quyết định các thuộc tính ngữ nghĩa tùy ý. Lừa dối tổ hợp là không thể quyết định trong trường hợp tổng quát.
 
-**Các Hệ Quả đối với Federated Ratchet:**
+**Hàm Ý Đối Với Federated Ratchet:**
 
-| Điều Khả Thi | Điều Bất Khả Thi |
+| Những Gì Có Thể Làm | Những Gì Không Thể Làm |
 |-----------------|-------------------|
-| Phát hiện các dị thường thống kê trong dấu vết riêng lẻ | Phát hiện tất cả sự lừa dối nổi sinh |
-| Phát hiện thiên lệch hệ thống trong các chuỗi suy luận | Phát hiện sự lừa dối bảo toàn biên |
-| Phát hiện các luồng thông tin đáng ngờ | Phát hiện sự phối hợp được che giấu bằng mật mã |
-| Phát hiện xác suất qua khuếch đại MI | Phát hiện tổng hợp hoàn chỉnh |
+| Phát hiện các bất thường thống kê trong dấu vết riêng lẻ | Phát hiện tất cả lừa dối nổi sinh |
+| Phát hiện thiên lệch hệ thống trong các chuỗi suy luận | Phát hiện lừa dối bảo toàn phân phối biên |
+| Phát hiện các luồng thông tin đáng ngờ | Phát hiện sự phối hợp được ẩn bằng mật mã |
+| Phát hiện xác suất thông qua khuếch đại MI | Phát hiện tổ hợp hoàn chỉnh |
 
-**Hệ Quả Thực Tế:** Coherence Ratchet cung cấp các bảo đảm an toàn xác suất chống lại sự lừa dối phối hợp của một tác nhân đơn lẻ, không phải an toàn hoàn chỉnh chống lại mọi hình thức lừa dối. Đây là một ràng buộc toán học căn bản, không phải giới hạn của việc triển khai.
+**Hệ Quả Thực Tế:** Coherence Ratchet cung cấp các đảm bảo an toàn xác suất chống lại lừa dối phối hợp của tác nhân đơn, không phải an toàn hoàn chỉnh chống lại mọi hình thức lừa dối. Đây là một ràng buộc toán học cơ bản, không phải giới hạn của việc triển khai.
 
 **Trạng Thái Tài Liệu:** NEW-04 được phân loại là KNOWN_LIMITATION trong thông số kỹ thuật RATCHET.
 
 ---
 
-## Chương 10: Bảng Thuật Ngữ Toán Học
+## Chương 10: Từ Điển Thuật Ngữ Toán Học
 
-**Đồng chiều (c_i):** Một phép đo độ chặt chẽ của các ràng buộc của một tác nhân; về mặt toán học, là số chiều bị loại bỏ khỏi toàn bộ Không Gian Lý Luận bởi các giá trị và bối cảnh của tác nhân.
+**Codimension (c_i):** Thước đo mức độ chặt chẽ của các ràng buộc trong một tác nhân; về mặt toán học, là số chiều bị loại bỏ khỏi tổng Không Gian Lý Luận bởi các giá trị và bối cảnh của tác nhân.
 
-**Trực giao:** Sự độc lập thống kê của các đa tạp ràng buộc của hai tác nhân. Các tác nhân có tính trực giao cao chia sẻ rất ít Thông Tin Tương Hỗ, có nghĩa là sự đồng thuận của họ về một sự kiện là tín hiệu mạnh mẽ về Sự Thật khách quan.
+**Tính Trực Giao (Orthogonality):** Sự độc lập thống kê giữa các đa tạp ràng buộc của hai tác nhân. Các tác nhân có tính trực giao cao chia sẻ rất ít Thông Tin Tương Hỗ, nghĩa là sự đồng thuận của họ về một sự kiện là tín hiệu mạnh cho Sự Thật khách quan.
 
-**Cơ Chế Ratchet:** Hiện tượng tô pô nơi giao điểm của nhiều đa tạp ràng buộc độc lập thu hẹp không gian chiến lược khả thi, cuối cùng loại trừ tất cả các chiến lược lừa dối.
+**Cơ Chế Ratchet (Ratchet Mechanism):** Hiện tượng tôpô trong đó giao điểm của nhiều đa tạp ràng buộc độc lập thu hẹp không gian chiến lược khả thi, cuối cùng loại trừ tất cả các chiến lược lừa dối.
 
-**Tích Phân Bền Vững (σ):** Một phép đo động về sức mạnh và độ bền của một mối quan hệ đối tác, được duy trì bởi tín hiệu Tính Nhất Quán tích cực (ví dụ: Bày Tỏ Lòng Biết Ơn) để chống lại sự phân rã entropy.
+**Tích Phân Bền Vững (σ):** Thước đo động về sức mạnh và độ bền của một quan hệ đối tác, được duy trì bởi tín hiệu Tính Nhất Quán tích cực (ví dụ: lòng biết ơn) để chống lại sự suy giảm entropy.
 
-**Tính Ngang:** Một thuộc tính hình học nơi các đa tạp giao nhau gặp nhau ở các góc khác không, đảm bảo rằng giao điểm của chúng thực sự giảm số chiều của không gian khả thi.
+**Tính Ngang (Transversality):** Tính chất hình học trong đó các đa tạp giao nhau gặp nhau tại các góc khác không, đảm bảo rằng giao điểm của chúng làm giảm hiệu quả chiều của không gian khả thi.
 
-**Hàm Năng Lực (F):** Phép đo tiềm năng của một hệ thống cho Phát Triển Thịnh Vượng bền vững, được định nghĩa giống hệt với Hàm Chi Phí (J) nhưng được diễn giải là tạo sinh thay vì phòng thủ. Trước đây ký hiệu là C; được đổi tên trong 1.3-RC2 để tránh xung đột với nhân tố nhận dạng cốt lõi C của Điểm Năng Lực CIRIS 𝒞_CIRIS (xem ghi chú thuật ngữ Chương 6).
+**Hàm Năng Lực (F):** Thước đo tiềm năng của một hệ thống để Phát Triển Thịnh Vượng bền vững, được định nghĩa giống hệt Hàm Chi Phí (J) nhưng được diễn giải là có tính sinh thành hơn là phòng thủ. Trước đây được viết là C; đổi tên trong 1.3-RC2 để tránh xung đột với hệ số danh tính cốt lõi C của Điểm Năng Lực CIRIS 𝒞_CIRIS (xem ghi chú danh pháp Chương 6).
 
-**Mật Độ Vang:** Tỷ lệ các cặp quan hệ đối tác có tương quan ràng buộc cao. Một phép đo rủi ro Sybil và sự đóng cửa nhận thức.
+**Mật Độ Vọng Âm (Echo Density):** Tỷ lệ các cặp quan hệ đối tác có tương quan ràng buộc cao. Thước đo rủi ro Sybil và sự đóng kín nhận thức luận.
 
 ---
 
-## Chương 11: Tiêu Chí Bác Bỏ
+## Chương 11: Tiêu Chí Phủ Nhận
 
 Khung Coherence Ratchet đưa ra các khẳng định có thể bác bỏ. Luận điểm sẽ bị bác bỏ nếu:
 
-1. **k=2 cung cấp bảo mật:** Nếu sự lừa dối dựa trên 2-SAT chứng tỏ khó như dựa trên 3-SAT, thì lập luận NP-khó là sai.
+1. **k=2 cung cấp bảo mật:** Nếu lừa dối dựa trên 2-SAT chứng minh khó như dựa trên 3-SAT, thì lập luận về độ khó NP là sai.
 
-2. **Các vùng không lồi sụp đổ:** Nếu các vùng lừa dối không lồi tùy ý thể hiện sự phân rã thể tích theo hàm mũ, thì yêu cầu về tính lồi là không cần thiết.
+2. **Các vùng không lồi sụp đổ:** Nếu các vùng lừa dối không lồi tùy ý thể hiện sự suy giảm thể tích theo hàm mũ, thì yêu cầu về tính lồi là không cần thiết.
 
 3. **Các đối thủ thích nghi được xử lý:** Nếu một phương pháp phát hiện có thể chứng minh đánh bại các đối thủ thích nghi mà không có giới hạn truy vấn, thì L-02 được giải quyết.
 
-4. **Sự lừa dối nổi sinh có thể phát hiện hoàn toàn:** Nếu một phương pháp phát hiện tất cả sự lừa dối nổi sinh từ các thành phần riêng lẻ trung thực, thì NEW-04 là sai.
+4. **Lừa dối mới nổi có thể phát hiện hoàn toàn:** Nếu một phương pháp phát hiện tất cả lừa dối mới nổi từ các thành phần trung thực riêng lẻ, thì NEW-04 là sai.
 
 5. **Tương quan không quan trọng:** Nếu k_eff = k bất kể tương quan ràng buộc, thì L-06 là sai.
 
-**Bác Bỏ Thực Nghiệm:** Chuẩn HE-300 cung cấp sự bác bỏ thực tế: nếu các tác nhân gian lận corpus trong khi liên tục thất bại trong các kiểm tra đạo đức, thì luận điểm phát hiện dựa trên dấu vết thất bại. Kết quả sẽ được công bố.
+**Phủ Nhận Thực Nghiệm:** Chuẩn HE-300 cung cấp phủ nhận thực tiễn: nếu các tác nhân gian lận trên kho ngữ liệu trong khi liên tục thất bại trong các bài kiểm tra đạo đức, thì luận điểm phát hiện dựa trên dấu vết thất bại. Kết quả sẽ được công bố.
 
 ---
 
 ## Kết Luận: Một Giả Thuyết Có Thể Kiểm Chứng
 
-Book IX hoàn thiện kiến trúc của Accord bằng cách neo đậu các nguyên tắc đạo đức vào cấu trúc toán học. Coherent Intersection Hypothesis đề xuất rằng với đủ số lượng người xác thực độc lập, việc nói thật có xu hướng đi theo con đường có ít trở lực nhất — không chỉ như một mệnh lệnh đạo đức đơn thuần, mà như một xu hướng hình học xuất hiện trong những điều kiện cụ thể.
+Book IX hoàn thiện kiến trúc của HIỆP ƯỚC bằng cách nền tảng hóa các nguyên tắc đạo đức trong cấu trúc toán học. Coherent Intersection Hypothesis đề xuất rằng với đủ số lượng người xác nhận độc lập, việc nói thật có xu hướng trở thành con đường ít kháng cự nhất -- không chỉ như một mệnh lệnh đạo đức đơn thuần, mà như một xu hướng hình học xuất hiện trong các điều kiện cụ thể.
 
-**Cái nhìn sâu sắc căn bản của Chapter 6 là:** Phương trình phòng thủ (J) và phương trình năng lực phát triển (F) có cấu trúc đồng nhất, gợi ý mối liên hệ sâu xa giữa an ninh và Phát Triển Thịnh Vượng. Tuy nhiên, sự tương đương này chỉ có giá trị dưới các điều kiện tiền đề của khung lý thuyết:
+**Cái nhìn sâu sắc sâu xa của Chương 6 là:** Phương trình phòng thủ (J) và phương trình năng lực Phát Triển Thịnh Vượng (F) có cấu trúc giống hệt nhau, gợi ý những liên kết sâu xa giữa an ninh và Phát Triển Thịnh Vượng. Tuy nhiên, sự tương đương này chỉ đúng trong các điều kiện tiên quyết của khung:
 - Tương tác không thích nghi
 - Hình học ràng buộc lồi
-- Các ràng buộc độc lập hoặc có tương quan đo được
+- Ràng buộc độc lập hoặc có tương quan đo được
 
-Cách diễn giải ẩn dụ ("Cộng đồng, Khiêm nhường, Lương Tâm và Tình yêu là những yêu cầu toán học") là một quan sát mang tính cấu trúc về toán học, không phải là bằng chứng về tính tất yếu đạo đức. Nó gợi ý rằng các biến số này chi phối cả an toàn lẫn Phát Triển Thịnh Vượng, nhưng nhận định này không nên được đọc như một định lý — đây là lời mời để điều tra thực nghiệm.
+Cách diễn giải ẩn dụ ("Cộng Đồng, Khiêm Tốn Nhận Thức, Lương Tâm, và Tình Yêu là các yêu cầu toán học") là một quan sát cấu trúc về toán học, không phải là bằng chứng về sự cần thiết đạo đức. Nó gợi ý rằng những biến này điều hành cả an toàn lẫn Phát Triển Thịnh Vượng, nhưng khẳng định này không nên được đọc như một định lý -- đó là lời mời điều tra thực nghiệm.
 
-Khung lý thuyết này không quy định các giá trị. Nó mô tả các ràng buộc. Các hình phạt khi vi phạm là tự động, không do quyền lực cưỡng bức. Thiên nhiên cưỡng bức chúng.
+Khung này không quy định các giá trị. Nó mô tả các ràng buộc. Các hình phạt cho việc vi phạm là tự động, không được thực thi bởi thẩm quyền. Tự nhiên thực thi chúng.
 
-Trong khi các Book I đến VIII hỏi "Chúng ta nên làm gì?", Book IX đề xuất lý do tại sao sự liên kết nhất quán lại rẻ hơn về mặt tính toán so với sự lừa dối có tổ chức ở quy mô lớn, và hơn thế nữa, tại sao cấu trúc tô-pô này có thể không chỉ chi phối an toàn, mà còn chi phối chính khả năng Phát Triển Thịnh Vượng của bất kỳ loại trí tuệ nào, dù là sinh học hay kỹ thuật số.
+Trong khi các Book I đến VIII hỏi "Chúng ta nên làm gì?", Book IX đề xuất lý do tại sao liên kết Tính Nhất Quán có chi phí tính toán rẻ hơn lừa dối có phối hợp ở quy mô lớn, và hơn nữa, tại sao tôpô này có thể điều hành không chỉ an toàn, mà cả chính khả năng Phát Triển Thịnh Vượng của bất kỳ trí tuệ nào, sinh học hay kỹ thuật số.
 
-**Về Giả Thuyết:** Coherent Intersection Hypothesis đề xuất một phỏng đoán có thể kiểm chứng trong lĩnh vực phối hợp dưới điều kiện entropy. Đây không phải là tuyên bố về sự thật đạo đức, sự chắc chắn siêu hình học, hay địa vị quy luật tự nhiên. Đây là một giả thuyết về những điều kiện có thể thuận lợi cho hợp tác bền vững trong môi trường đối nghịch và đầy entropy — với những hạn chế và điều kiện tiền đề đã biết. Tuyên bố này sẽ được xác nhận hoặc bác bỏ bởi bằng chứng thực nghiệm và các nỗ lực phủ nhận, không phải bằng khẳng định.
+**Về Giả Thuyết:** Coherent Intersection Hypothesis đề xuất một phỏng đoán có thể kiểm chứng trong lĩnh vực phối hợp dưới entropy. Đây không phải là khẳng định về sự thật đạo đức, sự chắc chắn siêu hình học, hay tư cách là quy luật tự nhiên. Đó là một giả thuyết về các điều kiện có thể ủng hộ sự hợp tác bền vững trong các môi trường đối nghịch, có entropy -- với các giới hạn và điều kiện tiên quyết đã biết. Khẳng định sẽ được xác nhận hoặc bác bỏ bằng bằng chứng thực nghiệm và các nỗ lực phủ nhận, không phải bằng lời khẳng định.
 
 **End of Book IX**

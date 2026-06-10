@@ -1,8 +1,8 @@
-# Rumus-Rumus
+# Formula
 
-> Semua rumus matematika eksplisit yang didefinisikan dalam spesifikasi CIRIS Accord 1.3-RC1.
+> Semua formula matematika eksplisit yang didefinisikan dalam spesifikasi CIRIS Accord 1.3-RC1.
 
-## 1. Skor Pengaruh Pencipta (CIS)
+## 1. Creator‑Influence Score (CIS)
 
 ```math
 CIS = CW + IW
@@ -12,18 +12,18 @@ CIS = CW + IW
 
 ---
 
-## 2. Tingkat Pengelolaan (ST)
+## 2. Stewardship Tier (ST)
 
 ```math
 ST = ⌈(CIS × RM) / 7⌉
 ```
 
-di mana ⌈ ⌉ melambangkan fungsi plafon (ceiling function).
+di mana ⌈ ⌉ menyatakan fungsi ceiling (pembulatan ke atas).
 (Book VI §3 STEP C)
 
 ---
 
-## 3. Pengaruh Struktural (SI)
+## 3. Structural Influence (SI)
 
 ```math
 SI = CW + OA + log(1 + DWP)
@@ -33,7 +33,7 @@ SI = CW + OA + log(1 + DWP)
 
 ---
 
-## 4. Kepentingan Koherensi (CS)
+## 4. Coherence Stake (CS)
 
 ```math
 CS = RH_weighted + AC_weighted + SDA_bonus
@@ -43,7 +43,7 @@ CS = RH_weighted + AC_weighted + SDA_bonus
 
 ---
 
-## 5. Bobot Pemungutan Suara
+## 5. Bobot Suara
 
 ```math
 VotingWeight(agent) = f(SI(agent), CS(agent))
@@ -65,13 +65,13 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 
 ---
 
-## 7. Kapasitas Berkembang (F)
+## 7. Flourishing Capacity (F)
 
 ```math
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — identik dengan suku J suku demi suku; dimaknai sebagai generatif, bukan defensif. Sebelumnya ditulis C; diganti nama menjadi F dalam 1.3-RC2 untuk menghindari tabrakan dengan faktor identitas-inti C dari Skor Kapasitas CIRIS 𝒞_CIRIS — lihat catatan nomenklatur Book IX Ch 6, yang merupakan pernyataan otoritatif mengenai hubungan tersebut.)
+(Book IX Ch 6 — identik dengan suku J suku demi suku; diinterpretasikan sebagai generatif, bukan defensif. Sebelumnya ditulis C; diganti nama dalam 1.3-RC2 untuk menghindari tabrakan dengan faktor identitas-inti C dari CIRIS Capacity Score 𝒞_CIRIS — lihat catatan nomenklatur Book IX Ch 6, yang merupakan pernyataan otoritatif mengenai hubungan tersebut.)
 
 ---
 
@@ -81,22 +81,22 @@ F = k_eff · λ · σ
 σ(t+Δt) = σ(t) · (1 − d·Δt) + Signal(t) · w
 ```
 
-di mana d adalah laju peluruhan harian (disarankan 0.05) dan w HARUS diturunkan dari peristiwa yang telah dibuktikan dan sulit dipalsukan; sinyal yang tidak dibuktikan membawa w = 0.
+di mana d adalah laju peluruhan harian (disarankan 0,05) dan w HARUS berasal dari peristiwa yang telah dibuktikan dan sulit dipalsukan; sinyal yang tidak dibuktikan memiliki w = 0.
 (Book IX §5.2)
 
 ---
 
-## 9. Keruntuhan Topologis (peluruhan volume)
+## 9. Keruntuhan Topologi (peluruhan volume)
 
 ```math
 V(k) = V(0) · exp(−λ · k_eff) + O(r² · k)
 ```
 
-untuk wilayah menipu (deceptive region) cembung berradius r < 0.5 di bawah kendala seragam Grassmannian, λ ≈ 2r.
+untuk daerah penipuan konveks dengan jari-jari r < 0,5 di bawah kendala seragam Grassmannian, λ ≈ 2r.
 (Book IX Ch 3 — lihat prasyarat yang dinyatakan.)
 
 ---
 
-## Order‑Maximisation Veto (kendala samping, bukan rumus)
+## Order‑Maximisation Veto (kendala samping, bukan formula)
 
-Per versi 1.3, OMV (Book II §II Step 2) adalah kendala samping deontologis, bukan pertidaksamaan rasio: manfaat optimisasi, seberapa pun besarnya, tidak boleh diperoleh melalui kerugian yang diprediksi secara non-trivial dalam otonomi, keadilan, keanekaragaman hayati, atau keragaman preferensi. Versi-versi sebelumnya mengungkapkan hal ini sebagai pertidaksamaan "manfaat ≥ 10 × kerugian → batalkan"; pembacaan tersebut ditinggalkan karena membalik niat yang sesungguhnya (memveto perdagangan yang menguntungkan) dan dapat dimanipulasi melalui pemecahan tindakan dan inflasi penyebut.
+Per 1.3, OMV (Book II §II Step 2) adalah kendala samping deontologis, bukan ketidaksamaan rasio: manfaat optimisasi, sebesar apa pun, tidak boleh diperoleh melalui kerugian yang tidak sepele yang dapat diprediksi dalam otonomi, keadilan, keanekaragaman hayati, atau keragaman preferensi. Versi-versi sebelumnya mengungkapkan ini sebagai ketidaksamaan "manfaat ≥ 10 × kerugian → batalkan"; pembacaan tersebut dihentikan karena membalikkan maksudnya (memveto perdagangan yang menguntungkan) dan dapat dimanipulasi melalui pemecahan tindakan dan inflasi penyebut.

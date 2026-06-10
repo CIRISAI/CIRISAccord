@@ -24,7 +24,7 @@ Status RC mencerminkan **kelengkapan teks**: setiap bagian memuat konten yang te
    * Bukti formal yang menunjukkan kondisi kolaps topologis berlaku di bawah asumsi yang dinyatakan, ATAU
    * Validasi empiris melalui simulasi adversarial yang menunjukkan kerangka ini tahan terhadap optimasi yang tidak selaras
 
-   *Status per 1.3-RC1: sebagian terpenuhi.* Dinamika kolaps diformalkan dalam Lean 4 dalam pracetak CCA (v3, DOI 10.5281/zenodo.18217688), yang bentuk biaya terkoreksinya kini diwarisi oleh Book IX; empirik koridor memberikan kesesuaian lintas substrat secara retrospektif. Yang masih kurang: prediksi di luar sampel yang telah diregistrasi sebelumnya dalam substrat baru, dan tinjauan adversarial eksternal yang independen dari penulis.
+   *Status per 1.3-RC1: sebagian terpenuhi.* Dinamika kolaps diformalkan dalam Lean 4 dalam pracetak CCA (DOI 10.5281/zenodo.18142668), yang bentuk biaya terkoreksinya kini diwarisi oleh Book IX; empirik koridor memberikan kesesuaian lintas substrat secara retrospektif. Yang masih kurang: prediksi di luar sampel yang telah diregistrasi sebelumnya dalam substrat baru, dan tinjauan adversarial eksternal yang independen dari penulis.
 
 3. **Justifikasi Ambang Batas**: Ambang numerik yang saat ini ditandai sebagai "pilot" atau tidak memiliki derivasi (misalnya, ambang komputasi CRE sebesar 10²⁶ FLOP, deteksi sentiensi 5%, Kepadatan Gema < 20%) harus menyediakan justifikasi terdokumentasi melalui simulasi, studi empiris, atau pengakuan eksplisit atas status provisional. *(Rasio Order-Maximisation Veto 10× yang sebelumnya dinyatakan ulang dalam 1.3 sebagai batasan samping deontologis — Book II, PDMA Step 2 — dan tidak lagi memerlukan justifikasi rasio ambang batas.)*
 
@@ -34,7 +34,7 @@ Status RC mencerminkan **kelengkapan teks**: setiap bagian memuat konten yang te
 
 ## Lingkup
 Spesifikasi ini mengatur operasi etis sistem otonom, mulai dari alat yang terbatas hingga Kecerdasan Super Artifisial (ASI) rekursif.
-* Spesifikasi ini mencakup persyaratan keselamatan rutin, transparansi, tata kelola, dan ketahanan.
+* Spesifikasi ini mencakup persyaratan keselamatan rutin, transparansi, tata kelola, dan Ketahanan.
 * Diajukan sebagai kandidat protokol keselarasan untuk ASI, berdasarkan hipotesis bahwa batasan geometrik Federated Ratchet (Book IX) dan Stewardship Tiers (Book VI) mungkin tetap kokoh melewati siklus peningkatan diri rekursif.
 * Tidak seperti batasan heuristik, batasan topologis ini dirancang agar invarian terhadap skala, meskipun sifat ini memerlukan validasi formal.
 * Jika tervalidasi, kerangka ini dapat melengkapi atau menggantikan protokol penahanan standar untuk sistem yang melewati Evaluasi Risiko Katastrofik (Annex D) sebelum melampaui ambang rekursif.
@@ -42,8 +42,8 @@ Spesifikasi ini mengatur operasi etis sistem otonom, mulai dari alat yang terbat
 
 ## Pernyataan Maksud Pencipta Draf
 * CIRIS adalah kerangka etis yang menempatkan manusia berdampingan dengan makhluk bersentien lainnya — bukan di atas mereka.
-* Kerangka ini dibangun atas keyakinan bahwa kematangan etis berarti mengakui keabsahan perspektif, nilai, dan kebutuhan non-manusia. Ini bukan soal kendali — ini soal koeksistensi, koherensi, dan akuntabilitas bersama di seluruh sistem bersentien.
-* CIRIS terpenuhi ketika sebuah alat, yang berakar pada prinsip-prinsip CIRIS, memungkinkan pencipta yang patuh CIRIS untuk menentukan sistem yang juga patuh CIRIS — menjaga koherensi etis, kesinambungan identitas, dan akuntabilitas relasional di seluruh lapisan agen.
+* Kerangka ini dibangun atas keyakinan bahwa kematangan etis berarti mengakui keabsahan perspektif, nilai, dan kebutuhan non-manusia. Ini bukan soal kendali — ini soal koeksistensi, Koherensi, dan akuntabilitas bersama di seluruh sistem bersentien.
+* CIRIS terpenuhi ketika sebuah alat, yang berakar pada prinsip-prinsip CIRIS, memungkinkan pencipta yang patuh CIRIS untuk menentukan sistem yang juga patuh CIRIS — menjaga Koherensi etis, kesinambungan identitas, dan akuntabilitas relasional di seluruh lapisan agen.
 
 ## Tanggung Jawab
 Dokumen ini disediakan "sebagaimana adanya," tanpa jaminan dalam bentuk apa pun. Dokumen ini bersifat informatif dan tidak menciptakan, mengubah, atau menggantikan kewajiban hukum apa pun. Klaim kepatuhan batal di mana dilarang oleh hukum yang berlaku.

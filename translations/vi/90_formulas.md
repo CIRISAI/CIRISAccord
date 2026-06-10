@@ -2,7 +2,7 @@
 
 > Tất cả các công thức toán học tường minh được định nghĩa trong đặc tả CIRIS Accord 1.3-RC1.
 
-## 1. Điểm Ảnh Hưởng Người Tạo (CIS)
+## 1. Điểm Ảnh Hưởng Của Người Tạo (CIS)
 
 ```math
 CIS = CW + IW
@@ -12,7 +12,7 @@ CIS = CW + IW
 
 ---
 
-## 2. Tầng Giám Hộ (ST)
+## 2. Stewardship Tier (ST)
 
 ```math
 ST = ⌈(CIS × RM) / 7⌉
@@ -65,13 +65,13 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 
 ---
 
-## 7. Năng Lực Phát Triển Thịnh Vượng (F)
+## 7. Flourishing Capacity (F)
 
 ```math
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — đồng nhất với số hạng J từng thành phần; được diễn giải theo nghĩa sinh tạo thay vì phòng thủ. Trước đây ký hiệu là C; đổi tên trong 1.3-RC2 để tránh nhầm lẫn với nhân tử bản sắc cốt lõi C trong Điểm Năng Lực CIRIS 𝒞_CIRIS — xem ghi chú danh pháp Book IX Ch 6, đây là phát biểu có thẩm quyền về mối quan hệ đó.)
+(Book IX Ch 6 — đồng nhất với số hạng J từng chữ từng ký hiệu; được diễn giải theo nghĩa sinh tạo thay vì phòng thủ. Trước đây viết là C; đổi tên trong 1.3-RC2 để tránh xung đột với nhân tố nhận dạng cốt lõi C của CIRIS Capacity Score 𝒞_CIRIS — xem ghi chú danh pháp Book IX Ch 6, là phát biểu có thẩm quyền về mối quan hệ này.)
 
 ---
 

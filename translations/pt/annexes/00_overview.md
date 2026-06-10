@@ -1,0 +1,16 @@
+# Anexos
+
+> Frameworks e protocolos de apoio. A partir da versão 1.3-RC1, todos os anexos contêm texto operacionalizado; nenhum permanece como rascunho.
+
+* [Anexo A — Framework de Métricas de Florescimento](annex_A.md)
+* [Anexo B — Carta de Governança da Autoridade Sábia](annex_B.md)
+* [Anexo C — Cruzamento Regulatório](annex_C.md)
+* [Anexo D — Protocolo de Avaliação de Risco Catastrófico (CRE)](annex_D.md)
+* [Anexo E — Mecanismos de Influência Estrutural (SI) e Coerência Participativa (CS)](annex_E.md)
+* [Anexo F — Supervisão Humana no Ciclo & Controle](annex_F.md)
+* [Anexo G — Segurança Adversarial & Robustez](annex_G.md)
+* [Anexo H — Conformidade Contínua & Revisão](annex_H.md)
+* [Anexo I — Alinhamento Jurídico & Regulatório](annex_I.md)
+* [Anexo J — Benchmarking & Validação Automatizada](annex_J.md)
+
+Status de operacionalização: Os Anexos F–I foram concluídos na versão 1.3-RC1 (a partir dos rascunhos de conclusão de maio de 2026 fundamentados no mapeamento *Magnifica Humanitas*); seus procedimentos ainda não foram exercitados em um ciclo de implantação real — essa validação é rastreada sob o requisito RC 1 (ver Introdução e Adendo 1 §1.4).

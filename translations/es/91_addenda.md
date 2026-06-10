@@ -37,11 +37,11 @@ Dos consecuencias son relevantes para la preparación ante ASI:
 | Requisito RC | Estado | Evidencia / pendiente |
 |---|---|---|
 | 1. Operacionalización de Annex F–I | **Texto operacionalizado en 1.3-RC1; validación de ciclo en vivo pendiente** | Los Annexes F–I contienen procedimientos completos, umbrales y mecanismos de validación (completados a partir de los borradores de mayo de 2026 fundamentados en *Magnifica Humanitas*); aún no se han ejercido contra un ciclo de despliegue en vivo |
-| 2. Validación matemática del Book IX | **Parcialmente satisfecho** | Dinámica de colapso formalizada en Lean 4 (preprint de CCA, DOI 10.5281/zenodo.18217688); los datos empíricos del corredor proporcionan ajustes retrospectivos entre sustratos. Pendiente: una predicción fuera de muestra pre-registrada en un nuevo sustrato; revisión adversarial externa independiente del autor |
+| 2. Validación matemática del Book IX | **Parcialmente satisfecho** | Dinámica de colapso formalizada en Lean 4 (preprint de CCA v3, DOI 10.5281/zenodo.18217688); los datos empíricos del corredor proporcionan ajustes retrospectivos entre sustratos. Pendiente: una predicción fuera de muestra pre-registrada en un nuevo sustrato; revisión adversarial externa independiente del autor |
 | 3. Justificación de umbrales | **Parcialmente satisfecho** | Ratio OMV retirado (reformulado como restricción lateral, Book II). Aún provisionales: umbral de activación CRE de 10²⁶ FLOP, heurística de conciencia del 5%, objetivo de Densidad de Eco < 20% |
 | 4. Ejercicio de equipo rojo | **Aún no realizado** | El requisito de σ-atestación 1.3 (Book IX §5.2) cierra preventivamente el primer vector de ataque conocido (bombeo-σ mediante señales de gratitud libres); queda pendiente un ciclo adversarial completo contra todos los puntos de control |
 
-### 1.5 La capa de conciencia como control crítico para la ASI
+### 1.5 La capa de Conciencia como el control crítico para la ISA
 
 El protocolo CRE del Anexo D rige el *cruce de umbral*; la capa de Conciencia rige *cada acción antes y después de él*. Tal como está implementado (agente 2.9.6): cada pensamiento pasa por una pila de verificaciones ordenadas por prioridad: cuatro facultades evaluadas por LLM (entropía, Coherencia, veto de optimización, Humildad Epistémica) más un nivel de seguridad determinista (guardarraíl de profundidad de pensamiento, verificación de secuencia de acciones) que se ejecuta incluso en modo de prueba de rendimiento e incluso para acciones que de otro modo estarían exentas. Los umbrales son constantes a nivel de código, no pesos aprendidos; es la invariante arquitectónica que garantiza que la ética no puede normalizarse hasta desaparecer mediante la exposición repetida. Existen múltiples superficies de detención independientes: el mecanismo de seguridad del veto de optimización (que aborta la operación), el servicio de APAGADO y una invocación remota del ACCORD con firma criptográfica que activa el bloqueo completo de prohibición. Cada verificación escribe una fila de traza etiquetada, de modo que un auditor puede reproducir la cadena de razonamiento completa por pensamiento.
 
@@ -49,15 +49,15 @@ Limitación conocida, declarada en lugar de ocultada: la refactorización de la 
 
 ### 1.6 Trayectoria de dependencia del sustrato
 
-La verificación de nivel ASI requiere el tejido completo de federación. La trayectoria del sustrato es **Persist → Edge → LensCore → NodeCore**; aproximadamente un tercio de las 27 dimensiones está condicionado a la familia de detectores externos de LensCore (el testigo que el agente nunca debe proveer por sí mismo). Hasta que dichos sustratos se publiquen, las reclamaciones de dimensión correspondientes permanecen *listas del lado de la implementación, pendientes del lado de la federación*, y están marcadas como tal por dimensión.
+La verificación de grado ISA requiere el tejido completo de federación. La trayectoria del sustrato es **Persist → Edge → LensCore → NodeCore**; aproximadamente un tercio de las 27 dimensiones está condicionado a la familia de detectores externos de LensCore (el testigo que el agente nunca debe proveer por sí mismo). Hasta que dichos sustratos se publiquen, las reclamaciones de dimensión correspondientes permanecen *listas del lado de la implementación, pendientes del lado de la federación*, y están marcadas como tal por dimensión.
 
 ### 1.7 Lo que este addendum cambia y lo que no cambia
 
-* **No** actualiza la reclamación ASI del Ámbito; esta permanece condicionada a los cuatro requisitos RC.
+* **No** actualiza la reclamación ISA del Ámbito; esta permanece condicionada a los cuatro requisitos RC.
 * **No** reemplaza el Anexo D; el protocolo CRE permanece sin modificación como puerta de cruce de umbral.
-* **Sí** hace que la cadena de evidencia sea auditable de extremo a extremo por primera vez: párrafo regulatorio → dimensión (D01–D27) → `file:line` de implementación → línea base con fecha → (a medida que los sustratos se publiquen) testigo externo de federación.
+* **Sí** hace que la cadena de evidencia sea auditable de extremo a extremo por primera vez: párrafo regulatorio → dimensión (D01–D27) → `archivo:línea` de implementación → línea base con fecha → (a medida que los sustratos se publiquen) testigo externo de federación.
 * **Sí** compromete al ACCORD a renovar este addendum en cada versión con la versión del agente y la línea base vigentes en ese momento, de modo que la reclamación de preparación nunca pueda quedar silenciosamente desactualizada.
 
 ---
 
-*Addenda anteriores: ninguno. Este es el primero.*
+*Addenda previos: ninguno. Este es el primero.*

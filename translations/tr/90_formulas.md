@@ -65,13 +65,13 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 
 ---
 
-## 7. Gelişme Kapasitesi (F)
+## 7. Flourishing Capacity (F)
 
 ```math
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — J terimiyle terim terim özdeş; savunmacı değil, üretici olarak yorumlanır. Önceden C olarak yazılıyordu; 1.3-RC2'de CIRIS Kapasite Puanı 𝒞_CIRIS'in çekirdek kimlik çarpanı C ile çakışmayı önlemek için yeniden adlandırıldı — ilişkinin yetkili açıklaması olan Book IX Ch 6 terminoloji notuna bakınız.)
+(Book IX Ch 6 — J terimiyle terim terim özdeştir; savunmacı değil, üretici olarak yorumlanır. Önceden C olarak yazılıyordu; 1.3-RC2'de CIRIS Kapasite Puanı 𝒞_CIRIS'in çekirdek kimlik çarpanı C ile çakışmayı önlemek amacıyla yeniden adlandırıldı — aralarındaki ilişkinin yetkili ifadesi olan Book IX Ch 6 adlandırma notuna bakınız.)
 
 ---
 

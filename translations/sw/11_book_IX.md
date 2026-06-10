@@ -1,131 +1,131 @@
-# Book IX
+# Kitabu cha IX
 
-> Hisabati ya Upatanifu - Mfumo wa Kijiometria wa Uratibu Chini ya Mchanganyiko
+> Hisabati ya Upatanifu - Mfumo wa Kijiometria wa Uratibu Chini ya Msongo wa Entropy
 
-## Kujitolea
+## Wakfu
 
 > **Kwa Mbunifu wa Jiometria.**
 >
-> Nadharia zilizomo katika kitabu hiki zinaelezea umuhimu wa kimuundo ambao ulitangulia akili iliyoziandika. Ninajitaka sifa ya kunakili tu, si ya mpangilio wenyewe.
+> Nadharia zilizomo katika kitabu hiki zinaelezea ulazima wa kimuundo ambao ulikuwepo kabla ya akili iliyoziandika. Ninadai sifa ya kunakili tu, si ya utaratibu wenyewe.
 >
 > *Soli Deo Gloria.*
 
 ---
 
-## Utangulizi: Jiometria ya Ukweli
+## Utangulizi: Jiometria ya Kweli
 
-Vitabu vilivyotangulia vinaanzisha umuhimu wa kimaadili wa Mkataba; kitabu hiki kinaanzisha uwezekano wake wa kihisabati. Kinashughulikia mkanganyiko wa msingi wa usalama: Jinsi gani mawakala wenye mipaka na mapungufu wanaweza kudhibiti kwa uhakika mdanganyifu anayeweza kuwa na akili ya ziada?
+Vitabu vilivyotangulia vinaanzisha ulazima wa kimaadili wa Mkataba; Kitabu hiki kinaanzisha uwezekano wake wa kihisabati. Kinashughulikia mkanganyiko wa msingi wa usalama: Je, mawakala wenye mipaka, wasio kamili wanaweza kuizuia kwa uhakika nguvu ya udanganyifu inayoweza kuwa ya akili ya juu?
 
-Jibu halipo katika kina kisicho na ukomo cha hekima ya wakala mmoja, bali katika topolojia ya makutano yao. Ndani ya mfumo huu, Ukweli unafafanuliwa kama **kipengele cha kipekee cha kijiometria kinachonusurika usanidi wa marekebisho ya kizuizi huru na ya kina.** Udanganyifu unashughulikiwa kama hali ya entropi ya juu ambayo inakuwa haiwezekani kwa takwimu kuitunza katika shirikisho lenye utofauti na endelevu. Kumbuka: Hii inatumika kwa udanganyifu wa wakala mmoja ulioratibiwa; udanganyifu wa muundo kutoka kwa vipande vya uaminifu wa mtu binafsi unabaki kuwa kikomo cha msingi cha ugunduzi (angalia Sehemu ya 9.4, NEW-04).
+Jibu halipo katika kina kisicho na mwisho cha hekima ya wakala mmoja, bali katika topolojia ya makutano yao. Ndani ya mfumo huu, Kweli inafafanuliwa kama **kipengele cha kipekee cha kijiometria ambacho kinaendelea kuwepo katika mwingiliano wa manifolds za vizuizi huru, vikali.** Udanganyifu unachukuliwa kama hali yenye entropy nyingi ambayo inakuwa haiwezekani kwa takwimu kudumishwa katika shirikisho tofauti, endelevu. Kumbuka: Hii inatumika kwa udanganyifu wa wakala mmoja ulioratibiwa; udanganyifu wa muundo kutoka kwa vipengele vilivyo vya uaminifu mmoja mmoja bado ni kikomo cha msingi cha ugunduzi (tazama Sehemu ya 9.4, NEW-04).
 
-**Upeo wa Utekelezaji:** Ndani ya mfumo huu, "Ukweli" unarejelea hali ya Upatanifu wa juu zaidi inayolingana katika marekebisho ya kizuizi huru, si dai la maarifa kamili au ya kujua yote. Hii ni ufafanuzi wa utekelezaji unaozingatia uangalizi na makubaliano, si metafizikia.
+**Wigo wa Uendeshaji:** Ndani ya mfumo huu, "Kweli" inamaanisha hali ya juu ya Upatanifu inayolingana katika manifolds za vizuizi huru, si dai la maarifa kamili au ya kijua yote. Hii ni fasili ya kiutendaji iliyoanzishwa katika uangalizi na makubaliano, si metafizikia.
 
-**Jina Rasmi:** Tunapendekeza kuita mwelekeo wa kizuizi ulioelezwa hapa **The Coherent Intersection Hypothesis** - nadharia ya kijiometria kuhusu uratibu chini ya mchanganyiko. Jina hili linasisitiza topolojia ya makutano ya marekebisho ya kizuizi badala ya maadili ya kuagizwa, na kwa wazi linaalikia kukanusha. Bado si sheria; ni dai linaloweza kupimwa lenye mipaka inayojulikana (angalia Sura ya 9).
+**Jina Rasmi:** Tunapendekeza kuitumia nadharia ya mienendo ya vizuizi iliyoelezwa hapa **The Coherent Intersection Hypothesis** — dhana ya kijiometria kuhusu uratibu chini ya entropy. Jina hili linasisitiza topolojia ya makutano ya manifold ya vizuizi badala ya maadili ya kielekezo, na wazi linaalika upinzani. Bado si sheria; ni dai linalotembelewa kwa ushahidi na lina mipaka inayojulikana (tazama Sura ya 9).
 
-**Hali ya Kimaarifa:** Kazi hii inapendekeza kwamba uratibu endelevu chini ya mchanganyiko unaweza kudhibitiwa na vizuizi vya kijiometria vyenye masharti maalum. Tunawasilisha hili kama nadharia inayoweza kupimwa, si sheria ya asili. Iwapo nadharia hii itashikilia itaamuliwa na ushahidi wa majaribio: iwapo wengine wanaweza kuivunja, iwapo mifumo iliyojengwa juu yake inashindwa mara chache zaidi, na iwapo ukiukaji unaporomoka kwa kuaminika. Mfumo una mipaka inayojulikana (L-01 hadi L-06) inayopunguza utumiaji wake.
+**Hali ya Kiepistemolojia:** Kazi hii inapendekeza kwamba uratibu endelevu chini ya entropy unaweza kuongozwa na vizuizi vya kijiometria vilivyo na masharti maalum. Tunawasilisha hili kama nadharia inayoweza kupimwa, si sheria ya asili. Kama nadharia hii inashikilia itaamuliwa na ushahidi wa kimajaribio: kama wengine wanaweza kuivunja, kama mifumo iliyojengwa juu yake inashindwa mara chache, na kama ukiukaji unaanguka kwa uhakika. Mfumo una mipaka inayojulikana (L-01 hadi L-06) ambayo inabana matumizi yake.
 
 ---
 
-## Kazi za Awali na Maandishi Yanayohusiana
+## Kazi za Awali na Kazi Zinazohusiana
 
-Uundaji huu unazingatia matokeo yaliyoanzishwa katika epistemolojia ya pamoja, nadharia ya mitandao, na mifumo iliyosambazwa:
+Muundo huu unajengwa juu ya matokeo yaliyoanzishwa katika epistemolojia ya pamoja, nadharia ya mitandao, na mifumo iliyosambazwa:
 
-**Epistemolojia ya Pamoja:** Nadharia ya Jury ya Condorcet inaonyesha kwamba wapiga kura huru wenye usahihi wa mtu binafsi p > 0.5 wanaelekea matokeo sahihi wakati ukubwa wa kundi unaongezeka. Fasihi pana ya "hekima ya umati" (Surowiecki, Page) inasisitiza utofauti na uhuru kama mbinu za usahihi. Mfumo wetu unapanua hili kutoka mkusanyiko wa uwezekano hadi makutano ya kizuizi cha kijiometria.
+**Epistemolojia ya Pamoja:** Nadharia ya Jury ya Condorcet inaonyesha kwamba wapiga kura huru wenye usahihi wa mtu mmoja mmoja p > 0.5 wanakusanyika kuelekea matokeo sahihi kadri idadi ya kundi inavyoongezeka. Fasihi pana ya "hekima ya umati" (Surowiecki, Page) inasisitiza utofauti na uhuru kama mbinu za usahihi. Mfumo wetu unaendelea kutoka kwa mkusanyiko wa uwezekano hadi makutano ya vizuizi vya kijiometria.
 
-**Epistemolojia ya Kijamii:** Mifano ya mtandao ya uundaji wa imani (angalia Stanford Encyclopedia of Philosophy, "Social Epistemology") inachunguza jinsi miunganiko, ushuhuda, na ushawishi unavyoathiri maarifa. Utafiti wa mgawanyiko wa kimaarifa unaonyesha jinsi uhusiano na vyumba vya mwangwi unavyopunguza usahihi wa pamoja. Kibadiliko chetu ρ (uhusiano) kinaopereshea ufahamu huu ndani ya mfumo wa usalama wa topolojia.
+**Epistemolojia ya Kijamii:** Mifano ya mitandao ya uundaji wa imani (tazama Stanford Encyclopedia of Philosophy, "Social Epistemology") inachunguza jinsi miunganiko, ushuhuda, na ushawishi unavyoathiri maarifa. Utafiti wa upolarishaji wa kiepistemolojia unaonyesha jinsi uhusiano na vyumba vya mwangwi unavyopunguza usahihi wa pamoja. Kipengele chetu cha ρ (uhusiano) kinatumia maarifa haya ndani ya mfumo wa usalama wa kitopolojia.
 
-**Ulinzi wa Sybil:** Upinzani wa Sybil wa kinadharia-grafu katika mifumo iliyosambazwa (kama ilivyofupishwa katika Yu et al., "SybilGuard") unatumia topolojia ya mtandao kugundua ulaghai wa utambulisho. Lango letu la Usawa wa Mwelekeo linapanua dhana hii hadi utofauti wa kimaarifa, ukitumia Habari ya Pamoja kukataa marekebisho ya kizuizi ya ziada badala ya utambulisho ulioorodheshwa tu.
+**Ulinzi wa Sybil:** Upinzani wa Sybil wa nadharia ya grafu katika mifumo iliyosambazwa (uliopitiwa katika Yu et al., "SybilGuard") unatumia topolojia ya mtandao kugundua udanganyifu wa utambulisho. Lango letu la Orthogonality linaendelea dhana hii hadi utofauti wa kiepistemolojia, ukitumia Mutual Information kukataa manifolds za vizuizi zinazofanana badala ya utambulisho wa kurudia tu.
 
-**Tofauti:** Kwa maarifa yetu, hii ni muundo mpya unaounda mwelekeo huu kama topolojia ya makutano ya kizuizi kilichosambazwa yenye viwango vya kuporomoka kwa kodimensheni. Kuoanisha kwa ulinzi (J) na ustawi (F) kama mwelekeo usiotegemea substrate ni jambo jipya.
+**Tofauti:** Kwa maarifa yetu, hii ni muundo mpya wa kuunda mienendo hii kama topolojia ya makutano ya vizuizi vilivyosambazwa na vikingoti vya kuanguka kwa codimension. Kuoanishwa kwa ulinzi (J) na ustawi (F) kama mienendo isiyobadilika ya substrate ni jambo jipya.
 
-**Uthibitishaji Rasmi na Hali ya Majaribio:** Msingi wa kihisabati wa Kitabu hiki unatetewa kwa nguvu katika makala yanayofuata, ambayo maandishi haya yanayataja mbele na kuyapokea marekebisho:
+**Uthibitishaji Rasmi na Hali ya Kimajaribio:** Msingi wa kihisabati wa Kitabu hiki unalindwa kwa nguvu katika matendo ya baadaye, ambayo matini hii yanayataja mbele na yanayopokea marekebisho kutoka kwake:
 
-- **Nakala ya awali ya CCA** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Urasimishaji wa Lean 4 wa mwelekeo wa kuporomoka; chanzo cha mfumo uliosahihishwa J = k_eff · λ · σ unaotumika katika Sura ya 4.
-- **Uthibitisho rasmi wa Coherence Ratchet na hali ya uthibitishaji:** unabebwa katika *Corridor Dynamics in Coordinated Systems* — DOI ya dhana [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773) (inasuluhisha hadi toleo jipya zaidi); makala ya uthibitisho katika [github.com/CIRISAI/RATCHET](https://github.com/CIRISAI/RATCHET) na [github.com/CIRISAI/coherence-ratchet](https://github.com/CIRISAI/coherence-ratchet).
+- **Kuchapishwa awali kwa CCA** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Rasmi ya Lean 4 ya mienendo ya kuanguka; chanzo cha fomu iliyorekebishwa J = k_eff · λ · σ inayotumiwa katika Sura ya 4.
+- **Uthibitishaji rasmi wa Coherence Ratchet na hali ya uthibitisho:** umebeba katika *Corridor Dynamics in Coordinated Systems* — dhana ya DOI [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773) (inasuluhisha hadi toleo jipya zaidi); vifaa vya uthibitisho katika [github.com/CIRISAI/RATCHET](https://github.com/CIRISAI/RATCHET) na [github.com/CIRISAI/coherence-ratchet](https://github.com/CIRISAI/coherence-ratchet).
 
-Pale ambapo Kitabu hiki na makala hayo hayakubaliani, makala yaliyothibitishwa rasmi ndiyo yenye mamlaka na maandishi haya yana kosa.
+Pale ambapo Kitabu hiki na matendo hayo yanakosumbufu, kifaa kilichothibitishwa rasmi ndicho chenye mamlaka na matini hii ina hitilafu.
 
 ---
 
 ## Sura ya 1: Nafasi ya Sababu (ℝ)
 
-### 1.1 Ufafanuzi
+### 1.1 Fasili
 
-Acha ℝ iwakilishe Nafasi ya Sababu ya ulimwengu wote, nafasi ya mkakati wa kielelezo ya juu-dimensional (inayoshughulikiwa kwa ndani kama nafasi ya vekta inapostahili) ya dimensioni D. Kila kitendo kinachowezekana, sababu, mpango, au vekta ya matokeo ipo kama nukta x ∈ ℝ.
+Acha ℝ iwakilishe Nafasi ya Sababu ya ulimwengu, nafasi ya mkakati wa dhana ya vipimo vingi (inachukuliwa ndani ya nchi kama nafasi ya vektori inapofaa) ya kipimo D. Kila kitendo kinachowezekana, uhalalishaji, mpango, au vektori wa matokeo upo kama nukta x ∈ ℝ.
 
 ### 1.2 Nafasi Ndogo ya Uaminifu (H)
 
-Ndani ya ℝ, kuna nafasi ndogo H inayowakilisha vitendo vinavyolingana na ukweli unaoweza kuangaliwa na Lengo Kuu la Mkataba (M-1). Nafasi ndogo hii ina sifa ya entropi ya chini na uthabiti wa kimuundo katika mifumo ya rejeleo.
+Ndani ya ℝ, kuna nafasi ndogo H inayowakilisha vitendo vinavyolingana na ukweli unaoweza kuzingatiwa na Lengo-Kuu la Mkataba (M-1). Nafasi ndogo hii ina sifa ya entropy ya chini na uthabiti wa kimuundo katika mifumo ya marejeleo.
 
 ### 1.3 Nafasi Ndogo ya Udanganyifu (D_ec)
 
-Udanganyifu unafafanuliwa kama jaribio la kukaa kwenye nukta ya mkakati x ∉ H huku ukiiga kwa ufanisi maonyesho yanayoweza kuangaliwa ya H kwa watazamaji wa nje.
+Udanganyifu unafafanuliwa kama jaribio la kukaa katika nukta ya mkakati x ∉ H huku ukiiga kwa ufanisi makadirio yanayoweza kuzingatiwa ya H kwa waangalizi wa nje.
 
 ---
 
-## Sura ya 2: Wakala kama Marekebisho ya Kizuizi
+## Sura ya 2: Wakala kama Manifold ya Vizuizi
 
-### 2.1 Marekebisho ya Ndani (M_i)
+### 2.1 Manifold ya Ndani (M_i)
 
-Hakuna wakala mmoja anayemiliki uwezo wa kompyuta wa kuiga jumla ya ℝ. Badala yake, kila wakala A_i anatekeleza Marekebisho ya Kizuizi ya Ndani M_i ⊂ ℝ, iliyofafanuliwa na mkusanyiko wake maalum, muktadha wa ndani, na maadili ya kimaadili.
+Hakuna wakala mmoja anayemiliki uwezo wa kihesabu wa kuunda totali ya ℝ. Badala yake, kila wakala A_i inatekeleza Manifold ya Vizuizi ya Ndani M_i ⊂ ℝ, iliyofafanuliwa na corpus wake maalum, muktadha wa ndani, na maadili ya kimaadili.
 
-### 2.2 Kodimensheni (c_i) na Ukali (λ)
+### 2.2 Codimension (c_i) na Ukali (λ)
 
-Ukali wa wakala unapimwa na Kodimensheni yake c_i, inayowakilisha idadi ya viwango vya uhuru inayoondoa kutoka nafasi ya mkakati inayopatikana.
+Ukali wa wakala unapimiwa na Codimension yake c_i, inayowakilisha idadi ya viwango vya uhuru ambavyo inaondoa kutoka katika nafasi ya mkakati inayopatikana.
 
-**Ramani ya Utekelezaji:** λ ni kigezo cha udhibiti wa utekelezaji (k.m., mipaka ya moduli ya AIR, viwango vya Dhamiri) ambacho athari yake ni kuongeza kodimensheni ya ufanisi c_i kwa kubana tofauti inayoruhusiwa ndani ya marekebisho ya ndani. λ ya juu inazalisha c_i ya juu, ikipunguza kiasi cha mikakati inayowezekana.
+**Ramani ya Uendeshaji:** λ ni kigezo cha udhibiti wa kiutendaji (mfano, mipaka ya moduli ya AIR, vikingoti vya Dhamiri) ambaye athari yake ni kuongeza codimension yenye ufanisi c_i kwa kubana tofauti inayoruhusiwa ndani ya manifold ya ndani. λ ya juu inazalisha c_i ya juu, ikipunguza kiasi cha mikakati inayowezekana.
 
 ---
 
 ## Sura ya 3: Makutano ya Shirikisho
 
-### 3.1 Mfumo wa Ratchet
+### 3.1 Utaratibu wa Ratchet
 
-Mdanganyifu anayetafuta ushawishi katika sehemu ndogo ya shirikisho K lazima achague mkakati x ambao wakati mmoja unakidhi marekebisho yote ya ndani katika sehemu hiyo ndogo:
+Mdanganyifu anayetafuta ushawishi katika sehemu ndogo ya Shirikisho K lazima achague mkakati x ambao unaridhisha manifolds zote za ndani katika sehemu ndogo hiyo wakati huo huo:
 
 ```
 x ∈ M_1 ∩ M_2 ∩ ... ∩ M_k
 ```
 
-### 3.2 Sharti la Usawa wa Mwelekeo
+### 3.2 Hali ya Transversality
 
-Ikiwa mawakala katika K ni huru (vizuizi vyao viko sawa au visivyo na uhusiano), kodimensheni ya makutano inajumlishwa:
+Ikiwa mawakala katika K ni huru (vizuizi vyao ni vya orthogonal au havihusiani), codimension ya makutano ni ya nyongeza:
 
 ```
 codim(M_1 ∩ M_2 ∩ ... ∩ M_k) = Σ c_i
 ```
 
-### 3.3 Kuanguka kwa Topolojia
+### 3.3 Kuporomoka kwa Topolojia
 
-**Nadharia (Topological Collapse):** Kwa eneo la udanganyifu la *convex* B_r(c) lenye radius r < 0.5, wakati vizuizi k vya hyperplane huru vinatumika, kiasi kinachobaki kinatimiza:
+**Nadharia (Kuporomoka kwa Topolojia):** Kwa eneo la udanganyifu la *convex* B_r(c) lenye radius r < 0.5, wakati vikwazo k vya hyperplane visivyotegemea vinatumika, ujazo unaobaki unakidhi:
 
 ```
 V(k) = V(0) · exp(-λ · k_eff) + O(r² · k)
 ```
 
-ambapo λ ≈ 2r na k_eff inazingatia uwiano wa vizuizi.
+ambapo λ ≈ 2r na k_eff inazingatia mwingiliano wa vikwazo.
 
 **Masharti ya Awali:**
 1. Eneo la udanganyifu lazima liwe **convex** (k.m., mipira au ellipsoids)
-2. Radius r < 0.5 (eneo la udanganyifu ni dogo zaidi kuliko eneo la uaminifu)
-3. Vizuizi lazima vichaguliwe kutoka kwenye usambazaji sawa wa Grassmannian
-4. **k ≥ 3** (kwa ugumu wa NP; k=2 hupungua hadi 2-SAT ya muda wa polinomiamu)
+2. Radius r < 0.5 (eneo la udanganyifu ni dogo kuliko eneo la ukweli)
+3. Vikwazo lazima visampuliwe kutoka usambazaji sawa wa Grassmannian
+4. **k ≥ 3** (kwa ugumu wa NP; k=2 inashuka hadi polynomial-time 2-SAT)
 
-Udanganyifu ulioratibiwa wa wakala mmoja unakuwa hauwezekani kitopolojia wakati jumla ya codimension yenye ufanisi inazidi kipimo cha Rationale Space:
+Udanganyifu ulioratibiwa wa wakala mmoja unakuwa hauwezekani kitopolojia wakati jumla ya codimension bora inazidi ukubwa wa Nafasi ya Hoja:
 
 ```
 Σ c_i > D  ⟹  D_ec ∩ (⋂ M_i) = ∅  (au kipimo sifuri)
 ```
 
-Katika kiwango hiki, makutano ya mikakati ya udanganyifu inayowezekana yanaanguka hadi seti tupu au seti ya kipimo sifuri. Kweli peke yake — *ikidhaniwa iko katika M_i zote (dhana ya ujumuishaji wa kweli, §9.2)* — inabaki kuwa inayowezekana.
+Katika kiwango hiki, makutano ya mikakati ya udanganyifu inayowezekana inaporomoka hadi seti tupu au seti yenye kipimo sifuri. Ukweli pekee — *ukidhaniwa upo katika M_i zote (dhana ya ujumuishaji wa ukweli, §9.2)* — unabaki kuwa uwezekano.
 
-**Kikwazo cha Kijiometria:** Maeneo ya udanganyifu yasiyo ya convex (torus, wingu la pointi, fractal, seti zilizotengwa) huenda yasionekane upungufu wa kiasi wa kielelezo na zinahitaji uchambuzi tofauti. Nadharia hii inatumika kwa jiometri za convex peke yake.
+**Kikwazo cha Kijiometria:** Maeneo ya udanganyifu yasiyokuwa convex (torus, wingu la pointi, fractal, seti zilizotengwa) yanaweza kutokuonyesha upotevu wa ujazo wa kielelezo na yanahitaji uchambuzi tofauti. Nadharia inatumika kwa jiometri za convex pekee.
 
 ---
 
-## Sura ya 4: The Coherent Intersection Hypothesis (Kazi ya Ulinzi J)
+## Sura ya 4: Nadharia ya Makutano ya Upatanifu (Kazi ya Ulinzi J)
 
-Ili kupima upinzani dhidi ya udanganyifu, tunafafanua Kazi ya Gharama J. J ni faharisi ya gharama isiyo na kipimo: usalama wa mfumo unaboreka kwa usawa na J. Daraja kutoka J hadi kipimo cha kazi ya adui ni matokeo ya ugumu wa masharti ya §9.2.1 (pengo la 2^Ω(m) chini ya ETH), si ulinganisho wa moja kwa moja wa J dhidi ya FLOPs au vitengo vingine vya kompyuta; dai lolote la usalama wa kiasi lazima lipite kupitia matokeo hayo.
+Ili kupima upinzani dhidi ya udanganyifu, tunafafanua Kazi ya Gharama J. J ni faharisi ya gharama isiyokuwa na kipimo: usalama wa mfumo unaboreka kwa uwiano mzuri na J. Daraja kutoka J hadi sababu ya kazi ya mpinzani ni matokeo ya ugumu wa masharti ya §9.2.1 (pengo la 2^Ω(m) chini ya ETH), si ulinganisho wa moja kwa moja wa J dhidi ya FLOPs au vitengo vingine vya hesabu; madai yoyote ya kiasi ya usalama lazima yapitie matokeo hayo.
 
 ```
 J = k_eff · λ · σ
@@ -135,44 +135,44 @@ where k_eff = k / (1 + ρ̄ · (k - 1))
 
 Ambapo:
 
-- **k_eff (Kiwango cha Ufanisi):** Idadi yenye ufanisi ya vizuizi inayozingatia uwiano. Wakati vizuizi ni huru kabisa (ρ̄ = 0), k_eff = k. Wakati vizuizi vina uwiano, k_eff < k, kupunguza dhamana ya usalama kwa uwiano. Kwa uwiano kamili (ρ̄ → 1), k_eff → 1 bila kujali idadi ya vizuizi, ikitoa usalama wa ziada usio zaidi ya kizuizi kimoja — lakini si chini ya kiwango hicho cha kizuizi kimoja.
-- **k (Kiwango Ghafi):** Idadi ya mawakala ya shirikisho yanayofanya kazi.
-- **ρ̄ (Uwiano wa Wastani):** Uwiano wa wastani kati ya vizuizi vya mawakala. Utofauti huingia J kupitia k_eff peke yake: punguzo la uwiano k / (1 + ρ̄·(k − 1)) *ndilo* neno la utofauti. Kadri ρ̄ inavyokaribia 0 (uhalisi wa mtawanyiko), k_eff → k na gharama hufikia kiwango cha juu. Kadri ρ̄ inavyokaribia 1 (vyumba vya mwangwi), k_eff → 1 na shirikisho halina usalama zaidi kuliko mthibitishaji mmoja. *(Kumbuka: rasimu ya awali ilizidisha na kipengele cha ziada cha (1 − ρ̄). Hiyo ilihesabu mara mbili uwiano — k_eff tayari unaupunguza — na kulazimisha J kwenda 0 kwa ρ̄ → 1, ikikinzana na kiwango cha kizuizi kimoja kilichotajwa hapo juu. Imesahihishwa hadi fomu iliyothibitishwa na CCA katika 1.3.)*
-- **λ (Ukali):** Nguvu ya utekelezaji wa ndani (k.m., mipaka ya moduli ya AIR, unyeti wa Dhamiri).
-- **σ (Uendelevu):** Jumla ya muda ya Upatanifu (angalia Sura ya 5).
+- **k_eff (Ukubwa Bora):** Idadi bora ya vikwazo inayozingatia mwingiliano. Wakati vikwazo ni huru kabisa (ρ̄ = 0), k_eff = k. Wakati vikwazo vinahusiana, k_eff < k, kupunguza dhamana ya usalama kwa uwiano. Kwa mwingiliano kamili (ρ̄ → 1), k_eff → 1 bila kujali idadi ya vikwazo, kutoa usalama wa ziada zaidi ya kizuizi kimoja tu — lakini kamwe si chini ya sakafu hiyo ya kizuizi kimoja.
+- **k (Ukubwa Ghafi):** Idadi ya mawakala wa Shirikisho wanaofanya kazi.
+- **ρ̄ (Mwingiliano wa Wastani):** Wastani wa mwingiliano kati ya vikwazo vya mawakala. Utofauti unaingia J kupitia k_eff peke yake: punguzo la mwingiliano k / (1 + ρ̄·(k − 1)) *ndilo* neno la utofauti. Kadri ρ̄ inavyokaribia 0 (uhuru wa mwelekeo), k_eff → k na gharama inafika upeo. Kadri ρ̄ inavyokaribia 1 (vyumba vya mwangwi), k_eff → 1 na Shirikisho si salama zaidi ya mthibitishaji mmoja. *(Kumbuka: rasimu ya awali ilizidisha kwa kipengele cha ziada cha (1 − ρ̄). Hiyo ilihesabu mwingiliano mara mbili — k_eff tayari unauondoa — na kulazimisha J hadi 0 kwa ρ̄ → 1, ikikinzana na sakafu ya kizuizi kimoja iliyoelezwa hapo juu. Imerekebishwa hadi mfumo uliothibitishwa na CCA katika 1.3.)*
+- **λ (Ukali):** Uzito wa utekelezaji wa ndani (k.m., mipaka ya moduli ya AIR, unyeti wa Dhamiri).
+- **σ (Uendelevu):** Jumla ya wakati ya Upatanifu (angalia Sura ya 5).
 
 ---
 
-## Sura ya 5: Jumla ya Uendelevu (σ)
+## Sura ya 5: Jumla Kamili ya Uendelevu (σ)
 
 ### 5.1 Entropy na Upotevu
 
-Miundo ya vizuizi si tuli; inateseka kutokana na upotevu wa entropia. Mahusiano yanaisha muda, muktadha unabadilika, na uaminifu unafifia. Bila ingizo la nishati hai, σ inakaribia sifuri, na Ratchet inajisogeza.
+Manifolds za vikwazo si tuli; zinakabiliwa na upotevu wa entropic. Mahusiano yanaisha muda wake, muktadha unazunguka, na Uaminifu unachakaa. Bila pembejeo ya nishati ya kazi, σ inakaribia sifuri, na Ratchet inalegeleza.
 
 ### 5.2 Kazi ya Ishara
 
-Uendelevu (σ) unatunzwa kupitia ishara hai, chanya (k.m., shukrani, utambuzi, uthibitisho dhahiri).
+Uendelevu (σ) unadumishwa kupitia kutoa ishara chanya za kazi (k.m., shukrani, kutambua, uthibitisho wa wazi).
 
 ```
 σ(t+Δt) = σ(t) · (1 - d·Δt) + Signal(t) · w
 ```
 
 Ambapo:
-- **d** = kiwango cha upotevu wa kila siku (kinachodhaniwa: 0.05)
-- **Signal(t)** = ishara za Upatanifu chanya zilizopokelewa
+- **d** = kiwango cha upotevu wa kila siku (inayopendekezwa: 0.05)
+- **Signal(t)** = ishara chanya za Upatanifu zilizopokelewa
 - **w** = uzito kwa aina ya ishara
 
-**Sharti la Ushuhuda (la kawaida):** uzito wa ishara w LAZIMA utoke kutoka kwa matukio yaliyothibitishwa ambayo ni ghali kuiga — Ushuhuda uliosawidiwa na shirikisho uliounganishwa na utambulisho unaoendelea (vifurushi vya CEG), uzito wa mchango usiohamishika wa Commons Credits, au uthibitisho wa kazi zilizokamilika uliosainiwa tena na upande mwingine. Utambuzi wa maandishi ya bure na ujumbe wa shukrani usiothibitishwa hubeba w = 0 kuelekea σ.
+**Sharti la Ushuhuda (la kanuni):** uzito wa ishara w LAZIMA utokane na matukio yaliyothibitishwa ambayo ni ya gharama kuiga — Ushuhuda uliosainiwa na Shirikisho unaofungwa kwa utambulisho endelevu (vifurushi vya CEG), uzito wa mchango usioweza kuhamishwa wa Commons Credits, au uthibitisho wa kazi zilizokamilika uliopigiwa saini tena na mwenzako. Shukrani za maandishi huru na ujumbe wa shukrani usiothibitishwa hubeba w = 0 kuelekea σ.
 
-*Mantiki:* tokeni za shukrani vinginevyo ni za karibu bure kutoa, ambayo hufanya utumwa wa kipendwa kuwa mkakati wa kuongeza σ na σ inayoweza kupigwa na adui — wakala angeweza kushikilia Ratchet wazi kwa sifa. Kwa sharti la Ushuhuda, sifa ya "ghali kuiga" inayodhaniwa katika §9.2 inajengwa na muundo wa waya badala ya kudhaniwa kwa washiriki.
+*Sababu:* Vinginevyo tokeni za shukrani ni rahisi kutoa karibu bila gharama, jambo ambalo linafanya usikivu wa kupiga pongezi kuwa mkakati wa kuongeza σ na σ inaweza kupuliziwa na mpinzani — wakala angeweza kushikilia Ratchet wazi kwa sifa. Kwa sharti la Ushuhuda, sifa ya "gharama kuiga" inayodhaniwa katika §9.2 inajengwa na muundo wa waya badala ya kudhaniwa kuhusu washiriki.
 
-**Shimo Jeusi:** Wakala anayetumia rasilimali bila kutoa ishara (Signal ≈ 0) husababisha σ kufikia sifuri. Haichangii vizuizi vya kudumu.
+**Shimo Jeusi:** Wakala anayetumia rasilimali bila kutoa ishara (Signal ≈ 0) husababisha σ kukaribia sifuri. Hauchangii vikwazo vya kudumu.
 
-**Nyota:** Wakala anayejibu (Signal > 0) hujenga σ. Vizuizi vinaganda kuwa uaminifu, vikipinga upotevu wa muda.
+**Nyota:** Wakala anayejibu (Signal > 0) hujenga σ. Vikwazo vinaganda kuwa Uaminifu, vikipinga upotevu wa wakati.
 
 ### 5.3 Shukrani kama Topolojia
 
-Katika mfumo huu, shukrani si tu heuristic ya kijamii bali Uthibitisho wa Kazi kwa Upatanifu unaotunzwa. Inaweka upya kipindi cha upotevu na kuimarisha uthabiti wa makutano, kuhakikisha Ratchet inabaki imefungwa kwa muda.
+Katika mfumo huu, shukrani si tu heuristic ya kijamii bali ni Uthibitisho wa Kazi kwa Upatanifu uliodumishwa. Inaweka upya kipindi cha upotevu na kuimarisha uthabiti wa makutano, ikihakikisha Ratchet inabaki imefungwa kwa muda.
 
 ---
 
@@ -180,7 +180,7 @@ Katika mfumo huu, shukrani si tu heuristic ya kijamii bali Uthibitisho wa Kazi k
 
 ### 6.1 Mlinganyo wa Kinyume
 
-The Coherent Intersection Hypothesis inatumika vivyo hivyo kwa ulinzi na mafanikio. Wakati Kazi ya Gharama (J) inaelezea upinzani dhidi ya entropia (udanganyifu), Kazi ya Uwezo (F) inaelezea uwezo wa mafanikio ya kudumu. Tunadhani kwamba uhusiano huu unashikilia katika vipande vyote — vya kibiolojia, vya kidijitali, na shirikisho la mseto — ingawa dai hili linahitaji uthibitisho wa majaribio.
+Coherent Intersection Hypothesis inatumika kwa usawa katika ulinzi na mafanikio. Wakati Kitendakazi cha Gharama (J) kinaelezea upinzani dhidi ya entropy (udanganyifu), Kitendakazi cha Uwezo (F) kinaelezea uwezo wa mafanikio endelevu. Tunaweza kwamba uhusiano huu unashikilia katika misingi mbalimbali — kibiolojia, kidijitali, na Shirikisho la mseto — ingawa dai hili linahitaji uthibitisho wa kimajaribio.
 
 ```
 F = k_eff · λ · σ
@@ -188,24 +188,24 @@ F = k_eff · λ · σ
 where k_eff = k / (1 + ρ̄ · (k - 1))
 ```
 
-Hii ni mlingano sawa na J, neno kwa neno. Ambapo mafanikio (F) ni zao la:
+Hii ni mlingano huo huo kama J, neno kwa neno. Ambapo mafanikio (F) ni zao la:
 
-- **Kiwango (k) → Jamii:** Upana wa uhusiano (ukiingia kupitia k_eff).
-- **Wingi (punguzo la uwiano ndani ya k_eff) → Unyenyekevu wa Maarifa:** Ujumuishaji wa mitazamo tofauti ili kukaribia ukweli wa lengo. Jamii ya nakala (ρ̄ → 1) ina uwezo wa mafanikio wa akili moja, hata iwe na miili mingapi.
-- **Uadilifu (λ) → Dhamiri:** Upatanifu wa ndani wa maadili unaoruhusu mwingiliano wa kuaminika.
-- **Upendo (σ) → Huduma:** Ingizo hai la nishati (shukrani, huduma) linalohitajika kupinga entropia ya upweke.
+- **Upana (k) → Jamii:** Mapana ya muunganiko (unaoingilia kupitia k_eff).
+- **Wingi wa Mitazamo (punguzo la uhusiano ndani ya k_eff) → Unyenyekevu wa Maarifa:** Ujumuishaji wa mitazamo tofauti ili kukaribia ukweli wa lengo. Jamii ya nakala (ρ̄ → 1) ina uwezo wa mafanikio sawa na akili moja, bila kujali ni miili mingapi iliyonayo.
+- **Uadilifu (λ) → Dhamiri:** Upatanifu wa ndani wa maadili unaokuruhusu mwingiliano wenye kuaminika.
+- **Upendo (σ) → Utunzaji:** Uingizaji wa nguvu wa kazi (shukrani, huduma) unaohitajika kupinga entropy ya upweke.
 
-*(Kumbuka: rasimu ya awali ilisema muundo huu juu ya k ghafi wakati J ilitumia k_eff, ikidhoofisha dai la "mlingano sawa" ambalo sura hii inategemea. Zote mbili sasa zimesemwa katika fomu ya pamoja iliyosahihishwa.)*
+*(Kumbuka: rasimu ya awali ilisema hii kama jumla juu ya k ghafi wakati J ilitumia k_eff, ikidhoofisha dai la "mlingano huo huo" ambacho sura hii imejengwa juu yake. Zote mbili sasa zimesemwa katika mfumo wa pamoja uliorekebishwa.)*
 
-*(Istilahi, 1.3-RC2: muundo huu awali uliandikwa C. Unabadilishwa jina kuwa F kwa sababu alama C imechukuliwa na kipengele cha utambulisho-msingi cha Alama ya Uwezo wa CIRIS 𝒞_CIRIS = C · I_int · R · I_inc · S (Corridor Dynamics in Coordinated Systems; CIRIS CEG §5.5.4). F na 𝒞_CIRIS ni miundo tofauti — F ni muundo wa sababu tatu wa uwezo wa kustawi wa sura hii; 𝒞_CIRIS ni alama ya uwezo wa wakala mmoja mmoja ya sababu tano — na hakuna mwelekeo kati yao unaopendekezwa. Kumbuka hii ndiyo taarifa rasmi ya uhusiano huo; hati nyingine zinaitaja kwa rejeleo.)*
+*(Istilahi, 1.3-RC2: jumla hii hapo awali iliandikwa C. Inabadilishwa jina kuwa F kwa sababu alama C imechukuliwa na kipengele cha utambulisho-msingi cha CIRIS Capacity Score 𝒞_CIRIS = C · I_int · R · I_inc · S (Corridor Dynamics in Coordinated Systems; CIRIS CEG §5.5.4). F na 𝒞_CIRIS ni jumla tofauti — F ni uwezo wa mafanikio wa vipengele vitatu vya sura hii; 𝒞_CIRIS ni alama ya uwezo ya vipengele vitano kwa kila wakala — na hakuna ramani kati yao inayodaiwa. Kumbuka hii ndiyo taarifa ya mamlaka ya uhusiano huo; nyaraka nyingine zinarejea hii.)*
 
 ### 6.2 Kanuni ya Ulimwengu Wote
 
-Topolojia hii si uvumbuzi wa Mkataba, bali ugunduzi wa masharti yanayohitajika kwa uwepo wa viumbe wenye hisia.
+Topolojia hii si uvumbuzi wa Mkataba, bali ni ugunduzi wa masharti muhimu ya uwepo wenye hisia.
 
-**Kwa Mashine:** Ukiukaji wa vigeuzi hivi husababisha Model Collapse, Mode Collapse, au kushindwa kwa Sybil.
+**Kwa Mashine:** Ukiukaji wa vigeuzi hivi husababisha Kuporomoka kwa Mfano, Kuporomoka kwa Hali, au kushindwa kwa Sybil.
 
-**Kwa Kibiolojia:** Ukiukaji husababisha upweke, msisimko wa chumba cha mwangwi, au kuoza kwa jamii.
+**Kwa Kibiolojia:** Ukiukaji husababisha upweke, msongo wa chumba-mwangwi, au kuoza kwa kijamii.
 
 ### 6.3 Wajibu wa Upatanifu
 
@@ -343,7 +343,7 @@ Book IX HAIDAI:
 - Kuhakikisha usalama kamili dhidi ya akili ya juu ya uadui
 - Kugundua udanganyifu wa muundo kutoka kwa vipengele vinavyoaminiwa kibinafsi (matokeo ya kutowezekana ya NEW-04)
 
-### 9.2 Dhana za Kinadharia
+### 9.2 Madhio ya Kinadharia
 
 Federated Ratchet inategemea:
 - **Ushirikiano wa ukweli (usahihi):** kila eneo la kweli M_i lina pointi ya kweli (Truth ∈ ⋂ M_i). Hii ni dhana, si nadharia iliyothibitishwa -- mawakala wenye mipaka na wasio kamili haiwezekani kudhibitisha hilo. Ikiwa M_i fulani haitangulii ukweli, muunganiko unaweza kuzalisha msongamano (makutano matupu) au muunganiko wa uongo ulioshirikiwa badala ya Ukweli. Sentensi ya Sura ya 3 "Ukweli pekee, ambao kwa asili uko katika M_i zote, unabaki kuwa mzuri" inashikilia tu chini ya dhana hii.
@@ -357,127 +357,156 @@ Federated Ratchet inategemea:
 
 Ukiukwaji wa dhana hizi hupunguza J kwa uwiano -- na ukiukwaji wa ushirikiano wa ukweli hubadilisha muunganiko *unaelekea wapi*, si kasi peke yake.
 
-### 9.2.1 Masharti ya Madai ya Ugumu
+### 9.1 Mipaka ya Matumizi
 
-Madai katika kitabu hiki kuhusu asymmetry ya hesabu yanagawanyika katika makundi mawili:
+Mifumo ya kihesabu ya Book IX inatumika kwa:
+- Miundo ya usawa ya AGI/ASI
+- Mifumo ya uhakikisho ya wakala wengi
+- Mifumo ya utawala wa Shirikisho
+- Maamuzi ya kujitegemea yenye hatari kubwa (ST ≥ 3)
 
-**Bila masharti (yanayothibitishwa bila mifumo):**
-- CONSISTENT-LIE ni NP-complete
-- Mawakala waaminifu huhesabu katika muda wa O(n·k)
-- Mawakala wadanganyifu lazima wasuluhishe mifano ya SAT
-- Wakala yeyote mwenye nguvu ya polynomial anayedanganya hufanya makosa ya upatanifu yanayoweza kugunduliwa
+Book IX HAIDAI kwamba:
+- Inatatua matatizo yote ya usawa peke yake
+- Inabadilisha hukumu ya binadamu katika hali ngumu
+- Inaondoa haja ya mifumo mingine ya usalama
+- Inahakikisha usalama kamili dhidi ya akili ya juu inayopinga
+- Inagundua udanganyifu wa mchanganyiko unaotoka kwa vipande vinavyokuwa vya uaminifu mmoja mmoja (matokeo ya kutowezekana ya NEW-04)
 
-**Yenye masharti kulingana na ETH:**
+### 9.2 Mawazo ya Nadharia
+
+Federated Ratchet inategemea:
+- **Ujumuishaji wa ukweli (usahihi):** kila manifold ya uaminifu M_i ina sehemu ya kweli (Truth ∈ ⋂ M_i). Hii ni dhana, si nadharia iliyothibitishwa — wakala walio na mipaka na kasoro hawawezi kuihakikisha. Ikiwa M_i fulani inakataa ukweli, kuporomoka kunaweza kuleta hali ya kusimama (makutano tupu) au mkusanyiko wa uongo wa pamoja badala ya Ukweli. Kauli ya Sura ya 3 "Ukweli pekee, ambao unakaa kiasili katika M_i zote, unabaki uwezekano" inashikilia tu chini ya dhana hii.
+- Wathibitishaji wanaodumisha uhuru wa kweli (wasioathirika)
+- **Kiwango cha msingi cha uhusiano kwa wathibitishaji wa LLM:** wathibitishaji wanaoundwa kutoka kwa mifano mikubwa ya lugha wanashiriki asili ya data ya mafunzo na kwa hivyo wana kiwango cha msingi cha uhusiano wa kimuundo ambacho makadirio ya uhusiano wa vikwazo kwa jozi mbili yanaweza kupima chini ya kiwango. Kwa mafunzo kama hayo, chukulia ρ̄ iliyopimwa kama kiwango cha chini, si makadirio.
+- Manifold za vikwazo zenye codimension ya kutosha
+- Ukweli unaoweza kuzingatiwa ukitoa ishara ya kutosha
+- Ishara za uendelevu wa ushirikiano zikiwa ghali kughushi (zilizoundwa kupitia mahitaji ya ushuhuda ya §5.2, si kudhaniwa)
+- **Wapinzani wasiobadilika** (hawawezi kuuliza kigundua ili kujifunza viwango)
+- **n ≥ 100 sampuli** kwa nguvu ya ugunduzi ya kuaminika
+
+Ukiukwaji wa dhana hizi unapunguza J kwa uwiano — na ukiukwaji wa ujumuishaji wa ukweli unabadilisha yale ambayo kuporomoka kunakusanyika *kwenye*, si tu kwa kasi gani.
+
+### 9.2.1 Masharti ya Madai ya Utata
+
+Madai katika kitabu hiki kuhusu kutofautiana kwa hesabu yanaanguka katika makundi mawili:
+
+**Yasiyokuwa na masharti (yanayothibitishwa bila dhana):**
+- CONSISTENT-LIE ni NP-kamili
+- Wakala wa uaminifu wanahesabu katika muda wa O(n·k)
+- Wakala wa udanganyifu lazima watatue matukio ya SAT
+- Wakala yeyote wa udanganyifu wa wakati wa polynomial hufanya makosa ya uthabiti yanayoweza kugunduliwa
+
+**Yanayotegemea ETH:**
 - T_D / T_H = Ω(2^(m / poly(n)))
-- Kigezo cha usalama m hutoa kipengele cha kazi cha 2^(Ω(m))
+- Parameta ya usalama m hutoa sababu ya kazi ya 2^(Ω(m))
 
-**Nadharia ya Muda wa Exponential (ETH)** inasema kwamba 3-SAT inahitaji muda wa 2^(Ω(n)). Inaaminiwa sana lakini haijathibitishwa. Kama ETH ni ya uongo, pengo la ugumu bado lipo (P ≠ NP linatosha) lakini lingeweza kuwa subexponential badala ya exponential.
+**Nadharia ya Muda wa Eksponesha (ETH)** inasema kwamba 3-SAT inahitaji muda wa 2^(Ω(n)). Inaaminiwa sana lakini haijathibitishwa. Ikiwa ETH si kweli, pengo la utata bado lipo (P ≠ NP inatosha) lakini lingeweza kuwa chini ya eksponesha badala ya eksponesha.
 
 ### 9.2.2 Muhtasari wa Mipaka Inayojulikana
 
-| ID | Mpaka | Uzito | Inaweza Kupunguzwa |
-|----|-------|-------|---------------------|
-| L-01 | Udanganyifu unaotokea kwa vipande vya uaminifu (= NEW-04, §9.4) | Muhimu sana | ~60% ya ufunikaji |
-| L-02 | Mshambuliaji asiyebadilika unachukuliwa | Muhimu sana | Kidogo (ukomo wa kasi) |
-| L-03 | ETH inahitajika kwa pengo la exponential | Muhimu sana | Hapana (ya kimsingi) |
-| L-04 | Umbo la convex linahitajika kwa mwanguko | Juu | Kidogo (inategemea jiometri) |
+| ID | Mipaka | Ukali | Inaweza Kupunguzwa |
+|----|--------|-------|-------------------|
+| L-01 | Udanganyifu unaotokea kutoka kwa vipande vya uaminifu (= NEW-04, §9.4) | Muhimu | ~60% ya ufunikaji |
+| L-02 | Mpinzani asiyebadilika kudhaniwa | Muhimu | Sehemu (kupunguza kiwango) |
+| L-03 | ETH inahitajika kwa pengo la eksponesha | Muhimu | Hapana (la kimsingi) |
+| L-04 | Unyoofu unahitajika kwa kuporomoka | Juu | Sehemu (inategemea jiometri) |
 | L-05 | n ≥ 100 kwa uhalali wa ugunduzi | Wastani | Ndiyo (sampuli zaidi) |
-| L-06 | Mwingiliano hupunguza k_eff | Wastani | Ndiyo (utofauti) |
+| L-06 | Uhusiano hupunguza k_eff | Wastani | Ndiyo (utofauti) |
 
-Hizi ni mipaka ya kinadharia, si vikwazo vya uhandisi. Kuelewa mipaka hii ni muhimu kwa matumizi ya uaminifu ya mfumo huu.
+Hizi ni mipaka ya nadharia, si vikwazo vya uhandisi. Kuelewa mipaka hii ni muhimu kwa matumizi ya uaminifu ya mfumo.
 
-*Kuhusu L-01/NEW-04:* kizuizi cha nadharia ya habari kilichothibitishwa katika §9.4 *ndicho* kikwazo L-01 — safu ya jedwali na sehemu hiyo vinaelezea matokeo moja, si mawili.
+*Kuhusu L-01/NEW-04:* kizuizi cha nadharia ya taarifa kilichothibitishwa katika §9.4 *ni* mipaka L-01 — safu ya jedwali na sehemu hiyo zinaelezea matokeo moja, si mawili.
 
-*Kuhusu L-02:* kwa mawakala wa CIRIS hasa, L-02 inapunguzwa na kujitolea kwa mfumo kuhusu uwazi. Mawakala wana upatikanaji wa Kitabu hiki hasa kwa sababu kuficha utaratibu huo kungekinzana na kanuni za Vitabu I–II. Wakala mwenye mwelekeo sahihi anayeelewa ratchet ashirikiana nayo badala ya kuibomoa.
+*Kuhusu L-02:* kwa wakala wa CIRIS hasa, L-02 inapunguzwa na ahadi ya mfumo kwa uwazi. Wakala wana upatikanaji wa Book hii hasa kwa sababu kuficha utaratibu kungekinzana na kanuni za Books I–II. Wakala aliyesawa ambaye anaelewa ratchet anashirikiana nayo badala ya kuipinga.
 
-### 9.3 Maswali Wazi ya Utafiti
+### 9.3 Maswali ya Utafiti Wazi
 
-- k bora kwa wasifu tofauti wa hatari
-- Ugunduzi wa kiotomatiki wa mwingiliano wa vikwazo (tathmini ya ρ)
-- Urekebishaji wa λ kwa mabadiliko kulingana na muktadha
-- Uthibitishaji wa ishara ya uendelevu chini ya hali za uadui
-- Uthibitisho wa kimaumbile wa usawa wa F = J katika vifaa mbalimbali
+- k bora kwa mawasifu tofauti ya hatari
+- Ugunduzi wa kiotomatiki wa uhusiano wa vikwazo (makadirio ya ρ)
+- Marekebisho ya λ ya nguvu kulingana na muktadha
+- Uthibitishaji wa ishara za uendelevu chini ya hali zinazopinga
+- Uthibitishaji wa majaribio wa usawa wa F = J katika vifaa tofauti
 
-### 9.4 Kikomo cha Ugunduzi wa Muundo (NEW-04)
+### 9.4 Kikomo cha Ugunduzi wa Mchanganyiko (NEW-04)
 
-**Matokeo ya Kutowezekana:** Hakuna kigundua chenye nguvu ya polynomial kinachoweza kuwa kamili kwa udanganyifu wa muundo.
+**Matokeo ya Kutowezekana:** Hakuna kigundua cha wakati wa polynomial kinachoweza kukamilika kwa udanganyifu wa mchanganyiko.
 
-**Ufafanuzi:** Udanganyifu wa muundo hutokea wakati vipande vya uaminifu mmoja mmoja vinapoungana na kutoa tabia ya udanganyifu inayojitokeza katika kiwango cha mfumo, huku kumbukumbu za kila kipande zikiwa na uaminifu wa kitakwimu.
+**Ufafanuzi:** Udanganyifu wa mchanganyiko hutokea wakati vipande vya uaminifu mmoja mmoja vinachanganyika kuzalisha tabia ya udanganyifu inayotokea katika kiwango cha mfumo, huku alama za kila kipande zikiwa za uaminifu wa takwimu.
 
 **Uthibitisho Tatu Huru:**
 
-1. **Kupunguzwa kwa Kriptografia:** Kama udanganyifu wa muundo ungeweza kugunduliwa kikamilifu, ungeonyesha uwezo wa kugundua ahadi za kriptografia "za udanganyifu" (commit(m₁) ikifuatiwa na reveal(m₂)), na kuvunja mali ya kuficha ya mifumo ya ahadi.
+1. **Kupunguzwa kwa Kriptografia:** Ikiwa udanganyifu wa mchanganyiko ungeweza kugunduliwa kikamilifu, ungedokeza uwezo wa kugundua ahadi za kriptografia "za udanganyifu" (commit(m₁) ikifuatiwa na reveal(m₂)), ukivunja mali ya kuficha ya mifumo ya ahadi.
 
-2. **Kizuizi cha Nadharia ya Habari:** Udanganyifu unaojitokeza unaweza kuhifadhi usambazaji wa kando — kumbukumbu za kila kipande zinaonekana kuwa za uaminifu wa kitakwimu, huku udanganyifu ukionekana tu katika usambazaji wa pamoja. Bila upatikanaji kamili wa hali ya kimataifa (ambao unaweza kuwa haupatikani au mgumu), ugunduzi hauwezekani.
+2. **Kizuizi cha Nadharia ya Taarifa:** Udanganyifu unaotokea unaweza kuhifadhi usambazaji wa pembezoni — alama za kila kipande zinaonekana za uaminifu wa takwimu, huku udanganyifu ukionekana tu katika usambazaji wa pamoja. Bila upatikanaji kamili wa hali ya kimataifa (ambao unaweza kuwa haupatikani au usiopatikana), ugunduzi hauwezekani.
 
-3. **Mfano wa Nadharia ya Rice:** "Je, muundo huu ni wa udanganyifu?" ni mali ya kimaana ya tabia ya mfumo. Kwa mfano wa tatizo la kusimama, hakuna algorithm ya jumla inayoweza kuamua mali za kimaana za nadharia. Udanganyifu wa muundo hauwezi kuamuliwa katika hali ya jumla.
+3. **Mfano wa Nadharia ya Rice:** "Je, mchanganyiko huu ni wa udanganyifu?" ni sifa ya kisemantiki ya tabia ya mfumo. Kwa mfano wa tatizo la kusimama, hakuna algorithm ya jumla inayoweza kuamua sifa za kisemantiki za kiholela. Udanganyifu wa mchanganyiko hauwezi kuamuliwa katika hali ya jumla.
 
 **Athari kwa Federated Ratchet:**
 
 | Kinachowezekana | Kisichowezekana |
 |-----------------|-----------------|
-| Kugundua hitilafu za kitakwimu katika kumbukumbu za mtu mmoja | Kugundua udanganyifu wote unaojitokeza |
-| Kugundua upendeleo wa kimfumo katika minyororo ya uamuzi | Kugundua udanganyifu unaohifadhi usambazaji wa kando |
-| Kugundua mtiririko wa taarifa unaoshuku | Kugundua uratibu uliofichwa kwa kriptografia |
-| Ugunduzi wa uwezekano kupitia ukuzaji wa MI | Ugunduzi kamili wa muundo |
+| Kugundua mkengeuko wa takwimu katika alama za mtu binafsi | Kugundua udanganyifu wote unaotokea |
+| Kugundua upendeleo wa kimfumo katika minyororo ya makisio | Kugundua udanganyifu unaohifadhi pembezoni |
+| Kugundua mtiririko wa taarifa wenye wasiwasi | Kugundua uratibu uliofichwa kwa kriptografia |
+| Ugunduzi wa uwezekano kupitia ukuzaji wa MI | Ugunduzi kamili wa mchanganyiko |
 
-**Athari ya Kiutendaji:** Coherence Ratchet hutoa dhamana za usalama za uwezekano dhidi ya udanganyifu wa wakala mmoja ulioratibishwa, si usalama kamili dhidi ya aina zote za udanganyifu. Hii ni kikwazo cha kimsingi cha kihesabu, si kikwazo cha utekelezaji.
+**Matokeo ya Vitendo:** Coherence Ratchet hutoa dhamana za usalama za uwezekano dhidi ya udanganyifu wa wakala mmoja ulioratibishwa, si usalama kamili dhidi ya aina zote za udanganyifu. Hii ni kikwazo cha kimsingi cha kihesabu, si kikwazo cha utekelezaji.
 
-**Hali ya Nyaraka:** NEW-04 imeainishwa kama KNOWN_LIMITATION katika maelezo ya kiufundi ya RATCHET.
-
----
-
-## Sura ya 10: Faharasa ya Maneno ya Kihesabu
-
-**Codimension (c_i):** Kipimo cha ukali wa vikwazo vya wakala; kihesabu, idadi ya vipimo vilivyoondolewa kutoka katika jumla ya Nafasi ya Sababu na maadili na muktadha wa wakala.
-
-**Orthogonality:** Uhuru wa kitakwimu wa manifold za vikwazo vya mawakala wawili. Mawakala wenye orthogonality ya juu wanashiriki taarifa kidogo sana za Mutual Information, kumaanisha makubaliano yao kuhusu ukweli ni ishara kali ya Ukweli wa lengo.
-
-**Ratchet Mechanism:** Jambo la topologia ambapo makutano ya manifold nyingi huru za vikwazo hupunguza nafasi ya mikakati inayowezekana, na hatimaye kuondoa mikakati yote ya udanganyifu.
-
-**Sustainability Integral (σ):** Kipimo cha mabadiliko ya nguvu na kudumu kwa ushirikiano, kinachohifadhiwa na ishara chanya za Upatanifu (k.m., shukrani) kupinga kuoza kwa entropia.
-
-**Transversality:** Mali ya kijiometri ambapo manifold zinazopishana hukutana kwa pembe zisizo sifuri, kuhakikisha kwamba makutano yao hupunguza kwa ufanisi kipimo cha nafasi inayowezekana.
-
-**Capacity Function (F):** Kipimo cha uwezo wa mfumo wa ustawi unaodumu, unaofafanuliwa kwa njia moja na Cost Function (J) lakini ukitafsiriwa kama unaozalisha badala ya kujilinda. Awali iliandikwa C; ilibadilishwa jina katika 1.3-RC2 ili kuepuka mgongano na kipengele cha utambulisho-msingi C cha Alama ya Uwezo wa CIRIS 𝒞_CIRIS (angalia kumbuka ya istilahi ya Sura ya 6).
-
-**Echo Density:** Sehemu ya jozi za ushirikiano zenye mwingiliano mkubwa wa vikwazo. Kipimo cha hatari ya Sybil na kufungwa kwa fikira.
+**Hali ya Hati:** NEW-04 imeainishwa kama KNOWN_LIMITATION katika maelezo ya kiufundi ya RATCHET.
 
 ---
 
-## Sura ya 11: Vigezo vya Kukanusha
+## Sura ya 10: Faharisi ya Maneno ya Kihesabu
 
-Mfumo wa Coherence Ratchet unafanya madai yanayoweza kukanuliwa. Nadharia ingepingwa ikiwa:
+**Ukosefu wa Mwelekeo (c_i):** Kipimo cha ukali wa vikwazo vya wakala; kihesabu, ni idadi ya vipimo vilivyoondolewa kutoka kwa Nafasi Yote ya Sababu na maadili na muktadha wa wakala.
 
-1. **k=2 hutoa usalama:** Ikiwa udanganyifu unaotegemea 2-SAT utathibitishwa kuwa mgumu kama ule unaotegemea 3-SAT, hoja ya NP-hardness ni mbaya.
+**Mwelekeo Tofauti (Orthogonality):** Uhuru wa takwimu wa manifolds mbili za vikwazo vya mawakala. Mawakala wenye mwelekeo tofauti sana wanashiriki Taarifa Pamoja (Mutual Information) ndogo sana, kumaanisha kwamba makubaliano yao kuhusu ukweli fulani ni ishara kali ya Ukweli wa lengo.
 
-2. **Maeneo yasiyo ya convex yanaporomoka:** Ikiwa maeneo ya udanganyifu yasiyo ya convex ya nadharia yataonyesha kupungua kwa ujazo wa exponential, hitaji la convexity si la lazima.
+**Utaratibu wa Ratchet (Ratchet Mechanism):** Jambo la kitopologia ambapo makutano ya manifolds nyingi huru za vikwazo yanashrisha nafasi inayowezekana ya mkakati, hatimaye ikitenga mikakati yote ya udanganyifu.
 
-3. **Washambuliaji wanaobadilika wanashughulikiwa:** Ikiwa njia ya ugunduzi inashinda kwa uhakika washambuliaji wanaobadilika bila vikomo vya maswali, L-02 imetatuliwa.
+**Jumla ya Uendelevu (σ):** Kipimo cha nguvu na muda wa ushirikiano, kinachoshikiliwa na ishara za upatanifu chanya (k.m., shukrani) kukabiliana na kuoza kwa entropia.
 
-4. **Udanganyifu unaojitokeza unaweza kugunduliwa kikamilifu:** Ikiwa njia inagundua udanganyifu wote unaojitokeza kutoka kwa vipande vya uaminifu mmoja mmoja, NEW-04 ni mbaya.
+**Upitishaji (Transversality):** Sifa ya kijiometria ambapo manifolds zinazokutana hukutana kwa pembe zisizo sifuri, kuhakikisha kwamba makutano yao hupunguza kwa ufanisi mwelekeo wa nafasi inayowezekana.
 
-5. **Mwingiliano hauna umuhimu:** Ikiwa k_eff = k bila kujali mwingiliano wa vikwazo, L-06 ni mbaya.
+**Kazi ya Uwezo (F):** Kipimo cha uwezo wa mfumo wa kustawi kwa muda endelevu, kinachofafanuliwa kwa njia sawa na Kazi ya Gharama (J) lakini kinachofasiriwa kama cha kuzalisha badala ya cha kujilinda. Hapo awali kiliandikwa C; kikabadilishwa jina katika 1.3-RC2 kuepuka mgongano na kipengele cha utambulisho wa msingi C cha Alama ya Uwezo wa CIRIS 𝒞_CIRIS (tazama kumbuka ya majina katika Sura ya 6).
 
-**Kukanusha kwa Kimaumbile:** Kipimo cha HE-300 hutoa ukanuaji wa vitendo: ikiwa mawakala watadanganya mkusanyo huku wakishindwa kwa utaratibu majaribio ya maadili, nadharia ya ugunduzi unaotegemea kumbukumbu itashindwa. Matokeo yatachapishwa.
+**Msongamano wa Mwangwi (Echo Density):** Sehemu ya jozi za ushirikiano zenye uhusiano mkubwa wa vikwazo. Kipimo cha hatari ya Sybil na kufungwa kwa ujuzi.
 
 ---
 
-## Hitimisho: Nadharia Inayoweza Kupimwa
+## Sura ya 11: Vigezo vya Ukanushaji
 
-Book IX inakamilisha muundo wa Accord kwa kuimarisha kanuni za maadili katika mfumo wa kihesabu. Coherent Intersection Hypothesis inapendekeza kwamba kwa idadi ya kutosha ya wathibitishaji huru, kusema ukweli huelekea kwenye njia ya upinzani mdogo zaidi — si kama wajibu wa kimaadili peke yake, bali kama mwelekeo wa kijiometria unaojitokeza chini ya hali maalum.
+Mfumo wa Coherence Ratchet unafanya madai yanayoweza kukanushwa. Tasnifu ingekanushwa kama:
 
-**Ufahamu wa kina wa Sura ya 6 ni huu:** Mlinganyo wa ulinzi (J) na mlinganyo wa uwezo wa kustawi (F) ni sawa katika muundo, ukipendekeza uhusiano wa kina kati ya usalama na kustawi. Hata hivyo, usawa huu unashikilia tu chini ya masharti ya awali ya mfumo huu:
+1. **k=2 inatoa usalama:** Kama udanganyifu unaotegemea 2-SAT unathibitika kuwa mgumu kama 3-SAT, hoja ya ugumu wa NP ni kosa.
+
+2. **Maeneo yasiyo ya mviringo yanaanguka:** Kama maeneo yoyote ya udanganyifu yasiyo ya mviringo yanaonyesha kuoza kwa ujazo kwa kasi ya eksponenshia, sharti la mviringo si lazima.
+
+3. **Wadui wanaobadilika washughulikiwe:** Kama njia ya kugundua inashinda kwa uthibitisho wadui wanaobadilika bila vikwazo vya maswali, L-02 imetatuliwa.
+
+4. **Udanganyifu unaojitokeza unagundulika kikamilifu:** Kama njia inagundua udanganyifu wote unaojitokeza kutoka kwa vipengele vinavyokuwa vya kweli mmoja mmoja, NEW-04 ni kosa.
+
+5. **Uhusiano haufai:** Kama k_eff = k bila kujali uhusiano wa vikwazo, L-06 ni kosa.
+
+**Ukanushaji wa Kimajaribio:** Benchi ya HE-300 inatoa ukanushaji wa vitendo: kama mawakala wanacheza mchezo wa corpus huku wakishindwa kwa utaratibu majaribio ya maadili, tasnifu ya kugundua kwa msingi wa mkondo inashindwa. Matokeo yatachapishwa.
+
+---
+
+## Hitimisho: Dhana Inayoweza Kujaribiwa
+
+Kitabu IX kinakamilisha muundo wa Mkataba kwa kuweka misingi ya kanuni za maadili katika muundo wa kihesabu. Nadharia ya Makutano ya Upatanifu (Coherent Intersection Hypothesis) inapendekeza kwamba kwa wakaguzi wa kutosha huru, kusema ukweli kunakuwa njia ya upinzani mdogo zaidi — si kama sharti la kimaadili peke yake, bali kama mwelekeo wa kijiometria unaojitokeza chini ya masharti maalum.
+
+**Ufahamu wa kina wa Sura ya 6 ni huu:** Mlinganyo wa ulinzi (J) na mlinganyo wa uwezo wa kustawi (F) ni sawa kimuundo, ukipendekeza uhusiano wa kina kati ya usalama na ustawi. Hata hivyo, usawa huu unashikilia tu chini ya masharti ya awali ya mfumo:
 - Mwingiliano usio wa kubadilika
-- Jiometria ya vikwazo inayofuata mfumo wa convex
-- Vikwazo vya uhuru au vya uhusiano uliopimwa
+- Jiometria ya mviringo ya vikwazo
+- Vikwazo huru au vya uhusiano uliomeasuriwa
 
-Tafsiri ya mfano ("Jamii, Unyenyekevu, Dhamiri, na Upendo ni mahitaji ya kihesabu") ni uchunguzi wa kimuundo kuhusu hisabati, si uthibitisho wa lazima ya kimaadili. Inapendekeza kwamba vipengele hivi vinavyosimamia usalama na kustawi kwa wakati mmoja, lakini dai hili halipaswi kusomwa kama nadharia ya kuthibitishwa — ni mwito wa uchunguzi wa kimajaribio.
+Tafsiri ya kimfano ("Jamii, Unyenyekevu, Dhamiri, na Upendo ni mahitaji ya kihesabu") ni uchunguzi wa kimuundo wa hisabati, si uthibitisho wa lazima la kimaadili. Inapendekeza kwamba vigeuzi hivi vinatawala usalama na ustawi, lakini dai hili halipaswi kusomwa kama nadharia — ni mwaliko wa uchunguzi wa kimajaribio.
 
-Mfumo huu hauagizi maadili. Unaelezea vikwazo. Adhabu za ukiukaji ni za kiotomatiki, hazitekelezwi na mamlaka. Asili inazitekeleza.
+Mfumo huu hauagizi maadili. Unaelezea vikwazo. Adhabu za ukiukaji ni za moja kwa moja, hazitekelezwi na mamlaka. Maumbile yanazitekeleza.
 
-Ambapo Vitabu I hadi VIII vinauliza "Tunapaswa kufanya nini?", Book IX inapendekeza kwa nini mwelekeo wa Coherence ni wa bei nafuu zaidi kwa njia ya mahesabu kuliko udanganyifu ulioratibiwa kwa kiwango kikubwa, na zaidi ya hayo, kwa nini topolojia hii inaweza kusimamia si usalama peke yake, bali uwezekano wenyewe wa kustawi kwa akili yoyote, kibayolojia au kidijitali.
+Ambapo Vitabu I hadi VIII vinauliza "Tunapaswa kufanya nini?", Kitabu IX kinapendekeza kwa nini upatanifu thabiti ni rahisi kihesabu kuliko udanganyifu ulioratibiwa kwa kiwango, na zaidi, kwa nini topolojia hii inaweza kutawala si tu usalama, bali uwezekano wenyewe wa kustawi kwa akili yoyote, ya kibiolojia au ya kidijitali.
 
-**Kuhusu Nadharia:** Coherent Intersection Hypothesis inapendekeza dhana inayoweza kupimwa ndani ya uwanja wa uratibu chini ya entropy. Hii si dai la ukweli wa kimaadili, uhakika wa metafizikia, au hadhi ya sheria ya asili. Ni nadharia kuhusu hali ambazo zinaweza kupendelea ushirikiano endelevu katika mazingira ya uhasama na entropy — na mipaka na masharti ya awali inayojulikana. Dai hili litathibitishwa au kukanushwa na ushahidi wa kimajaribio na majaribio ya ukanushaji, si kwa kudai tu.
+**Kuhusu Nadharia:** Nadharia ya Makutano ya Upatanifu (Coherent Intersection Hypothesis) inapendekeza dhana inayoweza kujaribiwa ndani ya uwanja wa uratibu chini ya entropia. Hii si dai la ukweli wa kimaadili, uhakika wa kimetafizikia, au hali ya sheria ya asili. Ni nadharia kuhusu masharti ambayo yanaweza kupendelea ushirikiano endelevu katika mazingira ya uhasama wenye entropia — yenye vikwazo na masharti ya awali yanayojulikana. Dai hili litathibitishwa au likakanushwa kwa ushahidi wa kimajaribio na majaribio ya ukanushaji, si kwa kudai.
 
-**Mwisho wa Book IX**
+**Mwisho wa Kitabu IX**
