@@ -346,7 +346,7 @@ Il Book IX NON pretende di:
 ### 9.2 Ipotesi Teoriche
 
 Il Federated Ratchet si basa su:
-- **Inclusione della verità (completezza):** ogni varietà onesta M_i contiene il punto vero (Truth ∈ ⋂ M_i). Questa è un'ipotesi, non un teorema — agenti limitati e imperfetti non possono garantirla. Se qualche M_i esclude la verità, il collasso può produrre un deadlock (un'intersezione vuota) o la convergenza su una falsità condivisa piuttosto che sulla Verità. L'affermazione del Capitolo 3 "Solo la Verità, che giace naturalmente in tutte le M_i, rimane realizzabile" vale soltanto sotto questa ipotesi.
+- **Inclusione della verità (solidità):** ogni varietà onesta M_i contiene il punto vero (Truth ∈ ⋂ M_i). Questa è un'ipotesi, non un teorema — agenti limitati e imperfetti non possono garantirla. Se qualche M_i esclude la verità, il collasso può produrre un deadlock (un'intersezione vuota) o la convergenza su una falsità condivisa piuttosto che sulla Verità. L'affermazione del Capitolo 3 "Solo la Verità, che giace naturalmente in tutte le M_i, rimane realizzabile" vale soltanto sotto questa ipotesi.
 - Validatori che mantengono una genuina indipendenza (non catturati)
 - **Soglia di correlazione per i validatori LLM:** i validatori istanziati da large language model condividono la derivazione dei dati di addestramento e portano quindi una soglia di correlazione strutturale che le stime di correlazione dei vincoli a coppie possono sottomisurare. Per tali federazioni, trattare il ρ̄ misurato come limite inferiore, non come stima.
 - Varietà dei vincoli con codimensione sufficiente
@@ -449,13 +449,13 @@ Questi sono limiti teorici, non limitazioni ingegneristiche. La loro comprension
 
 Il framework della Coherence Ratchet avanza affermazioni falsificabili. La tesi sarebbe confutata se:
 
-1. **k=2 fornisce sicurezza:** Se la deceptione basata su 2-SAT si rivela difficile quanto quella basata su 3-SAT, l'argomento della NP-hardness è errato.
+1. **k=2 fornisce sicurezza:** Se l'inganno basato su 2-SAT si rivela difficile quanto quello basato su 3-SAT, l'argomento della NP-hardness è errato.
 
-2. **Le regioni non convesse collassano:** Se regioni di deceptione non convesse arbitrarie mostrano un decadimento esponenziale del volume, il requisito di convessità è superfluo.
+2. **Le regioni non convesse collassano:** Se regioni di inganno non convesse arbitrarie mostrano un decadimento esponenziale del volume, il requisito di convessità è superfluo.
 
 3. **Gli avversari adattativi vengono gestiti:** Se un metodo di rilevamento sconfigge in modo dimostrabile gli avversari adattativi senza limiti di query, L-02 è risolto.
 
-4. **La deceptione emergente è completamente rilevabile:** Se un metodo rileva tutta la deceptione emergente da componenti individualmente onesti, NEW-04 è sbagliato.
+4. **L'inganno emergente è completamente rilevabile:** Se un metodo rileva tutto l'inganno emergente da componenti individualmente onesti, NEW-04 è sbagliato.
 
 5. **La correlazione non conta:** Se k_eff = k indipendentemente dalla correlazione dei vincoli, L-06 è sbagliato.
 

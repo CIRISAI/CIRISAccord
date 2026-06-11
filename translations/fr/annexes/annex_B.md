@@ -35,7 +35,7 @@ Assurer une adjudication indépendante et experte des tickets WBD, des litiges �
 • Doit rendre un jugement motivé dans un délai de 21 jours.
 
 8. Transparence  
-• Publier les rationales expurgées de toutes les décisions dans un délai de 60 jours.  
+• Publier les justifications expurgées de toutes les décisions dans un délai de 60 jours.  
 • Maintenir un registre public des affaires WBD en attente (métadonnées uniquement).
 
 9. Surveillance et Révocation  

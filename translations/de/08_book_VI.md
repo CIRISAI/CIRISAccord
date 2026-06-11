@@ -71,7 +71,7 @@ Berechnung des Stewardship-Tier auf der Grundlage von Einfluss und potenziellem 
 **ST-Implikationen und Integration in die CIRIS-Prozesse:**
 Der berechnete Stewardship-Tier informiert direkt über die Anforderungen und das Prüfungsniveau innerhalb des standardmäßigen CIRIS-PDMA-Prozesses und der WA-Aufsicht:
 
-* **Tier 1 (Minimale Stewardship):** Entspricht einem erwarteten niedrigen/mittleren RM (Annex A). Erfordert eine standardmäßige PDMA-Dokumentation, einschließlich einer grundlegenden Erklärung der Schöpferinnenbzw. Schöpferabsicht (CIS - siehe Kapitel 5).
+* **Tier 1 (Minimale Stewardship):** Entspricht einem erwarteten niedrigen/mittleren RM (Annex A). Erfordert eine standardmäßige PDMA-Dokumentation, einschließlich einer grundlegenden Erklärung der Schöpferinnen- bzw. Schöpferabsicht (CIS - siehe Kapitel 5).
 * **Tier 2 (Moderate Stewardship):** Entspricht einem erwarteten mittleren/hohen RM (Annex A). Erfordert eine erweiterte PDMA-Dokumentation, einschließlich eines detaillierten CIS, der Designentscheidungen und vorhersehbare Auswirkungen begründet.
 * **Tier 3 (Wesentliche Stewardship):** Entspricht einem erwarteten hohen RM (Annex A). Schreibt die Einleitung eines Prüfpfads mit hoher Sorgfalt innerhalb des PDMA vor, der möglicherweise Ethikberatungen oder vorläufige WA-Informationsbriefings erfordert.
 * **Tier 4 (Hohe Stewardship):** Entspricht einem erwarteten hohen/sehr hohen RM (Annex A). Erfordert eine formelle WA-Prüfung und -Stellungnahme im Rahmen des PDMA-Prozesses, bevor das System in kritische Entwicklungs- oder Einsatzphasen übergehen darf.

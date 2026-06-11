@@ -13,7 +13,7 @@
 ترجیحی موضوعات:
 * metric-Goodhart منظرنامے (بشمول σ-attestation کے گرد چکر لگانے کے راستے — دیکھیں Book IX §5.2)
 * board-capture کے راستے اور Book VIII Ch 9 کا نظامِ نگہداشت
-* Annex F کے واقعاتی طریقہ کار میں اِرتقائی ناکامیاں
+* Annex F کے واقعاتی طریقہ کار میں escalation ناکامیاں
 * Book IX میں §9.2 کے تحت درج مفروضات (truth-inclusion، LLM correlation floor، non-adaptive adversary)
 * RC requirement 4 کے تحت واجب red-team مشق (ایک نقلی بد-ہم آہنگ optimizer جو CIRIS کے تمام چیک پوائنٹس پاس کرنے کی کوشش کرے)
 

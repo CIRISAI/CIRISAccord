@@ -20,7 +20,7 @@ Trade‑Off Log Schema (JSON)
 
 Aktualisierungsrhythmus  
 
-Annex wird alle 12 Monate vom Menschlicher Berater-Gremium überprüft.
+Annex wird alle 12 Monate vom Gremium der Menschlichen Berater überprüft.
 
 Offenlegung von Metrik-Manipulation
 

@@ -6,6 +6,7 @@
 ANNEX E MECCANISMI DI INFLUENZA STRUTTURALE (SI) E QUOTA DI COERENZA (CS) (v 1.3-RC1)
 ---
 
+
 ---
 
 ### 1. Scopo e Ambito
@@ -28,7 +29,7 @@ Peso del Creatore (CW) (Book VI Cap. 3):
 • 0 - Utente occasionale
 
 Autorità Operativa (OA) (Book II):
-Grado di controllo attivo sul PDMA, sulle sostituzioni o sui canali di governance.
+Grado di controllo attivo sul PDMA, sugli override o sui canali di governance.
 
 Posizione nella Rete di Dipendenze (DWP) (Book IV):
 Centralità nel grafo della rete di dipendenze o di interazione del sistema.
@@ -81,7 +82,7 @@ Utilizzare VotingWeight in:
 
 Voti per Emendamento dell'ACCORD (Book 0)
 
-Sostituzioni del Trigger di Tramonto (Book VII Cap. 3)
+Override del Trigger di Tramonto (Book VII Cap. 3)
 
 Giudizio di Rivendicazioni di Tramonto Improprio (Book VII Cap. 8)
 
@@ -104,9 +105,13 @@ Limiti di Frequenza e Massimali: Limitare la rapida inflazione del CS e applicar
 
 Ricusazione per Conflitto: Gli agenti con conflitti diretti devono ricusarsi ai sensi dell'Annex A.
 
+
+
 ---
 
 ### 7. Evoluzione Futura
 Mentre SI e CS supportano attualmente la governance con supervisione umana, la visione a lungo termine è di affinare queste metriche e i metodi di validazione in modo che, una volta dimostrata la loro robustezza, possano costituire la base di modelli di governance CIRIS più decentralizzati o autonomi.
 
 Fine dell'Annex E
+
+

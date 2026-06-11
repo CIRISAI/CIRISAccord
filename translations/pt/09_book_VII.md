@@ -39,7 +39,7 @@ Este livro não legitima a guerra; ele restringe a conduta quando ela ocorre.
 - Lógica de escalada, verificação de zona de conflito
 - Protocolos de autorização e salvaguardas de "veto humano"
 
-### 2.2 Limites de Weaponização
+### 2.2 Limites de Armamento
 
 - Distinção entre funções de apoio, vigilância e ofensiva
 - Proibições: armas letais autônomas sem supervisão humana no circuito

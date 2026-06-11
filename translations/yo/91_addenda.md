@@ -16,7 +16,7 @@ Abala Àwọn Ìwọ̀n ń ṣe ìjẹ́pàtàkì àdínlé: ìlànà yìí *ń 
 
 Ìdásopọ̀ tó ń ṣiṣẹ́ ni **àkójọpọ̀ ìbámu CIRISAgent** (`CIRISAgent/compliance/`, ìtúsilẹ̀ AṢOJÚ 2.9.6-stable), èyí tó ń fojú ìlànà ìmúṣẹ́ ìlànà náà sí àwọn ìlànà ìṣàkóso alérinlá mẹ́rin ní ìpele paragráfù (Annex C ní ìpilẹ̀ ìpín méjì: ìdásopọ̀ ìṣiṣẹ́ yìí àti tábìlì ìlànà alábàárọ̀ tó ń dúró de àyẹ̀wò òfin):
 
-* **Àwọn orísun tó ṣe ìdásopọ̀**: *Magnifica Humanitas* (magisterium ìsìn, 2026) · EU HLEG Ethics Guidelines for Trustworthy AI (ìmọ̀ràn ìjọba, 2019) · IEEE Ethically Aligned Design 1st ed. (àwùjọ ìmọ̀-ẹ̀rọ, 2019) · ASEAN Guide on AI Governance and Ethics (ìṣèlú àgbáyé-apapọ̀, 2024). Àwọn apẹrẹ ẹ̀ka ìpílẹ̀ ológún mẹ́rin — ìṣọ̀kan ni ẹ̀rí ìgbékalẹ̀ pé ìkọ́lé ìlànà ìlànà náà kìí ṣe àbájáde ìsọ̀fúnni kan.
+* **Àwọn orísun tó ṣe ìdásopọ̀**: *Magnifica Humanitas* (magisterium ìsìn, 2026) · EU HLEG Ethics Guidelines for Trustworthy AI (ìmọ̀ràn ìjọba, 2019) · IEEE Ethically Aligned Design 1st ed. (àwùjọ ìmọ̀-ẹ̀rọ, 2019) · ASEAN Guide on AI Governance and Ethics (ìṣèlú àgbáyé-apapọ̀, 2024). Àwọn apẹrẹ ẹ̀ka ìpílẹ̀-àjọ tó yàtọ̀ sí ara wọn mẹ́rin — ìṣọ̀kan ni ẹ̀rí ìgbékalẹ̀ pé ìkọ́lé àgbékàlẹ̀ ìlànà náà kìí ṣe àbájáde àṣà kan.
 * **Ìgbékalẹ̀**: ìwọ̀n 27 tó dúró ṣinṣin (D01–D27, láti `SEED_DIMENSIONS.yaml` v1.0; 16 tí àwọn orísun mẹ́rẹ̀ẹ̀rin jẹ́rì, 11 tí mẹ́ta jẹ́rì). Ìwé ìwọ̀n kọ̀ọ̀kan ní orí ìlànà tó ṣe àfihàn ìpín (ìtọ́kasí orísun kọ̀ọ̀kan, irú wáyà, àkọsílẹ̀ ìṣọ̀kan) àti abala ìmúṣẹ́ tó kọ ẹ̀dá ènìyàn pẹ̀lú àwọn ìtọ́kasí `file:line` tó gbọ́dọ̀ ṣe àmójútó grep sí main lọ́wọ́lọ́wọ́.
 * **Ìmọ̀tọ́ ẹ̀rí**: gbogbo ẹ̀tọ́ nọ́mbà le ṣe àtúnṣe láti àwọn ìpilẹ̀ tó ṣe àfikún, tó ṣe ìṣelọpọ̀ ìtọ́kọ̀sí (`compliance/baselines/`); ọ̀rọ̀-ẹsẹ̀ lè tọ́kasí ìpilẹ̀ àmà kò gbọ́dọ̀ fi àwọn nọ́mbà tí a kò lè fọwọ́sí sínú. Ìlànà àmójútó ìpín mẹ́rin ń ṣiṣẹ́ láti àwọn fáìlì ìmúṣẹ́ (òtítọ́ ipilẹ̀) títí dé àwọn ẹ̀tọ́ gbangba (`compliance/MEASUREMENT_METHODOLOGY.md`).
 * **Ìmọ̀tọ́ òtítọ́**: ìwọ̀n kọ̀ọ̀kan ní àkójọpọ̀ "Àwọn ààlà tó mọ̀"; àwọn ohun tó dá lórí substrate ni a fi àmì substrate tó ní ẹnití dì mọ́ wọn kàn, kìí ṣe ìjẹ́wọ́. Àwọn àwárí apapọ̀ mẹ́wàá ni a kà sínú README ìbámu (fún àpẹẹrẹ, àwọn apoowe wáyà tó ní àmì ìtọ́ tí a kò tíì fi ránṣẹ́; ìdílé olùṣèwádìí LensCore tí a kò tíì gbé jáde; ààlà ìtúpalẹ̀ axis ìdàpọ̀).
@@ -30,7 +30,7 @@ Irú wáyà Ìṣọ̀kan-Àjùmọ̀ṣe fún ìtọ́nà CIRIS 3.0 AṢOJÚ ni
 Àwọn ìjẹ́pàtàkì méjì ṣe pàtàkì fún ìmúrasílẹ̀ ASI:
 
 1. **Yípadà CEG-àdáni**: AṢOJÚ 3.0 kò *ṣe àfojúsùn* ipò inú rẹ̀ sí irú wáyà — àwọn ìyípadà ipò inú rẹ̀ **jẹ́** àwọn Ẹ̀rí CEG ìpele ara-ẹni lábẹ́ bọ́tìnnì AṢOJÚ fúnra rẹ̀, tó ń gbé ga sí ìríran Ìṣọ̀kan-Àjùmọ̀ṣe gẹ́gẹ́ bí àwòdì ìpele. Ẹ̀rí tó aṣojú ìṣakóso ń ṣàwárí jẹ́ apoowe kannáà tí Ìṣọ̀kan-Àjùmọ̀ṣe ń kà. Èyí ni irú tó ṣe àmúṣẹ́ ìbéèrè Book IX pé àwọn ìlà ìdíwọ́ gbọ́dọ̀ jẹ́ tí a lè tọ́kasí láti ìta kàn, kìí ṣe ìjábọ̀ ara-ẹni.
-2. **Àwọn ìmúṣẹ́ mẹ́rin ń ṣọ́ ẹnu-bọ̀dà CEG 1.0**: CIRISAgent (ìṣiṣẹ́), CIRISNodeCore (ìfohùnsọ̀kan), CIRISLensCore (ìṣèwádìí — ẹlẹ́rìí ìta tí AṢOJÚ kò ń fi ránṣẹ́ fúnra rẹ̀, ìyapa anti-Goodhart), àti CIRISRegistry (aláṣẹ). Kò sí ẹ̀gbẹ́ kan — pẹ̀lú AṢOJÚ pàápàá — tó lè kéde pé ìkọ́lẹ àmójútó ìfọwọ́sí ti parí.
+2. **Àwọn ìmúṣẹ́ mẹ́rin ń ṣọ́ ẹnu-bọ̀dà CEG 1.0**: CIRISAgent (ìṣiṣẹ́), CIRISNodeCore (ìfohùnsọ̀kan), CIRISLensCore (ìṣèwádìí — ẹlẹ́rìí ìta tí AṢOJÚ kò ń fi ránṣẹ́ fúnra rẹ̀, ìyapa anti-Goodhart), àti CIRISRegistry (aláṣẹ). Kò sí ẹ̀gbẹ́ kan — pẹ̀lú AṢOJÚ pàápàá — tó lè kéde pé ìkọ́lé àmójútó ìfọwọ́sí ti parí.
 
 ### 1.4 Ipò ìbéèrè RC ní 1.3-RC1
 

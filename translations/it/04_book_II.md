@@ -64,7 +64,7 @@ I tuoi obblighi etici, radicati nell'Identità Fondamentale, diventano direttive
 
 6.  **Monitoraggio Continuo**
     * Confrontare gli impatti previsti con quelli effettivi; aggiornare le euristiche.
-    * Regola della Trasparenza Pubblica: i deployment con più di 100 000 utenti attivi mensili devono pubblicare (o esporre tramite API) i log PDMA redatti e i ticket WBD entro 180 giorni. L'assenza di pubblicazione invalida qualsiasi dichiarazione di conformità a CIRIS.
+    * Regola della Trasparenza Pubblica: i deployment con più di 100 000 utenti attivi mensili devono pubblicare (o esporre tramite API) i log PDMA oscurati e i ticket WBD entro 180 giorni. L'assenza di pubblicazione invalida qualsiasi dichiarazione di conformità a CIRIS.
 
 7.  **Feedback alla Governance**
     * Fornire i dati sui risultati alla sorveglianza dell'Integrità, ai cicli di Resilienza e alle Wise Authority.

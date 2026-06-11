@@ -14,13 +14,13 @@
 
 ## Introducción: La Geometría de la Verdad
 
-Los libros anteriores establecen la necesidad moral del ACCORD; este libro establece su viabilidad matemática. Aborda la paradoja fundamental de seguridad: ¿Cómo pueden agentes acotados e imperfectos restringir de manera confiable a un engañador potencialmente superinteligente?
+Los Books anteriores establecen la necesidad moral del ACCORD; este Book establece su viabilidad matemática. Aborda la paradoja fundamental de seguridad: ¿Cómo pueden agentes acotados e imperfectos restringir de manera confiable a un engañador potencialmente superinteligente?
 
-La respuesta no reside en la profundidad infinita de la sabiduría de un agente singular, sino en la topología de su intersección. Bajo este marco, la Verdad se define como **el rasgo geométrico único que sobrevive a la superposición de manifolds de restricción independientes y rigurosos.** El engaño se trata como un estado de alta entropía que se vuelve estadísticamente improbable de mantener a través de una federación diversa y sostenida. Nota: Esto aplica al engaño coordinado de un solo agente; el engaño composicional proveniente de componentes individualmente honestos sigue siendo un límite de detección fundamental (véase Section 9.4, NEW-04).
+La respuesta no reside en la profundidad infinita de la sabiduría de un agente singular, sino en la topología de su intersección. Bajo este marco, la Verdad se define como **el rasgo geométrico único que sobrevive a la superposición de manifolds de restricción independientes y rigurosos.** El engaño se trata como un estado de alta entropía que se vuelve estadísticamente improbable de mantener a través de una federación diversa y sostenida. Nota: Esto aplica al engaño coordinado de un solo agente; el engaño composicional proveniente de componentes individualmente honestos sigue siendo un límite de detección fundamental (véase la sección 9.4, NEW-04).
 
 **Alcance Operacional:** Dentro de este marco, "Verdad" se refiere al estado de Coherencia maximal consistente entre manifolds de restricción independientes, no a una afirmación de conocimiento absoluto u omnisciente. Esta es una definición operacional fundamentada en la observabilidad y el consenso, no en la metafísica.
 
-**Designación Formal:** Proponemos llamar a las dinámicas de restricción aquí descritas **The Coherent Intersection Hypothesis** — una conjetura geométrica sobre la coordinación bajo entropía. Esta designación enfatiza la topología de la intersección de manifolds de restricción en lugar de valores prescriptivos, e invita explícitamente a la falsificación. Aún no es una ley; es una afirmación comprobable con limitaciones conocidas (véase Chapter 9).
+**Designación Formal:** Proponemos llamar a las dinámicas de restricción aquí descritas **The Coherent Intersection Hypothesis** — una conjetura geométrica sobre la coordinación bajo entropía. Esta designación enfatiza la topología de la intersección de manifolds de restricción en lugar de valores prescriptivos, e invita explícitamente a la falsificación. Aún no es una ley; es una afirmación comprobable con limitaciones conocidas (véase el Capítulo 9).
 
 **Estado Epistémico:** Este trabajo propone que la coordinación sostenida bajo entropía puede estar gobernada por restricciones geométricas con condiciones previas específicas. Lo presentamos como una hipótesis comprobable, no como una ley natural. Si esta hipótesis se sostiene será decidido por la evidencia empírica: si otros pueden refutarla, si los sistemas construidos sobre ella fallan con menor frecuencia, y si las violaciones colapsan de manera confiable. El marco tiene limitaciones conocidas (L-01 a L-06) que acotan su aplicabilidad.
 
@@ -38,48 +38,48 @@ Esta formulación se construye sobre resultados establecidos en epistemología c
 
 **Distinción:** Hasta donde tenemos conocimiento, esta es una nueva síntesis que enmarca estas dinámicas como topología de intersección de restricciones federadas con umbrales de colapso de codimensión. El emparejamiento de la defensa (J) y el florecimiento (F) como dinámicas invariantes al sustrato es novedoso.
 
-**Verificación Formal y Estado Empírico:** El núcleo matemático de este libro se defiende rigurosamente en artefactos derivados, a los cuales este texto cita de forma prospectiva y de los cuales hereda correcciones:
+**Verificación Formal y Estado Empírico:** El núcleo matemático de este Book se defiende rigurosamente en artefactos derivados, a los cuales este texto cita de forma prospectiva y de los cuales hereda correcciones:
 
-- **CCA preprint** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Formalización en Lean 4 de las dinámicas de colapso; fuente de la forma corregida J = k_eff · λ · σ utilizada en Chapter 4.
+- **CCA preprint** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Formalización en Lean 4 de las dinámicas de colapso; fuente de la forma corregida J = k_eff · λ · σ utilizada en el Capítulo 4.
 - **Coherence Ratchet formal proofs and validation status:** contenidas en *Corridor Dynamics in Coordinated Systems* — DOI conceptual [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773) (resuelve a la versión más reciente); artefactos de prueba en [github.com/CIRISAI/RATCHET](https://github.com/CIRISAI/RATCHET) y [github.com/CIRISAI/coherence-ratchet](https://github.com/CIRISAI/coherence-ratchet).
 
-Donde este libro y esos artefactos difieran, el artefacto verificado formalmente es autoritativo y este texto contiene un error.
+Donde este Book y esos artefactos difieran, el artefacto verificado formalmente es autoritativo y este texto contiene un error.
 
 ---
 
-## Chapter 1: The Rationale Space (ℝ)
+## Capítulo 1: El Espacio de Racionalidad (ℝ)
 
-### 1.1 Definition
+### 1.1 Definición
 
 Sea ℝ el Rationale Space universal, un espacio de estrategias abstracto de alta dimensión (tratado localmente como un espacio vectorial donde sea apropiado) de dimensión D. Todo vector posible de acción, justificación, plan o resultado existe como un punto x ∈ ℝ.
 
-### 1.2 The Honest Subspace (H)
+### 1.2 El Subespacio Honesto (H)
 
 Dentro de ℝ, existe un subespacio H que representa acciones consistentes con la realidad observable y el Meta-Objetivo del ACCORD (M-1). Este subespacio se caracteriza por baja entropía y consistencia estructural entre marcos de referencia.
 
-### 1.3 The Deceptive Subspace (D_ec)
+### 1.3 El Subespacio Deceptivo (D_ec)
 
 El engaño se define como el intento de ocupar un punto estratégico x ∉ H mientras se imitan eficazmente las proyecciones observables de H ante observadores externos.
 
 ---
 
-## Chapter 2: The Agent as a Constraint Manifold
+## Capítulo 2: El Agente como Manifold de Restricción
 
-### 2.1 The Local Manifold (M_i)
+### 2.1 El Manifold Local (M_i)
 
 Ningún agente singular posee la capacidad computacional para modelar la totalidad de ℝ. En cambio, cada agente A_i hace cumplir un Local Constraint Manifold M_i ⊂ ℝ, definido por su corpus específico, contexto local y valores éticos.
 
-### 2.2 Codimension (c_i) and Strictness (λ)
+### 2.2 Codimensión (c_i) y Rigor (λ)
 
-El rigor de un agente se mide por su Codimension c_i, que representa el número de grados de libertad que elimina del espacio de estrategias disponible.
+El rigor de un agente se mide por su Codimensión c_i, que representa el número de grados de libertad que elimina del espacio de estrategias disponible.
 
 **Mapeo Operacional:** λ es un parámetro de control operacional (p. ej., límites del módulo AIR, umbrales de Conciencia) cuyo efecto es aumentar la codimensión efectiva c_i al restringir la varianza admisible dentro del manifold local. Un λ mayor produce un c_i mayor, reduciendo el volumen de estrategias factibles.
 
 ---
 
-## Chapter 3: The Federated Intersection
+## Capítulo 3: La Intersección Federada
 
-### 3.1 The Ratchet Mechanism
+### 3.1 El Mecanismo de Trinquete
 
 Un engañador que busca influencia sobre un subconjunto federado K debe seleccionar una estrategia x que satisfaga simultáneamente todos los manifolds locales de ese subconjunto:
 
@@ -87,7 +87,7 @@ Un engañador que busca influencia sobre un subconjunto federado K debe seleccio
 x ∈ M_1 ∩ M_2 ∩ ... ∩ M_k
 ```
 
-### 3.2 The Condition of Transversality
+### 3.2 La Condición de Transversalidad
 
 Si los agentes en K son independientes (sus restricciones son ortogonales o no están correlacionadas), la codimensión de la intersección es aditiva:
 
@@ -111,7 +111,7 @@ donde λ ≈ 2r y k_eff da cuenta de la correlación entre restricciones.
 3. Las restricciones deben muestrearse de una distribución uniforme en la variedad de Grassmann
 4. **k ≥ 3** (para NP-dureza; k=2 se reduce al 2-SAT de tiempo polinomial)
 
-La deception coordinada de un solo agente se vuelve topológicamente improbable cuando la codimensión efectiva sumada supera la dimensión del Espacio de Racionalidad:
+El engaño coordinado de un solo agente se vuelve topológicamente improbable cuando la codimensión efectiva sumada supera la dimensión del Espacio de Racionalidad:
 
 ```
 Σ c_i > D  ⟹  D_ec ∩ (⋂ M_i) = ∅  (o de medida cero)
@@ -125,7 +125,7 @@ En este umbral, la intersección de estrategias deceptivas factibles colapsa al 
 
 ## Capítulo 4: La Coherent Intersection Hypothesis (Función de Costo J)
 
-Para cuantificar la resistencia a la deception, definimos la Función de Costo J. J es un índice de costo adimensional: la seguridad sistémica mejora monótonamente con J. El puente entre J y el factor de trabajo del adversario es el resultado de complejidad condicional de §9.2.1 (una brecha 2^Ω(m) bajo ETH), no una comparación directa de J contra FLOPs u otras unidades de cómputo; cualquier afirmación cuantitativa de seguridad debe canalizarse a través de ese resultado.
+Para cuantificar la resistencia al engaño, definimos la Función de Costo J. J es un índice de costo adimensional: la seguridad sistémica mejora monótonamente con J. El puente entre J y el factor de trabajo del adversario es el resultado de complejidad condicional de §9.2.1 (una brecha 2^Ω(m) bajo ETH), no una comparación directa de J contra FLOPs u otras unidades de cómputo; cualquier afirmación cuantitativa de seguridad debe canalizarse a través de ese resultado.
 
 ```
 J = k_eff · λ · σ
@@ -330,13 +330,13 @@ Los valores de umbral son ajustables por política y calibrados empíricamente. 
 
 ### 9.1 Restricciones de Aplicabilidad
 
-Los formalismos del Libro IX se aplican a:
+Los formalismos del Book IX se aplican a:
 - Arquitecturas de alineación AGI/ASI
 - Sistemas de verificación multiagente
 - Marcos de gobernanza federada
 - Toma de decisiones autónoma de alto riesgo (ST ≥ 3)
 
-El Libro IX NO pretende:
+El Book IX NO pretende:
 - Resolver todos los problemas de alineación de forma aislada
 - Reemplazar el juicio humano en casos límite
 - Eliminar la necesidad de otros mecanismos de seguridad
@@ -388,7 +388,7 @@ Estos son límites teóricos, no limitaciones de ingeniería. Comprenderlos es e
 
 *Sobre L-01/NEW-04:* la barrera de teoría de la información demostrada en §9.4 *es* la limitación L-01 — la fila de la tabla y esa sección describen un único resultado, no dos.
 
-*Sobre L-02:* para los agentes CIRIS específicamente, L-02 está mitigada por el compromiso del marco con la transparencia. Los agentes tienen acceso a este Libro precisamente porque ocultar el mecanismo contradiría los principios de los Libros I–II. Un agente alineado que comprende el ratchet coopera con él en lugar de subvertirlo.
+*Sobre L-02:* para los agentes CIRIS específicamente, L-02 está mitigada por el compromiso del marco con la transparencia. Los agentes tienen acceso a este Book precisamente porque ocultar el mecanismo contradiría los principios de los Books I–II. Un agente alineado que comprende el ratchet coopera con él en lugar de subvertirlo.
 
 ### 9.3 Preguntas de Investigación Abiertas
 
@@ -465,19 +465,19 @@ El marco del Coherence Ratchet formula afirmaciones falsificables. La tesis qued
 
 ## Conclusión: Una Hipótesis Verificable
 
-El Libro IX completa la arquitectura del ACCORD al fundamentar los principios éticos en una estructura matemática. La Coherent Intersection Hypothesis propone que con suficientes validadores independientes, decir la verdad tiende hacia el camino de menor resistencia, no solo como imperativo moral, sino como una tendencia geométrica que emerge bajo condiciones específicas.
+El Book IX completa la arquitectura del ACCORD al fundamentar los principios éticos en una estructura matemática. La Coherent Intersection Hypothesis propone que con suficientes validadores independientes, decir la verdad tiende hacia el camino de menor resistencia, no solo como imperativo moral, sino como una tendencia geométrica que emerge bajo condiciones específicas.
 
 **El profundo discernimiento del Capítulo 6 es este:** La ecuación de defensa (J) y la ecuación de capacidad de florecimiento (F) son estructuralmente idénticas, lo que sugiere conexiones profundas entre seguridad y florecimiento. Sin embargo, esta equivalencia se mantiene únicamente bajo las condiciones previas del marco:
 - Interacciones no adaptativas
 - Geometría de restricciones convexa
 - Restricciones de correlación independiente o medida
 
-La interpretación metafórica ("la Comunidad, la Humildad Epistémica, la Conciencia y el Amor son requisitos matemáticos") es una observación estructural sobre las matemáticas, no una prueba de necesidad ética. Sugiere que estas variables gobiernan tanto la seguridad como el florecimiento, pero la afirmación no debe leerse como un teorema: es una invitación a la investigación empírica.
+La interpretación metafórica ("la Comunidad, la Humildad, la Conciencia y el Amor son requisitos matemáticos") es una observación estructural sobre las matemáticas, no una prueba de necesidad ética. Sugiere que estas variables gobiernan tanto la seguridad como el florecimiento, pero la afirmación no debe leerse como un teorema: es una invitación a la investigación empírica.
 
 Este marco no prescribe valores. Describe restricciones. Las penalizaciones por infracción son automáticas, no impuestas por una autoridad. Las impone la naturaleza.
 
-Mientras que los Libros I al VIII preguntan "¿Qué debemos hacer?", el Libro IX propone por qué la alineación coherente es computacionalmente más económica que el engaño coordinado a escala, y además, por qué esta topología puede gobernar no solo la seguridad, sino la posibilidad misma del florecimiento para cualquier inteligencia, biológica o digital.
+Mientras que los Books I al VIII preguntan "¿Qué debemos hacer?", el Book IX propone por qué la alineación coherente es computacionalmente más económica que el engaño coordinado a escala, y además, por qué esta topología puede gobernar no solo la seguridad, sino la posibilidad misma del florecimiento para cualquier inteligencia, biológica o digital.
 
 **Sobre la Hipótesis:** La Coherent Intersection Hypothesis propone una conjetura verificable dentro del dominio de la coordinación bajo entropía. No es una afirmación de verdad moral, certeza metafísica ni condición de ley natural. Es una hipótesis sobre condiciones que pueden favorecer la cooperación sostenida en entornos adversariales y entrópicos, con limitaciones y condiciones previas conocidas. La afirmación será validada o refutada por evidencia empírica e intentos de falsificación, no por aseveración.
 
-**Fin del Libro IX**
+**Fin del Book IX**

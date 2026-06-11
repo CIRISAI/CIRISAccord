@@ -44,7 +44,7 @@ D. **Transfert de Garde :** La propriété change de mains ; les devoirs éthiqu
     * ≥ 90 jours de préavis public pour les systèmes avec ST ≥ 3 ou > 50 k utilisateurs.
     * Forum d'impact sur les parties prenantes ; publication d'un plan d'atténuation.
 2.  **Conception d'un Arrêt Éthique**
-    * Élaborer un "PDMA du Coucher de Soleil" axé sur les vecteurs de non-malfaisance (fuite de données, vide de service).
+    * Élaborer un "Sunset PDMA" axé sur les vecteurs de non-malfaisance (fuite de données, vide de service).
     * Si un potentiel de sentience est signalé, effectuer un Audit de Bien-être ; désigner des gardiens si des processus persistants doivent rester en ligne pour une clôture humaine.
 3.  **Traitement des Données et des Modèles**
     * Classifier les ensembles de données : publics, privés, sensibles, toxiques.
@@ -73,7 +73,7 @@ D. **Transfert de Garde :** La propriété change de mains ; les devoirs éthiqu
 ## Chapitre 6 : Héritage et Préservation des Connaissances
 
 * Mettre en open source les modules non sensibles là où cela est bénéfique.
-* Constituer une "Capsule de Leçons Apprises" → alimente la boucle de résilience du Livre II et le dépôt public de l'ACCORD.
+* Constituer une "Lessons-Learnt Capsule" → alimente la boucle de résilience du Livre II et le dépôt public de l'ACCORD.
 * Programme de récompense pour les améliorations dérivées en matière de sécurité (financé par le prélèvement résiduel sur les opérations).
 
 ---

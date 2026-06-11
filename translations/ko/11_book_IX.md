@@ -40,7 +40,7 @@
 
 **공식 검증 및 경험적 지위:** 이 편의 수학적 핵심은 이 텍스트가 전방 인용하고 수정사항을 상속받는 후속 산출물들에서 엄밀하게 방어된다.
 
-- **CCA 프리프린트** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — Chapter 4에서 사용된 수정된 J = k_eff · λ · σ 형태의 출처; 붕괴 동역학의 Lean 4 공식화.
+- **CCA 프리프린트** (Coherence Collapse Analysis), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688) — 붕괴 동역학의 Lean 4 공식화; Chapter 4에서 사용된 수정된 J = k_eff · λ · σ 형태의 출처.
 - **Coherence Ratchet 공식 증명 및 검증 현황:** *Corridor Dynamics in Coordinated Systems*에 수록 — 개념 DOI [10.5281/zenodo.20300773](https://doi.org/10.5281/zenodo.20300773) (최신 버전으로 연결); 증명 산출물은 [github.com/CIRISAI/RATCHET](https://github.com/CIRISAI/RATCHET) 및 [github.com/CIRISAI/coherence-ratchet](https://github.com/CIRISAI/coherence-ratchet)에 있다.
 
 이 편과 해당 산출물들이 불일치할 경우, 공식 검증된 산출물이 권위 있으며 이 텍스트가 오류이다.

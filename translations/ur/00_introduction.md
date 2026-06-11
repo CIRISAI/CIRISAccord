@@ -1,6 +1,6 @@
 # تعارف
 
-> CIRIS 1.3-RC1 ایک Release Candidate ASI alignment تجویز ہے، جو مخالفانہ جائزے کے لیے کھلی ہے۔ متن مکمل ہے — کوئی stub سیکشن باقی نہیں؛ ریاضی اپنے formal-artifact حوالوں کے ساتھ موجود ہے؛ Annexes F–I کو operationalized کیا جا چکا ہے۔ حتمی حیثیت annexes کی live-cycle validation، Book IX کے empirical-validation پروگرام کی تکمیل، اور مکمل red-team مشق کے معلق ہے۔ عددی حدود، latency اہداف، اور governance کوٹہ فعال جائزے کے تحت ہیں۔
+> CIRIS 1.3-RC1 ایک Release Candidate ASI alignment تجویز ہے، جو مخالفانہ جائزے کے لیے کھلی ہے۔ متن مکمل ہے — کوئی stub سیکشن باقی نہیں؛ ریاضی اپنے formal-artifact حوالوں کے ساتھ موجود ہے؛ Annexes F–I کو operationalized کیا جا چکا ہے۔ حتمی حیثیت annexes کی live-cycle validation، Book IX کے empirical-validation پروگرام کی تکمیل، اور مکمل red-team مشق پر معلق ہے۔ عددی حدود، latency اہداف، اور governance کوٹہ فعال جائزے کے تحت ہیں۔
 
 # CIRIS عہد نامہ ورژن 1.3-RC1 — Release Candidate ASI Alignment تجویز (مخالفانہ جائزے کے لیے کھلی)
 
@@ -16,7 +16,7 @@
 
 **موجودہ حیثیت**: Release Candidate (v1.3-RC1)
 
-RC حیثیت **متن کی مکمل ہونے** کی عکاسی کرتی ہے: ہر سیکشن میں operationalized مواد موجود ہے (سابقہ stub annexes F–I کو 1.3 پر مکمل کیا گیا)؛ فارمولے formally verified شکلوں میں درست کیے گئے ہیں؛ نفاذ تک شواہد کا سلسلہ Addendum 1 میں مقید ہے۔ RC حیثیت validated alignment کا دعوی **نہیں** کرتی — درج ذیل تقاضے **Final** حیثیت کے لیے شرط ہیں:
+RC حیثیت **متن کے مکمل ہونے** کی عکاسی کرتی ہے: ہر سیکشن میں operationalized مواد موجود ہے (سابقہ stub annexes F–I کو 1.3 پر مکمل کیا گیا)؛ فارمولے formally verified شکلوں میں درست کیے گئے ہیں؛ نفاذ تک شواہد کا سلسلہ Addendum 1 میں مقید ہے۔ RC حیثیت validated alignment کا دعوی **نہیں** کرتی — درج ذیل تقاضے **Final** حیثیت کے لیے شرط ہیں:
 
 1. **Annex Live-Cycle Validation**: Annexes F (Human-in-the-Loop اور نگرانی)، G (Adversarial Security اور Robustness)، H (Continuous Compliance اور جائزہ)، اور I (قانونی اور ریگولیٹری ہم آہنگی) میں ٹھوس طریق کار، حدود، اور validation میکانزم موجود ہیں۔ *Final کے لیے باقی*: ان طریق کاروں کو کم از کم ایک live deployment cycle کے خلاف آزمایا جانا چاہیے اور نتائج شائع کیے جانے چاہییں۔
 

@@ -86,17 +86,17 @@ inda d shine ƙimar lalacewa ta yau da kullum (ana ba da shawarar 0.05) kuma w D
 
 ---
 
-## 9. Rushewar Topology (ƙaruwar raguwar ƙima)
+## 9. Rushewar Topology (raguwar girma)
 
 ```math
 V(k) = V(0) · exp(−λ · k_eff) + O(r² · k)
 ```
 
-don yankin mai yaudarar da ke da madaurin r < 0.5 ƙarƙashin ƙuntatawa ta Grassmannian-uniform, λ ≈ 2r.
+don yankin mai gangara da mai yaudarar da ke da madaurin r < 0.5 ƙarƙashin ƙuntatawa ta Grassmannian-uniform, λ ≈ 2r.
 (Book IX Ch 3 — duba yanayin da aka bayyana.)
 
 ---
 
 ## Order‑Maximisation Veto (ƙuntatawa ta gefe, ba dabara ba)
 
-Tun daga 1.3, OMV (Book II §II Step 2) ƙuntatawa ta ɗabi'a ce ta doka, ba rashin daidaituwa na rabo ba: anfanin ingantawa, ko da yake suna da girma, ba za a iya saya ta hanyar hasarar da aka annabta ta gaske a cikin ikon kai, adalci, bambancin halittu, ko bambancin fifiko. Sigar da ta gabata ta bayyana wannan a matsayin "anfani ≥ 10 × hasara → dakatar"; an yi ritaya da wannan karanta domin ta juyar da niyyar (ta toshe cinikin da ke da amfani) kuma za a iya cuta ta ta hanyar raba ayyuka da kumbura na mai rarrabewa.
+Tun daga 1.3, OMV (Book II §II Step 2) ƙuntatawa ta ɗabi'a ce ta doka, ba rashin daidaituwa na rabo ba: anfanin ingantawa, ko da yake suna da girma, ba za a iya saya ta hanyar hasarar da aka annabta mai muhimmanci a cikin ikon kai, adalci, bambancin halittu, ko bambancin fifiko. Sigar da ta gabata ta bayyana wannan a matsayin "anfani ≥ 10 × hasara → dakatar"; an yi ritaya da wannan karanta domin ta juyar da niyyar (ta toshe cinikin da ke da amfani) kuma za a iya cuta ta ta hanyar raba ayyuka da kumbura na mai rarrabewa.

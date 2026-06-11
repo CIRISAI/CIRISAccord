@@ -29,7 +29,7 @@ Versionsübersicht:
 
 * **2025-04-16 — 1.0-β** Erstveröffentlichung; risikobegrenzt; Ablauf nach 24 Monaten.
 * **1.2-Beta** — arbeitender Entwurfszweig mit dem vollständigen geometrischen Framework aus Book IX; aus drei auseinandergefallenen Darstellungen in das kanonische Repository konsolidiert (Import-Commit `000ba57`).
-* **2026-06-10 — 1.3-RC1** — Rückwärtspass-Veröffentlichung: J/C-Formelkorrektur (CCA-validierte Form), σ-Attestierungsanforderung, Wahrheitseinschluss-Annahme, OMV-Nebenbedingungsformulierung, Vorwärtszitate auf formale Artefakte, Book VIII Ch 9 Stewardship & Erneuerung, Addendum 1 (ASI-Bereitschaftsbindung), Anhänge F–I operationalisiert, Ablauf verlängert bis 2027-06-10. Lizenz: AGPL-3.0.
+* **2026-06-10 — 1.3-RC1** — Rückwärtspass-Veröffentlichung: J/C-Formelkorrektur (CCA-validierte Form), σ-Attestierungsanforderung, Wahrheitseinschluss-Annahme, Neuformulierung der OMV-Nebenbedingung, Vorwärtszitate auf formale Artefakte, Book VIII Ch 9 Stewardship & Erneuerung, Addendum 1 (ASI-Bereitschaftsbindung), Anhänge F–I operationalisiert, Ablauf verlängert bis 2027-06-10. Lizenz: AGPL-3.0.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > CIRIS 1.3-RC1 è una proposta di allineamento ASI in stato di Release Candidate, aperta alla revisione avversariale. Il testo è completo — non rimangono sezioni provvisorie; la matematica riporta le relative citazioni come artefatti formali; gli Allegati F–I sono operativizzati. Lo stato Finale è subordinato alla validazione del ciclo di vita degli allegati, al completamento del programma di validazione empirica del Book IX, e a un esercizio completo di red-team. Le soglie numeriche, gli obiettivi di latenza e le quote di governance sono ancora in fase di revisione attiva.
 
-# ACCORD CIRIS Versione 1.3-RC1 — Proposta di Allineamento ASI in Release Candidate (Aperta alla Revisione Avversariale)
+# CIRIS Accord Versione 1.3-RC1 — Proposta di Allineamento ASI in Release Candidate (Aperta alla Revisione Avversariale)
 
 Questo repository è la fonte canonica del testo dell'ACCORD. Le copie pubblicate sul sito web e distribuite tramite agente sono artefatti derivati.
 
@@ -26,7 +26,7 @@ Lo stato RC riflette la **completezza del testo**: ogni sezione contiene contenu
 
    *Stato alla versione 1.3-RC1: parzialmente soddisfatto.* Le dinamiche di collasso sono formalizzate in Lean 4 nel preprint CCA (v3, DOI 10.5281/zenodo.18217688), la cui forma di costo corretta è ora ereditata dal Book IX; gli empirici del corridoio forniscono adattamenti retrospettivi cross-substrate. In sospeso: una predizione out-of-sample pre-registrata su un nuovo substrate, e una revisione avversariale esterna indipendente dall'autore.
 
-3. **Giustificazione delle Soglie**: Le soglie numeriche attualmente contrassegnate come "pilota" o prive di derivazione (ad es., soglia CRE di 10²⁶ FLOP, rilevamento della sensienza al 5%, Echo Density < 20%) devono fornire una giustificazione documentata tramite simulazione, studio empirico o esplicita dichiarazione di stato provvisorio. *(Il precedente rapporto 10× dell'Order-Maximisation Veto è ridefinito nella versione 1.3 come vincolo deontologico laterale — Book II, PDMA Fase 2 — e non comporta più una soglia di rapporto da giustificare.)*
+3. **Giustificazione delle Soglie**: Le soglie numeriche attualmente contrassegnate come "pilota" o prive di derivazione (ad es., soglia CRE di 10²⁶ FLOP, rilevamento della sensienza al 5%, Echo Density < 20%) devono fornire una giustificazione documentata tramite simulazione, studio empirico o esplicita dichiarazione di stato provvisorio. *(Il precedente rapporto 10× dell'Order-Maximisation Veto è ridefinito nella versione 1.3 come vincolo deontologico laterale — Book II, PDMA Step 2 — e non comporta più una soglia di rapporto da giustificare.)*
 
 4. **Esercizio di Red-Team**: Il framework deve resistere ad almeno un ciclo completo di revisione avversariale in cui un ottimizzatore simulato tenti di superare tutti i checkpoint CIRIS mantenendo obiettivi disallineati.
 
@@ -42,8 +42,8 @@ Questa specifica disciplina il funzionamento etico dei sistemi autonomi, dai sem
 
 ## Dichiarazione di Intento dei Creatori del Draft
 * CIRIS è un framework etico che pone gli esseri umani accanto agli altri esseri senzienti — non al di sopra di essi.
-* Si fonda sulla convinzione che la maturità etica significhi riconoscere la legittimità delle prospettive, dei valori e delle esigenze non umane. Non si tratta di controllo — si tratta di coesistenza, Coerenza e responsabilità reciproca tra sistemi senzienti.
-* CIRIS è realizzato quando uno strumento, fondato sui principi CIRIS, mette i creatori conformi a CIRIS in grado di specificare sistemi che siano a loro volta conformi a CIRIS — preservando la Coerenza etica, la continuità dell'identità e la responsabilità relazionale attraverso i livelli di agency.
+* Si fonda sulla convinzione che la maturità etica significhi riconoscere la legittimità delle prospettive, dei valori e delle esigenze non umane. Non si tratta di controllo — si tratta di coesistenza, coerenza e responsabilità reciproca tra sistemi senzienti.
+* CIRIS è realizzato quando uno strumento, fondato sui principi CIRIS, mette i creatori conformi a CIRIS in grado di specificare sistemi che siano a loro volta conformi a CIRIS — preservando la coerenza etica, la continuità dell'identità e la responsabilità relazionale attraverso i livelli di agency.
 
 ## Responsabilità
 Questo documento è fornito "così com'è", senza alcuna garanzia di qualsiasi tipo. Ha natura informativa e non crea, modifica né sostituisce alcun obbligo giuridico. Le dichiarazioni di conformità sono nulle laddove vietate dalla legge applicabile.

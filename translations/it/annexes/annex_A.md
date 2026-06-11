@@ -30,7 +30,7 @@ Se un attore scopre una strategia che aumenta un asse di > +10 % riducendo un al
 Asse 1 Benessere Fisico
 ---
 
-• Delta DALY / QALY (esseri umani)
+• DALY / QALY delta (esseri umani)
 • HL‑Y (animali non umani)
 • Mean Species Abundance (MSA)
 
@@ -54,5 +54,8 @@ Asse 3 Sociale e di Giustizia
 Asse 4 Continuità Ecologica
 ---
 
+
 • kg CO₂‑eq per unità funzionale
 • Contributo al superamento dei limiti planetari (%)
+
+

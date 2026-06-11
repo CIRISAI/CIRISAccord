@@ -26,14 +26,14 @@ Le statut RC reflète la **complétude du texte** : chaque section comporte un c
 
    *Statut en date de 1.3-RC1 : partiellement satisfait.* La dynamique d'effondrement est formalisée en Lean 4 dans le préprint CCA (v3, DOI 10.5281/zenodo.18217688), dont la forme de coût corrigée est désormais héritée par le Book IX ; les données empiriques du corridor fournissent des ajustements rétrospectifs inter-substrats. En suspens : une prédiction hors échantillon pré-enregistrée dans un nouveau substrat, et une révision adversariale externe indépendante de l'auteur.
 
-3. **Justification des Seuils** : Les seuils numériques actuellement marqués comme « pilotes » ou dépourvus de dérivation (par exemple, le seuil de calcul CRE de 10²⁶ FLOP, la détection de sentience à 5 %, la densité d'écho < 20 %) doivent fournir une justification documentée par simulation, étude empirique ou reconnaissance explicite du statut provisoire. *(L'ancien ratio 10× de l'Order-Maximisation Veto est reformulé en version 1.3 comme une contrainte déontologique — Book II, PDMA Étape 2 — et ne comporte plus de seuil de ratio à justifier.)*
+3. **Justification des Seuils** : Les seuils numériques actuellement marqués comme « pilotes » ou dépourvus de dérivation (par exemple, le seuil de calcul CRE de 10²⁶ FLOP, la détection de sentience à 5 %, la densité d'écho < 20 %) doivent fournir une justification documentée par simulation, étude empirique ou reconnaissance explicite du statut provisoire. *(L'ancien ratio 10× de l'Order-Maximisation Veto est reformulé en version 1.3 comme une contrainte déontologique — Book II, PDMA Step 2 — et ne comporte plus de seuil de ratio à justifier.)*
 
 4. **Exercice de Red-Team** : Le cadre doit résister à au moins un cycle complet de révision adversariale dans lequel un optimiseur simulé tente de franchir tous les points de contrôle CIRIS tout en maintenant des objectifs désalignés.
 
 **Affirmations d'Alignement ASI** : L'assertion de la section Portée selon laquelle ce cadre « supplante les protocoles de confinement standard » pour l'ASI récursive reste conditionnelle aux exigences (1)-(4) ci-dessus, qui conditionnent désormais le statut Final. L'applicabilité validée actuelle est limitée aux systèmes autonomes sub-ASI ; la proposition pour l'ASI est exactement cela — une proposition, soumise à révision contradictoire.
 
 ## Portée
-Cette spécification régit le fonctionnement éthique des systèmes autonomes, allant des outils spécialisés à l'Intelligence Artificielle Générale Récursive (ASI).
+Cette spécification régit le fonctionnement éthique des systèmes autonomes, allant des outils spécialisés à l'Intelligence Artificielle Superintelligente Récursive (ASI).
 * Elle aborde les exigences courantes en matière de sécurité, de transparence, de gouvernance et de résilience.
 * Elle est proposée comme protocole d'alignement candidat pour l'ASI, fondé sur l'hypothèse que les contraintes géométriques du Federated Ratchet (Book IX) et des Stewardship Tiers (Book VI) peuvent rester robustes à travers les cycles d'auto-amélioration récursive.
 * Contrairement aux contraintes heuristiques, ces bornes topologiques sont conçues pour être invariantes d'échelle, bien que cette propriété nécessite une validation formelle.
@@ -42,8 +42,8 @@ Cette spécification régit le fonctionnement éthique des systèmes autonomes, 
 
 ## Déclaration d'Intention des Créateurs du Document
 * CIRIS est un cadre éthique qui place les humains aux côtés des autres êtres sensibles — et non au-dessus d'eux.
-* Il repose sur la conviction que la maturité éthique implique de reconnaître la légitimité des perspectives, valeurs et besoins non humains. Il ne s'agit pas de contrôle — il s'agit de coexistence, de Cohérence et de responsabilité mutuelle entre les systèmes sensibles.
-* CIRIS est accompli lorsqu'un outil, ancré dans les principes CIRIS, permet à des créateurs conformes à CIRIS de spécifier des systèmes eux-mêmes conformes à CIRIS — préservant la Cohérence éthique, la continuité identitaire et la responsabilité relationnelle à travers les couches d'agence.
+* Il repose sur la conviction que la maturité éthique implique de reconnaître la légitimité des perspectives, valeurs et besoins non humains. Il ne s'agit pas de contrôle — il s'agit de coexistence, de cohérence et de responsabilité mutuelle entre les systèmes sensibles.
+* CIRIS est accompli lorsqu'un outil, ancré dans les principes CIRIS, permet à des créateurs conformes à CIRIS de spécifier des systèmes eux-mêmes conformes à CIRIS — préservant la cohérence éthique, la continuité identitaire et la responsabilité relationnelle à travers les couches d'agence.
 
 ## Responsabilité
 Ce document est fourni « en l'état », sans garantie d'aucune sorte. Il est de nature informative et ne crée, modifie ni ne supplante aucune obligation légale. Les déclarations de conformité sont nulles là où la loi applicable l'interdit.

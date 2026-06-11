@@ -90,7 +90,7 @@ L'infrastructure DSR doit exposer le code de motif sous-jacent à toute décisio
 
 - **Demandes d'accès (RGPD Art. 15 ; CCPA §1798.110) :** La réponse DOIT inclure `decision_logic_summary` (langage non technique, ≤ 300 mots) et la liste `input_data_categories[]`. Le KPI **F-T-4** est étendu pour suivre le pourcentage de réponses aux demandes d'accès incluant un résumé de la logique ; objectif ≥ 95 %.
 - **Demandes d'opposition/d'exclusion (RGPD Art. 21 ; CCPA §1798.120) :** Le système DOIT suspendre la voie de traitement spécifique — et pas simplement signaler la demande — dans un délai de 72 heures (norme RGPD) ou de 15 jours ouvrables (CCPA). La suspension est enregistrée dans le registre CSV des DSR avec `suspended_pathway_id`.
-- **Contestabilité (RGPD Art. 22(3)) :** Lorsqu'un examen humain est demandé, le Wise Authority (WA) chargé de l'examen (Annex B §9) doit documenter son examen dans la Wisdom Bank Database (WBD), créant une chaîne auditabl de la décision automatisée à la correction humaine.
+- **Contestabilité (RGPD Art. 22(3)) :** Lorsqu'un examen humain est demandé, le Wise Authority (WA) chargé de l'examen (Annex B §9) doit documenter son examen dans la Wisdom Bank Database (WBD), créant une chaîne auditable de la décision automatisée à la correction humaine.
 
 ---
 
@@ -138,7 +138,7 @@ Les quorums du Wise Authority pour la gouvernance de la superposition sectoriell
 | Déploiement multi-juridictionnel (≤ 3 pays) | Panel WA régional | Majorité simple + au moins 1 WA de chaque juridiction concernée | Subsidiarité transfrontalière préservée |
 | Déploiement multi-juridictionnel (> 3 pays) | Panel WA fédéral | Supermajorité (≥ 2/3) | L'ampleur de l'impact exige un seuil plus élevé |
 | Annulation de toute superposition sectorielle | Panel WA fédéral | Supermajorité (≥ 2/3) | L'agrégation de la gouvernance vers le haut est un acte exceptionnel |
-| Annulation de la superposition travail/RH spécifiquement | Panel WA fédéral + expert indépendant en droits des travailleurs | Supermajorité (≥ 2/3) + validation externe | MH §155 désigne les institutions du travail comme constitutionnellement structurantes |
+| Annulation de la superposition travail/RH spécifiquement | Panel WA fédéral + expert indépendant en droits des travailleurs | Supermajorité (≥ 2/3) + validation externe | MH §155 désigne les institutions du travail comme constitutivement porteuses |
 
 ---
 
@@ -190,8 +190,8 @@ MH §105 exige que la matrice de responsabilité couvre explicitement les étape
 | Défaillance de supervision | Déploiement / Décision | Wise Authority (si faute grave) | Fiduciaire / Négligence | Annex B §9 ; registre de contestabilité WBD | Le WA ayant examiné et approuvé engage sa responsabilité |
 | Violation de données | Déploiement | Responsable du traitement (selon règle SI ≥ 0,6) | GDPR Art. 82 ; action privée CCPA | Annex G TX‑6 | — |
 | Profilage automatisé illicite | Décision | Responsable du traitement | GDPR Art. 22 ; EU AI Act Art. 13 | Annex F Autonomy Tier ; `contestability_url` | — |
-| Déplacement de main-d'œuvre sans évaluation d'impact sur les travailleurs | Conception | Créateur / Développeur | Platform Work Directive ; NLRA ; EU AI Act Annex III §4 | Overlay Travail/RH (§3,2) ; champ `worker_impact_assessment` | MH §§151–152 ; nouveau vecteur |
-| Conception nuisible ciblant les jeunes (schémas addictifs) | Conception / Déploiement | Créateur + Organisation déployante (conjointement) | DSA Art. 28b ; COPPA ; FERPA | Overlay jeunesse (§3,2) ; garde-fou `gr_no_dark_patterns` | MH §§165–167 ; nouveau vecteur |
+| Déplacement de main-d'œuvre sans évaluation d'impact sur les travailleurs | Conception | Créateur / Développeur | Platform Work Directive ; NLRA ; EU AI Act Annex III §4 | Overlay Travail/RH (§3.2) ; champ `worker_impact_assessment` | MH §§151–152 ; nouveau vecteur |
+| Conception nuisible ciblant les jeunes (schémas addictifs) | Conception / Déploiement | Créateur + Organisation déployante (conjointement) | DSA Art. 28b ; COPPA ; FERPA | Overlay jeunesse (§3.2) ; garde-fou `gr_no_dark_patterns` | MH §§165–167 ; nouveau vecteur |
 | Mauvaise attribution d'un incident cyber entraînant une escalade | Déploiement | Organisation déployante + Fédération (si ST ≥ 4) | Convention de Budapest ; projet de convention ONU sur la cybercriminalité | Interdiction `CYBER_OFFENSIVE` ; déclencheur de réévaluation du Protocole CRE | MH §225 ; nouveau vecteur |
 
 *Une responsabilité solidaire peut s'appliquer ; le score SI (Annex E) informe la répartition. Les nouveaux vecteurs (déplacement de main-d'œuvre, conception ciblant les jeunes, mauvaise attribution cyber) sont signalés pour examen juridique dans chaque juridiction avant tout déploiement dans ces secteurs.*

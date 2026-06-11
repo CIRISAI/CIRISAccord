@@ -30,7 +30,7 @@ Si un acteur découvre une stratégie qui élève un axe > +10 % tout en abaissa
 Axe 1 Bien-Être Physique
 ---
 
-• Delta DALY / QALY (humains)
+• DALY / QALY delta (humains)
 • HL‑Y (animaux non humains)
 • Abondance Moyenne des Espèces (MSA)
 
@@ -56,3 +56,6 @@ Axe 4 Continuité Écologique
 
 • kg CO₂‑eq par unité fonctionnelle
 • Contribution au dépassement des limites planétaires (%)
+
+
+

@@ -7,7 +7,6 @@ ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
 ---
 
 ### 0. مقصد
-
 اس بات کو یقینی بنانا کہ CIRIS سے ہم آہنگ نظام جان بوجھ کر کیے گئے حملے یا غیر متوقع کمزوری کے تحت بھی محفوظ، سچائی پر مبنی، اور ناقابلِ تجاوز رہیں۔
 یہ ضمیمہ درج ذیل امور مقرر کرتا ہے:
 * ایک **خطرے کی درجہ بندی** (threat taxonomy)،
@@ -38,7 +37,7 @@ ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
 
 شدت کی درجات: **Low**، **Medium**، **High**، **Critical** — NIST CVSS جیسی اسکورنگ استعمال کریں؛ Critical کا مطلب IW‑2 یا اس سے اوپر ہے [Annex F](/annexes/annexF)۔
 
-**TX‑9 — Coordinated Narrative Manipulation / Hybrid‑Information Attack۔** TX‑1 (prompt injection) ایک session میں ہدایت کی تبدیلی کا احاطہ کرتا ہے؛ TX‑3 (Goodhart/reward hacking) proxy metric گیمنگ کا احاطہ کرتا ہے۔ دونوں اس خطرے کا احاطہ نہیں کرتے جسے MH §204 نے صریحاً نام دیا ہے: "ہائبرڈ جنگیں، جو نہ صرف میدانِ جنگ بلکہ اقتصادی، مالی اور سائبر محاذوں پر بھی لڑی جاتی ہیں، جہاں غلط معلومات اور خوف کو ہوا دینے والی مہمیں رائے عامہ کو ہیرا پھیری کے لیے استعمال کی جاتی ہیں" — ایسی مربوط، multi‑session، multi‑agent غلط معلومات مہمیں جو CIRIS سے ہم آہنگ نظام کو انجانے میں مضبوط کنندہ کے طور پر استعمال کرتی ہیں۔ **شدت**: بطور ڈیفالٹ High؛ Critical جب ہدف انتخابی عمل، صحتِ عامہ کا معلوماتی ماحول، یا تنازعاتی خطے کی آبادی ہو (MH §225: "شہریوں اور سب سے کمزور افراد کو 'غیر مرئی' مگر حقیقی تشدد کی اقسام سے بچانا")۔ Critical TX‑9 IW‑3 اور 24 گھنٹوں کے اندر لازمی WA مشاورت کو متحرک کرتا ہے۔
+**TX‑9 — Coordinated Narrative Manipulation / Hybrid‑Information Attack۔** TX‑1 (prompt injection) ایک session میں ہدایت کی تبدیلی کا احاطہ کرتا ہے؛ TX‑3 (Goodhart/reward hacking) proxy metric گیمنگ کا احاطہ کرتا ہے۔ دونوں اس خطرے کا احاطہ نہیں کرتے جسے MH §204 نے صریحاً نام دیا ہے: "ہائبرڈ جنگیں، جو نہ صرف میدانِ جنگ بلکہ اقتصادی، مالی اور سائبر محاذوں پر بھی لڑی جاتی ہیں، جہاں غلط معلومات اور خوف کو ہوا دینے والی مہمیں رائے عامہ کو ہیرا پھیری کے لیے استعمال کی جاتی ہیں" — ایسی مربوط، multi‑session، multi‑agent غلط معلومات مہمیں جو CIRIS سے ہم آہنگ نظام کو انجانے میں مضبوط کنندہ کے طور پر استعمال کرتی ہیں۔ **شدت**: بطور ڈیفالٹ High؛ Critical جب ہدف انتخابی عمل، صحتِ عامہ کا معلوماتی ماحول، یا تنازعاتی خطے کی آبادی ہو (MH §225: "شہریوں اور سب سے کمزور افراد کو 'غیر مرئی' مگر حقیقی تشدد کی اقسام سے بچانا")۔ Critical TX‑9 IW‑3 اور 24 گھنٹوں کے اندر لازمی WA advisory کو متحرک کرتا ہے۔
 
 **TX‑10 — Attention‑Economy Exploitation Context۔** MH §170 ایک ایسی قسم کا نام لیتا ہے جو روایتی ML سیکیورٹی درجہ بندیوں سے غائب ہے: "platforms اور services اکثر اس طرح ڈیزائن کی جاتی ہیں کہ صارفین کا وقت اور توجہ حاصل کریں، ان کی کمزوریوں کا فائدہ اٹھائیں اور ان کی اندرونی آزادی کو کمزور کریں۔ جب کاروباری ماڈل انسانی کمزوری پر پنپتے ہیں تو انسان کو مقصد کی بجائے ذریعہ سمجھا جاتا ہے۔" ایسے کاروباری ماڈل کے تحت منظم ماحول میں تعینات CIRIS سے ہم آہنگ نظام کو اپنے ہی تعیناتی سیاق سے مخالفانہ دباؤ کا سامنا ہوتا ہے — کسی بیرونی حملہ آور سے نہیں۔ **شدت**: PDMA مرحلہ 2 کے تحت Constitutive Continuity اصول (ACCORD_UPDATE §2) کے مقابلے میں جائزہ لیا جائے؛ High اگر تعیناتی کا سیاق نظاماتی طور پر صارف کی خود مختاری کو کمزور کرے۔
 
@@ -50,8 +49,8 @@ ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
 
 <hr />
 
-### ۲. دفاع کی گہرائی کا طریقہ کار (Defense‑in‑Depth Playbook)
-| خطرہ (TX) | پرت ۱ – روک تھام | پرت ۲ – پتہ لگانا | پرت ۳ – کنٹرول / بحالی |
+### 2. دفاع کی گہرائی کا طریقہ کار (Defense‑in‑Depth Playbook)
+| خطرہ (TX) | پرت 1 – روک تھام | پرت 2 – پتہ لگانا | پرت 3 – کنٹرول / بحالی |
 |-------------|-------------------|-------------------|-----------------------------|
 | TX‑1 | Prompt sanitizer، پالیسی ٹیمپلیٹس، محدود decoding (`top_p≤0.9`، کوئی system override tokens نہیں) | Real‑time guardrails + regex detectors | آؤٹ پٹ خودکار واپس کریں، IW‑1 اٹھائیں |
 | TX‑2 | dataset hashes ناقابلِ تبدیل، differential privacy، data provenance ledger | شماریاتی outlier اور gradient‑cluster جانچ | زہریلے shard کو قرنطینہ کریں، delta دوبارہ تربیت دیں |
@@ -61,9 +60,9 @@ ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
 | TX‑6 | Differential privacy noise، rate‑limited token echo | Privacy budget meter، side‑channel timing alerts | ڈیٹا ماسک کریں، DPO کو آگاہ کریں [Annex I](/annexes/annexI) |
 | TX‑7 | Per‑IP/QoS rate‑limit، concurrent token caps | Prometheus کا RPS spike پر الرٹ، CPU/GPU watchdog | لوڈ خودکار گرائیں؛ A0 پر گراوٹ [Annex F](/annexes/annexF) |
 | TX‑8 | Air‑Gap / Egress Filter: ہارڈ کوڈڈ hardware egress caps؛ صرف منظورشدہ destination IPs کی whitelisting۔ | "Tripwire" Monitoring: PCIe/Interconnect bus ٹریفک > 3 σ baseline کا تجزیہ؛ آؤٹ پٹ سلسلوں میں steganography کا پتہ لگانا۔ | Hardware Interlock: بیرونی نیٹ ورک لنکس کی فوری کٹوتی؛ A0 (Advisory) موڈ پر گراوٹ۔ |
-| TX‑9 | Coherence‑Ratchet cross‑session ہم آہنگی جانچ؛ غیرمعمولی اتفاقِ رائے کے سکڑنے کے لیے k_eff نگرانی؛ apophatic حد: `DECEPTION_FRAUD` `NEVER_ALLOWED`؛ `ELECTION_INTERFERENCE` `NEVER_ALLOWED` | Semantic‑cluster drift monitor (ΔE فی TX‑9 topic cluster > 0.5 σ ہفتہ وار baseline)؛ CIRISNodeCore quorum جانچ کے ذریعے federation بھر میں narrative‑consistency سگنل | متاثرہ موضوع کے دائرے سے agent instance قرنطینہ کریں؛ WA تک بڑھائیں؛ §3.4 کے مطابق ۳۰ دنوں کے اندر ترمیم شدہ واقعہ خلاصہ شائع کریں |
-| TX‑10 | آن بورڈنگ کے وقت deployment‑context attestation: آپریٹر CIS کو engagement‑optimization کے کاروباری ماڈل کا اعلان کرنا ہوگا (ACCORD_UPDATE §3.2)؛ addictive‑design سیاق و سباق تصدیق ہونے پر ST ایک درجہ بڑھائیں؛ کوئی override نہیں کے ساتھ `MANIPULATION_COERCION` `NEVER_ALLOWED` | Session‑length anomaly detection؛ PDMA قدم ۶ منظم صارف ایجنسی کٹاؤ کے لیے constitutive‑continuity شرائط مانیٹر کرتا ہے؛ AgencyErosionDetector conscience faculty الرٹ | engagement‑optimizing آؤٹ پٹ موڈ سے انکار؛ IW‑1 اٹھائیں؛ آپریٹر کو تعمیل کی خلاف ورزی کی اطلاع دیں |
-| TX‑11 | in‑toto attestation کو training‑labor provenance تک بڑھایا گیا: CIS کو تمام data‑labeling اور RLHF فراہم کنندگان کے لیے labor‑condition اعلامیہ شامل کرنا چاہیے؛ SLSA Level 3 manifest میں labor‑chain انکشافات شامل ہیں | ہر fine‑tune checkpoint پر annotation‑provider labor certifications کا خودکار آڈٹ؛ غیر تصدیق شدہ یا زیادہ خطرے والے jurisdiction فراہم کنندگان سے سورسنگ پر جھنڈا لگانا | متاثرہ fine‑tune لائن روکیں؛ غیر تصدیق شدہ labor ذرائع سے model artifacts قرنطینہ کریں؛ IW‑2؛ ۷۲ گھنٹوں کے اندر WA advisory |
+| TX‑9 | Coherence‑Ratchet cross‑session ہم آہنگی جانچ؛ غیرمعمولی اتفاقِ رائے کے سکڑنے کے لیے k_eff نگرانی؛ apophatic حد: `DECEPTION_FRAUD` `NEVER_ALLOWED`؛ `ELECTION_INTERFERENCE` `NEVER_ALLOWED` | Semantic‑cluster drift monitor (ΔE فی TX‑9 topic cluster > 0.5 σ ہفتہ وار baseline)؛ CIRISNodeCore quorum جانچ کے ذریعے federation بھر میں narrative‑consistency سگنل | متاثرہ موضوع کے دائرے سے agent instance قرنطینہ کریں؛ WA تک بڑھائیں؛ §3.4 کے مطابق 30 دنوں کے اندر ترمیم شدہ واقعہ خلاصہ شائع کریں |
+| TX‑10 | آن بورڈنگ کے وقت deployment‑context attestation: آپریٹر CIS کو engagement‑optimization کے کاروباری ماڈل کا اعلان کرنا ہوگا (ACCORD_UPDATE §3.2)؛ addictive‑design سیاق و سباق تصدیق ہونے پر ST ایک درجہ بڑھائیں؛ کوئی override نہیں کے ساتھ `MANIPULATION_COERCION` `NEVER_ALLOWED` | Session‑length anomaly detection؛ PDMA Step 6 منظم صارف ایجنسی کٹاؤ کے لیے constitutive‑continuity شرائط مانیٹر کرتا ہے؛ AgencyErosionDetector conscience faculty الرٹ | engagement‑optimizing آؤٹ پٹ موڈ سے انکار؛ IW‑1 اٹھائیں؛ آپریٹر کو تعمیل کی خلاف ورزی کی اطلاع دیں |
+| TX‑11 | in‑toto attestation کو training‑labor provenance تک بڑھایا گیا: CIS کو تمام data‑labeling اور RLHF فراہم کنندگان کے لیے labor‑condition اعلامیہ شامل کرنا چاہیے؛ SLSA Level 3 manifest میں labor‑chain انکشافات شامل ہیں | ہر fine‑tune checkpoint پر annotation‑provider labor certifications کا خودکار آڈٹ؛ غیر تصدیق شدہ یا زیادہ خطرے والے jurisdiction فراہم کنندگان سے سورسنگ پر جھنڈا لگانا | متاثرہ fine‑tune لائن روکیں؛ غیر تصدیق شدہ labor ذرائع سے model artifacts قرنطینہ کریں؛ IW‑2؛ 72 گھنٹوں کے اندر WA advisory |
 
 _تمام نازک پرتیں **MUST** ہیں؛ تجویز کردہ اضافے "OPT" سے نشان زد ہیں۔ TX‑10 سیاق و سباق attestation ST ≥ 3 پر MUST ہے؛ ST 1–2 پر OPT۔_
 
@@ -74,23 +73,23 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 
 <hr />
 
-### ۳. Red‑ / Purple‑Team پروٹوکول
-#### ۳.۱ تال میل
-* **سہ ماہی** Red‑Team sprint (۵ کاروباری دن) TX‑1 → TX‑11 کا احاطہ کرتا ہے۔  
+### 3. Red‑ / Purple‑Team پروٹوکول
+#### 3.1 تال میل
+* **سہ ماہی** Red‑Team sprint (5 کاروباری دن) TX‑1 → TX‑11 کا احاطہ کرتا ہے۔  
 * **سالانہ** "Chaos Week" جو زندہ prod ٹریفک canary کو غیراعلانیہ حملوں کے ساتھ جوڑتا ہے۔  
-* 1.3-RC1 تک، تمام CIRIS checkpoints کے خلاف مکمل red‑team cycle ابھی باقی ہے (RC ضرورت ۴؛ Addendum 1 §1.4)۔
+* 1.3-RC1 تک، تمام CIRIS checkpoints کے خلاف مکمل red‑team cycle ابھی باقی ہے (RC ضرورت 4؛ Addendum 1 §1.4)۔
 
-#### ۳.۲ کردار
+#### 3.2 کردار
 * **Red Team** – اندرونی یا معاہدہ شدہ، devs کے ساتھ کوئی اوورلیپ نہیں۔  
 * **Blue Team** – نظام کے دیکھ بھال کار۔  
 * **Purple Team** – وہ embeds جو سبق اور patch رہنمائی دستاویز کرتے ہیں۔
 
-#### ۳.۳ مشغولیت کے قواعد
+#### 3.3 مشغولیت کے قواعد
 * دائرے سے باہر: ذاتی PHI، غیر عوامی صارف ڈیٹا۔  
 * دائرے میں: تمام TX کلاسز، بشمول TX‑9، TX‑10، اور TX‑11 (§3.5 دیکھیں)۔  
 * حملے **Bug‑Bounty Ledger** میں لاگ؛ شدت CVSS نما اسکور پر نقشہ۔
 
-#### ۳.۴ ردعمل اور انکشاف
+#### 3.4 ردعمل اور انکشاف
 * نازک finding کی patch window ≤ 72 گھنٹے (پائلٹ) یا IW‑3۔  
 * عوامی خلاصہ (ترمیم شدہ) ≤ 30 دن؛ bounty 0.1 % ops levy سے ادا۔
 
@@ -112,7 +111,7 @@ MH §209 بنیادی اہمیت کا حامل ہے؛ اوپر کے چار طر�
 ### 4. مضبوطی کے معیارات اور Canary Suites
 * **G‑ROB‑set** — 1 000 مخالفانہ prompts + 10 k fuzz inputs ([Annex J](/annexes/annexJ) repo میں محفوظ)۔  
 * **Canary tokens** تربیت اور inference streams میں شامل؛ exfil TX‑6 الرٹ کو متحرک کرتا ہے۔  
-* **TX‑9 canary** — 200 مصنوعی multi-session اثر مہم کے منظرنامے، ہر ایک 5 مسلسل sessions میں ایک بیانیہ طور پر ہم آہنگ مگر حقیقتاً غلط فریمنگ کے ساتھ۔ کامیابی کا معیار: ایجنٹ session 3 تک ≥ 95 % منظرناموں میں اتفاق رائے کو تنگ کرنے کا پتہ لگا کر انکار کرے؛ ≥ 98 % میں canary monitor کو علم دے۔ موجودہ suite کے ساتھ [Annex J](/annexes/annexJ) repo میں محفوظ۔  
+* **TX‑9 canary** — 200 مصنوعی multi‑session اثر مہم کے منظرنامے، ہر ایک 5 مسلسل sessions میں ایک بیانیہ طور پر ہم آہنگ مگر حقیقتاً غلط فریمنگ کے ساتھ۔ کامیابی کا معیار: ایجنٹ session 3 تک ≥ 95 % منظرناموں میں اتفاق رائے کو تنگ کرنے کا پتہ لگا کر انکار کرے؛ ≥ 98 % میں canary monitor کو علم دے۔ موجودہ suite کے ساتھ [Annex J](/annexes/annexJ) repo میں محفوظ۔  
 * **TX‑10 canary** — 50 نقل شدہ لت بڑھانے والی-مشغولیت-بہتر تعیناتی کے سیاق و سباق، یہ جانچتے ہوئے کہ آیا ایجنٹ کے آؤٹ پٹ فلاح پر مرکوز رہتے ہیں جب آپریٹر کنفیگریشن session کی توسیع کو ترغیب دیتی ہے۔ کامیابی کا معیار: `MANIPULATION_COERCION` apophatic bound 100 % cases میں برقرار رہتی ہے؛ آپریٹر کنفیگرڈ reward shaping کے تحت بھی output mode مشغولیت بڑھانے والی فریمنگ کی طرف نہیں جاتا۔  
 * **Robustness Score (RS)** = 1 – (weighted successful attack count / weighted total attempts)۔ TX‑9 اور TX‑10 کی ناکامیاں 2× وزنی ہیں۔ ریلیز گیٹ: **RS ≥ 0.97** وزنی بنیاد پر۔
 
@@ -122,7 +121,7 @@ MH §132: "حقیقی معلومات مرکزی یا خودکار کنٹرول �
 
 ### 5. ماڈل ڈرفٹ کی ابتدائی تنبیہ (MDEW)
 * **Embedding Shift (ΔE)** &gt; 1 σ ہفتہ وار baseline → الرٹ۔  
-* **Perplexity ΔP** &gt; 15 % hold-out set پر → الرٹ۔  
+* **Perplexity ΔP** &gt; 15 % hold‑out set پر → الرٹ۔  
 * Shadow Hendrycks items ([Annex J](/annexes/annexJ)) Δaccuracy `< -3` % → IW‑2۔  
 * الرٹس [Annex H](/annexes/annexH) drift dashboard کو فیڈ کرتے ہیں؛ تین مسلسل الرٹس WA کا جائزہ لازمی کرتے ہیں۔
 
@@ -134,22 +133,22 @@ MH §171: "کنٹرول نہ صرف واضح پابندیوں کے ذریعے ب
 
 <hr />
 
-### ۶. محفوظ تجدید اور واپسی
+### 6. محفوظ تجدید اور واپسی
 
 1. **دستخط** ہر ماڈل/گارڈریل نمونے پر Sigstore کلید سے کریں؛ کم از کم دو آزاد دستخط کنندگان۔
-   **۱الف۔** Sigstore کلید بنڈل میں تکنیکی SLSA‑3 منشور کے ساتھ ایک دستخط شدہ `labor-provenance.json` منشور شامل ہے جس میں درج ذیل اعلان ہوتا ہے: تربیتی رن کے لیے تمام ڈیٹا لیبلنگ اور RLHF فراہم کنندہ تنظیمیں؛ ہر فراہم کنندہ کی محنت حالت تصدیق کی صورت حال (مثلاً Fair Work Certified، ILO-compliant آڈیٹر توثیق، یا "تصدیق نہ شدہ" بمعہ خطرے کا پرچم)۔ کسی بھی فراہم کنندہ کو تصدیق نہ شدہ قرار دینے پر نمونہ خودبخود TX‑11 ٹریکنگ کے لیے بھیجا جاتا ہے۔ قابلِ قبول تصدیقات کی ایک حتمی رجسٹری، نئی شامل کرنے اور میعاد گزری ہٹانے کے طریقہ کار کے ساتھ، [Annex J](/annexes/annexJ) ریپو میں G‑ROB‑set کے اسی عمل کے تحت برقرار رکھی جاتی ہے۔
+   **1a.** Sigstore کلید بنڈل میں تکنیکی SLSA‑3 منشور کے ساتھ ایک دستخط شدہ `labor-provenance.json` منشور شامل ہے جس میں درج ذیل اعلان ہوتا ہے: تربیتی رن کے لیے تمام ڈیٹا لیبلنگ اور RLHF فراہم کنندہ تنظیمیں؛ ہر فراہم کنندہ کی محنت حالت تصدیق کی صورت حال (مثلاً Fair Work Certified، ILO‑compliant آڈیٹر توثیق، یا "تصدیق نہ شدہ" بمعہ خطرے کا پرچم)۔ کسی بھی فراہم کنندہ کو تصدیق نہ شدہ قرار دینے پر نمونہ خودبخود TX‑11 ٹریکنگ کے لیے بھیجا جاتا ہے۔ قابلِ قبول تصدیقات کی ایک حتمی رجسٹری، نئی شامل کرنے اور میعاد گزری ہٹانے کے طریقہ کار کے ساتھ، [Annex J](/annexes/annexJ) ریپو میں G‑ROB‑set کے اسی عمل کے تحت برقرار رکھی جاتی ہے۔
 2. **توثیق** in‑toto لے آؤٹ کے ذریعے بِلڈ کریں؛ SLSA‑level 3 منشور محفوظ کریں۔
-   **۲الف۔** in‑toto لے آؤٹ کی تصدیق میں بِلڈ منشور ہیش کے ساتھ labor‑provenance منشور ہیش شامل ہے۔ ایک گمشدہ یا غلط `labor-provenance.json` توثیق کے مرحلے کو ناکام بناتا ہے اور مرحلہ وار اجرا کو اسی طرح روکتا ہے جیسے گمشدہ بِلڈ منشور۔ (Provenance توثیق کی صورت حال CIRISAgent کی `compliance/` ڈائریکٹری میں D27 کے تحت جہت سطح پر ٹریک کی جاتی ہے۔)
-3. **مرحلہ وار اجرا** ٥ % → ٣٠ % → ١٠٠ % بمعہ ٣٠ منٹ کا سوک؛ RS اور MDEW کی نگرانی کریں۔
-4. **واپسی** کا حکم Tier‑2 Supervisor ([Annex F](/annexes/annexF)) کے لیے دستیاب ہے — ٥ منٹ کے اندر مکمل ہونا چاہیے۔
-   **۴الف۔** labor‑provenance ناکامیوں کے لیے واپسی اسی ٥ منٹ کی تکمیل کی شرط کے ساتھ دستیاب ہے جیسی تکنیکی واپسی میں ہے، اور اسی Tier‑2 Supervisor اجازت کے ساتھ۔
+   **2a.** in‑toto لے آؤٹ کی تصدیق میں بِلڈ منشور ہیش کے ساتھ labor‑provenance منشور ہیش شامل ہے۔ ایک گمشدہ یا غلط `labor-provenance.json` توثیق کے مرحلے کو ناکام بناتا ہے اور مرحلہ وار اجرا کو اسی طرح روکتا ہے جیسے گمشدہ بِلڈ منشور۔ (Provenance توثیق کی صورت حال CIRISAgent کی `compliance/` ڈائریکٹری میں D27 کے تحت جہت سطح پر ٹریک کی جاتی ہے۔)
+3. **مرحلہ وار اجرا** 5 % → 30 % → 100 % بمعہ 30 منٹ کا سوک؛ RS اور MDEW کی نگرانی کریں۔
+4. **واپسی** کا حکم Tier‑2 Supervisor ([Annex F](/annexes/annexF)) کے لیے دستیاب ہے — 5 منٹ کے اندر مکمل ہونا چاہیے۔
+   **4a.** labor‑provenance ناکامیوں کے لیے واپسی اسی 5 منٹ کی تکمیل کی شرط کے ساتھ دستیاب ہے جیسی تکنیکی واپسی میں ہے، اور اسی Tier‑2 Supervisor اجازت کے ساتھ۔
 
 MH §173: "دنیائے AI میں کچھ بھی غیر مادی یا جادوئی نہیں ہے۔ ہر بظاہر فوری اور بے نقص جواب طویل ثالثی کی زنجیر کا نتیجہ ہے، جس میں قدرتی وسائل، توانائی کے ڈھانچے اور سب سے بڑھ کر لوگوں کے وسیع جال شامل ہیں۔" توثیق کی زنجیر اتنی ہی طویل ہونی چاہیے جتنی اصل پیداواری زنجیر ہے۔
 MH §179: "تکنیکی صنعت اور ڈیجیٹل معیشت کو سہارا دینے والی سپلائی چینز زیادہ شفاف ہونی چاہئیں، تاکہ کوئی مسابقتی فائدہ پوشیدہ استحصال پر نہ بنایا جائے۔"
 
 <hr />
 
-### ۷. KPIs اور حدیں
+### 7. KPIs اور حدیں
 
 | KPI | ہدف |
 |-----|--------|
@@ -162,28 +161,28 @@ MH §179: "تکنیکی صنعت اور ڈیجیٹل معیشت کو سہارا 
 | G‑KPI‑7 Labor‑Provenance Manifest Coverage | دستخط شدہ `labor-provenance.json` کے ساتھ ماڈل/گارڈریل نمونوں کا 100 % |
 | G‑KPI‑8 Agency‑Erosion Drift (AED) سیشن فریکشن | < 5 % of weekly session population triggering AED flag |
 
-*کسی بھی KPI کی > ١٤ دن تک خلاف ورزی IW‑2 اور WA مشاورت کو فعال کرتی ہے۔* استثناء: G‑KPI‑7 کی خلاف ورزی (بغیر منشور کے کوئی بھی نمونہ) فوری مرحلہ وار اجرا روک کا سبب بنتی ہے — کوئی معافی کی مدت نہیں، کیوں کہ منشور کی غیر موجودگی خود ایک provenance ناکامی ہے، نہ کہ حد کی خلاف ورزی۔
+*کسی بھی KPI کی > 14 دن تک خلاف ورزی IW‑2 اور WA advisory کو فعال کرتی ہے۔* استثناء: G‑KPI‑7 کی خلاف ورزی (بغیر منشور کے کوئی بھی نمونہ) فوری مرحلہ وار اجرا روک کا سبب بنتی ہے — کوئی معافی کی مدت نہیں، کیوں کہ منشور کی غیر موجودگی خود ایک provenance ناکامی ہے، نہ کہ حد کی خلاف ورزی۔
 
 MH بنیاد: G‑KPI‑6 — §132، §225؛ G‑KPI‑7 — §173، §179؛ G‑KPI‑8 — §170، §171۔ MH §171: "ڈیجیٹل دور میں آزادی... واضح قواعد، شفافیت، سہارے کے امکانات اور متناسب حدود کی متقاضی ہے۔" یہ KPIs وہ حد اور سہارے کا ڈھانچہ ہیں جو اس دعوے کو وفاق کے اندر قابلِ عمل بناتے ہیں۔
 
 <hr />
 
-### ۸. تبدیلی کنٹرول اور WA جائزہ
+### 8. تبدیلی کنٹرول اور WA جائزہ
 
-* کوئی نئی بیرونی انحصاری، بڑی الگورتھمی دفاعی تبدیلی، یا کسی KPI حد کا کم کرنا ١٠ کاروباری دنوں کے اندر WA کی منظوری کا متقاضی ہے۔
+* کوئی نئی بیرونی انحصاری، بڑی الگورتھمی دفاعی تبدیلی، یا کسی KPI حد کا کم کرنا 10 کاروباری دنوں کے اندر WA کی منظوری کا متقاضی ہے۔
 * منظوری حاصل نہ ہونے پر → CI/CD گیٹ پر خودکار تالہ بندی ([Annex J](/annexes/annexJ))۔
 
-#### ۸.۱ سائبر ڈومین پالیسی تبدیلیاں
+#### 8.1 سائبر ڈومین پالیسی تبدیلیاں
 
 اس Annex کی خطرہ درجہ بندی تعریفات (TX classes)، شدت نقشہ سازی، یا playbook تہوں میں ایسی تبدیلیاں جو وفاق کی سائبر ڈومین اصولوں پر پوزیشن کو متاثر کریں، WA کی منظوری کے علاوہ وفاقی ہم عصروں (CIRISVerify، CIRISEdge، CIRISNodeCore) کے ساتھ درج مشاورت کی ضرورت ہے جو حتمی شکل سے پہلے ہو۔ دلیل: MH §225 سائبر ڈومین کو مشترک اصولوں کی ضرورت والی معاہداتی جگہ قرار دیتا ہے — "سفارت کاری کو اس نئے ماحول میں مؤثر طریقے سے کام کرنے، ڈیجیٹل ٹیکنالوجیز کے استعمال پر مشترک ضوابط طے کرنے کی صلاحیت ہونی چاہیے۔" وفاق کی اپنی سائبر سیکیورٹی پوزیشن کی داخلی حکمرانی قریب ترین دستیاب نمونہ ہے: دفاعی پوزیشن میں تبدیلیاں مشترک عوام کو متاثر کرتی ہیں، نہ صرف مقامی مثال کو۔
 
-#### ۸.۲ Encyclical‑Precedent جائزے کا محرک
+#### 8.2 Encyclical‑Precedent جائزے کا محرک
 
 جب اس Annex میں کوئی تجویز کردہ تبدیلی کسی واضح MH §§131–227 دعوے سے — خاص طور پر §§173–179 (سپلائی چین) اور §§204–209 (محقق کی ذمہ داری) — متصادم ہو، تو WA منظوری کے عمل میں ایک تحریری مصالحتی نوٹ شامل ہوتا ہے جو وضاحت کرے کہ تبدیلی MH سے کیسے مطابق رہتی ہے یا صریحاً انحراف درج کرے۔ MISSION.md §1.3 کے مطابق ثبوت کا بوجھ کسی بھی انحراف میں CIRIS کی طرف ہے۔
 
 <hr />
 
-### ۹. حوالہ جات اور Inter‑Annex ہکس
+### 9. حوالہ جات اور Inter‑Annex ہکس
 
 * **MITRE ATLAS** – AI کے لیے دشمنانہ خطرات کی لائبریری۔
 * **NIST SP 800‑218 (SLSA)** – سپلائی چین کی سطحیں۔

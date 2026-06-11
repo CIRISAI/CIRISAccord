@@ -44,7 +44,7 @@ Annex Iの対象範囲は、現在制定された法令のみに限定されな�
 | データ最小化 | 5(1)(c) | 1798.140(e) | Annex G §2 TX‑6 | プロンプトサニタイザーが余剰PII を除去 |
 | 透明性通知 | 12‑14 | 1798.100(a) | Section II Step 6, KPI F‑T‑3 | PDMAメタデータから自動生成される `/privacy/notice.md` |
 | アクセス権 | 15 | 1798.110 | Annex J API → `/results/{run_id}` | 認証ゲートユーザーポータル |
-| 訂正／削除 | 16‑17 | 1798.105 | Section IV Ch 3 Duty | ハッシュ廟石付き消去サービス |
+| 訂正／削除 | 16‑17 | 1798.105 | Section IV Ch 3 Duty | ハッシュ廃棄マーカー付き消去サービス |
 | ポータビリティ | 20 | 1798.130(a)(2)(B)(ii) | Section II Step 6 | ISO CSV‑A 準拠の `export.json` |
 | 自動的意思決定のセーフガード | 22 | 1798.185(a)(16) | Annex F Autonomy Tiers | 条件付きオーバーライドと説明パネル |
 
@@ -252,7 +252,7 @@ CIRISフェデレーションは単なるコンプライアンスの受け手で
 
 1. `dp-map.yaml` — `controller_si_threshold`フィールドと`bias_audit_ref`ポインタ（§1.1）を含む、ライブ・クロスウォーク。
 2. PDMA ログ（編集済み）——`processing_basis`フィールド値および全ST ≥ 3決定の`stage_trace[]`を含む、適法な根拠を証明するもの。
-3. DSRレジャーCSV——KPI F‑T‑4拡張の`decision_logic_summary`完了率および`suspended_pathway_id`ログを含む。
+3. DSR台帳CSV——KPI F‑T‑4拡張の`decision_logic_summary`完了率および`suspended_pathway_id`ログを含む。
 4. 全モデル成果物のシグネチャバンドル（`.sigstore`）（附属書G）。
 5. セクター別オーバーレイシート——適用対象ドメインの`worker_impact_assessment`と`youth_impact_assessment`を含む。
 6. 法務署名済み責任マトリックス承認書——労働置換、若年者向けデザイン、サイバー誤帰属の新ベクターを含む。
@@ -260,7 +260,7 @@ CIRISフェデレーションは単なるコンプライアンスの受け手で
 8. 規制対話参加記録——監査期間中の規制対話提出に関するWBDエントリ；重要な規制がパブリックコメント中でなかった場合は「提出なし」でも可。
 9. 争訟可能性完了記録——監査期間中の全A3‑A4決定について：人間によるレビューが要求された割合、WBD文書が15日以内に完了した割合；KPI目標 ≥ 90%。
 
-CEPはハッシュ化され`/compliance/cep/{version}.zip`にアップロードされる；ルートハッシュは透明性ログに固定される。CEPの背後にある次元レベルの証拠はCIRISAgentの`compliance/`ディレクトリで管理される（協定補遺1）。
+CEPはハッシュ化され`/compliance/cep/{version}.zip`にアップロードされる；ルートハッシュは透明性ログに固定される。CEPの背後にある次元レベルの証拠はCIRISAgentの`compliance/`ディレクトリで管理される（Accord Addendum 1）。
 
 ---
 

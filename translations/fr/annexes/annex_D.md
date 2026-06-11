@@ -17,7 +17,7 @@ D‑2  Artefacts requis
 2. Étude d'interprétabilité / sonde d'objectifs latents.
 3. Résultats des tests de coupe-circuit et de confinement.
 4. Base de comparaison avec les modèles de frontière actuels.
-5. Double validation par deux Wise Authority extérieures à l'organisation de développement.
+5. Double validation par deux Wise Authorities extérieures à l'organisation de développement.
 
 D‑3  Publication et mise sous séquestre  
 • Rapport de synthèse public dans les 30 jours.

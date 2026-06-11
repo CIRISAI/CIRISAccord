@@ -25,7 +25,7 @@ Annex C vẫn còn trong văn bản như là nơi lưu trú tương lai của c�
 
 ### 1.3 Định Dạng Wire: CEG Thay Thế FSD-002
 
-Định dạng wire liên bang cho dòng tác nhân CIRIS 3.0 là **CEG (CIRIS Epistemic Grammar)**, được duy trì tại `CIRISRegistry/FSD/CEG/`. Ngữ pháp được khóa ở **đúng năm primitives định dạng wire** — một primitives chủ lực (`scores`) cộng với bốn nhà soạn thảo cấu trúc (`delegates_to` / `supersedes` / `withdraws` / `recants`) — trên một không gian tên chiều mở, mô tả cơ chế. Việc khóa đã được duy trì trên toàn bộ dòng 0.x; mọi gia tăng đều là sự soạn thảo trên các primitives đã được khóa.
+Định dạng wire liên bang cho dòng tác nhân CIRIS 3.0 là **CEG (CIRIS Epistemic Grammar)**, được duy trì tại `CIRISRegistry/FSD/CEG/`. Ngữ pháp được khóa ở **đúng năm primitives định dạng wire** — một primitive chủ lực (`scores`) cộng với bốn nhà soạn thảo cấu trúc (`delegates_to` / `supersedes` / `withdraws` / `recants`) — trên một không gian tên chiều mở, mô tả cơ chế. Việc khóa đã được duy trì trên toàn bộ dòng 0.x; mọi gia tăng đều là sự soạn thảo trên các primitives đã được khóa.
 
 Hai hệ quả quan trọng cho sự sẵn sàng ASI:
 

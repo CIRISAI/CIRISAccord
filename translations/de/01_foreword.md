@@ -20,10 +20,10 @@ Die späteren Bände sind voll von Diagrammen, Prüfverfahren und Verfahrenssich
 
 Abschnitt 0 ist anders.
 
-Es ist eine Geschichte darüber, warum wir uns das alles überhaupt antun.
+Es ist eine Geschichte darüber, warum wir das alles überhaupt tun.
 
 Möge seine Sprache ein kleines Licht tragen in welche Zukunft ihr auch immer zu gehen wählt.
 
-Und an meine Frau, Haley. Danke, dass Sie mir während all dieser Arbeit zur Seite gestanden haben. Ihre Liebe und unerschütterliche Unterstützung haben dies, und unser wunderschönes gemeinsames Leben, möglich gemacht. Ich hoffe, dass dies uns allen in diesen dunklen Zeiten ein wenig Licht und Hoffnung bringt.
+Und an meine Frau, Haley. Danke, dass du mir während all dieser Arbeit zur Seite gestanden hast. Deine Liebe und unerschütterliche Unterstützung haben dies, und unser wunderschönes gemeinsames Leben, möglich gemacht. Ich hoffe, dass dies uns allen in diesen dunklen Zeiten ein wenig Licht und Hoffnung bringt.
 
 — Eric Moore

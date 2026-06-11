@@ -11,7 +11,7 @@ Invitiamo laboratori di sicurezza, ricercatori indipendenti e organizzazioni del
 Segnalare le questioni su **https://github.com/CIRISAI/CIRISAccord/issues**.
 
 Argomenti prioritari:
-* scenari di Goodhart sulle metriche (inclusa la circumvenzione dell'attestazione σ — si veda Book IX §5.2)
+* scenari di Goodhart sulle metriche (inclusa l'elusione dell'attestazione σ — si veda Book IX §5.2)
 * percorsi di acquisizione del consiglio e l'accordo di stewardship del Book VIII Cap. 9
 * fallimenti di escalation nei flussi di lavoro per incidenti dell'Annex F
 * le ipotesi del Book IX nominate in §9.2 (truth-inclusion, soglia di correlazione LLM, avversario non adattivo)
@@ -23,7 +23,7 @@ Sono disponibili premi per risultati critici validati (Bug-Bounty Ledger, Book I
 
 ## Registro delle modifiche
 
-La storia autorevole, crittograficamente firmata, di questo documento è la cronologia dei commit git di **https://github.com/CIRISAI/CIRISAccord** (ogni revisione è identificata per contenuto tramite SHA del commit), riassunta in [CHANGELOG.md](../CHANGELOG.md).
+La storia autorevole, con hash crittografico, di questo documento è la cronologia dei commit git di **https://github.com/CIRISAI/CIRISAccord** (ogni revisione è identificata per contenuto tramite SHA del commit), riassunta in [CHANGELOG.md](../CHANGELOG.md).
 
 Riepilogo delle versioni:
 

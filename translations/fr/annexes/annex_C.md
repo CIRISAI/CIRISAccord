@@ -22,7 +22,7 @@ Mettre en correspondance les clauses CIRIS avec les principaux standards externe
 | | Art 13 Transparence | Livre II §II Étape 6 ; Livre IV Ch 3 | Informative |
 | | Art 14 Supervision humaine (dont 14(4)) | Livre II §III (WBD) ; Annexe F treillis d'autorité + niveaux d'autonomie | Informative |
 | | Art 61 Surveillance post-commercialisation | Annexe H contrôles de dérive + audit continu | Informative |
-| NIST AI RMF 1.0 | Gouverner → Cartographier → Mesurer → Gérer | Gouverner : Livres I, VI ; Cartographier : Livre II §II Étapes 1–2 ; Mesurer : Annexe A métriques + Annexe H références de base ; Gérer : flux Annexe F/H | Informative |
+| NIST AI RMF 1.0 | Govern → Map → Measure → Manage | Gouverner : Livres I, VI ; Cartographier : Livre II §II Étapes 1–2 ; Mesurer : Annexe A métriques + Annexe H références de base ; Gérer : flux Annexe F/H | Informative |
 | ISO/IEC 42001 | Cl 6.2 Évaluation des risques | Livre II §II | Informative |
 | | Annexe A contrôles | Documents de dimension `compliance/` de CIRISAgent (correspondance par contrôle en attente) | Informative |
 | Directives OSHA sur la robotique | Sec 5.E Audits de sécurité | Annexe D CRE | Partielle |

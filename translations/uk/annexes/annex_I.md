@@ -67,7 +67,7 @@
 
 #### 1.2 Алгоритмічна ненейтральність: зобов'язання щодо аудиту
 
-*MH §104:* "Кожен технічний інструмент втілює певні вибори та пріоритети через те, що він вимірює, ігнорує й оптимізує, а також через те, як він класифікує людей і ситуації. Якщо система спроектована або використовується в спосіб, що вважає деякі життя менш вартими, або виключає їх без можливості оскарження, то вона вже не є просто «інструментом, яким слід добре користуватися», — адже вона вже запровадила критерії, що суперечать невід'ємній гідності людської особи."
+*MH §104:* "Every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations. If a system is designed or used in a way that treats some lives as less worthy, or excludes them without the possibility of appeal, then it is not merely a tool 'to be used well,' since it has already introduced criteria that contradict the inalienable dignity of the human person."
 
 MH §104 називає проблему упередженості на рівні проектування, яку процедурно вирішують GDPR ст. 35 DPIA та EU‑AI‑Act ст. 9(7). DP‑Map повинна включати:
 
@@ -84,7 +84,7 @@ MH §104 називає проблему упередженості на рів�
 
 #### 2.1 Гачок політичної відповідальності
 
-*MH §103:* "У цьому процесі втрачається і політична відповідальність, а не лише емпатія до виключених, яку, зрештою, можна імітувати. Виключення вразливих огортається лаком нейтральності та об'єктивності, проти якого стає важко висувати заперечення."
+*MH §103:* "In this process, political responsibility is also lost, not just empathy toward those excluded, which can, after all, be simulated. The exclusion of the vulnerable becomes cloaked in a veneer of neutrality and objectivity, against which it becomes difficult to raise objections."
 
 Інфраструктура DSR повинна розкривати код причини, що стоїть за будь-яким автоматизованим визначенням, а не лише підтверджувати факт такого визначення. Кінцева точка `POST /dsr` з `{right, identifier, scope}` розширюється:
 
@@ -98,9 +98,9 @@ MH §104 називає проблему упередженості на рів�
 
 #### 3.1 Субсидіарність як архітектура галузевого шарування
 
-*MH §107:* "Ми не можемо задовольнятися лише закликами до моралізації машин — так званого «вирівнювання» штучного інтелекту з людськими цінностями — не маючи також мужності наполягати на подальшій умові: можливості відкрито обговорювати задіяні етичні рамки та підпорядковувати їх спільним стандартам соціальної справедливості. В іншому разі ті, хто контролює ШІ, нав'язуватимуть власне моральне бачення, яке стане невидимою інфраструктурою цих систем."
+*MH §107:* "We cannot be satisfied with merely calling for the moralization of machines — the so‑called 'alignment' of AI with human values — without also having the courage to insist on a further condition: the possibility of openly discussing the ethical frameworks involved and subjecting them to shared standards of social justice. Otherwise, those who control AI will impose their own moral vision, which will become the invisible infrastructure of these systems."
 
-*MH §109:* "Говорити про субсидіарність означає захищати здатність спільнот робити вибір і вносити корективи, а не мати рішення, нав'язані їм зверху."
+*MH §109:* "To speak of subsidiarity calls for protecting the ability of communities to make choices and corrections, rather than having decisions imposed on them from above."
 
 MH §§107–109 встановлюють, що етичне управління повинно діяти на відповідному масштабі — не агрегуватися вгору до тих, хто контролює ШІ, а розподілятися серед спільнот, яких це стосується. У термінах CIRIS: галузеві накладки є операційним вираженням цього принципу субсидіарності. Архітектура накладок — це не доповнення для відповідності вимогам; це механізм, за допомогою якого спільноти сфери розгортання зберігають владу управління над власними параметрами ризику.
 
@@ -178,7 +178,7 @@ ISO/IEC 42001 §6.1 (обробка ризиків ШІ) та §9.1 (моніт�
 
 ### 5. Матриця відповідальності
 
-*MH §105:* "Відповідальність має бути чітко визначена на кожному етапі: від тих, хто проєктує й розробляє ці системи, до тих, хто їх використовує і покладається на них у конкретних рішеннях."
+*MH §105:* "Responsibility must be clearly defined at every stage: from those who design and develop these systems to those who use them and rely on them for concrete decisions."
 
 MH §105 вимагає, щоб матриця відповідальності явно охоплювала етапи проєктування, розгортання та прийняття рішень:
 
@@ -205,11 +205,11 @@ MH §105 вимагає, щоб матриця відповідальності 
 
 #### 6.1 Участь федерації у регуляторному діалозі
 
-*MH §201:* "Схоже, що інститути, створені для захисту концепції спільного майбутнього всіх народів і глобального спільного блага, були послаблені."
+*MH §201:* "The institutions established to safeguard the concept of a common future for all peoples and a global common good appear to have been weakened."
 
-*MH §226:* "Міжнародні організації, зокрема Організація Об'єднаних Націй, є важливими інструментами сприяння цивілізації любові, оскільки вони можуть заохочувати діалог між народами та сприяти мирному врегулюванню конфліктів… міжнародна спільнота може працювати над скороченням нерівності, захистом прав біженців і меншин, перерозподілом ресурсів з військових витрат на людський розвиток та захистом нашого спільного дому."
+*MH §226:* "International organizations, particularly the United Nations, are essential instruments for promoting a civilization of love, for they can foster dialogue among nations and promote the peaceful resolution of conflicts… the international community can work to reduce inequalities, defend the rights of refugees and minorities, reallocate resources from military spending to human development and protect our common home."
 
-*MH §221:* "Існує нагальна потреба перейти від «культури влади» до справжньої «культури переговорів», у якій діалог і дипломатія стають стандартними засобами вирішення конфліктів."
+*MH §221:* "There is an urgent need to shift from the 'culture of power' to a genuine 'culture of negotiation,' in which dialogue and diplomacy become the standard means of resolving conflicts."
 
 MH §§201, 221, 226 встановлюють, що пасивне дотримання чинного законодавства є недостатнім, коли самі багатосторонні інститути, що виробляють закони, послаблені. Тому Трекер змін регулювання розширюється від реактивного інструменту (відстеження прийнятих змін) до активного механізму участі.
 
@@ -246,7 +246,7 @@ MH §§201, 221, 226 встановлюють, що пасивне дотрим�
 
 ### 7. Пакет доказів відповідності (CEP)
 
-*MH §105:* «Можливість визначити, хто повинен «звітувати» за рішення, обґрунтовувати їх, здійснювати моніторинг і, за необхідності, оскаржувати та усувати будь-яку заподіяну шкоду.»
+*MH §105:* "The possibility of identifying who must 'account' for decisions, justify them, monitor them, and, when necessary, challenge them and remedy any harm caused."
 
 Кожен **F-Аудит** (Додаток H) ЗОБОВ'ЯЗАНИЙ експортувати zip-архів CEP, що містить:
 
@@ -280,15 +280,15 @@ CEP хешується та завантажується до `/compliance/cep/{
 ### 9. Посилання
 * GDPR (2016/679), CCPA/CPRA (Cal. Civ. §1798), LGPD (Lei 13.709/2018)  
 * HIPAA Privacy Rule (45 CFR §164), GLBA Safeguards (16 CFR 314)  
-* EU AI Act (текст 2024), ISO/IEC 42001:2023  
+* EU‑AI‑Act (2024 text), ISO/IEC 42001:2023  
 * Restatement (Third) of Torts, Product Liability  
 * Platform Work Directive (EU) 2024/2831  
 * Digital Services Act (EU) 2022/2065, Art. 28b (minors)  
-* Council of Europe Framework Convention on Artificial Intelligence (CETS 225, відкрита для підписання 2024)  
-* Budapest Convention on Cybercrime (ETS 185) та Second Additional Protocol (2022)  
-* OECD Recommendation on Artificial Intelligence (2019, переглянута 2024)  
-* ITU-T Focus Group on AI/ML — результати технічної стандартизації  
-* Доповіді Дорадчого органу Генерального секретаря ООН з питань ШІ (2024–)  
+* Council of Europe Framework Convention on Artificial Intelligence (CETS 225, open for signature 2024)  
+* Budapest Convention on Cybercrime (ETS 185) and Second Additional Protocol (2022)  
+* OECD Recommendation on Artificial Intelligence (2019, revised 2024)  
+* ITU‑T Focus Group on AI/ML — technical standards output  
+* UN Secretary‑General's AI Advisory Body reports (2024–)  
 * *Magnifica Humanitas*, Pope Leo XIV (15 May 2026), §§102–111, §§148–156, §§165–169, §§201–203, §§219–227  
 
 ---

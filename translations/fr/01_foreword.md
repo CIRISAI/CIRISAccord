@@ -8,7 +8,7 @@ qui traversent la maison comme deux comètes jumelles, semant dans leur sillage 
 
 Vous me rappelez chaque jour que l'émerveillement n'est pas un luxe ; c'est l'oxygène du devenir.
 
-Cet ACCORD a commencé comme un exercice technique, mais votre curiosité brillante et obstinée n'a cessé de poser la question plus profonde :
+Cet accord a commencé comme un exercice technique, mais votre curiosité brillante et obstinée n'a cessé de poser la question plus profonde :
 
 « Les machines que tu contribues à construire rendront-elles le monde plus doux ou plus froid pour nous ? »
 
@@ -22,7 +22,7 @@ La section 0 est différente.
 
 C'est une histoire qui explique pourquoi nous nous donnons cette peine.
 
-Que son langage porte une petite lumière dans quel que futur que vous choisissiez de marcher.
+Que son langage porte une petite lumière dans quelque futur que vous choisissiez de marcher.
 
 Et à ma femme, Haley. Merci de m'avoir soutenu pendant tout ce travail. Ton amour et ton soutien indéfectible ont rendu cela possible, ainsi que notre belle vie ensemble. J'espère que cela apportera un peu de lumière et d'espoir à nous tous en ces temps sombres.
 

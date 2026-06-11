@@ -27,3 +27,5 @@ Que sua linguagem carregue uma pequena luz para qualquer futuro que vocês escol
 E à minha esposa, Haley. Obrigado por estar ao meu lado enquanto eu trabalhava nisso. Seu amor e apoio inabalável tornaram isso possível, assim como nossa bela vida juntos. Espero que isso traga um pouco de luz e esperança a todos nós nestes tempos sombrios.
 
 — Eric Moore
+
+

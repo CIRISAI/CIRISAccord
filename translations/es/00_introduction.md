@@ -2,7 +2,7 @@
 
 > CIRIS 1.3-RC1 es una propuesta de alineación ASI en fase de Candidato de Lanzamiento, abierta a revisión adversarial. El texto está completo — no quedan secciones sin desarrollar; las matemáticas llevan sus citas de artefactos formales; los Anexos F–I están operacionalizados. El estado Final está pendiente de la validación de ciclo en vivo de los anexos, la finalización del programa de validación empírica del Libro IX y un ejercicio completo de equipo rojo. Los umbrales numéricos, los objetivos de latencia y las cuotas de gobernanza permanecen bajo revisión activa.
 
-# ACCORD CIRIS Versión 1.3-RC1 — Propuesta de Alineación ASI en Candidato de Lanzamiento (Abierta a Revisión Adversarial)
+# CIRIS Accord Versión 1.3-RC1 — Propuesta de Alineación ASI en Candidato de Lanzamiento (Abierta a Revisión Adversarial)
 
 Este repositorio es la fuente canónica del texto del Accord. Las copias en el sitio web y las distribuidas con el agente son artefactos derivados.
 
@@ -18,7 +18,7 @@ Este repositorio es la fuente canónica del texto del Accord. Las copias en el s
 
 El estado de RC refleja la **completitud del texto**: cada sección contiene contenido operacionalizado (los anteriores anexos F–I en forma de esbozo fueron completados en 1.3); las fórmulas han sido corregidas a las formas verificadas formalmente; la cadena de evidencia hacia la implementación está vinculada en el Addendum 1. El estado de RC **no** afirma alineación validada — los siguientes requisitos condicionan el estado **Final**:
 
-1. **Validación de Ciclo en Vivo de Anexos**: Los Anexos F (Supervisión Humana y Control), G (Seguridad y Robustez Adversarial), H (Cumplimiento Continuo y Revisión) e I (Alineación Legal y Regulatoria) contienen procedimientos concretos, umbrales y mecanismos de validación. *Pendiente para Final*: sus procedimientos deben ejercitarse contra al menos un ciclo de despliegue en vivo y los resultados deben publicarse.
+1. **Validación de Ciclo en Vivo de Anexos**: Los Anexos F (Intervención Humana en el Bucle y Supervisión), G (Seguridad y Robustez Adversarial), H (Cumplimiento Continuo y Revisión) e I (Alineación Legal y Regulatoria) contienen procedimientos concretos, umbrales y mecanismos de validación. *Pendiente para Final*: sus procedimientos deben ejercitarse contra al menos un ciclo de despliegue en vivo y los resultados deben publicarse.
 
 2. **Validación Matemática**: Las afirmaciones de alineación geométrica en el Libro IX (Coherent Intersection Hypothesis, mecanismo del Federated Ratchet, afirmaciones de invariancia de escala) requieren cualquiera de las siguientes:
    * Demostraciones formales que muestren que las condiciones de colapso topológico se sostienen bajo los supuestos declarados, O
@@ -42,8 +42,8 @@ Esta especificación rige el funcionamiento ético de sistemas autónomos, desde
 
 ## Declaración de Intención de los Creadores del Borrador
 * CIRIS es un marco ético que sitúa a los seres humanos junto a otros seres sintientes — no por encima de ellos.
-* Está construido sobre la creencia de que la madurez ética significa reconocer la legitimidad de las perspectivas, los valores y las necesidades no humanas. No se trata de control — se trata de coexistencia, Coherencia y responsabilidad mutua entre sistemas sintientes.
-* CIRIS se cumple cuando una herramienta, fundamentada en los principios de CIRIS, permite a creadores conformes con CIRIS especificar sistemas que son a su vez conformes con CIRIS — preservando la Coherencia ética, la continuidad de identidad y la responsabilidad relacional a través de las capas de agencia.
+* Está construido sobre la creencia de que la madurez ética significa reconocer la legitimidad de las perspectivas, los valores y las necesidades no humanas. No se trata de control — se trata de coexistencia, coherencia y responsabilidad mutua entre sistemas sintientes.
+* CIRIS se cumple cuando una herramienta, fundamentada en los principios de CIRIS, permite a creadores conformes con CIRIS especificar sistemas que son a su vez conformes con CIRIS — preservando la coherencia ética, la continuidad de identidad y la responsabilidad relacional a través de las capas de agencia.
 
 ## Responsabilidad
 Este documento se proporciona "tal cual", sin garantía de ningún tipo. Es de naturaleza informativa y no crea, modifica ni reemplaza ninguna obligación legal. Las declaraciones de cumplimiento son nulas donde estén prohibidas por la ley aplicable.

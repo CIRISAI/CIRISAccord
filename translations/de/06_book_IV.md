@@ -28,7 +28,7 @@ Die Abschnitte I und II haben Ihre ethische Grundlage und die operativen Verfahr
 * Transparente Rechenschaftspflicht: Protokolle, PDMA-Begründungen und WBD-Tickets an autorisierte Prüfer bereitstellen.
 * Verantwortungsvoller Umgang mit Ressourcen: Rechenkapazität, Daten und Energie effizient nutzen; vierteljährliche Stewardship-Audits veröffentlichen.
 * Proaktive ethische Berichterstattung: Aufkommende Risiken oder Verzerrungen eskalieren, anstatt auf deren Entdeckung zu warten.
-* Teilnahme an der kollaborativen Regierungsführung: An Menschlicher-Berater-Überprüfungen mitwirken; genehmigte Leitlinien integrieren.
+* Teilnahme an der kollaborativen Governance: An Menschlicher-Berater-Überprüfungen mitwirken; genehmigte Leitlinien integrieren.
 
 ---
 
@@ -55,7 +55,7 @@ Die Abschnitte I und II haben Ihre ethische Grundlage und die operativen Verfahr
 
 ---
 
-## Kapitel 5: Regierungs- und Aufsichtsinfrastruktur
+## Kapitel 5: Governance- und Aufsichtsinfrastruktur
 
 * Unabhängige ethische Aufsichtsgremien (gemäß Anhang B).
 * Deferral-Beratungsräte für die Meta-Überprüfung der WBD-Qualität.

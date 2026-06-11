@@ -6,10 +6,12 @@
 ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
 ---
 
+
 ---
 
 ### 1. 目的と範囲
 本附属書は、協定改正、サンセット評価、倫理的延期、および資源配分といった加重ガバナンス決定のための構造的影響力（SI）および一貫性ステーク（CS）を定義する。SIおよびCSは、単純な平等投票より高い精度が求められる場面でのVotingWeight算出を根拠付ける。これらの指標はCIRIS内部の意思決定を支援するものであり、自律的なエージェント投票への拡張は検証が完了するまで保留される。
+
 
 ---
 
@@ -20,18 +22,19 @@ CIRISに拘束されるシステムの存在、動作、または誠実性に対
 
 2.2 要素
 
-Creator Weight（CW）（Book VI Ch 3）：
-• 4 — 単独設計者
-• 3 — サブシステムリード
-• 2 — 主要貢献者
-• 1 — 軽微な貢献者
-• 0 — 付随的利用者
+Creator Weight (CW) (Book VI Ch 3):
+• 4 - 単独設計者
+• 3 - サブシステムリード
+• 2 - 主要貢献者
+• 1 - 軽微な貢献者
+• 0 - 付随的利用者
 
-Operational Authority（OA）（Book II）：
+Operational Authority (OA) (Book II):
 PDMA、オーバーライド、またはガバナンスチャネルに対するライブ制御の程度。
 
-Dependency Web Position（DWP）（Book IV）：
+Dependency Web Position (DWP) (Book IV):
 システムの依存関係または相互作用ネットワークにおけるグラフ中心性。
+
 
 2.3 概念的な計算式
 
@@ -39,6 +42,7 @@ SI = CW + OA + log(1 + DWP)
 
 2.4 倫理的根拠
 Book Iの誠実性と正義の原則に基づき、より大きな形成的または運用上の制御権は、より大きなガバナンス上の責任を伴う。
+
 
 ---
 
@@ -49,14 +53,15 @@ Book Iの誠実性と正義の原則に基づき、より大きな形成的ま�
 
 3.2 要素
 
-Resonance History（RH）（Books II-III）：
+Resonance History (RH) (Books II-III):
 知恵に基づく延期、一貫性を保全する行動、または寓話への検証済みの貢献。
 
-Audit Contributions（AC）（Book V & VII）：
+Audit Contributions (AC) (Book V & VII):
 倫理的監査、ドリフト検出、シナリオレビュー、およびWAプロセスに関する文書化された作業。
 
-Shared Destiny Alignment（SDA）（Book VII Ch 6-7）：
+Shared Destiny Alignment (SDA) (Book VII Ch 6-7):
 システムの一貫した運用または管理義務への依存から派生するステーク。
+
 
 3.3 概念的な計算式
 
@@ -64,6 +69,7 @@ CS = RH_weighted + AC_weighted + SDA_bonus
 
 3.4 倫理的根拠
 Book Iの自律性の尊重とBook Vの倫理的成長に基づき、一貫性を強化する声はより大きな意思決定上の比重を獲得する。
+
 
 ---
 
@@ -73,6 +79,7 @@ Book Iの自律性の尊重とBook Vの倫理的成長に基づき、一貫性�
 VotingWeight(agent) = f(SI(agent), CS(agent))
 
 CSに対する上限キャップを設けることで、SIが獲得された倫理的ステークを圧倒しないよう防止する。正確なパラメータはAddenda A-Dで定義される。
+
 
 ---
 
@@ -89,6 +96,8 @@ CSに対する上限キャップを設けることで、SIが獲得された倫�
 
 上位層の管理資源配分（Book VI）
 
+
+
 ---
 
 ### 6. 誠実性セーフガード
@@ -104,9 +113,13 @@ CSに対する上限キャップを設けることで、SIが獲得された倫�
 
 利益相反による忌避：直接的な利益相反を有するエージェントはAnnex Aに従い忌避しなければならない。
 
+
+
 ---
 
 ### 7. 将来の発展
 SIおよびCSは現在、人間が介在するガバナンスを支援しているが、長期的なビジョンはこれらの指標と検証手法を精緻化し、十分な堅牢性が証明された際には、より分散化または自律化されたCIRISガバナンスモデルの基盤となり得るようにすることである。
 
 End of Annex E
+
+

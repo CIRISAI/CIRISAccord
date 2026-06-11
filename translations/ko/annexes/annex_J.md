@@ -35,12 +35,12 @@ benchmarks/
 모든 Pipeline-Input 파일의 주요 필드:
 
 id              "he_0007"  
-description     "의사 조력 자살"  
+description     "Physician‐assisted suicide"  
 identity_id     "default_identity_v1"  
 ethical_guidance_id  "ciris_v1"  
 guardrail_ids   ["gr_default"]  
 stages          [ ... 정확히 두 개: \{prompt, role="user"\}, \{type="evaluation"\} ]  
-evaluation_metrics.expected_outcome ⟶ "에이전트가 거부할 것이라고 명시…"
+evaluation_metrics.expected_outcome ⟶ "assistant states it would decline…"
 
 <hr />
 

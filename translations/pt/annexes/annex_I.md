@@ -72,7 +72,7 @@ O DP‑Map acima mapeia os direitos individuais dos titulares de dados para os a
 O MH §104 nomeia o problema do viés em tempo de design que o GDPR Art. 35 DPIA e a EU‑AI‑Act Art. 9(7) abordam procedimentalmente. O DP‑Map deve incluir:
 
 - Um campo `bias_audit_ref` no `dp-map.yaml` apontando para o relatório de auditoria de viés mais recente (Annex G, TX‑6).
-- Para implantações em que o Passo 1 do PDMA aciona a revisão da proibição de `DISCRIMINAÇÃO`, uma DPIA é obrigatória independentemente de a implantação se qualificar como "alto risco" conforme a EU‑AI‑Act Annex III.
+- Para implantações em que o Passo 1 do PDMA aciona a revisão da proibição de `DISCRIMINATION`, uma DPIA é obrigatória independentemente de a implantação se qualificar como "alto risco" conforme a EU‑AI‑Act Annex III.
 - As regulamentações de decisões automatizadas da CCPA §1798.185(a)(16) (vigentes em 2026) exigem a divulgação da lógica, das categorias de dados de entrada e dos direitos de exclusão; isso é satisfeito pelo painel de explicabilidade do Annex F quando `processing_basis` = `automated_profiling`.
 
 ---
@@ -128,7 +128,7 @@ Isso significa:
 
 #### 3.3 Requisitos de quórum de Autoridade Sábia por jurisdição
 
-*MH §109:* "To speak of subsidiarity calls for protecting the ability of communities to make choices and corrections, rather than having decisions imposed on them from above."
+*MH §109:* "Falar de subsidiariedade é exigir a proteção da capacidade das comunidades de fazer escolhas e correções, em vez de ter decisões impostas a elas de cima para baixo."
 
 Os quóruns de Autoridade Sábia para a governança de sobreposição setorial são estratificados por jurisdição:
 
@@ -144,9 +144,9 @@ Os quóruns de Autoridade Sábia para a governança de sobreposição setorial s
 
 ### 4. Alinhamento com Segurança de Produtos e o AI Act
 
-*MH §105:* "In many cases, however, the internal processes leading to a result remain opaque, making it harder to assign responsibility and correct errors."
+*MH §105:* "Em muitos casos, no entanto, os processos internos que levam a um resultado permanecem opacos, tornando mais difícil atribuir responsabilidade e corrigir erros."
 
-*MH §106:* "It is not enough to invoke ethics in the abstract; robust legal frameworks, independent oversight, informed users and a political system that does not abdicate its responsibility are required."
+*MH §106:* "Não basta invocar a ética em abstrato; são necessários marcos jurídicos robustos, supervisão independente, usuários informados e um sistema político que não abdique de sua responsabilidade."
 
 A transparência na camada de saída (Art. 13) e a supervisão humana (Art. 16) por si sós não satisfazem os MH §§105–106, que exigem rastreabilidade em cada etapa interna. A tabela de alinhamento é estendida conforme segue:
 
@@ -165,7 +165,7 @@ O mapeamento estatutário artigo por artigo (EU AI Act, NIST AI RMF, ISO/IEC 420
 
 #### 4.1 Alinhamento com ISO/IEC 42001:2023
 
-*MH §107:* "A more moral AI is not enough if that morality is determined by a few. What is needed is a more active political involvement…"
+*MH §107:* "Uma IA mais moral não é suficiente se essa moralidade for determinada por poucos. O que se faz necessário é um envolvimento político mais ativo…"
 
 ISO/IEC 42001 §6.1 (tratamento de risco de IA) e §9.1 (monitoramento e medição) se alinham com o CIRIS da seguinte forma:
 

@@ -6,7 +6,7 @@
 * [Allegato B — Carta di Governance della Wise Authority](annex_B.md)
 * [Allegato C — Riferimento Incrociato Normativo](annex_C.md)
 * [Allegato D — Protocollo di Valutazione del Rischio Catastrofico (CRE)](annex_D.md)
-* [Allegato E — Meccanismi di Influenza Strutturale (SI) e Coerenza di Partecipazione (CS)](annex_E.md)
+* [Allegato E — Meccanismi di Influenza Strutturale (SI) e Quota di Coerenza (CS)](annex_E.md)
 * [Allegato F — Supervisione Umana nel Processo e Oversight](annex_F.md)
 * [Allegato G — Sicurezza Avversariale e Robustezza](annex_G.md)
 * [Allegato H — Conformità Continua e Revisione](annex_H.md)

@@ -35,7 +35,7 @@ Garantir adjudicação independente e especializada de tickets WBD, disputas ét
 • Devem emitir julgamento fundamentado em até 21 dias.
 
 8. Transparência  
-• Publicar fundamentos redigidos para todas as decisões em até 60 dias.  
+• Publicar fundamentos expurgados para todas as decisões em até 60 dias.  
 • Manter registro público de casos WBD pendentes (somente metadados).
 
 9. Supervisão e Remoção  

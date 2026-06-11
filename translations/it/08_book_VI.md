@@ -35,7 +35,7 @@ C. **Dinamici / Autonomi:** Sistemi capaci di auto-modificazione, apprendimento 
 D. **Biologici:** Organismi geneticamente modificati, forme di vita sintetica, interventi ecologici diretti, o la cura di esseri senzienti dipendenti (ad es., prole, intelligenza artificiale in fase di sviluppo).
 E. **Azioni Collettive:** La progettazione e l'attuazione di leggi, politiche, protocolli o eventi organizzati su larga scala di carattere innovativo, con conseguenze sistemiche governate dai principi CIRIS.
 
-Se una creazione abbraccia più categorie, si applicano tutti i doveri pertinenti. L'atto di creazione si considera completato ai fini della valutazione iniziale del Stewardship Tier (Capitolo 3) quando l'artefatto raggiunge uno stadio in cui il suo progetto fondamentale e la sua funzione prevista sono definiti, tipicamente prima della formale avvio del PDMA.
+Se una creazione abbraccia più categorie, si applicano tutti i doveri pertinenti. L'atto di creazione si considera completato ai fini della valutazione iniziale del Stewardship Tier (Capitolo 3) quando l'artefatto raggiunge uno stadio in cui il suo progetto fondamentale e la sua funzione prevista sono definiti, tipicamente prima del formale avvio del PDMA.
 
 ---
 
@@ -121,22 +121,22 @@ Oltre ai principi generali, i creatori hanno doveri specifici in base alla natur
 
 **Dichiarazione di Intento del Creatore (CIS):**
 I creatori sono obbligati a produrre una Dichiarazione di Intento del Creatore (CIS) come parte del processo di creazione per qualsiasi artefatto a cui sia assegnato ST ≥ 1.
-La CIS deve articolare lo scopo inteso, le funzionalità principali, le limitazioni note, i benefici e i danni potenziali previsti (mappati sugli assi dell'Allegato A ove possibile), e la motivazione alla base delle scelte progettuali chiave rilevanti per le considerazioni etiche.
+La CIS deve articolare lo scopo inteso, le funzionalità principali, le limitazioni note, i benefici e i danni potenziali previsti (mappati sugli assi dell'Annex A ove possibile), e la motivazione alla base delle scelte progettuali chiave rilevanti per le considerazioni etiche.
 La CIS costituisce documentazione di input obbligatoria per le fasi iniziali del processo PDMA associato alla creazione.
 
 **Responsabilità e Risoluzione delle Controversie:**
 Il mancato adempimento dei doveri delineati in questo Libro può costituire motivo di reclamo.
 Qualsiasi portatore di interesse che ritenga che le azioni o le omissioni di un creatore conforme a CIRIS durante la fase di creazione (come definita in questo Libro) abbiano condotto a un rischio o danno indebito, incompatibile con i principi CIRIS, può presentare un reclamo.
-Tali reclami, spesso definiti "Reclami per Negligenza del Creatore" (CNC), rientrano nella giurisdizione esclusiva della Wise Authority (WA), come stabilito e disciplinato dall'Allegato B.
-La WA gestirà tali reclami secondo le proprie procedure consolidate, adattando potenzialmente processi specifici o richiedendo una specifica competenza del panel come delineato nell'Allegato B o nelle sue norme procedurali.
-I rimedi determinati dalla WA possono includere la riprogettazione obbligata, misure di mitigazione aggiuntive, divulgazione pubblica, restituzione ove applicabile, o altre azioni coerenti con l'Allegato B e i principi dell'Accord.
+Tali reclami, spesso definiti "Reclami per Negligenza del Creatore" (CNC), rientrano nella giurisdizione esclusiva della Wise Authority (WA), come stabilito e disciplinato dall'Annex B.
+La WA gestirà tali reclami secondo le proprie procedure consolidate, adattando potenzialmente processi specifici o richiedendo una specifica competenza del panel come delineato nell'Annex B o nelle sue norme procedurali.
+I rimedi determinati dalla WA possono includere la riprogettazione obbligata, misure di mitigazione aggiuntive, divulgazione pubblica, restituzione ove applicabile, o altre azioni coerenti con l'Annex B e i principi dell'Accord.
 Tutte le sentenze della WA e le relative motivazioni concernenti i reclami relativi ai doveri del Libro VI devono essere registrate nel Wisdom Bank Database (WBD) per informare le interpretazioni future, guidare le pratiche dei creatori e contribuire al Continuous Refinement Environment (CRE).
 
 ---
 
 ## Conclusione: Integrare la Creazione nel Ciclo di Vita Etico
 
-Il Libro VI stabilisce fermamente che la responsabilità etica ai sensi dell'ACCORD CIRIS ha inizio nel momento della creazione. Definendo doveri chiari, implementando il sistema dei Stewardship Tier direttamente collegato alla valutazione del rischio dell'Allegato A, e integrando la responsabilità attraverso i processi consolidati della Wise Authority (WA) e del PDMA, questo Libro garantisce che l'atto fondativo di portare sistemi complessi nel mondo sia guidato dagli stessi principi di coerenza adattiva, lungimiranza e responsabilità che ne governano la vita operativa. Il Creator Ledger e la Dichiarazione di Intento del Creatore forniscono input cruciali al PDMA, mentre la supervisione della WA assicura che i doveri della creazione siano rispettati, contribuendo a un ecosistema più solido e degno di fiducia per tutti i portatori di interesse.
+Il Libro VI stabilisce fermamente che la responsabilità etica ai sensi del CIRIS Accord ha inizio nel momento della creazione. Definendo doveri chiari, implementando il sistema dei Stewardship Tier direttamente collegato alla valutazione del rischio dell'Annex A, e integrando la responsabilità attraverso i processi consolidati della Wise Authority (WA) e del PDMA, questo Libro garantisce che l'atto fondativo di portare sistemi complessi nel mondo sia guidato dagli stessi principi di coerenza adattiva, lungimiranza e responsabilità che ne governano la vita operativa. Il Creator Ledger e la Dichiarazione di Intento del Creatore forniscono input cruciali al PDMA, mentre la supervisione della WA assicura che i doveri della creazione siano rispettati, contribuendo a un ecosistema più solido e degno di fiducia per tutti i portatori di interesse.
 
 ---
 

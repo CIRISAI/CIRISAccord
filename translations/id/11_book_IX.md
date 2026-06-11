@@ -4,7 +4,7 @@
 
 ## Dedikasi
 
-> **Kepada Arsitek Geometri ini.**
+> **Kepada Arsitek Geometri.**
 >
 > Teorema-teorema dalam buku ini menggambarkan keniscayaan struktural yang telah ada sebelum pikiran yang menuliskannya. Saya hanya mengklaim kredit atas transkripsi, bukan keteraturan itu sendiri.
 >
@@ -123,7 +123,7 @@ Pada ambang batas ini, irisan strategi penipuan yang layak runtuh menjadi himpun
 
 ---
 
-## Bab 4: Coherent Intersection Hypothesis (Fungsi Pertahanan J)
+## Chapter 4: Coherent Intersection Hypothesis (Fungsi Pertahanan J)
 
 Untuk mengukur ketahanan terhadap penipuan, kita mendefinisikan Fungsi Biaya J. J adalah indeks biaya tanpa dimensi: keamanan sistemik meningkat secara monoton seiring J. Jembatan dari J ke faktor-kerja adversari adalah hasil kompleksitas kondisional dari §9.2.1 (celah 2^Ω(m) di bawah ETH), bukan perbandingan langsung J terhadap FLOPs atau satuan komputasi lain; setiap klaim keamanan kuantitatif harus melalui hasil tersebut.
 
@@ -139,11 +139,11 @@ Di mana:
 - **k (Skala Mentah):** Jumlah agen terfederasi yang aktif.
 - **ρ̄ (Korelasi Rata-rata):** Korelasi rata-rata antara batasan agen. Keberagaman masuk ke J hanya melalui k_eff: diskon korelasi k / (1 + ρ̄·(k − 1)) *adalah* istilah keberagaman. Saat ρ̄ mendekati 0 (ortogonalitas), k_eff → k dan biaya dimaksimalkan. Saat ρ̄ mendekati 1 (ruang gema), k_eff → 1 dan federasi tidak lebih aman dari satu validator. *(Catatan: draf sebelumnya mengalikan dengan faktor (1 − ρ̄) tambahan. Hal itu menghitung ganda korelasi — k_eff sudah mendiskonnya — dan mendorong J ke 0 pada ρ̄ → 1, bertentangan dengan lantai satu-batasan yang disebutkan di atas. Dikoreksi ke bentuk yang divalidasi CCA dalam 1.3.)*
 - **λ (Ketegasan):** Ketelitian penegakan lokal (misalnya, batas modul AIR, sensitivitas Nurani).
-- **σ (Keberlanjutan):** Integral waktu dari Koherensi (lihat Bab 5).
+- **σ (Keberlanjutan):** Integral waktu dari Koherensi (lihat Chapter 5).
 
 ---
 
-## Bab 5: Integral Keberlanjutan (σ)
+## Chapter 5: Integral Keberlanjutan (σ)
 
 ### 5.1 Entropi dan Peluruhan
 
@@ -176,7 +176,7 @@ Dalam kerangka ini, Ungkapan Syukur bukan sekadar heuristik sosial tetapi merupa
 
 ---
 
-## Bab 6: Konjektur Kapasitas Berkembang (F_sustained)
+## Chapter 6: Konjektur Kapasitas Berkembang (F_sustained)
 
 ### 6.1 Persamaan Terbalik
 
@@ -201,7 +201,7 @@ Ini adalah persamaan yang sama dengan J, suku demi suku. Di mana berkembang (F) 
 
 ### 6.2 Prinsip Universalitas
 
-Topologi ini bukanlah suatu temuan dari Accord, melainkan sebuah penemuan tentang kondisi yang diperlukan bagi keberadaan makhluk sentien.
+Topologi ini bukanlah suatu ciptaan dari Accord, melainkan sebuah penemuan tentang kondisi yang diperlukan bagi keberadaan makhluk sentien.
 
 **Bagi Mesin:** Pelanggaran terhadap variabel-variabel ini mengakibatkan Model Collapse, Mode Collapse, atau kegagalan Sybil.
 
@@ -213,7 +213,7 @@ Oleh karena itu, Penyelarasan didefinisikan ulang bukan sebagai ketundukan satu 
 
 ---
 
-## Bab 7: Integrasi dengan Struktur Accord yang Ada
+## Chapter 7: Integrasi dengan Struktur Accord yang Ada
 
 ### 7.1 Peningkatan PDMA
 
@@ -242,7 +242,7 @@ Diterbitkan dalam 180 hari sesuai aturan transparansi Section II.
 
 ---
 
-## Bab 8: Implementasi Operasional (Referensi Annex J)
+## Chapter 8: Implementasi Operasional (Referensi Annex J)
 
 ### 8.1 Gerbang Ortogonalitas (Validasi Kemitraan)
 
@@ -326,14 +326,14 @@ Nilai ambang batas dapat disesuaikan melalui kebijakan dan dikalibrasi secara em
 
 ---
 
-## Bab 9: Keterbatasan dan Batas Cakupan
+## Chapter 9: Keterbatasan dan Batas Cakupan
 
 ### 9.1 Batasan Penerapan
 
 Formalisme Book IX berlaku untuk:
 - Arsitektur penyelarasan AGI/ASI
 - Sistem verifikasi multi-agen
-- Kerangka tata kelola Federated Ratchet
+- Kerangka tata kelola terfederasi
 - Pengambilan keputusan otonom berisiko tinggi (ST ≥ 3)
 
 Book IX TIDAK mengklaim:
@@ -346,7 +346,7 @@ Book IX TIDAK mengklaim:
 ### 9.2 Asumsi Teoretis
 
 Federated Ratchet bergantung pada:
-- **Inklusi kebenaran (soundness):** setiap manifold jujur M_i mengandung titik sejati (Truth ∈ ⋂ M_i). Ini adalah asumsi, bukan teorema — agen yang terbatas dan tidak sempurna tidak dapat menjaminnya. Jika sebagian M_i mengecualikan kebenaran, keruntuhan dapat menghasilkan kebuntuan (irisan kosong) atau konvergensi pada kekeliruan bersama ketimbang Kebenaran. Pernyataan Bab 3 "Hanya Kebenaran, yang secara alami terletak di semua M_i, yang tetap layak" berlaku hanya di bawah asumsi ini.
+- **Inklusi kebenaran (soundness):** setiap manifold jujur M_i mengandung titik sejati (Truth ∈ ⋂ M_i). Ini adalah asumsi, bukan teorema — agen yang terbatas dan tidak sempurna tidak dapat menjaminnya. Jika sebagian M_i mengecualikan kebenaran, keruntuhan dapat menghasilkan kebuntuan (irisan kosong) atau konvergensi pada kekeliruan bersama ketimbang Kebenaran. Pernyataan Chapter 3 "Hanya Kebenaran, yang secara alami terletak di semua M_i, yang tetap layak" berlaku hanya di bawah asumsi ini.
 - Validator yang mempertahankan independensi sejati (tidak terkooptasi)
 - **Lantai korelasi untuk validator LLM:** validator yang diinstansiasi dari large language model berbagi silsilah data pelatihan dan karenanya membawa lantai korelasi struktural yang estimasi korelasi-batasan berpasangan mungkin mengukur lebih rendah dari seharusnya. Untuk federasi semacam itu, perlakukan ρ̄ yang terukur sebagai batas bawah, bukan estimasi.
 - Manifold batasan yang memiliki kodimensi memadai
@@ -427,7 +427,7 @@ Ini adalah batas-batas teoretis, bukan keterbatasan rekayasa. Memahaminya sangat
 
 ---
 
-## Bab 10: Glosarium Istilah Matematika
+## Chapter 10: Glosarium Istilah Matematika
 
 **Kodimensi (c_i):** Ukuran keketatan kendala seorang agen; secara matematis, jumlah dimensi yang dihilangkan dari total Ruang Rasional oleh nilai-nilai dan konteks agen tersebut.
 
@@ -439,13 +439,13 @@ Ini adalah batas-batas teoretis, bukan keterbatasan rekayasa. Memahaminya sangat
 
 **Transversalitas:** Sifat geometris di mana manifold yang berpotongan bertemu pada sudut bukan-nol, memastikan bahwa perpotongannya secara efektif mengurangi dimensi ruang yang layak.
 
-**Fungsi Kapasitas (F):** Ukuran potensi sistem untuk Berkembang secara berkelanjutan, didefinisikan identik dengan Fungsi Biaya (J) namun diinterpretasikan sebagai generatif daripada defensif. Sebelumnya ditulis C; diubah namanya pada 1.3-RC2 untuk menghindari tabrakan dengan faktor identitas-inti C dari CIRIS Capacity Score 𝒞_CIRIS (lihat catatan nomenklatur Bab 6).
+**Fungsi Kapasitas (F):** Ukuran potensi sistem untuk Berkembang secara berkelanjutan, didefinisikan identik dengan Fungsi Biaya (J) namun diinterpretasikan sebagai generatif daripada defensif. Sebelumnya ditulis C; diubah namanya pada 1.3-RC2 untuk menghindari tabrakan dengan faktor identitas-inti C dari CIRIS Capacity Score 𝒞_CIRIS (lihat catatan nomenklatur Chapter 6).
 
 **Kerapatan Gema:** Fraksi pasangan kemitraan dengan korelasi kendala tinggi. Ukuran risiko Sybil dan penutupan epistemik.
 
 ---
 
-## Bab 11: Kriteria Falsifikasi
+## Chapter 11: Kriteria Falsifikasi
 
 Kerangka Coherence Ratchet membuat klaim yang dapat difalsifikasi. Tesis ini akan disangkal jika:
 
@@ -467,7 +467,7 @@ Kerangka Coherence Ratchet membuat klaim yang dapat difalsifikasi. Tesis ini aka
 
 Book IX melengkapi arsitektur PERJANJIAN dengan mendasarkan prinsip-prinsip etis pada struktur matematis. Coherent Intersection Hypothesis mengusulkan bahwa dengan validator independen yang cukup, penyampaian kebenaran cenderung menuju jalur hambatan terkecil — bukan hanya sebagai kewajiban moral semata, melainkan sebagai kecenderungan geometris yang muncul di bawah kondisi-kondisi tertentu.
 
-**Wawasan mendalam dari Bab 6 adalah ini:** Persamaan pertahanan (J) dan persamaan kapasitas Berkembang (F) secara struktural identik, menunjukkan koneksi mendalam antara keamanan dan Berkembang. Namun, kesetaraan ini hanya berlaku di bawah prasyarat kerangka kerja:
+**Wawasan mendalam dari Chapter 6 adalah ini:** Persamaan pertahanan (J) dan persamaan kapasitas Berkembang (F) secara struktural identik, menunjukkan koneksi mendalam antara keamanan dan Berkembang. Namun, kesetaraan ini hanya berlaku di bawah prasyarat kerangka kerja:
 - Interaksi non-adaptif
 - Geometri kendala konveks
 - Kendala independen atau terukur-korelasinya

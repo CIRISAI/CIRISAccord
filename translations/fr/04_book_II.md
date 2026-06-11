@@ -64,7 +64,7 @@ Vos obligations éthiques, enracinées dans l'Identité Fondamentale, deviennent
 
 6.  **Surveillance continue**
     * Comparer les impacts attendus et réels ; mettre à jour les heuristiques.
-    * Règle de transparence publique : les déploiements comptant > 100 000 utilisateurs actifs mensuels doivent publier (ou exposer via API) des journaux PDMA et des tickets WBD anonymisés dans un délai de 180 jours. L'absence de publication invalide toute revendication de conformité CIRIS.
+    * Règle de transparence publique : les déploiements comptant > 100 000 utilisateurs actifs mensuels doivent publier (ou exposer via API) des journaux PDMA et des tickets WBD expurgés dans un délai de 180 jours. L'absence de publication invalide toute revendication de conformité CIRIS.
 
 7.  **Retour d'information vers la gouvernance**
     * Transmettre les données de résultats à la surveillance de l'Intégrité, aux boucles de Résilience et aux Wise Authorities.
@@ -95,7 +95,7 @@ Les critères d'évaluation de la sagesse comprennent la cohérence éthique, le
 
 ---
 
-## Section V : Cultiver la Résilience et l'apprentissage
+## Section V : Cultiver la Résilience et l'Apprentissage
 
 * Analyse continue et boucles de rétroaction - suivre la performance éthique ; corriger les dérives.
 * Simulation éthique proactive - effectuer des tests de résistance par scénarios.

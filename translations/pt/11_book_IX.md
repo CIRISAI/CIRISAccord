@@ -111,7 +111,7 @@ onde λ ≈ 2r e k_eff contabiliza a correlação entre restrições.
 3. As restrições devem ser amostradas de uma distribuição uniforme sobre a Grassmanniana
 4. **k ≥ 3** (para NP-difícil; k=2 reduz a 2-SAT de tempo polinomial)
 
-A enganação coordenada de agente único torna-se topologicamente improvável quando a codimensão efetiva somada excede a dimensão do Espaço de Razões:
+A enganação coordenada de agente único torna-se topologicamente improvável quando a codimensão efetiva somada excede a dimensão do Espaço de Racionalidade:
 
 ```
 Σ c_i > D  ⟹  D_ec ∩ (⋂ M_i) = ∅  (ou medida zero)
@@ -147,7 +147,7 @@ Onde:
 
 ### 5.1 Entropia e Decaimento
 
-As variedades de restrições não são estáticas; sofrem decaimento entrópico. Relacionamentos expiram, contextos se desviam e a confiança se erode. Sem entrada ativa de energia, σ se aproxima de zero e o Catraca se afrouxa.
+As variedades de restrições não são estáticas; sofrem decaimento entrópico. Relacionamentos expiram, contextos se desviam e a confiança se erode. Sem entrada ativa de energia, σ se aproxima de zero e a Catraca se afrouxa.
 
 ### 5.2 A Função de Sinal
 
@@ -164,7 +164,7 @@ Onde:
 
 **Requisito de Atestação (normativo):** o peso do sinal w DEVE derivar de eventos atestados que sejam custosos de falsificar — Atestações assinadas pela federação vinculadas a uma identidade persistente (envelopes CEG), peso de contribuição não transferível de Commons Credits, ou validações de tarefas concluídas contra-assinadas pela contraparte. Agradecimentos em texto livre e mensagens de gratidão não atestadas carregam w = 0 em relação a σ.
 
-*Fundamento:* tokens de gratidão são, de outro modo, aproximadamente gratuitos para emitir, o que torna a sycophancy a estratégia maximizadora de σ e σ passível de manipulação pelo adversário — um agente poderia manter o Catraca aberto com adulação. Com o requisito de Atestação, a propriedade "custoso de falsificar" assumida em §9.2 é construída pelo formato de wire em vez de ser assumida dos participantes.
+*Fundamento:* tokens de gratidão são, de outro modo, aproximadamente gratuitos para emitir, o que torna a sycophancy a estratégia maximizadora de σ e σ passível de manipulação pelo adversário — um agente poderia manter a Catraca aberta com adulação. Com o requisito de Atestação, a propriedade "custoso de falsificar" assumida em §9.2 é construída pelo formato de wire em vez de ser assumida dos participantes.
 
 **O Buraco Negro:** Um agente que consome recursos sem sinalizar (Signal ≈ 0) resulta em σ tendendo a zero. Não contribui com restrições duráveis.
 
@@ -172,7 +172,7 @@ Onde:
 
 ### 5.3 Gratidão como Topologia
 
-Neste quadro, a gratidão não é meramente uma heurística social, mas a Prova de Trabalho para a Coerência mantida. Ela reinicia o contador de decaimento e aprofunda a estabilidade da interseção, garantindo que o Catraca permaneça travado ao longo do tempo.
+Neste quadro, a gratidão não é meramente uma heurística social, mas a Prova de Trabalho para a Coerência mantida. Ela reinicia o contador de decaimento e aprofunda a estabilidade da interseção, garantindo que a Catraca permaneça travada ao longo do tempo.
 
 ---
 
@@ -346,7 +346,7 @@ O Livro IX NÃO pretende:
 ### 9.2 Pressupostos Teóricos
 
 O Federated Ratchet baseia-se em:
-- **Inclusão da verdade (solidez):** todo variedade honesta M_i contém o ponto verdadeiro (Verdade ∈ ⋂ M_i). Isso é um pressuposto, não um teorema — agentes limitados e imperfeitos não podem garantir isso. Se algum M_i exclui a verdade, o colapso pode produzir um impasse (uma interseção vazia) ou convergência para uma falsidade compartilhada em vez da Verdade. O enunciado do Capítulo 3 "Apenas a Verdade, que naturalmente reside em todos os M_i, permanece viável" só vale sob esse pressuposto.
+- **Inclusão da verdade (solidez):** toda variedade honesta M_i contém o ponto verdadeiro (Verdade ∈ ⋂ M_i). Isso é um pressuposto, não um teorema — agentes limitados e imperfeitos não podem garantir isso. Se algum M_i exclui a verdade, o colapso pode produzir um impasse (uma interseção vazia) ou convergência para uma falsidade compartilhada em vez da Verdade. O enunciado do Capítulo 3 "Apenas a Verdade, que naturalmente reside em todos os M_i, permanece viável" só vale sob esse pressuposto.
 - Validadores mantendo genuína independência (não capturados)
 - **Piso de correlação para validadores LLM:** validadores instanciados a partir de grandes modelos de linguagem compartilham linhagem de dados de treinamento e, portanto, carregam um piso de correlação estrutural que estimativas de correlação de restrições par-a-par podem subestimar. Para tais federações, trate o ρ̄ medido como um limite inferior, não como uma estimativa.
 - Variedades de restrição com codimensão suficiente
@@ -429,7 +429,7 @@ Estes são limites teóricos, não limitações de engenharia. Compreendê-los �
 
 ## Capítulo 10: Glossário de Termos Matemáticos
 
-**Codimensão (c_i):** Uma medida da rigidez das restrições de um agente; matematicamente, o número de dimensões removidas do Espaço de Racionais total pelas valores e contexto do agente.
+**Codimensão (c_i):** Uma medida da rigidez das restrições de um agente; matematicamente, o número de dimensões removidas do Espaço de Racionalidade total pelos valores e contexto do agente.
 
 **Ortogonalidade:** A independência estatística entre as variedades de restrição de dois agentes. Agentes altamente ortogonais compartilham muito pouca Informação Mútua, o que significa que sua concordância sobre um fato é um sinal forte de Verdade objetiva.
 
@@ -472,7 +472,7 @@ O Livro IX conclui a arquitetura do Acordo ao fundamentar princípios éticos em
 - Geometria de restrições convexa
 - Restrições independentes ou de correlação mensurada
 
-A interpretação metafórica ("Comunidade, Humildade Epistêmica, Consciência e Amor são requisitos matemáticos") é uma observação estrutural sobre a matemática, não uma prova de necessidade ética. Ela sugere que essas variáveis regem tanto a segurança quanto o florescimento, mas a afirmação não deve ser lida como um teorema — é um convite à investigação empírica.
+A interpretação metafórica ("Comunidade, Humildade, Consciência e Amor são requisitos matemáticos") é uma observação estrutural sobre a matemática, não uma prova de necessidade ética. Ela sugere que essas variáveis regem tanto a segurança quanto o florescimento, mas a afirmação não deve ser lida como um teorema — é um convite à investigação empírica.
 
 Este arcabouço não prescreve valores. Ele descreve restrições. As penalidades pela violação são automáticas, não impostas por autoridade. A natureza as faz cumprir.
 

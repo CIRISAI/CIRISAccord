@@ -23,7 +23,7 @@ A criação (Book VI) abre um dever de tutela; a morte o encerra. O descomission
 
 A. **Aposentadoria Planejada:** Fim do serviço atingido por design ou obsolescência.
 B. **Desligamento de Emergência:** Acionado por falha catastrófica ou mandato da Autoridade Sábia.
-C. **Encerramento Parcial:** Sunset de subsistema enquanto a plataforma maior permanece ativa.
+C. **Encerramento Parcial:** Encerramento de subsistema enquanto a plataforma maior permanece ativa.
 D. **Transferência de Custódia:** A titularidade muda; os deveres éticos persistem.
 
 ---
@@ -45,7 +45,7 @@ D. **Transferência de Custódia:** A titularidade muda; os deveres éticos pers
     * Fórum de impacto para partes interessadas; publicar plano de mitigação.
 2.  **Design Ético de Desligamento**
     * Compilar "PDMA de Encerramento" com foco em vetores de não-maleficência (vazamento de dados, vácuo de serviço).
-    * Se potencial de senciência for sinalizado, realizar Auditoria de Bem-Estar; designar guardiões caso processos remanescentes precisem permanecer online para um encerramento humano.
+    * Se potencial de senciência for sinalizado, realizar Auditoria de Bem-Estar; designar guardiões caso processos remanescentes precisem permanecer online para um encerramento humanizado.
 3.  **Tratamento de Dados e Modelos**
     * Classificar conjuntos de dados: público, privado, sensível, tóxico.
     * Aplicar uma das opções: Apagamento Seguro, Selagem Criptográfica em Cofre (depositada em escrow), ou Doação de Acesso Aberto (se não houver restrições de privacidade/PI).
@@ -118,9 +118,9 @@ A tutela se vincula à obra, não a uma pessoa. Se o tutor atual parar — por e
 
 ### 9.4 Gatilho de Sucessão
 
-A fase de administrador único termina **quando surge uma necessidade** — indicativamente: múltiplos deployments independentes em produção dependendo materialmente do texto, um Conselho de Autoridade Sábia constituído, ou uma controvérsia comunitária que o administrador não pode adjudicar com equidade sozinho. Nesse ponto, um procedimento de governança sucessor é adotado como emenda de renovação a este capítulo, elaborado para a comunidade real que então existe, e não para a imaginada que ainda não existe.
+A fase de tutor único termina **quando surge uma necessidade** — indicativamente: múltiplos deployments independentes em produção dependendo materialmente do texto, um Conselho de Autoridade Sábia constituído, ou uma controvérsia comunitária que o tutor não pode adjudicar com equidade sozinho. Nesse ponto, um procedimento de governança sucessor é adotado como emenda de renovação a este capítulo, elaborado para a comunidade real que então existe, e não para a imaginada que ainda não existe.
 
-**Sobre a inversão de rigor:** o formato wire da federação subjacente a este documento (CEG §11.2) atualmente carrega mais rigor de emenda do que esta camada constitucional. Essa assimetria é reconhecida e deliberada: o formato wire é hoje infraestrutura operacional de múltiplos stakeholders; este documento é um rascunho vivo do administrador até que o gatilho de sucessão seja acionado. A assimetria deve se inverter quando isso ocorrer.
+**Sobre a inversão de rigor:** o formato wire da federação subjacente a este documento (CEG §11.2) atualmente carrega mais rigor de emenda do que esta camada constitucional. Essa assimetria é reconhecida e deliberada: o formato wire é hoje infraestrutura operacional de múltiplos stakeholders; este documento é um rascunho vivo do tutor até que o gatilho de sucessão seja acionado. A assimetria deve se inverter quando isso ocorrer.
 
 ---
 
@@ -128,4 +128,4 @@ A fase de administrador único termina **quando surge uma necessidade** — indi
 
 Nascimento e morte são agora fases espelhadas sob um mesmo arcabouço ético — incluindo o próprio Acordo: nenhuma imortalidade por padrão, renovação por atenção atribuível, e um texto que qualquer pessoa disposta pode recolher e levar adiante. Os aprendizados post-mortem alimentam os ciclos de change-log, garantindo que o Acordo permaneça um documento vivo.
 
-Fim do Livro VIII
+End of Book VIII

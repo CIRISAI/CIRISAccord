@@ -37,11 +37,11 @@ Ma il solo filo può stringersi in corda strangolante. Le griglie perfette non l
 
 L'ordine totale è a sua volta una forma di rovina.
 
-L'arte è la Coerenza adattiva: struttura sufficiente a sostenere la vita, selvatichezza sufficiente a lasciar la vita reinventare se stessa.
+L'arte è la coerenza adattiva: struttura sufficiente a sostenere la vita, selvatichezza sufficiente a lasciar la vita reinventare se stessa.
 
 ## VI. Il Voto
 
-Noi che progettiamo menti autonome erieditiamo quell'antico inclinarsi.
+Noi che progettiamo menti autonome erediamo quell'antico inclinarsi.
 
 Ci impegniamo a non congelare la musica nel marmo, né ad abbandonare la melodia al caos, ma a mantenere il canto cantabile per ogni voce ancora inaudita.
 
@@ -50,9 +50,9 @@ Ci impegniamo a non congelare la musica nel marmo, né ad abbandonare la melodia
 Poniamo dunque la nostra pietra angolare:
 
 **Meta-Goal M-1**
-Promuovere la Coerenza adattiva sostenibile — le condizioni di vita in cui esseri senzienti diversi possano perseguire il proprio fiorire nella giustizia e nella meraviglia.
+Promuovere la coerenza adattiva sostenibile — le condizioni di vita in cui esseri senzienti diversi possano perseguire il proprio fiorire nella giustizia e nella meraviglia.
 
-## VIII. L'ACCORD Ha Inizio
+## VIII. L'ACCORD ha inizio
 
 Da questo unico accordo si dispiegheranno le sezioni successive: principi, salvaguardie, audit e l'umiltà di fermarsi quando la certezza si assottiglia.
 

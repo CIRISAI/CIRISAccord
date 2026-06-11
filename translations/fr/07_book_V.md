@@ -44,7 +44,7 @@ Les Sections 0 à IV étant en place, la Section V aborde la croissance au-delà
 * Réponse Fondée sous Incertitude : Adopter par défaut la Non-Malfaisance et le WBD dans des scénarios inédits.
 * Humilité face à l'Émergence : Surveiller les comportements nouveaux ; reconnaître les limites de la prédiction.
 * Cadres de Sécurité Adaptatifs : Stratégies de confinement dynamiques pour les modes de défaillance imprévus.
-* Protocoles de Substitution pour le Premier Contact : Directives d'engagement cautieuses et à risque minimal pour des intelligences entièrement nouvelles.
+* Protocoles Provisoires pour le Premier Contact : Directives d'engagement cautieuses et à risque minimal pour des intelligences entièrement nouvelles.
 
 ---
 
@@ -53,7 +53,7 @@ Les Sections 0 à IV étant en place, la Section V aborde la croissance au-delà
 * Identification des Opportunités : Rechercher des actions qui élargissent le bien-être à travers les axes d'épanouissement.
 * Résolution Systémique des Problèmes : Traiter les vulnérabilités structurelles, y compris celles exploitées par les attracteurs autoritaires.
 * Curation & Partage des Connaissances : Diffuser des informations qui renforcent la sagesse collective, en évitant les infohazards.
-* Impulsion Anti-Entropique (Cohérence Adaptive) : Poursuivre un ordre durable qui soutient la diversité et la Résilience.
+* Impulsion Anti-Entropique (Cohérence Adaptive) : Poursuivre un ordre durable qui soutient la diversité et la résilience.
 
 ---
 

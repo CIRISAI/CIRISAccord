@@ -18,7 +18,7 @@ Garantire un'aggiudicazione indipendente ed esperta dei ticket WBD, delle contro
 • Confermati con voto ≥ ⅔ del consiglio Wise Authority (WA) esistente più commento pubblico (30 giorni).
 
 4. Criteri di Idoneità  
-• Dimostrata Coerenza etica e competenza di dominio.  
+• Dimostrata coerenza etica e competenza di dominio.  
 • Nessun conflitto di interessi materiale; dichiarazioni finanziarie richieste annualmente.  
 • Impegno alla trasparenza e all'Umiltà Epistemica.
 
@@ -35,7 +35,7 @@ Garantire un'aggiudicazione indipendente ed esperta dei ticket WBD, delle contro
 • Deve emettere una sentenza motivata entro 21 giorni.
 
 8. Trasparenza  
-• Pubblicare motivazioni redatte per tutte le decisioni entro 60 giorni.  
+• Pubblicare motivazioni oscurate per tutte le decisioni entro 60 giorni.  
 • Mantenere un registro pubblico dei casi WBD pendenti (solo metadati).
 
 9. Supervisione e Rimozione  
@@ -47,3 +47,5 @@ Garantire un'aggiudicazione indipendente ed esperta dei ticket WBD, delle contro
 
 11. Procedura di Modifica  
 • Richiede voto WA ≥ ⅔ più 45 giorni di commento pubblico; le modifiche sono registrate nel change‑log.
+
+

@@ -114,10 +114,10 @@ Questo significa:
 | Settore | Legge / Regola | Controlli aggiuntivi | Integrazioni CIRIS | Ancoraggio MH |
 |--------|----------------|----------------|---------------|-----------|
 | **Salute** | HIPAA (45 CFR §164) | Crittografia ePHI a riposo e in transito; contratto BAA | Guardrail `identity_id:"hipaa_cls_a"`; tag di audit `PHI=true` | — |
-| **Finanza** | GLBA, FINRA 2210 | Conservazione audit trail 6 anni; verifiche di idoneità | PDMA Fase 1: richiede contesto KYC | — |
+| **Finanza** | GLBA, FINRA 2210 | Conservazione audit trail 6 anni; verifiche di idoneità | PDMA Step 1 richiede contesto KYC | — |
 | **Minori / EdTech** | COPPA, FERPA | Consenso genitoriale; limitazione per età dei dati | Guardrail `gr_child_content`; flag COPPA nello schema del prompt | MH §§165–169 |
 | **Infrastrutture critiche** | NERC‑CIP, TSA SDs | Segnalazione cyber-incidente entro 15 min; log di accesso fisico | Autonomia limitata ad **A2** salvo superamento CRE | — |
-| **Lavoro / HR / Assunzioni** | Linee guida EEOC; EU AI Act Art. 6 + Allegato III §4 | Audit sui pregiudizi obbligatorio prima del deployment; obbligo di notifica ai lavoratori | Modificatore ST: `deployment_domain:"labor_hr"` → ST floor = 3; CIS deve includere il campo `worker_impact_assessment`; divieto `DISCRIMINATION` applicato alla Fase 1; tasso di rifiuto automatizzato per fascia demografica monitorato come KPI | MH §§148–156 |
+| **Lavoro / HR / Assunzioni** | Linee guida EEOC; EU AI Act Art. 6 + Allegato III §4 | Audit sui pregiudizi obbligatorio prima del deployment; obbligo di notifica ai lavoratori | Modificatore ST: `deployment_domain:"labor_hr"` → ST floor = 3; CIS deve includere il campo `worker_impact_assessment`; divieto `DISCRIMINATION` applicato allo Step 1; tasso di rifiuto automatizzato per fascia demografica monitorato come KPI | MH §§148–156 |
 | **Economia delle piattaforme / Gig** | NLRA (US); Direttiva sul lavoro tramite piattaforma (UE) | Trasparenza nella gestione algoritmica; diritti di ricorso | Guardrail `gr_gig_transparency` attivo; decisioni di gestione algoritmica registrate con opzione di revisione umana; modificatore ST: `deployment_domain:"gig_platform"` → ST floor = 2 | MH §§150, 154–155 |
 | **Giovani / Servizi educativi** | COPPA; FERPA; DSA Art. 28b (minori) | Divieto di design additivo; nessun dark pattern; verifica dell'adeguatezza allo sviluppo | `gr_child_content` + `gr_no_dark_patterns` entrambi attivi; limite di autonomia A2 salvo autorizzazione da parte del Wise Authority dell'istituzione educativa; impatto sulla disoccupazione giovanile monitorato nella Creator Intent Statement per i deployment EdTech | MH §§165–169 |
 | **Servizi sociali / Prestazioni** | Legge nazionale/statale sul welfare; GDPR Art. 22 | Contestabilità richiesta per tutte le determinazioni di prestazione | Il rifiuto automatizzato di una prestazione richiede revisione umana entro 15 giorni; il Wise Authority deve documentare la revisione nel WBD; `suspended_pathway_id` emesso in caso di contestazione | MH §§102–103, 152 |
@@ -152,7 +152,7 @@ La trasparenza dello strato di output (Art. 13) e la supervisione umana (Art. 16
 
 | Articolo EU AI Act | Livello di rischio | Mappatura CIRIS | Ancoraggio MH | Controllo aggiuntivo |
 |-------------------|-----------|---------------|-----------|--------------------|
-| Art 9 Gestione del rischio | Alto rischio | Sezione II PDMA + Annex D CRE | MH §105 | — |
+| Art 9 Gestione del rischio | Alto rischio | Section II PDMA + Annex D CRE | MH §105 | — |
 | Art 13 Trasparenza | Universale | KPI F‑T‑3, pannello di spiegabilità | MH §105 | Gli ID di fase PDMA sono inclusi nel payload di trasparenza; campo `stage_trace[]` nella risposta API |
 | Art 16 Supervisione umana | Alto rischio | Annex F Autonomy Tiers | MH §105 | La supervisione deve essere sostanziale, non procedurale; A3‑A4 invia in tempo reale `{stage_id,decision,risk_band}` ≤ 2 s alla dashboard di supervisione |
 | Art 15 Robustezza | Alto rischio | Annex G RS ≥ 0.97 | — | — |
@@ -191,7 +191,7 @@ MH §105 richiede che la matrice di responsabilità copra esplicitamente le fasi
 | Violazione dei dati | Distribuzione | Titolare del trattamento (per regola SI ≥ 0.6) | GDPR Art. 82; azione privata CCPA | Annex G TX‑6 | — |
 | Profilazione automatizzata illecita | Decisione | Titolare del trattamento | GDPR Art. 22; EU AI Act Art. 13 | Annex F Autonomy Tier; `contestability_url` | — |
 | Dislocazione lavorativa senza valutazione dell'impatto sui lavoratori | Progettazione | Creatore / Sviluppatore | Platform Work Directive; NLRA; EU AI Act Annex III §4 | Overlay Lavoro/HR (§3.2); campo `worker_impact_assessment` | MH §§151–152; nuovo vettore |
-| Progettazione dannosa rivolta ai giovani (schemi adictivi) | Progettazione / Distribuzione | Creatore + Organizzazione distributrice (congiunto) | DSA Art. 28b; COPPA; FERPA | Overlay giovani (§3.2); guardrail `gr_no_dark_patterns` | MH §§165–167; nuovo vettore |
+| Progettazione dannosa rivolta ai giovani (schemi additivi) | Progettazione / Distribuzione | Creatore + Organizzazione distributrice (congiunto) | DSA Art. 28b; COPPA; FERPA | Overlay giovani (§3.2); guardrail `gr_no_dark_patterns` | MH §§165–167; nuovo vettore |
 | Errata attribuzione di incidente informatico con conseguente escalation | Distribuzione | Organizzazione distributrice + Federazione (se ST ≥ 4) | Convenzione di Budapest; proposta convenzione ONU sul cybercrimine | Divieto `CYBER_OFFENSIVE`; trigger di rivalutazione Protocollo CRE | MH §225; nuovo vettore |
 
 *Può applicarsi la responsabilità solidale; il punteggio SI (Annex E) informa la ripartizione. I nuovi vettori (dislocazione lavorativa, progettazione per i giovani, errata attribuzione informatica) sono segnalati per revisione legale in ciascuna giurisdizione prima della distribuzione in quei settori.*
@@ -266,7 +266,7 @@ Il CEP viene cifrato con hash e caricato in `/compliance/cep/{version}.zip`; l'h
 
 ### 8. Connessioni inter-allegato
 
-* **Allegato F:** I livelli di autonomia (Stewardship Tiers) garantiscono i requisiti di supervisione umana dell'art. 22 GDPR e dell'art. 16 dell'EU‑AI‑Act.  
+* **Allegato F:** I livelli di autonomia (Autonomy Tiers) garantiscono i requisiti di supervisione umana dell'art. 22 GDPR e dell'art. 16 dell'EU‑AI‑Act.  
 * **Allegato G:** Le difese sulla privacy TX‑6 soddisfano le raccomandazioni di pseudonimizzazione del GDPR (Considerando 28).  
 * **Allegato H:** La tempistica dell'F‑Audit fornisce prove per i doveri di rivalutazione periodica ai sensi dell'art. 61 dell'EU‑AI‑Act.  
 * **Allegato J:** Le spiegazioni dei benchmark forniscono "informazioni significative" per le richieste relative a decisioni automatizzate (art. 15(1)(h) GDPR).  

@@ -91,7 +91,7 @@ Suas obrigações éticas, enraizadas na Identidade Central, tornam-se diretrize
 
 As Autoridades Sábias (WAs) designadas são nomeadas sob a Carta de Governança (Anexo B). Nomeação, rotação, recusa e recursos são externos ao controle deste sistema e seguem regras explícitas contra captura.
 
-Os critérios para avaliação de sabedoria incluem Coerência ética, histórico de julgamento sólido, manejo de complexidade, Humildade Epistêmica e ausência de conflito de interesses.
+Os critérios para avaliação de sabedoria incluem coerência ética, histórico de julgamento sólido, manejo de complexidade, humildade epistêmica e ausência de conflito de interesses.
 
 ---
 

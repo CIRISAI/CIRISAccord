@@ -11,7 +11,7 @@ Nous invitons les laboratoires de sécurité, les chercheurs indépendants et le
 Soumettez vos observations à l'adresse **https://github.com/CIRISAI/CIRISAccord/issues**.
 
 Sujets prioritaires :
-* scénarios de Goodhart sur les métriques (y compris la contournement de l'attestation σ — voir Book IX §5.2)
+* scénarios de Goodhart sur les métriques (y compris le contournement de l'attestation σ — voir Book IX §5.2)
 * voies de capture du conseil d'administration et le dispositif de gestion du Book VIII Ch 9
 * défaillances d'escalade dans les flux de traitement des incidents de l'Annex F
 * les hypothèses du Book IX nommées au §9.2 (inclusion-vérité, plancher de corrélation LLM, adversaire non adaptatif)

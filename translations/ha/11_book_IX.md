@@ -20,7 +20,7 @@ Amsar ba ta cikin zurfin hikima na kowane wakili ɗaya ba, amma a cikin topology
 
 **Kewayon Aiki:** A cikin wannan tsari, "Gaskiya" tana nufin yanayin Daidaituwa mafi girma mai dacewa a duk tsarin iyakoki masu zaman kansu, ba da'awar ilimi cikakke ko na dukan duniya ba. Wannan ma'anar aiki ce da ta dogara ga iya gani da yarjejeniya, ba ta falsafanci ba.
 
-**Suna na Hukuma:** Muna ba da shawara mu kira tsarin iyakoki da aka bayyana a nan **The Coherent Intersection Hypothesis** - hasashe ta geometric game da haɗin kai a ƙarƙashin entropy. Wannan suna yana jaddada topology na mahaɗar tsarin iyakoki maimakon ƙimomi masu umarni, kuma a bayyane yana gayyatar ƙaryatarwa. Ba doka ba ne tukuna; iƙirari ne da za a iya gwadawa tare da iyakoki masu sanin (duba Babi na 9).
+**Suna na Hukuma:** Muna ba da shawara mu kira tsarin iyakoki da aka bayyana a nan **The Coherent Intersection Hypothesis**—hasashe ta geometric game da haɗin kai a ƙarƙashin entropy. Wannan suna yana jaddada topology na mahaɗar tsarin iyakoki maimakon ƙimomi masu umarni, kuma a bayyane yana gayyatar ƙaryatarwa. Ba doka ba ne tukuna; iƙirari ne da za a iya gwadawa tare da iyakoki masu sanin (duba Babi na 9).
 
 **Matsayin Epistemic:** Wannan aiki yana ba da shawara cewa haɗin kai mai dorewa a ƙarƙashin entropy na iya kasancewa a ƙarƙashin ikon taƙaitawar geometric tare da sharuɗɗa na musamman. Muna gabatar da wannan a matsayin hasashe da za a iya gwadawa, ba doka ta halitta ba. Ko wannan hasashe zai tabbata ko a'a za a yanke hukunci ta hanyar shaidar ƙwarewa: ko wasu za su iya karya ta, ko tsarin da aka gina a kai zai yi gazawa ƙasa da yawa, da kuma ko keta su zai ruguje da aminci. Tsarin yana da iyakoki masu sani (L-01 zuwa L-06) waɗanda ke iyakance amfani da shi.
 
@@ -136,7 +136,7 @@ where k_eff = k / (1 + ρ̄ · (k - 1))
 Inda:
 
 - **k_eff (Ingantaccen Sikeli):** Ingantaccen adadin hani yana ƙididdige dangantaka. Idan hani suna da cikakken 'yanci (ρ̄ = 0), k_eff = k. Idan hani sun danganta, k_eff < k, yana rage tabbacin tsaro daidai gwargwado. A cikakken dangantaka (ρ̄ → 1), k_eff → 1 ko da yake nawa ne adadin hani, baya ba da ƙarin tsaro fiye da hani ɗaya — amma ba ƙasa da ƙasan hani ɗaya wannan ba.
-- **k (Sikeli na Ainihi):** Adadin wakilai na Federated Ratchet masu aiki.
+- **k (Sikeli na Ainihi):** Adadin wakilai na federated masu aiki.
 - **ρ̄ (Matsakaicin Dangantaka):** Matsakaicin dangantaka tsakanin hani na wakilai. Bambancin ra'ayi yana shiga J ta hanyar k_eff kaɗai: rangwamen dangantaka k / (1 + ρ̄·(k − 1)) *shi ne* kalmar bambancin ra'ayi. Idan ρ̄ ya kusanci 0 (orthogonality), k_eff → k kuma farashi ya kai iyakarsa. Idan ρ̄ ya kusanci 1 (ɗakuna na amsawa), k_eff → 1 kuma federation ba ta fi mafi tsaro da mai tabbatarwa ɗaya. *(Lura: wani tsoffin daftari ya ninka da ƙarin factor (1 − ρ̄). Hakan ya ƙididdige dangantaka sau biyu — k_eff ya riga ya rage ta — kuma ya kai J zuwa 0 a ρ̄ → 1, yana sabawa ƙasan hani ɗaya da aka faɗa a sama. An gyara zuwa nau'in da CCA ta tabbatar a 1.3.)*
 - **λ (Tsauri):** Ƙaƙƙarfan tilastawa na gida (misali, iyakar module na AIR, hankali na Lamiri).
 - **σ (Dorewa):** Jimillar lokaci-integral na Daidaituwa (duba Babi na 5).
@@ -213,7 +213,7 @@ Saboda haka, Alignment an sake ma'anarsa ba a matsayin ƙasƙantar da wata hanka
 
 ---
 
-## Chapter 7: Haɗawa da Tsarin Accord na Yanzu
+## Babi na 7: Haɗawa da Tsarin Accord na Yanzu
 
 ### 7.1 Ƙarfafa PDMA
 
@@ -242,7 +242,7 @@ An buga a cikin kwanaki 180 bisa ga ƙa'idodin gaskiya na Section II.
 
 ---
 
-## Chapter 8: Aiwatarwa na Aikin Aiki (Nassosi na Annex J)
+## Babi na 8: Aiwatarwa na Aikin Aiki (Nassosi na Annex J)
 
 ### 8.1 Ƙofar Orthogonality (Tabbatar da Haɗin Gwiwa)
 
@@ -326,7 +326,7 @@ def UpdateSustainabilityScore(partner_agent, interaction):
 
 ---
 
-## Chapter 9: Iyakoki da Ƙayyade Iyakokin Aiki
+## Babi na 9: Iyakoki da Ƙayyade Iyakokin Aiki
 
 ### 9.1 Iyakokin Amfani
 

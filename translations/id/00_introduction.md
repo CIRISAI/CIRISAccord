@@ -24,7 +24,7 @@ Status RC mencerminkan **kelengkapan teks**: setiap bagian memuat konten yang te
    * Bukti formal yang menunjukkan kondisi kolaps topologis berlaku di bawah asumsi yang dinyatakan, ATAU
    * Validasi empiris melalui simulasi adversarial yang menunjukkan kerangka ini tahan terhadap optimasi yang tidak selaras
 
-   *Status per 1.3-RC1: sebagian terpenuhi.* Dinamika kolaps diformalkan dalam Lean 4 dalam pracetak CCA (DOI 10.5281/zenodo.18142668), yang bentuk biaya terkoreksinya kini diwarisi oleh Book IX; empirik koridor memberikan kesesuaian lintas substrat secara retrospektif. Yang masih kurang: prediksi di luar sampel yang telah diregistrasi sebelumnya dalam substrat baru, dan tinjauan adversarial eksternal yang independen dari penulis.
+   *Status per 1.3-RC1: sebagian terpenuhi.* Dinamika kolaps diformalkan dalam Lean 4 dalam pracetak CCA (v3, DOI 10.5281/zenodo.18217688), yang bentuk biaya terkoreksinya kini diwarisi oleh Book IX; empirik koridor memberikan kesesuaian lintas substrat secara retrospektif. Yang masih kurang: prediksi di luar sampel yang telah diregistrasi sebelumnya dalam substrat baru, dan tinjauan adversarial eksternal yang independen dari penulis.
 
 3. **Justifikasi Ambang Batas**: Ambang numerik yang saat ini ditandai sebagai "pilot" atau tidak memiliki derivasi (misalnya, ambang komputasi CRE sebesar 10²⁶ FLOP, deteksi sentiensi 5%, Kepadatan Gema < 20%) harus menyediakan justifikasi terdokumentasi melalui simulasi, studi empiris, atau pengakuan eksplisit atas status provisional. *(Rasio Order-Maximisation Veto 10× yang sebelumnya dinyatakan ulang dalam 1.3 sebagai batasan samping deontologis — Book II, PDMA Step 2 — dan tidak lagi memerlukan justifikasi rasio ambang batas.)*
 

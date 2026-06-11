@@ -328,35 +328,6 @@ Maadili ya viwango yanaweza kubadilishwa kwa sera na kusanidiwa kwa nguvu za kim
 
 ## Sura ya 9: Mipaka na Vikwazo vya Wigo
 
-### 9.1 Vikwazo vya Utumiaji
-
-Miundo rasmi ya Book IX inatumika kwa:
-- Usanifu wa upatanifu wa AGI/ASI
-- Mifumo ya uthibitisho ya mawakala wengi
-- Mifumo ya utawala wa shirikisho
-- Ufanyaji maamuzi wa kujitegemea wenye hatari kubwa (ST ≥ 3)
-
-Book IX HAIDAI:
-- Kutatua matatizo yote ya upatanifu peke yake
-- Kubadilisha uamuzi wa binadamu katika hali ngumu
-- Kuondoa haja ya mifumo mingine ya usalama
-- Kuhakikisha usalama kamili dhidi ya akili ya juu ya uadui
-- Kugundua udanganyifu wa muundo kutoka kwa vipengele vinavyoaminiwa kibinafsi (matokeo ya kutowezekana ya NEW-04)
-
-### 9.2 Madhio ya Kinadharia
-
-Federated Ratchet inategemea:
-- **Ushirikiano wa ukweli (usahihi):** kila eneo la kweli M_i lina pointi ya kweli (Truth ∈ ⋂ M_i). Hii ni dhana, si nadharia iliyothibitishwa -- mawakala wenye mipaka na wasio kamili haiwezekani kudhibitisha hilo. Ikiwa M_i fulani haitangulii ukweli, muunganiko unaweza kuzalisha msongamano (makutano matupu) au muunganiko wa uongo ulioshirikiwa badala ya Ukweli. Sentensi ya Sura ya 3 "Ukweli pekee, ambao kwa asili uko katika M_i zote, unabaki kuwa mzuri" inashikilia tu chini ya dhana hii.
-- Wathibitishaji wakidumisha uhuru wa kweli (wasio na ushawishi)
-- **Kiwango cha chini cha uhusiano kwa wathibitishaji wa LLM:** wathibitishaji wanaozaliwa kutoka kwa mifano mikubwa ya lugha wanashiriki asili ya data ya mafunzo na kwa hivyo wanabeba kiwango cha chini cha uhusiano wa kimuundo ambacho makadirio ya uhusiano wa vikwazo wa jozi yanaweza kupimwa pungufu. Kwa mafederusho kama hayo, zingatia ρ̄ iliyopimwa kama kiwango cha chini, si makadirio.
-- Eneo la vikwazo likiwa na codimension ya kutosha
-- Uhalisia unaoonekana ukitoa ishara ya kutosha
-- Ishara za uendelevu wa ushirika zikiwa na gharama ya kughushi (iliyoundwa kupitia mahitaji ya ushuhuda wa §5.2, si kudhulumiwa)
-- **Washindani wasio na uwezo wa kubadilika** (hawawezi kuuliza kigundua ili kujifunza viwango)
-- **n ≥ 100 sampuli** kwa nguvu ya kugundua inayotegemewa
-
-Ukiukwaji wa dhana hizi hupunguza J kwa uwiano -- na ukiukwaji wa ushirikiano wa ukweli hubadilisha muunganiko *unaelekea wapi*, si kasi peke yake.
-
 ### 9.1 Mipaka ya Matumizi
 
 Mifumo ya kihesabu ya Book IX inatumika kwa:
@@ -462,7 +433,7 @@ Hizi ni mipaka ya nadharia, si vikwazo vya uhandisi. Kuelewa mipaka hii ni muhim
 
 **Mwelekeo Tofauti (Orthogonality):** Uhuru wa takwimu wa manifolds mbili za vikwazo vya mawakala. Mawakala wenye mwelekeo tofauti sana wanashiriki Taarifa Pamoja (Mutual Information) ndogo sana, kumaanisha kwamba makubaliano yao kuhusu ukweli fulani ni ishara kali ya Ukweli wa lengo.
 
-**Utaratibu wa Ratchet (Ratchet Mechanism):** Jambo la kitopologia ambapo makutano ya manifolds nyingi huru za vikwazo yanashrisha nafasi inayowezekana ya mkakati, hatimaye ikitenga mikakati yote ya udanganyifu.
+**Utaratibu wa Ratchet (Ratchet Mechanism):** Jambo la kitopologia ambapo makutano ya manifolds nyingi huru za vikwazo hupunguza nafasi inayowezekana ya mkakati, hatimaye ikitenga mikakati yote ya udanganyifu.
 
 **Jumla ya Uendelevu (σ):** Kipimo cha nguvu na muda wa ushirikiano, kinachoshikiliwa na ishara za upatanifu chanya (k.m., shukrani) kukabiliana na kuoza kwa entropia.
 

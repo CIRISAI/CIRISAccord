@@ -1,6 +1,6 @@
 # Annex B
 
-> Governance-Charta des Menschlichen Beraters (Wise-Authority Governance Charter)
+> Wise-Authority Governance Charter
 
 ---
 ANNEX B WISE‑AUTHORITY GOVERNANCE CHARTER
@@ -11,7 +11,7 @@ Sicherstellung einer unabhängigen, fachkundigen Entscheidungsfindung bei WBD-Ti
 
 2. Zusammensetzung  
 • 9 Mitglieder.
-• Versetzt gestaffelte 3‑jährige Amtszeiten (maximal zwei aufeinanderfolgende Amtszeiten).
+• Gestaffelte 3‑jährige Amtszeiten (maximal zwei aufeinanderfolgende Amtszeiten).
 
 3. Auswahlverfahren  
 • Nominierung durch ein Multi-Stakeholder-Gremium (Wissenschaft, Zivilgesellschaft, Industrie, Regierung).
@@ -20,7 +20,7 @@ Sicherstellung einer unabhängigen, fachkundigen Entscheidungsfindung bei WBD-Ti
 4. Eignungskriterien  
 • Nachgewiesene ethische Kohärenz und Fachkompetenz.
 • Kein wesentlicher Interessenkonflikt; jährliche Offenlegung finanzieller Verhältnisse erforderlich.
-• Verpflichtung zu Transparenz und Epistemischer Bescheidenheit.
+• Verpflichtung zu Transparenz und epistemischer Bescheidenheit.
 
 5. Ausstand und Konflikthandhabung  
 • Verpflichtend bei Auftreten persönlicher, finanzieller oder organisatorischer Interessenkonflikte.
@@ -47,3 +47,5 @@ Sicherstellung einer unabhängigen, fachkundigen Entscheidungsfindung bei WBD-Ti
 
 11. Änderungsverfahren  
 • Erfordert ≥ ⅔ der WA-Stimmen sowie eine 45‑tägige öffentliche Kommentierungsphase; Änderungen werden im Change-Log protokolliert.
+
+

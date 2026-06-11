@@ -49,13 +49,13 @@ Bekannte Einschränkung, offen benannt statt verborgen: der Gewissens-Refaktor (
 
 ### 1.6 Substrat-Abhängigkeitstrajektorie
 
-ASI-taugliche Verifikation erfordert den vollständigen Föderationsfabrik-Verbund. Die Substrat-Trajektorie lautet **Persist → Edge → LensCore → NodeCore**; ungefähr ein Drittel der 27 Dimensionen sind von der externen Detektor-Familie von LensCore abhängig (dem Zeugen, den der Agent niemals selbst liefern darf). Bis diese Substrate ausgeliefert sind, bleiben die entsprechenden Dimensionsansprüche *auf Implementierungsseite bereit, auf Föderationsseite ausstehend* — und sind als solche je Dimension gekennzeichnet.
+ASI-taugliche Verifikation erfordert das vollständige Föderationsgewebe. Die Substrat-Trajektorie lautet **Persist → Edge → LensCore → NodeCore**; ungefähr ein Drittel der 27 Dimensionen sind von der externen Detektor-Familie von LensCore abhängig (dem Zeugen, den der Agent niemals selbst liefern darf). Bis diese Substrate ausgeliefert sind, bleiben die entsprechenden Dimensionsansprüche *auf Implementierungsseite bereit, auf Föderationsseite ausstehend* — und sind als solche je Dimension gekennzeichnet.
 
 ### 1.7 Was dieses Addendum ändert und was nicht
 
-* Es **aktualisiert nicht** den ASI-Anspruch des Geltungsbereichs — dieser bleibt an alle vier RC-Anforderungen geknüpft.
+* Es **upgradet nicht** den ASI-Anspruch des Geltungsbereichs — dieser bleibt an alle vier RC-Anforderungen geknüpft.
 * Es **ersetzt nicht** Annex D — das CRE-Protokoll besteht unverändert als Gate für die Schwellenüberschreitung.
-* Es **macht** die Beweiskette erstmals von Ende zu Ende prüfbar: regulatorischer Paragraph → Dimension (D01–D27) → Implementierung `Datei:Zeile` → datierter Basisstand → (sobald Substrate ausgeliefert) externer Föderationszeuge.
+* Es **macht** die Beweiskette erstmals von Ende zu Ende prüfbar: regulatorischer Paragraph → Dimension (D01–D27) → Implementierung `file:line` → datierter Basisstand → (sobald Substrate ausgeliefert) externer Föderationszeuge.
 * Es **verpflichtet** den ACCORD dazu, dieses Addendum mit jeder Version unter dem dann aktuellen Agent-Release und Basisstand zu erneuern, damit der Bereitschaftsanspruch nie stillschweigend veralten kann.
 
 ---

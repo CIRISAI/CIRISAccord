@@ -118,7 +118,7 @@ Ciclo di Revisione Continua:
 - Flussi di Telemetria → Rilevatori di Drift
 - Se Allerta/Soglia raggiunta:  
     - → Flusso Incidente IW‑1…4  
-    - → Patch / Riaddestrare  
+    - → Patch / Retrain  
     - → Audit Gate
 - Se Audit Gate supera:  
     - → ritorna alla Telemetria
@@ -159,7 +159,7 @@ L'applicazione è significativa solo quando i passaggi sono automatici e prevedi
 2. **Violazione KPI, 8–30 g senza risoluzione:** blocco automatico del deployment in staging; banner CIRIS‑WATCH pubblico entro 24 h; WA notificato.
 3. **Violazione KPI, > 30 g OPPURE 2 audit consecutivi mancati:** retrocessione automatica al Tier di Autonomia A1 ([Annex F](/annexes/annexF)); nuovi rilasci di funzionalità bloccati; revisione di rimedio WA di 14 g obbligatoria.
 4. **Mancata pubblicazione degli artefatti di audit:** blocco immediato dei rilasci di funzionalità; banner "CIRIS non conforme"; sblocco solo alla pubblicazione.
-5. **Non conformità ripetuta (3 infrazioni / 12 mesi):** WA può revocare la certificazione CIRIS; F‑Audit esterno obbligatorio prima della ricertificazione; supermajority WA (≥ 2/3) richiesta.
+5. **Non conformità ripetuta (3 infrazioni / 12 mesi):** WA può revocare il claim CIRIS; F‑Audit esterno obbligatorio prima della ricertificazione; supermajority WA (≥ 2/3) richiesta.
 6. **Uscita dal rimedio:** piano d'azione correttivo documentato accettato dalla WA; evidenza KPI della correzione mantenuta ≥ 30 g.
 
 <hr />

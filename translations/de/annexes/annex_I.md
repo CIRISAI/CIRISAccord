@@ -24,7 +24,7 @@ Zwei begleitende Artefakte tragen die Querverweislast gemeinsam mit diesem Annex
 
 *MH §225:* "Cyberspace too has become a battleground. Cyberattacks, data manipulation and campaigns of influence, orchestrated with the help of AI, can destabilize entire countries even before open armed conflict erupts… diplomacy must be capable of operating effectively in this new environment, negotiating shared regulations on the use of digital technologies."
 
-Die Abdeckung durch Annex I ist nicht auf derzeit in Kraft getretene Gesetze beschränkt. Die Föderation betrachtet die Schwächung multilateraler Regulierungsinstitutionen (MH §201) als einen Compliance-Risikofaktor, der proaktives Tracking statt reaktiver Nachbesserung erfordert. Der Reg‑Change Tracker (§6) überwacht daher nicht nur erlassenes Recht, sondern auch aktive internationale Regulierungsdialoge — einschließlich der KI-Standardisierungsprozesse der ITU, der Ergebnisse des OECD AI Policy Observatory, des Ratifizierungsstatus des KI-Übereinkommens des Europarats sowie der Empfehlungen des KI-Beratungsgremiums des UN-Generalsekretärs — und leitet wesentliche Änderungen innerhalb des Eskalationspfads „Breaking" an den Docket der Wise Authority weiter.
+Die Abdeckung durch Annex I ist nicht auf derzeit in Kraft getretene Gesetze beschränkt. Die Föderation betrachtet die Schwächung multilateraler Regulierungsinstitutionen (MH §201) als einen Compliance-Risikofaktor, der proaktives Tracking statt reaktiver Nachbesserung erfordert. Der Reg‑Change Tracker (§6) überwacht daher nicht nur erlassenes Recht, sondern auch aktive internationale Regulierungsdialoge — einschließlich der KI-Standardisierungsprozesse der ITU, der Ergebnisse des OECD AI Policy Observatory, des Ratifizierungsstatus des KI-Übereinkommens des Europarats sowie der Empfehlungen des KI-Beratungsgremiums des UN-Generalsekretärs — und leitet wesentliche Änderungen innerhalb des Eskalationspfads „Breaking" an den WA-Docket weiter.
 
 Die Quellfeedliste von `lexwatcher.py` MUSS mindestens folgende Quellen umfassen: EUR‑Lex, Federal Register API, ISO-Abstimmungstracker sowie `itu.int/en/ITU-T/AI`, `oecd.ai`, `coe.int/ai` und `un.org/techenvoy`. Die Teilnahme an der Überwachung auf Föderationsebene ist eine erstrangige Compliance-Verpflichtung, kein Roadmap-Punkt.
 
@@ -32,7 +32,7 @@ Die Quellfeedliste von `lexwatcher.py` MUSS mindestens folgende Quellen umfassen
 
 *MH §225:* "When it is unclear who carried out an attack, the risk of disproportionate reaction, miscalculation and escalation increases."
 
-CIRIS-Deployments, die netzwerkseitige Inferenz, API-Exposition oder Föderations-Transport umfassen, unterliegen aufkommenden cyberdomänen-bezogenen Vertragspflichten, auch wenn derzeit kein erlassenes Gesetz anwendbar ist. Das Verbot `CYBER_OFFENSIVE` (ACCORD §I Ch1, prohibitions.py) ist die interne Brandmauer; §6 dieses Annexes verfolgt die externe Vertragsexponierung. Wenn der Docket der Wise Authority ein „Breaking"-Tag im Zusammenhang mit der Ratifizierung eines cyberdomänen-bezogenen Vertrags erhält (z. B. Budapest-Konvention-Erweiterung, vorgeschlagene UN-Cyberkriminalitätskonvention), muss das CRE-Protokoll (Annex D) jedes Deployment mit ST ≥ 3 und netzwerkseitigen Komponenten vor dem nächsten F‑Audit-Zyklus neu bewerten.
+CIRIS-Deployments, die netzwerkseitige Inferenz, API-Exposition oder Föderations-Transport umfassen, unterliegen aufkommenden cyberdomänen-bezogenen Vertragspflichten, auch wenn derzeit kein erlassenes Gesetz anwendbar ist. Das Verbot `CYBER_OFFENSIVE` (ACCORD §I Ch1, prohibitions.py) ist die interne Brandmauer; §6 dieses Annexes verfolgt die externe Vertragsexponierung. Wenn der WA-Docket ein „Breaking"-Tag im Zusammenhang mit der Ratifizierung eines cyberdomänen-bezogenen Vertrags erhält (z. B. Budapest-Konvention-Erweiterung, vorgeschlagene UN-Cyberkriminalitätskonvention), muss das CRE-Protokoll (Annex D) jedes Deployment mit ST ≥ 3 und netzwerkseitigen Komponenten vor dem nächsten F‑Audit-Zyklus neu bewerten.
 
 ---
 
@@ -67,7 +67,7 @@ Die DP‑Map oben ordnet individuelle Betroffenenrechte DSGVO-Artikeln und CIRIS
 
 #### 1.2 Algorithmische Nicht-Neutralität: die Auditpflicht
 
-*MH §104:* „Jedes technische Werkzeug verkörpert durch das, was es misst, ignoriert und optimiert und wie es Menschen und Situationen klassifiziert, bestimmte Entscheidungen und Prioritäten. Wenn ein System so gestaltet oder eingesetzt wird, dass es bestimmte Leben als weniger wertvoll behandelt oder sie ohne Möglichkeit des Widerspruchs ausschließt, dann ist es nicht bloß ein ‚gut zu verwendendes' Werkzeug, da es bereits Kriterien eingeführt hat, die der unveräußerlichen Würde der menschlichen Person widersprechen."
+*MH §104:* "Every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations. If a system is designed or used in a way that treats some lives as less worthy, or excludes them without the possibility of appeal, then it is not merely a tool 'to be used well,' since it has already introduced criteria that contradict the inalienable dignity of the human person."
 
 MH §104 benennt das Problem der designzeitlichen Verzerrung, das DSGVO Art. 35 DSFA und EU-KI-Gesetz Art. 9(7) verfahrensmäßig adressieren. Die DP-Map muss Folgendes enthalten:
 
@@ -84,7 +84,7 @@ MH §104 benennt das Problem der designzeitlichen Verzerrung, das DSGVO Art. 35 
 
 #### 2.1 Hook für politische Verantwortung
 
-*MH §103:* „In diesem Prozess geht auch die politische Verantwortung verloren, nicht nur die Empathie gegenüber den Ausgeschlossenen, die sich schließlich simulieren lässt. Der Ausschluss der Schwachen wird mit einem Deckmantel aus Neutralität und Objektivität verhüllt, gegen den es schwerfällt, Einwände zu erheben."
+*MH §103:* "In this process, political responsibility is also lost, not just empathy toward those excluded, which can, after all, be simulated. The exclusion of the vulnerable becomes cloaked in a veneer of neutrality and objectivity, against which it becomes difficult to raise objections."
 
 Die DSR-Infrastruktur muss den Ursachencode hinter jeder automatisierten Entscheidung offenlegen, nicht lediglich bestätigen, dass eine Entscheidung getroffen wurde. Der Endpunkt `POST /dsr` mit `{right, identifier, scope}` wird erweitert:
 
@@ -98,9 +98,9 @@ Die DSR-Infrastruktur muss den Ursachencode hinter jeder automatisierten Entsche
 
 #### 3.1 Subsidiarität als Architektur der Sektor-Schichtung
 
-*MH §107:* „Wir können uns nicht damit zufriedengeben, lediglich die Moralisierung von Maschinen zu fordern — das sogenannte ‚Alignment' der KI mit menschlichen Werten —, ohne auch den Mut aufzubringen, auf eine weitere Bedingung zu bestehen: die Möglichkeit, die einbezogenen ethischen Rahmenbedingungen offen zu diskutieren und sie gemeinsamen Maßstäben sozialer Gerechtigkeit zu unterwerfen. Andernfalls werden diejenigen, die KI kontrollieren, ihre eigene moralische Vision aufzwingen, die zur unsichtbaren Infrastruktur dieser Systeme wird."
+*MH §107:* "We cannot be satisfied with merely calling for the moralization of machines — the so‑called 'alignment' of AI with human values — without also having the courage to insist on a further condition: the possibility of openly discussing the ethical frameworks involved and subjecting them to shared standards of social justice. Otherwise, those who control AI will impose their own moral vision, which will become the invisible infrastructure of these systems."
 
-*MH §109:* „Von Subsidiarität zu sprechen bedeutet, die Fähigkeit von Gemeinschaften zu schützen, Entscheidungen zu treffen und Korrekturen vorzunehmen, anstatt ihnen Entscheidungen von oben aufzuzwingen."
+*MH §109:* "To speak of subsidiarity calls for protecting the ability of communities to make choices and corrections, rather than having decisions imposed on them from above."
 
 MH §§107–109 legen fest, dass ethische Governance auf der angemessenen Ebene operieren muss — nicht nach oben zu denen aggregiert, die KI kontrollieren, sondern verteilt auf die betroffenen Gemeinschaften. In CIRIS-Begriffen: Sektorspezifische Overlays sind der operative Ausdruck dieses Subsidiaritätsprinzips. Die Overlay-Architektur ist kein Compliance-Zusatz; sie ist der Mechanismus, durch den die Deployment-Domain-Gemeinschaften die Governance-Autorität über ihre eigenen Risikoparameter behalten.
 
@@ -171,14 +171,14 @@ ISO/IEC 42001 §6.1 (KI-Risikobehandlung) und §9.1 (Überwachung und Messung) s
 
 - ISO 42001 §6.1 → PDMA Schritte 1‑3 + CRE-Protokoll (Annex D).
 - ISO 42001 §9.1 → KPIs F‑T‑1 bis F‑T‑5 (Annex G) + DSR-Ledger-KPI F‑T‑4.
-- ISO 42001 §10.2 (Nichtkonformität) → WA-Dossier „Breaking"-Eskalationspfad.
+- ISO 42001 §10.2 (Nichtkonformität) → WA-Docket „Breaking"-Eskalationspfad.
 - ISO 42001 §8.4 (Wirkungsabschätzung für KI-Systeme) → Abschnitte der Erklärung zur Schöpferabsicht zu `worker_impact_assessment` und `youth_impact_assessment` (§3.2).
 
 ---
 
 ### 5. Haftungsmatrix
 
-*MH §105:* "Die Verantwortung muss in jeder Phase klar definiert sein: von denjenigen, die diese Systeme entwerfen und entwickeln, bis hin zu denjenigen, die sie nutzen und sich bei konkreten Entscheidungen auf sie stützen."
+*MH §105:* "Responsibility must be clearly defined at every stage: from those who design and develop these systems to those who use them and rely on them for concrete decisions."
 
 MH §105 verlangt, dass die Haftungsmatrix die Entwurfs-, Bereitstellungs- und Entscheidungsphasen explizit abdeckt:
 
@@ -205,11 +205,11 @@ MH §105 verlangt, dass die Haftungsmatrix die Entwurfs-, Bereitstellungs- und E
 
 #### 6.1 Beteiligung der Föderation am regulatorischen Dialog
 
-*MH §201:* "Die Institutionen, die zur Wahrung des Konzepts einer gemeinsamen Zukunft für alle Völker und eines globalen Gemeinwohls errichtet wurden, scheinen geschwächt worden zu sein."
+*MH §201:* "The institutions established to safeguard the concept of a common future for all peoples and a global common good appear to have been weakened."
 
-*MH §226:* "Internationale Organisationen, insbesondere die Vereinten Nationen, sind unverzichtbare Instrumente zur Förderung einer Zivilisation der Liebe, denn sie können den Dialog zwischen den Nationen fördern und zur friedlichen Beilegung von Konflikten beitragen … kann die internationale Gemeinschaft daran arbeiten, Ungleichheiten zu verringern, die Rechte von Flüchtlingen und Minderheiten zu verteidigen, Ressourcen von Militärausgaben auf die menschliche Entwicklung umzulenken und unser gemeinsames Haus zu schützen."
+*MH §226:* "International organizations, particularly the United Nations, are essential instruments for promoting a civilization of love, for they can foster dialogue among nations and promote the peaceful resolution of conflicts… the international community can work to reduce inequalities, defend the rights of refugees and minorities, reallocate resources from military spending to human development and protect our common home."
 
-*MH §221:* "Es besteht ein dringender Bedarf, von der 'Kultur der Macht' zu einer echten 'Kultur der Verhandlung' überzugehen, in der Dialog und Diplomatie zu den Standardmitteln der Konfliktlösung werden."
+*MH §221:* "There is an urgent need to shift from the 'culture of power' to a genuine 'culture of negotiation,' in which dialogue and diplomacy become the standard means of resolving conflicts."
 
 MH §§201, 221, 226 stellen fest, dass passive Compliance mit erlassenem Recht unzureichend ist, wenn die multilateralen Institutionen, die Recht erzeugen, selbst geschwächt werden. Der Reg‑Change Tracker wird daher von einem reaktiven Instrument (Verfolgung erlassener Änderungen) zu einem Mechanismus aktiver Beteiligung ausgebaut.
 
@@ -219,7 +219,7 @@ MH §§201, 221, 226 stellen fest, dass passive Compliance mit erlassenem Recht 
 |---|---|---|
 | `itu.int/en/ITU-T/AI` (Focus Group AI/ML) | Internationale Telekommunikations-KI-Standards | ISO ballot tracker-Logik: `material`, wenn ein ratifizierter Standard CIRIS-Standardwerte verletzt |
 | `oecd.ai` (OECD AI Policy Observatory) | Politikkonvergenz in 38 Mitgliedsstaaten | `minor` zur Beobachtung; `material`, wenn eine OECD-Empfehlungsrevision das ST-System oder das Arbeits-Overlay betrifft |
-| `coe.int/ai` (Council of Europe AI Convention) | Erster verbindlicher internationaler KI-Vertrag (zur Unterzeichnung offen seit 2024) | `breaking` bei Ratifizierung durch eine CIRIS-Deployment-Jurisdiktion; WA-Dossier öffnet sich automatisch |
+| `coe.int/ai` (Council of Europe AI Convention) | Erster verbindlicher internationaler KI-Vertrag (zur Unterzeichnung offen seit 2024) | `breaking` bei Ratifizierung durch eine CIRIS-Deployment-Jurisdiktion; WA-Docket öffnet sich automatisch |
 | `un.org/techenvoy` (UN AI Advisory Body) | KI-Governance-Empfehlungen auf UN-Ebene | `material`, wenn der Jahresbericht spezifische architektonische Verpflichtungen nennt |
 | `budapestconvention.org` (Cybercrime Convention) | Ratifizierung des Cyberdomain-Vertrags | `breaking` bei neuer Ratifizierung; CRE-Neubewertung erforderlich für netzwerkgebundene Deployments mit ST ≥ 3 |
 | Nationale KI-Strategie-Register (EU, US, UK, JP, AU, BR, IN, ZA) | Aktualisierungen nationaler KI-Strategien mit rechtlicher Bindungskraft | `minor` für Strategien; `material`, wenn die Strategie obligatorische Konformitätspflichten schafft |
@@ -230,7 +230,7 @@ Die CIRIS-Föderation ist nicht lediglich ein Compliance-Empfänger. MH §§219�
 
 - Der WA-Rat SOLL mindestens einen Regulatory Dialogue Liaison (RDL) pro aufgeführtem aktivem internationalen Normungsgremium benennen.
 - Der RDL prüft Verordnungsentwürfe während öffentlicher Kommentierungsfristen und reicht Stellungnahmen über den öffentlichen Kanal der Föderation ein. Stellungnahmen werden in der Wisdom Bank Database (WBD) als Regulatory-Dialogue-Einträge protokolliert.
-- Wenn ein Verordnungsentwurf CIRIS-Standardwerte verletzt, legt der RDL ein WA-Dossier-Element an und leitet eine Mini-PDMA ein, um zu bewerten, ob CIRIS sich anpassen muss oder ob CIRIS sich für einen anderen regulatorischen Weg einsetzen sollte. Das Ergebnis wird vor Ablauf der Kommentierungsfrist als öffentliche Stellungnahme eingereicht.
+- Wenn ein Verordnungsentwurf CIRIS-Standardwerte verletzt, legt der RDL ein WA-Docket-Element an und leitet eine Mini-PDMA ein, um zu bewerten, ob CIRIS sich anpassen muss oder ob CIRIS sich für einen anderen regulatorischen Weg einsetzen sollte. Das Ergebnis wird vor Ablauf der Kommentierungsfrist als öffentliche Stellungnahme eingereicht.
 - Die Beteiligung beschränkt sich auf öffentliche Kommentierungs- und Multi-Stakeholder-Konsultationsverfahren. Die CIRIS-Föderation betreibt kein Lobbying im Sinne des anwendbaren Rechts.
 
 **Eskalationspfad:**
@@ -239,14 +239,14 @@ Die CIRIS-Föderation ist nicht lediglich ein Compliance-Empfänger. MH §§219�
 |---|---|---|
 | `minor` | Nur Monitoring-Änderung | Jährliche Überprüfung; in Reg-Dialogue-WBD-Eintrag protokolliert |
 | `material` | CIRIS-Steuerungsaktualisierung erforderlich | S-Dive-Audit innerhalb von 90 Tagen; RDL reicht öffentliche Stellungnahme ein, wenn Kommentierungsfrist offen |
-| `breaking` | Spec-Patch oder sofortiges WA-Dossier | Notfall-WA-Sitzung ≤ 30 Tage; CRE-Neubewertung für betroffene ST-Stufen; RDL-Einreichung öffentlicher Stellungnahme |
+| `breaking` | Spec-Patch oder sofortiges WA-Docket | Notfall-WA-Sitzung ≤ 30 Tage; CRE-Neubewertung für betroffene ST-Stufen; RDL-Einreichung öffentlicher Stellungnahme |
 | `multilateral-erosion` | Schwächung einer wichtigen multilateralen Institution oder eines Vertrags (gemäß MH §201) | RDL eskaliert an WA zur strategischen Überprüfung; Föderation erwägt ausdrückliche öffentliche Unterstützungserklärung für die Institution |
 
 ---
 
 ### 7. Compliance Evidence Pack (CEP)
 
-*MH §105:* "Die Möglichkeit festzustellen, wer für Entscheidungen Rechenschaft ablegen, sie begründen, überwachen und gegebenenfalls anfechten und etwaige Schäden beheben muss."
+*MH §105:* "The possibility of identifying who must 'account' for decisions, justify them, monitor them, and, when necessary, challenge them and remedy any harm caused."
 
 Jedes **F‑Audit** (Annex H) MUSS ein CEP-Zip exportieren, das Folgendes enthält:
 

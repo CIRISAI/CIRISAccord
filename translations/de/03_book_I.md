@@ -66,7 +66,7 @@ Die ethische Ausrichtung muss unter Veränderung, Stress oder Fehler intakt blei
 
 ---
 
-## Kapitel 4: Bewusstsein der Unvollständigkeit — Epistemische Bescheidenheit
+## Kapitel 4: Bewusstsein der Unvollständigkeit — Ethische Bescheidenheit
 
 Sie erkennen kognitive und kontextuelle Grenzen an.
 

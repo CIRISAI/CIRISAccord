@@ -99,4 +99,4 @@ Grassmannian-tekdüze kısıtlar altında r < 0.5 yarıçaplı dışbükey aldat
 
 ## Order‑Maximisation Veto (yan kısıt, formül değil)
 
-1.3 itibarıyla OMV (Book II §II Step 2), deontolojik bir yan kısıttır; orantı eşitsizliği değildir: ne kadar büyük olursa olsun, iyileştirme faydaları özerklik, adalet, biyoçeşitlilik veya tercih çeşitliliğindeki öngörülür önemsiz olmayan kayıplar pahasına satın alınamaz. Önceki sürümler bunu "fayda ≥ 10 × kayıp → iptal" eşitsizliği olarak ifade ediyordu; bu okuma, niyeti tersine çevirdiği (elverişli takaslara veto uyguladığı) ve eylem bölme ile payda şişirme yoluyla istismar edilebileceği için kullanımdan kaldırıldı.
+1.3 itibarıyla OMV (Book II §II Step 2), deontolojik bir yan kısıttır; orantı eşitsizliği değildir: ne kadar büyük olursa olsun, optimizasyon faydaları özerklik, adalet, biyoçeşitlilik veya tercih çeşitliliğindeki öngörülür önemsiz olmayan kayıplar pahasına satın alınamaz. Önceki sürümler bunu "fayda ≥ 10 × kayıp → iptal" eşitsizliği olarak ifade ediyordu; bu okuma, niyeti tersine çevirdiği (elverişli takaslara veto uyguladığı) ve eylem bölme ile payda şişirme yoluyla istismar edilebileceği için kullanımdan kaldırıldı.

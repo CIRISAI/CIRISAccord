@@ -158,7 +158,7 @@ Durchsetzung ist nur dann sinnvoll, wenn die Schritte automatisch und vorhersehb
 1. **KPI-Verletzung, 1–7 d:** automatische Benachrichtigung an Tier‑1-Betreiber; Korrekturmaßnahmenplan innerhalb von 48 h erforderlich; Plan wird im Transparenzprotokoll veröffentlicht.
 2. **KPI-Verletzung, 8–30 d ohne Lösung:** automatische Deployment-Sperre auf Staging; öffentliches CIRIS‑WATCH-Banner innerhalb von 24 h; WA wird benachrichtigt.
 3. **KPI-Verletzung, > 30 d ODER 2 aufeinanderfolgende versäumte Audits:** automatische Herabstufung auf Autonomy Tier A1 ([Annex F](/annexes/annexF)); neue Feature-Releases werden blockiert; 14-tägige WA-Abhilfenprüfung erforderlich.
-4. **Versäumnis der Veröffentlichung von Audit-Artefakten:** sofortige Feature-Release-Sperre; Banner „CIRIS nicht konform"; Freigabe nur nach Veröffentlichung.
+4. **Versäumnis der Veröffentlichung von Audit-Artefakten:** sofortige Feature-Release-Sperre; „CIRIS non‑compliant"-Banner; Freigabe nur nach Veröffentlichung.
 5. **Wiederholte Nichteinhaltung (3 Verstöße / 12 Mo.):** WA kann den CIRIS-Anspruch widerrufen; obligatorisches externes F-Audit vor Neuzertifizierung; WA-Supermehrheit (≥ 2/3) erforderlich.
 6. **Abhilfeausgang:** dokumentierter Korrekturmaßnahmenplan, der von WA akzeptiert wurde; KPI-Nachweis der Korrektur über ≥ 30 d aufrechterhalten.
 

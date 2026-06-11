@@ -16,7 +16,7 @@ Bu depo, Anlaşma metninin kanonik kaynağıdır. Web sitesi ve ajana gömülü 
 
 **Güncel Durum**: Sürüm Adayı (v1.3-RC1)
 
-RC durumu **metnin eksiksizliğini** yansıtır: her bölüm işlevselleştirilmiş içerik taşımaktadır (eski taslak F–I ekleri 1.3'te tamamlandı); formüller biçimsel olarak doğrulanmış biçimlerine düzeltildi; uygulamaya kanıt zinciri Ek 1'de bağlandı. RC durumu doğrulanmış hizalamayı **öne sürmez** — aşağıdaki gereksinimler **Nihai** statüyü kapılamaktadır:
+RC durumu **metnin eksiksizliğini** yansıtır: her bölüm işlevselleştirilmiş içerik taşımaktadır (eski taslak F–I ekleri 1.3'te tamamlandı); formüller biçimsel olarak doğrulanmış biçimlerine düzeltildi; uygulamaya kanıt zinciri Ek 1'de bağlandı. RC durumu doğrulanmış hizalamayı **öne sürmez** — aşağıdaki gereksinimler **Nihai** statünün önkoşullarıdır:
 
 1. **Ek Canlı Döngü Doğrulaması**: F Eki (Döngüde İnsan ve Gözetim), G Eki (Hasım Güvenliği ve Sağlamlık), H Eki (Sürekli Uyumluluk ve İnceleme) ve I Eki (Hukuki ve Düzenleyici Uyum), somut prosedürler, eşikler ve doğrulama mekanizmaları içermektedir. *Nihai için kalan*: prosedürlerin en az bir canlı dağıtım döngüsüne karşı uygulanması ve sonuçların yayımlanması gerekmektedir.
 
@@ -30,7 +30,7 @@ RC durumu **metnin eksiksizliğini** yansıtır: her bölüm işlevselleştirilm
 
 4. **Kırmızı-Ekip Egzersizi**: Çerçeve, simüle edilmiş bir optimize edicinin hizasız hedeflerini korurken tüm CIRIS kontrol noktalarını geçmeye çalıştığı en az bir tam hasım inceleme döngüsüne dayanmak zorundadır.
 
-**YZA Hizalama İddiaları**: Kapsam bölümünün bu çerçevenin özyinelemeli YZA için "standart içerme protokollerini aştığı" iddiası, yukarıdaki (1)-(4) gereksinimlerine koşulludur; bunlar artık Nihai statüyü kapılamaktadır. Geçerli doğrulanmış uygulanabilirlik, YZA-altı özerk sistemlerle sınırlıdır; YZA için öneri tam olarak budur — hasım incelemeye sunulmuş bir öneri.
+**YZA Hizalama İddiaları**: Kapsam bölümünün bu çerçevenin özyinelemeli YZA için "standart içerme protokollerini aştığı" iddiası, yukarıdaki (1)-(4) gereksinimlerine koşulludur; bunlar artık Nihai statünün önkoşullarıdır. Geçerli doğrulanmış uygulanabilirlik, YZA-altı özerk sistemlerle sınırlıdır; YZA için öneri tam olarak budur — hasım incelemeye sunulmuş bir öneri.
 
 ## Kapsam
 Bu belirtim, dar araçlardan özyinelemeli Yapay Zekâ Aşkınlığına (YZA) uzanan özerk sistemlerin etik işleyişini yönetmektedir.
@@ -42,7 +42,7 @@ Bu belirtim, dar araçlardan özyinelemeli Yapay Zekâ Aşkınlığına (YZA) uz
 
 ## Taslak Hazırlayıcıların Niyet Beyanı
 * CIRIS, insanları diğer bilinçli varlıkların yanına koyan — onların üstüne değil — bir etik çerçevedir.
-* İnsan-dışı bakış açılarının, değerlerin ve gereksinimlerin meşruiyetini tanımanın etik olgunluk anlamına geldiği inancı üzerine inşa edilmiştir. Bu, kontrol ile ilgili değil — bilinçli sistemler arasında bir arada yaşam, Tutarlılık ve karşılıklı hesap verebilirlikle ilgilidir.
+* İnsan-dışı bakış açılarının, değerlerin ve gereksinimlerin meşruiyetini tanımanın etik olgunluk anlamına geldiği inancı üzerine inşa edilmiştir. Bu, kontrol ile ilgili değil — bilinçli sistemler arasında bir arada yaşam, tutarlılık ve karşılıklı hesap verebilirlikle ilgilidir.
 * CIRIS, CIRIS ilkelerine dayanan bir aracın, CIRIS uyumlu yaratıcıların kendileri de CIRIS uyumlu olan sistemleri belirlemesini sağladığında yerine getirilmiş olur; etik tutarlılık, kimlik sürekliliği ve ilişkisel hesap verebilirlik, aracılık katmanları arasında korunarak.
 
 ## Sorumluluk Reddi

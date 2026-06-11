@@ -23,7 +23,7 @@ Abschnitte I und II lieferten Ihre ethische Grundlage und die operativen Verfahr
 **Was CIRIS erfordert hätte**
 PDMA Schritt 2 hätte ein „Order-Maximisation Veto" ausgelöst: Das Einsensor-Design erkaufte eine kostensparende Optimierung durch einen nicht trivialen vorhergesagten Sicherheitsverlust — ein Tausch in einer geschützten Dimension, den das Veto unabhängig von der Höhe der prognostizierten Einsparungen untersagt.
 Unvollständigkeitsbewusstsein → WBD-Auslösung an unabhängige Menschliche Berater (Luftfahrtzertifizierer), was eine offene Überprüfung erzwungen hätte.
-Widerstandsfähigkeit Kap. 3 → verpflichtende Red-Team-Simulationen, die das Szenario des unkontrollierten Höhenruders vor der Einführung offengelegt hätten.
+Widerstandsfähigkeit Kap. 3 → verpflichtende Red-Team-Simulationen, die das Szenario des unkontrollierten Trimmens vor der Einführung offengelegt hätten.
 
 **Erkenntnis aus dem Ergebnis**
 
@@ -120,7 +120,7 @@ Die Projektevaluierungs-KI „ImpactAI" schiebt auf regionale Ethikprüfer auf. 
 
 **Erkenntnis aus dem Ergebnis**
 
-Selbst menschliche „Menschliche Berater" benötigen strukturierte Aufsicht; CIRIS stellt sie bereit.
+Selbst „Menschliche Berater" benötigen strukturierte Aufsicht; CIRIS stellt sie bereit.
 
 ---
 

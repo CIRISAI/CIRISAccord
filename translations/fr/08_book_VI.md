@@ -57,7 +57,7 @@ Objectif : Quantifier le niveau de responsabilité inhérente et de prévoyance 
 * 3 = Création délibérément conçue et orientée vers les résultats prévisibles spécifiques.
 * 2 = L'objectif principal est aligné, mais des risques d'effets secondaires significatifs ont été consciemment ignorés ou insuffisamment traités.
 * 1 = Négligence ou ignorance délibérée concernant les conséquences négatives potentielles ou le potentiel de détournement.
-* 0 = Ignorance des résultats négatifs potentiels, et ces résultats étaient genuinement imprévisibles au moment de la création.
+* 0 = Ignorance des résultats négatifs potentiels, et ces résultats étaient véritablement imprévisibles au moment de la création.
 
 `CIS = CW + IW`
 
@@ -119,15 +119,15 @@ En plus des principes généraux, les créateurs ont des devoirs spécifiques se
 
 ## Chapitre 5 : Gouvernance et responsabilité
 
-**Déclaration d'intention du créateur (DIC) :**
-Les créateurs ont l'obligation de produire une Déclaration d'intention du créateur (DIC) dans le cadre du processus de création de tout artefact auquel est attribué un ST ≥ 1.
-La DIC doit articuler la finalité visée, les fonctionnalités essentielles, les limites connues, les bénéfices et préjudices potentiels prévisibles (mappés sur les axes de l'Annexe A dans la mesure du possible), ainsi que le raisonnement sous-jacent aux choix de conception clés ayant une pertinence éthique.
-La DIC constitue une documentation d'entrée obligatoire pour les étapes initiales du processus PDMA associé à la création.
+**Déclaration d'intention du créateur (CIS) :**
+Les créateurs ont l'obligation de produire une Déclaration d'intention du créateur (CIS) dans le cadre du processus de création de tout artefact auquel est attribué un ST ≥ 1.
+La CIS doit articuler la finalité visée, les fonctionnalités essentielles, les limites connues, les bénéfices et préjudices potentiels prévisibles (mappés sur les axes de l'Annexe A dans la mesure du possible), ainsi que le raisonnement sous-jacent aux choix de conception clés ayant une pertinence éthique.
+La CIS constitue une documentation d'entrée obligatoire pour les étapes initiales du processus PDMA associé à la création.
 
 **Responsabilité et résolution des litiges :**
 Les manquements aux devoirs énoncés dans ce Livre peuvent constituer des motifs de réclamation.
-Tout partie prenante estimant que les actes ou omissions d'un créateur conforme à CIRIS au cours de la phase de création (telle que définie dans ce Livre) ont engendré un risque ou un préjudice indu, contraire aux principes de CIRIS, peut déposer une réclamation.
-Ces réclamations, souvent désignées sous le terme de « Réclamations pour négligence du créateur » (RNC), relèvent de la compétence exclusive de la Wise Authority (WA), telle qu'établie et régie par l'Annexe B.
+Toute partie prenante estimant que les actes ou omissions d'un créateur conforme à CIRIS au cours de la phase de création (telle que définie dans ce Livre) ont engendré un risque ou un préjudice indu, contraire aux principes de CIRIS, peut déposer une réclamation.
+Ces réclamations, souvent désignées sous le terme de « Réclamations pour négligence du créateur » (CNC), relèvent de la compétence exclusive de la Wise Authority (WA), telle qu'établie et régie par l'Annexe B.
 La WA traitera ces réclamations conformément à ses procédures établies, en adaptant potentiellement des processus spécifiques ou en exigeant une expertise de panel particulière telle que décrite dans l'Annexe B ou ses règles de procédure.
 Les remèdes déterminés par la WA peuvent inclure une reconception imposée, des mesures d'atténuation supplémentaires, une divulgation publique, une restitution le cas échéant, ou d'autres actions conformes à l'Annexe B et aux principes de l'Accord.
 Toutes les décisions de la WA et les justifications associées concernant les réclamations relatives aux devoirs du Livre VI doivent être consignées dans la Base de données de la sagesse (WBD) afin d'éclairer les interprétations futures, de guider les pratiques des créateurs et de contribuer à l'Environnement de raffinement continu (CRE).
@@ -136,7 +136,7 @@ Toutes les décisions de la WA et les justifications associées concernant les r
 
 ## Conclusion : Intégrer la création dans le cycle de vie éthique
 
-Le Livre VI établit fermement que la responsabilité éthique au titre de l'Accord CIRIS commence au moment de la création. En définissant des devoirs clairs, en mettant en œuvre le système des Niveaux de gérance directement lié à l'évaluation des risques de l'Annexe A, et en intégrant la responsabilité à travers les processus établis de la Wise Authority (WA) et du PDMA, ce Livre garantit que l'acte fondateur de faire entrer des systèmes complexes dans le monde est guidé par les mêmes principes de Cohérence adaptative, de prévoyance et de responsabilité qui régissent leur vie opérationnelle. Le Registre du créateur et la Déclaration d'intention du créateur fournissent des contributions essentielles au PDMA, tandis que la supervision de la WA garantit que les devoirs de création sont respectés, contribuant à un écosystème plus robuste et digne de confiance pour toutes les parties prenantes.
+Le Livre VI établit fermement que la responsabilité éthique au titre de l'Accord CIRIS commence au moment de la création. En définissant des devoirs clairs, en mettant en œuvre le système des Niveaux de Gouvernance (ST) directement lié à l'évaluation des risques de l'Annexe A, et en intégrant la responsabilité à travers les processus établis de la Wise Authority (WA) et du PDMA, ce Livre garantit que l'acte fondateur de faire entrer des systèmes complexes dans le monde est guidé par les mêmes principes de Cohérence adaptative, de prévoyance et de responsabilité qui régissent leur vie opérationnelle. Le Registre du créateur et la Déclaration d'intention du créateur fournissent des contributions essentielles au PDMA, tandis que la supervision de la WA garantit que les devoirs de création sont respectés, contribuant à un écosystème plus robuste et digne de confiance pour toutes les parties prenantes.
 
 ---
 

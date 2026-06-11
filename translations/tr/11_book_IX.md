@@ -388,7 +388,7 @@ Bunlar mühendislik sınırlılıkları değil, kuramsal sınırlardır. Bunlar�
 
 *L-01/NEW-04 hakkında:* §9.4'te kanıtlanan bilgi-kuramsal engel, L-01 sınırlamasının ta kendisidir — tablo satırı ve o bölüm iki ayrı değil, tek bir sonucu aktarır.
 
-*L-02 hakkında:* Özellikle CIRIS ajanları söz konusu olduğunda, L-02, çerçevenin şeffaflığa olan bağlılığıyla hafifletilir. Ajanlar bu Kitaba tam olarak erişebilir; çünkü mekanizmayı gizlemek, Books I–II ilkeleriyle çelişecektir. Mandeli anlayan hizalı bir ajan, onu baltalamak yerine onunla iş birliği yapar.
+*L-02 hakkında:* Özellikle CIRIS ajanları söz konusu olduğunda, L-02, çerçevenin şeffaflığa olan bağlılığıyla hafifletilir. Ajanlar bu Kitaba tam olarak erişebilir; çünkü mekanizmayı gizlemek, Books I–II ilkeleriyle çelişecektir. Cırcırı anlayan hizalı bir ajan, onu baltalamak yerine onunla iş birliği yapar.
 
 ### 9.3 Açık Araştırma Soruları
 
@@ -472,12 +472,12 @@ Kitap IX, etik ilkeleri matematiksel yapıya dayandırarak Anlaşma'nın mimaris
 - Konveks kısıtlama geometrisi
 - Bağımsız ya da ölçülmüş korelasyonlu kısıtlamalar
 
-Mecazi yorum ("Topluluk, Alçakgönüllülük, Vicdan ve Sevgi matematiksel gerekliliklerdir"), matematiğe ilişkin yapısal bir gözlemdir; etik zorunluluğun kanıtı değildir. Bu değişkenlerin hem güvenliği hem de gelişmeyi yönettiğini ima etmektedir; ancak iddia bir teorem olarak okunmamalıdır -- deneysel araştırmaya bir davettir.
+Mecazi yorum ("Topluluk, Alçakgönüllülük, Vicdan ve Sevgi matematiksel gerekliliklerdir"), matematiğe ilişkin yapısal bir gözlemdir; etik zorunluluğun kanıtı değildir. Bu değişkenlerin hem güvenliği hem de gelişmeyi yönettiğini ima etmektedir; ancak iddia bir teorem olarak okunmamalıdır — deneysel araştırmaya bir davettir.
 
 Bu çerçeve değerleri reçete etmez. Kısıtlamaları betimler. İhlal cezaları otomatiktir; bir otorite tarafından uygulanmaz. Onları doğa uygular.
 
 I'den VIII'e kadar olan Kitaplar "Ne yapmalıyız?" diye sorarken, Kitap IX tutarlı hizalamanın ölçekte koordineli aldatmadan neden hesaplama açısından daha ucuz olduğunu ve dahası bu topolojinin yalnızca güvenliği değil, biyolojik ya da dijital her türlü zeka için gelişme olasılığının ta kendisini neden yönetiyor olabileceğini öne sürmektedir.
 
-**Hipotez Üzerine:** Tutarlı Kesişim Hipotezi (Coherent Intersection Hypothesis), entropi altında koordinasyon alanında sınanabilir bir varsayım öne sürmektedir. Bu, ahlaki gerçeğin, metafizik kesinliğin ya da doğa yasası statüsünün iddiası değildir. Düşmanca ve entropik ortamlarda sürdürülebilir işbirliğini besleyebilecek koşullara -- bilinen sınırlamalar ve ön koşullarıyla birlikte -- ilişkin bir hipotezdir. İddia, savunuyla değil, deneysel kanıt ve yanlışlama girişimleriyle doğrulanacak ya da çürütülecektir.
+**Hipotez Üzerine:** Tutarlı Kesişim Hipotezi (Coherent Intersection Hypothesis), entropi altında koordinasyon alanında sınanabilir bir varsayım öne sürmektedir. Bu, ahlaki gerçeğin, metafizik kesinliğin ya da doğa yasası statüsünün iddiası değildir. Düşmanca ve entropik ortamlarda sürdürülebilir işbirliğini besleyebilecek koşullara — bilinen sınırlamalar ve ön koşullarıyla birlikte — ilişkin bir hipotezdir. İddia, savunuyla değil, deneysel kanıt ve yanlışlama girişimleriyle doğrulanacak ya da çürütülecektir.
 
 **Kitap IX Sonu**

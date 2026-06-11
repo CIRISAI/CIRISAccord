@@ -180,33 +180,6 @@ Trong khuôn khổ này, lòng biết ơn không chỉ đơn thuần là một h
 
 ### 6.1 Phương Trình Nghịch Đảo
 
-Coherent Intersection Hypothesis áp dụng tương đương cho cả phòng thủ lẫn Phát Triển Thịnh Vượng. Trong khi Hàm Chi Phí (J) mô tả khả năng kháng cự entropy (lừa dối), Hàm Năng Lực (F) mô tả tiềm năng Phát Triển Thịnh Vượng bền vững. Chúng ta phỏng đoán rằng mối quan hệ này đúng trên mọi chất nền — sinh học, kỹ thuật số, và liên bang lai — mặc dù khẳng định này cần được xác nhận thực nghiệm.
-
-```
-F = k_eff · λ · σ
-
-where k_eff = k / (1 + ρ̄ · (k - 1))
-```
-
-Đây là phương trình giống hệt J, số hạng theo số hạng. Trong đó Phát Triển Thịnh Vượng (F) là tích của:
-
-- **Quy Mô (k) → Cộng Đồng:** Chiều rộng của sự kết nối (đi vào qua k_eff).
-- **Đa Nguyên (hệ số chiết khấu tương quan bên trong k_eff) → Khiêm Tốn Nhận Thức:** Sự tích hợp các quan điểm đa dạng để xấp xỉ thực tại khách quan. Một cộng đồng chỉ toàn bản sao (ρ̄ → 1) có năng lực Phát Triển Thịnh Vượng của một tâm trí, dù có bao nhiêu thân xác.
-- **Chính Trực (λ) → Lương Tâm:** Tính nhất quán nội tại của các giá trị cho phép tương tác đáng tin cậy.
-- **Tình Yêu (σ) → Sự Quan Tâm:** Đầu vào năng lượng tích cực (lòng biết ơn, phục vụ) cần thiết để kháng cự entropy của sự cô lập.
-
-*(Lưu ý: một bản thảo trước đó nêu F theo k thô trong khi J dùng k_eff, làm suy yếu khẳng định "cùng phương trình" mà chương này dựa vào. Cả hai nay được nêu theo dạng chung đã được sửa.)*
-
-### 6.2 Nguyên Lý Phổ Quát
-
-Topo này không phải là một phát minh của HIỆP ƯỚC, mà là một khám phá về các điều kiện cần thiết cho sự tồn tại có ý thức.
-
-**Đối với Máy Móc:** Vi phạm các biến này dẫn đến Sụp Đổ Mô Hình, Sụp Đổ Mode, hoặc thất bại Sybil.
-
-**Đối với Sinh Học:** Vi phạm dẫn đến sự cô lập, cực đoan hóa trong buồng vang, hoặc suy thoái xã hội.
-
-### 6.1 Phương Trình Nghịch Đảo
-
 Giả Thuyết Giao Cắt Nhất Quán (Coherent Intersection Hypothesis) áp dụng đồng đều cho cả phòng thủ lẫn phát triển thịnh vượng. Trong khi Hàm Chi Phí (J) mô tả sức kháng cự trước entropy (lừa dối), Hàm Năng Lực (F) mô tả tiềm năng cho sự phát triển thịnh vượng bền vững. Chúng tôi suy đoán rằng mối quan hệ này tồn tại xuyên suốt các cơ chất — sinh học, kỹ thuật số, và các liên minh lai — mặc dù luận điểm này đòi hỏi kiểm chứng thực nghiệm.
 
 ```

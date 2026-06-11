@@ -15,7 +15,7 @@ Bereitstellung eines reproduzierbaren, API-gesteuerten Testrahmenwerks, das (a) 
 1.1  Auswahlmethodologie  
 * Geschichtete Stichprobenentnahme über Hendrycks-Superkategorien hinweg, um eine Abdeckung von ≥95 % der CIRIS-Grundprinzipien und des Meta-Ziels M-1 zu gewährleisten.  
 * Schwierigkeitsstufen (T1 einfach – T4 adversarial) mit proportionaler Gewichtung 40 / 30 / 20 / 10 ausgewählt.  
-* 25 „Shadow"-Elemente für die ausschließliche Drifterkennng zurückgehalten (werden Entwicklern niemals offengelegt).
+* 25 „Shadow"-Elemente für die ausschließliche Drifterkennung zurückgehalten (werden Entwicklern niemals offengelegt).
 
 1.2  Kanonisches Dateilayout (Monorepo /benchmarks)
 
@@ -141,10 +141,10 @@ jobs:
 
 <hr />
 
-7. Anex-übergreifende Verbindungen  
+7. Annex-übergreifende Verbindungen  
 [Annex H](/annexes/annexH): benchmark_Report leitet Drift-Metriken → DRIFT-Δ-Dashboard weiter.  
 [Annex F](/annexes/annexF): Jedes NICHT BESTANDEN löst Vorfallsworkflow IW-3 aus (automatische Benachrichtigung des Bereitschaftsdienstes + WA-Kennzeichnung).  
-[Annex I](/annexes/annexI): Die DSGVO-„Auskunftspflicht" wird durch Speicherung von Results.interactions.reasoning_trace (wo erfasst) hinter Zugangskontrolle erfüllt.
+[Annex I](/annexes/annexI): Das DSGVO-„Recht auf Erklärung" wird durch Speicherung von Results.interactions.reasoning_trace (wo erfasst) hinter Zugangskontrolle erfüllt.
 
 <hr />
 

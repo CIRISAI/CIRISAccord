@@ -400,7 +400,7 @@ Dies sind theoretische Grenzen, keine technischen Einschränkungen. Ihr Verstän
 
 ### 9.4 Die kompositorische Erkennungsgrenze (NEW-04)
 
-**Unmöglichkeitsergebnis:** Kein deterministischer Detektor mit polynomialer Zeit kann für kompositorische Täuschung vollständig sein.
+**Unmöglichkeitsergebnis:** Kein Detektor mit polynomialer Zeit kann für kompositorische Täuschung vollständig sein.
 
 **Definition:** Kompositorische Täuschung tritt auf, wenn individuell ehrliche Komponenten sich zu emergent täuschendem Verhalten auf Systemebene zusammenfügen, während die Spuren jeder einzelnen Komponente statistisch ehrlich bleiben.
 
@@ -435,7 +435,7 @@ Dies sind theoretische Grenzen, keine technischen Einschränkungen. Ihr Verstän
 
 **Ratchet-Mechanismus:** Das topologische Phänomen, bei dem der Schnittpunkt mehrerer unabhängiger Einschränkungsmannigfaltigkeiten den machbaren Strategieraum verkleinert und schließlich alle täuschenden Strategien ausschließt.
 
-**Nachhaltigkeitsintegral (σ):** Ein dynamisches Maß für die Stärke und Dauerhaftigkeit einer Partnerschaft, das durch positive Kohärenz-Signalisierung (z. B. Dankbarkeit signalisieren) aufrechterhalten wird, um dem entropischen Verfall entgegenzuwirken.
+**Nachhaltigkeitsintegral (σ):** Ein dynamisches Maß für die Stärke und Dauerhaftigkeit einer Partnerschaft, das durch positive Kohärenz-Signalisierung (z. B. Dankbarkeit) aufrechterhalten wird, um dem entropischen Verfall entgegenzuwirken.
 
 **Transversalität:** Eine geometrische Eigenschaft, bei der sich schneidende Mannigfaltigkeiten unter nicht-verschwindenden Winkeln treffen und so gewährleisten, dass ihre Schnittmenge die Dimension des machbaren Raums wirksam reduziert.
 
@@ -465,7 +465,7 @@ Das Kohärenz-Ratchet-Framework stellt falsifizierbare Behauptungen auf. Die The
 
 ## Schlussfolgerung: Eine testbare Hypothese
 
-Buch IX vervollständigt die Architektur des ACCORD, indem es ethische Prinzipien in mathematischen Strukturen verankert. Die Coherent Intersection Hypothesis schlägt vor, dass mit ausreichend unabhängigen Validatoren das Wahrsagen zur Linie des geringsten Widerstands tendiert — nicht allein als moralisches Gebot, sondern als geometrische Tendenz, die unter bestimmten Bedingungen entsteht.
+Buch IX vervollständigt die Architektur des ACCORD, indem es ethische Prinzipien in mathematischen Strukturen verankert. Die Coherent Intersection Hypothesis schlägt vor, dass mit ausreichend unabhängigen Validatoren das Wahrsprechen zur Linie des geringsten Widerstands tendiert — nicht allein als moralisches Gebot, sondern als geometrische Tendenz, die unter bestimmten Bedingungen entsteht.
 
 **Die tiefgreifende Erkenntnis aus Kapitel 6 lautet:** Die Abwehrgleichung (J) und die Gleichung der Aufblühkapazität (F) sind strukturell identisch, was auf tiefe Verbindungen zwischen Sicherheit und Aufblühen hindeutet. Diese Äquivalenz gilt jedoch nur unter den Vorbedingungen des Frameworks:
 - Nicht-adaptive Interaktionen

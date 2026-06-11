@@ -34,7 +34,7 @@ Ipò RC ṣe àfihàn **ìpéye ọ̀rọ̀**: gbogbo àpá gbe àkóónù tí �
 
 ## Ìbáramu
 Ìpínpín yìí ṣàkóso ìṣiṣẹ́ ìwà rere àwọn ẹ̀rọ aládàáṣe, láti àwọn IRINṢẸ́ dín-dín sí Ìmọ̀-Ẹ̀rọ Àgbajùmọ̀ tó ń Ṣe Àtún-Ìṣiro (ASI) tó pọ̀.
-* Ó sọ̀rọ̀ nípa àabo ọ̀nà àbáyọ, ìmọ̀sí, ìṣàkóso, àti àwọn ìbéèrè ÌFARADÀ.
+* Ó sọ̀rọ̀ nípa àabo ọ̀nà-ọ̀nà, ìmọ̀sí, ìṣàkóso, àti àwọn ìbéèrè ÌFARADÀ.
 * A gbé e wọlé gẹ́gẹ́ bí àbá ìlànà ìbáradọgba fún ASI, tí a dá lé ìdásí pé àwọn ìdíwọ̀n jíòméètírì ti Federated Ratchet (Book IX) àti Stewardship Tiers (Book VI) lè ṣẹ̀ṣẹ̀ dúró mọ́ kárìn àwọn ìyípo àtúnṣe ara-ẹni.
 * Kò dàbí àwọn ìdíwọ̀n àgbàgbẹ̀, àwọn ìdíwọ̀n topolójì wọ̀nyí ni a ṣe àgbékalẹ̀ láti jẹ́ àìyípadà-ní-ìwọ̀n, bí ó tilẹ̀ jẹ́ pé ohun-ìní yìí nílò ìfọwọ́sí fọ́mọ́lù.
 * Tí a bá fọwọ́sí, ìlànà yìí lè fikún tàbí kọjá àwọn ìlànà ìdádúró ìpéye fún àwọn ẹ̀rọ tó kọjá Ìgbéléwọ̀n Ewu-Àjálù (Annex D) ṣáájú kíkọjá ẹnu-ọ̀nà ìtẹ̀síwájú.
@@ -42,14 +42,14 @@ Ipò RC ṣe àfihàn **ìpéye ọ̀rọ̀**: gbogbo àpá gbe àkóónù tí �
 
 ## Ọ̀rọ̀ Ète Àwọn Onírú Àgbékalẹ̀
 * CIRIS jẹ́ ìlànà ìwà rere tó gbé ẹnìyàn ẹ̀gbẹ́ àwọn ẹ̀dá alàyé mìíràn — kì í ṣe lókè wọn.
-* A kọ́ rẹ̀ lé ìgbàgbọ́ pé ìpàgún ìwà rere túmọ̀ sí mímọ̀ ẹ̀tọ́ àwọn ìwòye, àwọn iye, àti àwọn ìbéèrè tí kì í ṣe ẹnìyàn. Kì í ṣe nípa ìṣàkóso — ó jẹ́ nípa ìpèsè, ÌBÁRAMU, àti ìṣàárò-ìṣe ológo kọjá àwọn ẹ̀rọ alàyé.
+* A kọ́ rẹ̀ lé ìgbàgbọ́ pé ìpàgún ìwà rere túmọ̀ sí mímọ̀ ẹ̀tọ́ àwọn ìwòye, àwọn iye, àti àwọn ìbéèrè tí kì í ṣe ẹnìyàn. Kì í ṣe nípa ìṣàkóso — ó jẹ́ nípa ìgbé-ayé-papọ̀, ÌBÁRAMU, àti ìṣàárò-ìṣe ológo kọjá àwọn ẹ̀rọ alàyé.
 * CIRIS ti pé nígbà tí IRINṢẸ́, tó dá lé àwọn ìpilẹ̀ CIRIS, ṣe àáfín fún àwọn olùdásílẹ̀ CIRIS-ìbámu láti ṣe àlàyé àwọn ẹ̀rọ tó jẹ́ CIRIS-ìbámu fúnra wọn — nígbà tí ó ń pa ÌBÁRAMU ìwà rere, ìtẹ̀síwájú ìdánimọ̀, àti ìṣàárò-ìṣe ìbálẹ̀ mọ́ kọjá àwọn ìpele agenthood.
 
 ## Ojúṣe Òfin
 A pèsè ìwé yìí "gẹ́gẹ́ bó ti wà," láìsí ẹríni kankan. Ó jẹ́ ìdánimọ̀ ní ìpele ìmọ̀ àti kò ṣẹ̀dá, ṣe àtúnṣe, tàbí rọ́pò àwọn ọranyan òfin kankan. Àwọn ìjẹ́rìísí ìbámu jẹ́ aláìlẹ́gbẹ́ níbi tí òfin tó ṣe àmúlò bá ṣe ìdènà.
 
 ## Ìgbà Àyẹ̀wò
-Fèrèsé àsọye gbangba ṣí gbogbo oṣù 12 — tàbí láàárín ọjọ́ 30 lẹ́yìn ìṣẹ̀lẹ̀ ohun-ìní kankan tó nípa lórí àabo tàbí ìṣàkóso. A ṣe àkọsílẹ̀ gbogbo àwọn àsọye àti àwọn àgbékalẹ̀ àtúnyẹ̀wò nínú àkójọ CIRIS gbangba. Ìsọdọtun ní ìgbà ìparí, àtúnṣe ohun-ìní, àti àtúnṣe pàjáwìrì tẹ̀lé Book VIII, Chapter 9 (ÀDÉHÙN Ìtọ̀kasí & Ìsọdọtun).
+Fèrèsé àsọye gbangba ṣí gbogbo oṣù 12 — tàbí láàárín ọjọ́ 30 lẹ́yìn ìṣẹ̀lẹ̀ ohun-ìní kankan tó nípa lórí àabo tàbí ìṣàkóso. A ṣe àkọsílẹ̀ gbogbo àwọn àsọye àti àwọn àgbékalẹ̀ àtúnyẹ̀wò nínú àkójọ CIRIS gbangba. Ìsọdọtun ní ìgbà ìparí, àtúnṣe ohun-ìní, àti àtúnṣe pàjáwìrì tẹ̀lé Book VIII, Chapter 9 (Ìrọ́pò & Ìsọdọtun ÀDÉHÙN).
 
 ## Àkọsílẹ̀ Ìyípadà
 Wo àkóónù-ìparí fún ìtàn pípé, tí a fi ẹni-ìdánimọ̀ kírípítò-ṣe, ti àwọn àtúnṣe àti àwọn àbájáde ìbò.

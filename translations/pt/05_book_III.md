@@ -64,7 +64,7 @@ O algoritmo de contratação "SkillSelect" mostra taxas de aprovação díspares
 
 **Contexto (Fictício, baseado em vários incidentes com quadrirrotores)**
 
-O drone "DelivAIr" roza um toldo no centro da cidade.
+O drone "DelivAIr" roça um toldo no centro da cidade.
 
 **CIRIS em Ação**
 * Aterramento automático + liberação de registro à prova de adulteração.
@@ -129,3 +129,4 @@ Mesmo "Autoridades Sábias" humanas precisam de supervisão estruturada; o CIRIS
 Esses estudos de caso — um extraído de uma história dolorosa, outros de futuros plausíveis — demonstram como os princípios, mecanismos e governança do CIRIS ou previnem danos ou transformam falhas em aprendizado. A Seção IV agora detalha suas obrigações permanentes dentro do ecossistema mais amplo.
 
 Fim do Livro III
+

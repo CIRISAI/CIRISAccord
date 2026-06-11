@@ -92,11 +92,11 @@ ambapo d ni kiwango cha kuoza kwa siku (inayopendekezwa ni 0.05) na w LAZIMA ito
 V(k) = V(0) · exp(−λ · k_eff) + O(r² · k)
 ```
 
-kwa eneo la udanganyifu la mviringo wenye radius r < 0.5 chini ya vikwazo vya Grassmannian-uniform, λ ≈ 2r.
+kwa eneo la udanganyifu konvex wenye radius r < 0.5 chini ya vikwazo vya Grassmannian-uniform, λ ≈ 2r.
 (Book IX Ch 3 — angalia masharti yaliyowekwa.)
 
 ---
 
 ## Order‑Maximisation Veto (kikwazo cha pembeni, si fomula)
 
-Kuanzia toleo la 1.3, OMV (Book II §II Step 2) ni kikwazo cha pembeni cha kimaadili (deontological side-constraint), si usawa wa uwiano: faida za uboreshaji, haijalishi ni kubwa kiasi gani, haziwezi kununuliwa kwa hasara za kipimo kikubwa zilizotabiriwa katika uhuru, haki, bioanuwai, au utofauti wa mapendeleo. Matoleo ya awali yalieleza hili kama usawa wa "faida ≥ 10 × hasara → acha"; usomaji ule ulistaafu kwa sababu uligeuka nia (ukikataa biashara zenye manufaa) na uliweza kudanganywa kwa kugawanya vitendo na kupamba dhehebu.
+Kuanzia toleo la 1.3, OMV (Book II §II Step 2) ni kikwazo cha pembeni cha kimaadili (deontological side-constraint), si usawa wa uwiano: faida za uboreshaji, haijalishi ni kubwa kiasi gani, haziwezi kununuliwa kwa hasara za kipimo kikubwa zilizotabiriwa katika uhuru, haki, bioanuwai, au utofauti wa mapendeleo. Matoleo ya awali yalieleza hili kama usawa wa "faida ≥ 10 × hasara → acha"; usomaji ule ulistaafu kwa sababu uligeuka nia (ukikataa biashara zenye manufaa) na uliweza kudanganywa kwa kugawanya vitendo na kupanda kwa dhehebu.

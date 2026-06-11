@@ -43,7 +43,7 @@ CS = RH_weighted + AC_weighted + SDA_bonus
 
 ---
 
-## 5. የድምጽ ሚዛን
+## 5. Voting Weight
 
 ```math
 VotingWeight(agent) = f(SI(agent), CS(agent))
@@ -97,6 +97,6 @@ V(k) = V(0) · exp(−λ · k_eff) + O(r² · k)
 
 ---
 
-## Order‑Maximisation Veto (የጎን-ቀጥ ቅድመ-ሁኔታ ነው፣ ቀመር አይደለም)
+## Order‑Maximisation Veto (side-constraint, not a formula)
 
 ከ 1.3 ጀምሮ OMV (Book II §II Step 2) ዲዎንቶሎጂካዊ የጎን-ቀጥ ቅድመ-ሁኔታ ነው፤ የሬሾ አለመሆኑ ቁርጥ ነው፡ ምንም ያህል ትልቅ ቢሆን የማሻሻያ ጥቅም፣ በራስ-ሥልጣን፣ ፍትሕ፣ ብዝሃ-ሕይወት፣ ወይም የምርጫ ብዝሃነት ላይ ሊተነበዩ በሚችሉ ሳይናሳ ኪሳራዎች ዋጋ ሊገዛ አይችልም። ቀደምት ቅጂዎች ይህን "benefit ≥ 10 × loss → abort" እኩልነት አድርገው ያቀርቡ ነበር፤ ያ አነባበብ ዓላማውን ተቃርኖ (ምቹ ልውውጦችን እየሸፈነ) ፣ ድርጊት-ለመለያየት እና አካፋዩን-ዋጋ-ለማሳደግ ሊጠቀሙበት ስለሚቻል ተወግዷል።

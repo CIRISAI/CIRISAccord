@@ -28,7 +28,7 @@ Peso do Criador (CW) (Livro VI Cap. 3):
 • 0 - Usuário incidental
 
 Autoridade Operacional (OA) (Livro II):
-Grau de controle ativo sobre DMA, sobreposições ou canais de governança.
+Grau de controle ativo sobre PDMA, sobreposições ou canais de governança.
 
 Posição na Rede de Dependências (DWP) (Livro IV):
 Centralidade no grafo de dependências ou na rede de interações do sistema.

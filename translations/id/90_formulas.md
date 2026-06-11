@@ -1,4 +1,4 @@
-# Formula
+# Formulas
 
 > Semua formula matematika eksplisit yang didefinisikan dalam spesifikasi CIRIS Accord 1.3-RC1.
 
@@ -43,7 +43,7 @@ CS = RH_weighted + AC_weighted + SDA_bonus
 
 ---
 
-## 5. Bobot Suara
+## 5. Voting Weight
 
 ```math
 VotingWeight(agent) = f(SI(agent), CS(agent))
@@ -53,7 +53,7 @@ VotingWeight(agent) = f(SI(agent), CS(agent))
 
 ---
 
-## 6. Fungsi Pertahanan (J)
+## 6. Defense Function (J)
 
 ```math
 J = k_eff · λ · σ
@@ -75,7 +75,7 @@ F = k_eff · λ · σ
 
 ---
 
-## 8. Integral Keberlanjutan (σ)
+## 8. Sustainability Integral (σ)
 
 ```math
 σ(t+Δt) = σ(t) · (1 − d·Δt) + Signal(t) · w
@@ -86,7 +86,7 @@ di mana d adalah laju peluruhan harian (disarankan 0,05) dan w HARUS berasal dar
 
 ---
 
-## 9. Keruntuhan Topologi (peluruhan volume)
+## 9. Topological Collapse (volume decay)
 
 ```math
 V(k) = V(0) · exp(−λ · k_eff) + O(r² · k)
@@ -97,6 +97,6 @@ untuk daerah penipuan konveks dengan jari-jari r < 0,5 di bawah kendala seragam 
 
 ---
 
-## Order‑Maximisation Veto (kendala samping, bukan formula)
+## Order‑Maximisation Veto (side-constraint, not a formula)
 
 Per 1.3, OMV (Book II §II Step 2) adalah kendala samping deontologis, bukan ketidaksamaan rasio: manfaat optimisasi, sebesar apa pun, tidak boleh diperoleh melalui kerugian yang tidak sepele yang dapat diprediksi dalam otonomi, keadilan, keanekaragaman hayati, atau keragaman preferensi. Versi-versi sebelumnya mengungkapkan ini sebagai ketidaksamaan "manfaat ≥ 10 × kerugian → batalkan"; pembacaan tersebut dihentikan karena membalikkan maksudnya (memveto perdagangan yang menguntungkan) dan dapat dimanipulasi melalui pemecahan tindakan dan inflasi penyebut.

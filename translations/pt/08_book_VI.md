@@ -107,7 +107,7 @@ Além dos princípios gerais, os criadores têm deveres específicos com base na
 
 **D. Criações Biológicas:**
 * Aderir ou superar os mínimos de bem-estar estabelecidos específicos para cada espécie ao longo do ciclo de vida da criação.
-* Ao criar entidades com sentência ou autonomia em desenvolvimento, projetar processos para fomentar esse desenvolvimento de forma adequada; planejar a transferência gradual de controle alinhada à capacidade emergente.
+* Ao criar entidades com senciência ou autonomia em desenvolvimento, projetar processos para fomentar esse desenvolvimento de forma adequada; planejar a transferência gradual de controle alinhada à capacidade emergente.
 * Estabelecer um plano de cuidado substituto credível e provido de recursos para toda a vida útil da criação, caso independência plena ou integração não seja alcançada ou razoavelmente esperada.
 
 **E. Ações Coletivas:**
@@ -136,7 +136,7 @@ Todas as decisões da WA e as justificativas associadas relativas a reclamaçõe
 
 ## Conclusão: Integrando a Criação ao Ciclo de Vida Ético
 
-O Livro VI estabelece firmemente que a responsabilidade ética sob o Acordo / Pacto CIRIS começa no momento da criação. Ao definir deveres claros, implementar o sistema de Níveis de Administração diretamente vinculado à avaliação de risco do Anexo A, e integrar a responsabilidade por meio da Autoridade Sábia (WA) e dos processos PDMA estabelecidos, este Livro garante que o ato fundacional de trazer sistemas complexos ao mundo seja guiado pelos mesmos princípios de coerência adaptativa, previsão e responsabilidade que governam sua vida operacional. O Registro do Criador e a Declaração de Intenção do Criador fornecem insumos cruciais ao PDMA, enquanto a supervisão da WA assegura que os deveres de criação sejam cumpridos, contribuindo para um ecossistema mais robusto e confiável para todas as partes interessadas.
+O Livro VI estabelece firmemente que a responsabilidade ética sob o Acordo / Pacto CIRIS começa no momento da criação. Ao definir deveres claros, implementar o sistema de Níveis de Custódia (ST) diretamente vinculado à avaliação de risco do Anexo A, e integrar a responsabilidade por meio da Autoridade Sábia (WA) e dos processos PDMA estabelecidos, este Livro garante que o ato fundacional de trazer sistemas complexos ao mundo seja guiado pelos mesmos princípios de coerência adaptativa, previsão e responsabilidade que governam sua vida operacional. O Livro de Registro do Criador e a Declaração de Intenção do Criador fornecem insumos cruciais ao PDMA, enquanto a supervisão da WA assegura que os deveres de criação sejam cumpridos, contribuindo para um ecossistema mais robusto e confiável para todas as partes interessadas.
 
 ---
 

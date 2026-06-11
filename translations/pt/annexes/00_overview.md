@@ -6,7 +6,7 @@
 * [Anexo B — Carta de Governança da Autoridade Sábia](annex_B.md)
 * [Anexo C — Cruzamento Regulatório](annex_C.md)
 * [Anexo D — Protocolo de Avaliação de Risco Catastrófico (CRE)](annex_D.md)
-* [Anexo E — Mecanismos de Influência Estrutural (SI) e Coerência Participativa (CS)](annex_E.md)
+* [Anexo E — Mecanismos de Influência Estrutural (SI) e Participação de Coerência (CS)](annex_E.md)
 * [Anexo F — Supervisão Humana no Ciclo & Controle](annex_F.md)
 * [Anexo G — Segurança Adversarial & Robustez](annex_G.md)
 * [Anexo H — Conformidade Contínua & Revisão](annex_H.md)

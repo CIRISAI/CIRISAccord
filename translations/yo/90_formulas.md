@@ -71,7 +71,7 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — ó jọra pẹ̀lú ọ̀rọ̀ J lẹ́ẹ̀kan sí lẹ́ẹ̀kan; a túmọ̀ rẹ̀ gẹ́gẹ́ bí ìtumọ̀ ìṣẹ̀dá dípò ìdáàbòbò. Tẹ́lẹ̀tẹ́lẹ̀ a ń kọ ọ C; wọ́n yí orúkọ rẹ̀ padà nínú 1.3-RC2 láti yẹra fún ìkọlù pẹ̀lú ìpàdé ìdánimọ̀-àárín C nínú CIRIS Capacity Score 𝒞_CIRIS — wo ìkọ̀sílẹ̀ orúkọ Book IX Ch 6, èyí tó jẹ́ ọ̀rọ̀ àṣẹ lórí ìbáṣepọ̀ náà.)
+(Book IX Ch 6 — ó jọra pẹ̀lú ọ̀rọ̀ J lẹ́ẹ̀kan sí lẹ́ẹ̀kan; a túmọ̀ rẹ̀ gẹ́gẹ́ bí ìtumọ̀ ìṣẹ̀dá dípò ìdáàbòbò. Tẹ́lẹ̀tẹ́lẹ̀ a ń kọ ọ C; wọ́n yí orúkọ rẹ̀ padà nínú 1.3-RC2 láti yẹra fún ìkọlù pẹ̀lú ìdánimọ̀-àárín factor C nínú CIRIS Capacity Score 𝒞_CIRIS — wo ìkọ̀sílẹ̀ orúkọ Book IX Ch 6, èyí tó jẹ́ ọ̀rọ̀ àṣẹ lórí ìbáṣepọ̀ náà.)
 
 ---
 

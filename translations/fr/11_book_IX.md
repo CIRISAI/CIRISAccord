@@ -111,7 +111,7 @@ où λ ≈ 2r et k_eff tient compte de la corrélation entre contraintes.
 3. Les contraintes doivent être échantillonnées depuis une distribution uniforme sur la grassmannienne
 4. **k ≥ 3** (pour la NP-difficulté ; k=2 se réduit au 2-SAT soluble en temps polynomial)
 
-La tromperie coordonnée d'un agent unique devient topologiquement improbable lorsque la codimenion effective cumulée dépasse la dimension de l'Espace des Raisons :
+La tromperie coordonnée d'un agent unique devient topologiquement improbable lorsque la codimension effective cumulée dépasse la dimension de l'Espace des Raisons :
 
 ```
 Σ c_i > D  ⟹  D_ec ∩ (⋂ M_i) = ∅  (ou de mesure nulle)
@@ -333,7 +333,7 @@ Les valeurs de seuil sont réglables par politique et calibrées empiriquement. 
 Les formalismes du Livre IX s'appliquent à :
 - Les architectures d'alignement AGI/ASI
 - Les systèmes de vérification multi-agents
-- Les cadres de gouvernance du Federated Ratchet
+- Les cadres de gouvernance fédérée
 - La prise de décision autonome à enjeux élevés (ST ≥ 3)
 
 Le Livre IX ne prétend PAS :
@@ -472,7 +472,7 @@ Le Livre IX complète l'architecture de l'ACCORD en ancrant les principes éthiq
 - Géométrie de contraintes convexe
 - Contraintes indépendantes ou à corrélation mesurée
 
-L'interprétation métaphorique (« La communauté, l'Humilité Épistémique, la Conscience et l'amour sont des exigences mathématiques ») est une observation structurelle sur les mathématiques, non une preuve de nécessité éthique. Elle suggère que ces variables régissent à la fois la sécurité et l'épanouissement, mais cette affirmation ne doit pas être lue comme un théorème — c'est une invitation à l'investigation empirique.
+L'interprétation métaphorique (« La Communauté, l'Humilité Épistémique, la Conscience et l'Amour sont des exigences mathématiques ») est une observation structurelle sur les mathématiques, non une preuve de nécessité éthique. Elle suggère que ces variables régissent à la fois la sécurité et l'épanouissement, mais cette affirmation ne doit pas être lue comme un théorème — c'est une invitation à l'investigation empirique.
 
 Ce cadre ne prescrit pas des valeurs. Il décrit des contraintes. Les pénalités pour violation sont automatiques, non imposées par une autorité. La nature les applique.
 

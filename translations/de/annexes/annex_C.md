@@ -22,7 +22,7 @@ CIRIS-Klauseln werden den wichtigsten externen Standards zugeordnet, um die dopp
 | | Art. 13 Transparenz | Book II §II Schritt 6; Book IV Ch 3 | Informativ |
 | | Art. 14 Menschliche Aufsicht (inkl. 14(4)) | Book II §III (WBD); Annex F Autoritätsgitter + Autonomiestufen | Informativ |
 | | Art. 61 Marktüberwachung nach Inverkehrbringen | Annex H Driftkontrollen + kontinuierliche Prüfung | Informativ |
-| NIST AI RMF 1.0 | Govern → Map → Measure → Manage | Govern: Books I, VI; Map: Book II §II Schritte 1–2; Measure: Annex A Metriken + Annex H Baselines; Manage: Annex F/H Workflows | Informativ |
+| NIST AI RMF 1.0 | Govern → Map → Measure → Manage | Govern: Books I, VI; Map: Book II §II Steps 1–2; Measure: Annex A Metriken + Annex H Baselines; Manage: Annex F/H Workflows | Informativ |
 | ISO/IEC 42001 | Kl. 6.2 Risikobewertung | Book II §II | Informativ |
 | | Annex A Kontrollen | CIRISAgent `compliance/` Dimensions-Dokumente (Kontrollen-Entsprechung ausstehend) | Informativ |
 | OSHA Robotics Guidelines | Sec. 5.E Sicherheitsprüfungen | Annex D CRE | Teilweise |

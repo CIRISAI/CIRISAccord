@@ -71,7 +71,7 @@ k_eff = k / (1 + ρ̄ · (k − 1))
 F = k_eff · λ · σ
 ```
 
-(Book IX Ch 6 — identisch mit dem J-Term Glied für Glied; als generativ statt defensiv interpretiert. Früher als C geschrieben; in 1.3-RC2 umbenannt, um Kollisionen mit dem Kernidentitätsfaktor C des CIRIS Capacity Score 𝒞_CIRIS zu vermeiden — siehe den Nomenklaturthinweis in Book IX Ch 6, der die maßgebliche Aussage über das Verhältnis enthält.)
+(Book IX Ch 6 — identisch mit dem J-Term Glied für Glied; als generativ statt defensiv interpretiert. Früher als C geschrieben; in 1.3-RC2 umbenannt, um Kollisionen mit dem Kernidentitätsfaktor C des CIRIS Capacity Score 𝒞_CIRIS zu vermeiden — siehe den Nomenklaturhinweis in Book IX Ch 6, der die maßgebliche Aussage über das Verhältnis enthält.)
 
 ---
 

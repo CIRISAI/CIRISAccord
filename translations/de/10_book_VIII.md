@@ -100,7 +100,7 @@ Der ACCORD läuft automatisch ab (siehe Einleitung: derzeit 2027-06-10). Ein Abl
 
 ### 9.1 Aktuelle Phase: Gründer-Stewardship
 
-Der ACCORD wird **einseitig von seinem aktuellen Steward** (heute dem Gründer) gepflegt und erneuert. Dies wird offen dargelegt, anstatt es zu verschleiern: Es ist eine bewusste Vereinfachung, die für dieses Stadium des Lebens des Dokuments angemessen ist, in dem die im Text beschriebenen Governance-Gremien (das Menschlicher-Berater-Gremium aus Annex B, eine formalisierte Unterzeichner-Liste) noch nicht eingesetzt sind. Das Ausarbeiten einer aufwändigen Ratifizierungsverfahren für Gremien, die noch nicht existieren, wäre Spezifikationsdichtung — Governance-Theater anstelle von Governance.
+Der ACCORD wird **einseitig von seinem aktuellen Steward** (heute dem Gründer) gepflegt und erneuert. Dies wird offen dargelegt, anstatt es zu verschleiern: Es ist eine bewusste Vereinfachung, die für dieses Stadium des Lebens des Dokuments angemessen ist, in dem die im Text beschriebenen Governance-Gremien (das Menschlicher-Berater-Gremium aus Annex B, eine formalisierte Unterzeichner-Liste) noch nicht eingesetzt sind. Das Ausarbeiten eines aufwändigen Ratifizierungsverfahrens für Gremien, die noch nicht existieren, wäre Spezifikationsfiktion — Governance-Theater anstelle von Governance.
 
 Was die Erneuerung durch einen einzigen Steward ehrlich hält:
 
@@ -118,7 +118,7 @@ Stewardship knüpft an das Werk, nicht an eine Person. Hört der aktuelle Stewar
 
 ### 9.4 Nachfolgeauslöser
 
-Die Einzelverwalterphase endet **wenn ein Bedarf entsteht** — indikativ: mehrere unabhängige Produktionsbereitstellungen, die wesentlich auf den Text vertrauen, ein eingesetztes Wise Authority-Gremium oder ein gemeinschaftlicher Streitfall, den der Verwalter nicht allein fair schlichten kann. Zu diesem Zeitpunkt wird ein Nachfolge-Governance-Verfahren als Erneuerungszusatz zu diesem Kapitel verabschiedet, das gegen die dann tatsächlich bestehende Gemeinschaft ausgelegt ist und nicht gegen die noch nicht existierende vorgestellte.
+Die Einzelverwalterphase endet **wenn ein Bedarf entsteht** — indikativ: mehrere unabhängige Produktionsbereitstellungen, die wesentlich auf den Text vertrauen, ein eingesetztes Menschlicher-Berater-Gremium oder ein gemeinschaftlicher Streitfall, den der Verwalter nicht allein fair schlichten kann. Zu diesem Zeitpunkt wird ein Nachfolge-Governance-Verfahren als Erneuerungszusatz zu diesem Kapitel verabschiedet, das gegen die dann tatsächlich bestehende Gemeinschaft ausgelegt ist und nicht gegen die noch nicht existierende vorgestellte.
 
 **Zur Rigorositätsinversion:** Das Föderations-Wire-Format unterhalb dieses Dokuments (CEG §11.2) trägt derzeit mehr Änderungsstrenge als diese konstitutionelle Schicht. Diese Asymmetrie wird anerkannt und ist beabsichtigt: Das Wire-Format ist heute multi-stakeholder-operative Infrastruktur; dieses Dokument ist ein lebendiger Entwurf des Verwalters, bis der Nachfolgeauslöser eintritt. Die Asymmetrie sollte sich dann umkehren.
 

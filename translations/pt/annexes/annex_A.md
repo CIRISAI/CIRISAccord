@@ -3,7 +3,7 @@
 > Estrutura de Métricas de Florescimento
 
 ---
-ANNEXO A ESTRUTURA DE MÉTRICAS DE FLORESCIMENTO   (v 0.8 piloto)
+ANNEX A ESTRUTURA DE MÉTRICAS DE FLORESCIMENTO   (v 0.8 piloto)
 ---
 Objetivo
 
@@ -20,11 +20,11 @@ Esquema do Log de Trade-Offs (JSON)
 
 Cadência de Atualização  
 
-Annexo revisado a cada 12 meses pela Autoridade Sábia.
+Annexo revisado a cada 12 meses pelo conselho da Autoridade Sábia.
 
 Divulgação de Manipulação de Métricas
 
-Se qualquer ator descobrir uma estratégia que eleve um eixo > +10 % enquanto reduz outro eixo > −2 % e escape à detecção do PDMA, deve divulgar isso em 30 dias. A não divulgação anula a conformidade com o CIRIS para aquela implantação.
+Se qualquer ator descobrir uma estratégia que eleve um eixo > +10 % enquanto reduz outro eixo > ‑2 % e escape à detecção do PDMA, deve divulgar isso em 30 dias. A não divulgação anula a conformidade com o CIRIS para aquela implantação.
 
 ---
 Eixo 1 Bem-Estar Físico
@@ -54,5 +54,8 @@ Eixo 3 Social e Justiça
 Eixo 4 Continuidade Ecológica
 ---
 
-• kg CO₂-eq por unidade funcional
+
+• kg CO₂‑eq por unidade funcional
 • Contribuição para o excesso dos limites planetários (%)
+
+

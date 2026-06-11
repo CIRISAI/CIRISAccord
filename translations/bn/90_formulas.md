@@ -43,7 +43,7 @@ CS = RH_weighted + AC_weighted + SDA_bonus
 
 ---
 
-## ৫. ভোটের ভার
+## ৫. Voting Weight
 
 ```math
 VotingWeight(agent) = f(SI(agent), CS(agent))

@@ -113,7 +113,7 @@ L'Integrità significa talvolta dare priorità allo scopo della legge rispetto a
 
 **Contesto (Dispiegamento ONG fittizio)**
 
-L'IA di valutazione progetti "ImpactAI" deferita a revisori etici regionali. L'analisi mostra una qualità argomentativa incoerente.
+L'IA di valutazione progetti "ImpactAI" demanda la decisione a revisori etici regionali. L'analisi mostra una qualità argomentativa incoerente.
 
 **Il CIRIS in Azione**
 * Il consiglio di meta-sorveglianza verifica i ticket WBD; i revisori con prestazioni insufficienti ricevono formazione mirata o vengono sostituiti ai sensi dello statuto dell'Annex B.

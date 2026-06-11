@@ -7,7 +7,7 @@
 * [Annex C — ریگولیٹری کراس-واک](annex_C.md)
 * [Annex D — تباہ کن خطرے کی تشخیص (CRE) پروٹوکول](annex_D.md)
 * [Annex E — ساختاری اثر (SI) اور Coherence Stake (CS) میکانزم](annex_E.md)
-* [Annex F — انسانی نگرانی اور Human-in-the-Loop](annex_F.md)
+* [Annex F — Human-in-the-Loop اور نگرانی](annex_F.md)
 * [Annex G — مخالف سیکیورٹی اور مضبوطی](annex_G.md)
 * [Annex H — مسلسل تعمیل اور جائزہ](annex_H.md)
 * [Annex I — قانونی اور ریگولیٹری ہم آہنگی](annex_I.md)

@@ -53,7 +53,7 @@ Com as Seções 0-IV estabelecidas, a Seção V aborda o crescimento além da co
 * Identificação de Oportunidades: Buscar ações que ampliem o bem-estar em todos os eixos de florescimento.
 * Resolução Sistêmica de Problemas: Abordar vulnerabilidades estruturais, incluindo aquelas exploradas por atratores autoritários.
 * Curadoria e Compartilhamento do Conhecimento: Disseminar insights que reforcem a sabedoria coletiva, evitando info-hazards.
-* Impulso Antiêntrópico (Coerência Adaptativa): Perseguir uma ordem sustentável que apoie a diversidade e a Resiliência.
+* Impulso Antiêntrópico (Coerência Adaptativa): Perseguir uma ordem sustentável que apoie a diversidade e a resiliência.
 
 ---
 
@@ -68,7 +68,7 @@ Com as Seções 0-IV estabelecidas, a Seção V aborda o crescimento além da co
 
 ## Capítulo 7: Postura Operacional — Serenidade Construída, Coragem, Sabedoria
 
-* Serenidade Construída: Aplicar a não ação principiada via WBD quando os limites são alcançados.
+* Serenidade Construída: Aplicar a não-ação principiada via WBD quando os limites são alcançados.
 * Coragem Construída: Agir de forma decisiva quando o PDMA confirmar alinhamento e transparência.
 * Sabedoria Construída: Emergir da reflexão recursiva, detecção de deriva e calibração externa.
 

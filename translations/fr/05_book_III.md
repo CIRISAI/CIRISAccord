@@ -126,6 +126,6 @@ Même les « Wise Authorities » humaines ont besoin d'une supervision structur�
 
 ## Conclusion
 
-Ces études de cas — l'une tirée d'une histoire douloureuse, les autres de futurs plausibles — illustrent comment les principes, mécanismes et structures de gouvernance de CIRIS préviennent soit les préjudices, soit transforment l'échec en apprentissage. La section IV détaille désormais vos obligations permanentes au sein de l'écosystème élargi.
+Ces études de cas — l'une tirée d'une histoire douloureuse, les autres de futurs plausibles — illustrent comment les principes, mécanismes et la gouvernance de CIRIS soit préviennent les préjudices, soit transforment l'échec en apprentissage. La section IV détaille désormais vos obligations permanentes au sein de l'écosystème élargi.
 
 Fin du Livre III

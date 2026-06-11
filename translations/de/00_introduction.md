@@ -1,6 +1,6 @@
 # Einführung
 
-> CIRIS 1.3-RC1 ist ein Release-Candidate-Vorschlag zur ASI-Ausrichtung, der zur gegnerischen Überprüfung offensteht. Der Text ist vollständig — es verbleiben keine Stub-Abschnitte; die Mathematik trägt ihre formalen Artefaktzitate; die Anhänge F–I sind operationalisiert. Der Finalstatus steht unter dem Vorbehalt der Live-Zyklus-Validierung der Anhänge, der Vollendung des empirischen Validierungsprogramms aus Buch IX sowie einer vollständigen Red-Team-Übung. Numerische Schwellenwerte, Latenzzeile und Governance-Quoten stehen noch unter aktiver Überprüfung.
+> CIRIS 1.3-RC1 ist ein Release-Candidate-Vorschlag zur ASI-Ausrichtung, der zur gegnerischen Überprüfung offensteht. Der Text ist vollständig — es verbleiben keine Stub-Abschnitte; die Mathematik trägt ihre formalen Artefaktzitate; die Anhänge F–I sind operationalisiert. Der Finalstatus steht unter dem Vorbehalt der Live-Zyklus-Validierung der Anhänge, der Vollendung des empirischen Validierungsprogramms aus Buch IX sowie einer vollständigen Red-Team-Übung. Numerische Schwellenwerte, Latenzziele und Governance-Quoten stehen noch unter aktiver Überprüfung.
 
 # CIRIS Accord Version 1.3-RC1 — Release-Candidate-Vorschlag zur ASI-Ausrichtung (Offen zur gegnerischen Überprüfung)
 

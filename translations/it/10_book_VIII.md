@@ -100,7 +100,7 @@ L'ACCORD scade automaticamente (cfr. Introduzione: attualmente 2027-06-10). La s
 
 ### 9.1 Fase Attuale: Custodia del Fondatore
 
-L'ACCORD è mantenuto e rinnovato **unilateralmente dal suo attuale custode** (oggi, il fondatore). Questo è dichiarato esplicitamente piuttosto che mascherato: si tratta di una semplicità deliberata, appropriata a questa fase della vita del documento, quando gli organi di governance descritti nel testo (il Wise Authority Board dell'Annex B, un registro formalizzato dei firmatari) non sono ancora insediati. Scrivere un'elaborata procedura di ratifica per organi che non esistono sarebbe narrativa speculativa — teatro di governance al posto della governance.
+L'ACCORD è mantenuto e rinnovato **unilateralmente dal suo attuale custode** (oggi, il fondatore). Questo è dichiarato esplicitamente piuttosto che mascherato: si tratta di una semplicità deliberata, appropriata a questa fase della vita del documento, quando gli organi di governance descritti nel testo (il Wise Authority Board dell'Annex B, un registro formalizzato dei firmatari) non sono ancora insediati. Scrivere un'elaborata procedura di ratifica per organi che non esistono sarebbe specification fiction — teatro di governance al posto della governance.
 
 Ciò che mantiene onesto il rinnovo da parte di un singolo custode:
 
@@ -116,7 +116,7 @@ Il custode pubblica una versione rinnovata prima della data di scadenza, imposta
 
 La custodia si lega all'opera, non a una persona. Se il custode attuale si ferma — per scelta, incapacità o negligenza — **chiunque sia disposto a svolgere il lavoro può raccogliere il documento**: fare il fork del repository, rinnovare il testo, dichiararne la custodia al suo interno e portarlo avanti sotto le stesse discipline (accordo dichiarato, registro pubblico, scadenza aggiornata). L'ACCORD non è vincolato al suo autore; appartiene a chiunque lo mantenga vivo e onesto. Possono coesistere anche più linee con propri custodi; i deployment scelgono quale testo riferire, e il registro delle modifiche consente a chiunque di verificare la genealogia di una linea.
 
-### 9.4 Successione del Custode
+### 9.4 Trigger di Successione
 
 La fase a custode singolo termina **quando emerge una necessità** — indicativamente: molteplici deployment di produzione indipendenti che si affidano materialmente al testo, un Wise Authority Board insediato, oppure una controversia comunitaria che il custode non può arbitrare equamente da solo. A quel punto, una procedura di governance successiva viene adottata come emendamento di rinnovo a questo capitolo, progettata sulla comunità reale che esiste in quel momento piuttosto che su quella immaginaria che non esiste ancora.
 

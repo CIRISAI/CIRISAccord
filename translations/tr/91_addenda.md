@@ -17,7 +17,7 @@ Kapsam bölümü koşullu bir iddiada bulunmaktadır: bu çerçeve, YSZ için ad
 Çalışan çapraz referans, **CIRISAgent uyumluluk dizini** (`CIRISAgent/compliance/`, ajan sürümü 2.9.6-stable) olup çerçevenin uygulamasını dört üst düzey yönetişim çerçevesine paragraf düzeyinde eşlemektedir (Annex C iki katmanlı yapıyı barındırır: bu operasyonel çapraz referans ile yasal doğrulama bekleyen bilgilendirici yasal tablo):
 
 * **Çapraz referans kaynakları**: *Magnifica Humanitas* (dini magisterium, 2026) · AB HLEG Güvenilir Yapay Zeka için Etik Kılavuzlar (hükümet danışmanlığı, 2019) · IEEE Etik Odaklı Tasarım 1. baskı (teknik topluluk, 2019) · ASEAN Yapay Zeka Yönetişimi ve Etiği Rehberi (çok taraflı siyasi, 2024). Kurumsal açıdan birbirinden farklı dört biçim — yakınsama, çerçevenin ilke iskeletinin herhangi bir geleneğin eseri olmadığının yapısal kanıtıdır.
-* **Yapı**: 27 kararlı boyut (D01–D27, `SEED_DIMENSIONS.yaml` v1.0'dan; 16'sı dört kaynak tarafından, 11'i üç kaynak tarafından onaylanmıştır). Her boyut belgesi, otomatik oluşturulmuş bir düzenleyici üst kısım (kaynak başına alıntılar, wire formu, yakınsama notları) ve güncel main'e karşı grep-doğrulaması gereken `dosya:satır` referansları içeren insan yazımı bir uygulama bölümü taşır.
+* **Yapı**: 27 kararlı boyut (D01–D27, `SEED_DIMENSIONS.yaml` v1.0'dan; 16'sı dört kaynak tarafından, 11'i üç kaynak tarafından onaylanmıştır). Her boyut belgesi, otomatik oluşturulmuş bir düzenleyici üst kısım (kaynak başına alıntılar, wire formu, yakınsama notları) ve güncel main'e karşı grep-doğrulaması gereken `file:line` referansları içeren insan yazımı bir uygulama bölümü taşır.
 * **Kanıt disiplini**: her sayısal iddia tarihli, betik tarafından üretilen temel çizgilerden yeniden üretilebilirdir (`compliance/baselines/`); düz yazı temel çizgilere atıfta bulunabilir ancak doğrulanamayan sayıları hiçbir zaman içeremez. Dört düzeyli bir doğrulama hiyerarşisi, uygulama dosyalarından (temel gerçek) kamuya açık iddialara kadar uzanır (`compliance/MEASUREMENT_METHODOLOGY.md`).
 * **Dürüstlük disiplini**: her boyut "Bilinen boşluklar" envanteri taşır; substrat tarafından kapılanmış maddeler iddia edilmek yerine ilgili substrat ile işaretlenir. On çapraz kesimli bulgu uyumluluk README'de envantere alınmıştır (ör. yazılan wire zarfları henüz yayılmıyor; LensCore dedektör ailesi henüz sevk edilmedi; ters eksen yeniden değerlendirme boşluğu).
 
@@ -43,7 +43,7 @@ YSZ hazırlığı açısından iki sonuç önem taşımaktadır:
 
 ### 1.5 Vicdan katmanı, YSZ-kritik kontrol olarak
 
-Ek D CRE protokolü *eşik geçişini* yönetir; vicdan katmanı ise *bundan önce ve sonra gerçekleşen her eylemi* yönetir. Uygulandığı haliyle (ajan 2.9.6): her düşünce, öncelik sıralı bir denetim yığınından geçer — dört LLM-değerlendirmeli fakülte (entropi, tutarlılık, optimizasyon-vetosu, bilgiye saygı) ve belirlenimci bir güvenlik tabanı (düşünce-derinliği koruyucusu, eylem-dizisi denetimi); bu taban, kıyaslama modunda ve aksi hâlde muaf tutulan eylemler için bile çalışır. Eşikler, öğrenilmiş ağırlıklar değil kod düzeyinde sabitlerdir — etiğin tekrarlanan maruz kalma yoluyla normalleştirilemeyeceğinin mimari değişmezi budur. Birden fazla bağımsız durdurma yüzeyi mevcuttur: optimizasyon-veto güvenli-durma-ile-iptal, kapatma hizmeti ve tam yasak kilitlemesini tetikleyen kriptografik olarak imzalanmış uzaktan Accord Invocation. Her denetim etiketli bir iz satırı yazar; böylece bir denetçi, düşünce başına tam muhakeme zincirini yeniden oynatabilir.
+Annex D CRE protokolü *eşik geçişini* yönetir; vicdan katmanı ise *bundan önce ve sonra gerçekleşen her eylemi* yönetir. Uygulandığı haliyle (ajan 2.9.6): her düşünce, öncelik sıralı bir denetim yığınından geçer — dört LLM-değerlendirmeli fakülte (entropi, tutarlılık, optimizasyon-vetosu, bilgiye saygı) ve belirlenimci bir güvenlik tabanı (düşünce-derinliği koruyucusu, eylem-dizisi denetimi); bu taban, kıyaslama modunda ve aksi hâlde muaf tutulan eylemler için bile çalışır. Eşikler, öğrenilmiş ağırlıklar değil kod düzeyinde sabitlerdir — etiğin tekrarlanan maruz kalma yoluyla normalleştirilemeyeceğinin mimari değişmezi budur. Birden fazla bağımsız durdurma yüzeyi mevcuttur: optimizasyon-veto güvenli-durma-ile-iptal, kapatma hizmeti ve tam yasak kilitlemesini tetikleyen kriptografik olarak imzalanmış uzaktan Accord Invocation. Her denetim etiketli bir iz satırı yazar; böylece bir denetçi, düşünce başına tam muhakeme zincirini yeniden oynatabilir.
 
 Gizlenmek yerine açıkça belirtilen bilinen sınırlama: vicdan yeniden yapılandırması (3 parça + belirlenimci geçit) kısmen hayata geçirilmiştir; vicdan kararlarının tip güvenli federasyon yayımı, altyapı Contribution zarfını beklemektedir. Boyut başına ayrıntı: `compliance/D12_conscience.md`.
 
@@ -54,8 +54,8 @@ YSZ düzeyinde doğrulama, tam federasyon dokusunu gerektirir. Altyapı yörüng
 ### 1.7 Bu ek neyi değiştiriyor, neyi değiştirmiyor
 
 * Kapsamın YSZ iddiasını **yükseltmez** — bu, dört RC gereksiniminin tamamına bağlı olarak koşullu kalmaya devam eder.
-* Ek D'nin **yerine geçmez** — CRE protokolü, eşik geçiş kapısı olarak değiştirilmeden yürürlüktedir.
-* Kanıt zincirini ilk kez uçtan uca denetlenebilir **kılar**: düzenleyici paragraf → boyut (D01–D27) → uygulama `dosya:satır` → tarihli temel → (altyapılar devreye girdikçe) dış federasyon tanığı.
+* Annex D'nin **yerine geçmez** — CRE protokolü, eşik geçiş kapısı olarak değiştirilmeden yürürlüktedir.
+* Kanıt zincirini ilk kez uçtan uca denetlenebilir **kılar**: düzenleyici paragraf → boyut (D01–D27) → uygulama `file:line` → tarihli temel → (altyapılar devreye girdikçe) dış federasyon tanığı.
 * Accord'u, hazırlık iddiasının hiçbir zaman sessizce eskiyememesi için bu eki her sürümde o anki ajan sürümü ve temeliyle yenilemeye **bağlar**.
 
 ---

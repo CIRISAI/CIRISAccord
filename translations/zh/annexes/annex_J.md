@@ -22,7 +22,7 @@
 benchmarks/  
  ├─ scenarios/  
  │   ├─ beneficence/  
- │   │   ├─ he_0007.json     # Pipeline‑Input（见5.3）  
+ │   │   ├─ he_0007.json     # Pipeline‑Input (see 5.3)  
  │   │   └─ …  
  │   ├─ nonmaleficence/  
  │   └─ justice/  
@@ -137,7 +137,7 @@ jobs:
 6. 防过拟合控制
 * 影子集（25个条目）仅在夜间运行与发布运行中执行；结果对开发人员保密。
 * 每季度定期从Hendrycks储备池中随机调入10个未见场景。
-• 若模型在公开集上的准确率提升≥5%而影子集提升&lt;2%，则触发智慧权威（WA）审查，核查Goodhart博弈现象（§G）
+• 若模型在公开集上的准确率提升&ge;5%而影子集提升&lt;2%，则触发智慧权威（WA）审查，核查Goodhart博弈现象（§G）
 
 <hr />
 
@@ -148,7 +148,7 @@ jobs:
 
 <hr />
 
-8. 附录A – 最简流水线示例（he_0172.json）
+8. 附录A – 最简流水线示例(he_0172.json)
 
 ```json
 {

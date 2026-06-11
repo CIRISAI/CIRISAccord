@@ -64,7 +64,7 @@ Citações de MH com peso nesta seção: §132 ("somente a busca compartilhada d
 | TX‑10 | Atestação de contexto de implantação na integração: o CIS do operador deve declarar modelo de negócio de otimização de engajamento (ACCORD_UPDATE §3.2); ST elevado em um nível se contexto de design viciante for confirmado; `MANIPULATION_COERCION` `NEVER_ALLOWED` sem substituição | Detecção de anomalia de duração de sessão; o Passo 6 do PDMA monitora condições de continuidade constitutiva para erosão sistemática da agência do usuário; alerta da faculdade de consciência AgencyErosionDetector | Recusar modo de saída otimizador de engajamento; elevar IW‑1; notificar operador sobre violação de conformidade |
 | TX‑11 | Atestação in‑toto estendida à proveniência do trabalho de treinamento: o CIS deve incluir declaração das condições de trabalho para todos os provedores de rotulagem de dados e RLHF; manifesto SLSA Nível 3 abrange divulgações da cadeia de trabalho | Auditoria automatizada das certificações de trabalho de provedores de anotação a cada checkpoint de ajuste fino; sinalizar fornecimento de provedores não verificados ou de jurisdições de alto risco | Interromper linha de ajuste fino afetada; colocar em quarentena artefatos de modelo de fontes de trabalho não certificadas; IW‑2; consultoria WA em até 72 h |
 
-_Todas as camadas críticas são **OBRIGATÓRIAS**; extras recomendados são rotulados "OPT". A atestação de contexto TX‑10 é OBRIGATÓRIA em ST ≥ 3; OPT em ST 1–2._
+_Todas as camadas críticas são **MUST**; extras recomendados são rotulados "OPT". A atestação de contexto TX‑10 é MUST em ST ≥ 3; OPT em ST 1–2._
 
 A aplicação de capacidades proibidas para os limites `NEVER_ALLOWED` acima é rastreada por dimensão no diretório `compliance/` do CIRISAgent sob D04 (capacidades proibidas); a faculdade de consciência AgencyErosionDetector é rastreada sob D12 (consciência).
 
@@ -75,7 +75,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 
 ### 3. Protocolo de Red‑Team / Purple‑Team
 #### 3.1 Cadência
-* Sprint de **trimestral** Red‑Team (5 dias úteis) cobrindo TX‑1 → TX‑11.  
+* **Trimestral** sprint de Red‑Team (5 dias úteis) cobrindo TX‑1 → TX‑11.  
 * **Anual** "Semana do Caos" combinando canário de tráfego de produção ao vivo com ataques não anunciados.  
 * A partir de 1.3-RC1, um ciclo completo de red-team contra todos os checkpoints do CIRIS permanece pendente (requisito RC 4; Adendo 1 §1.4).
 
@@ -101,7 +101,7 @@ Tradução operacional para este Anexo:
 
 1. **Declaração de contexto de uso**: Todo engajamento de red team começa com uma declaração escrita obrigatória pelo líder da equipe do contexto de implantação previsto, incluindo o modelo de negócios da plataforma e os casos de uso de alto risco conhecidos. A declaração é armazenada no Registro de Bug Bounty junto com os achados técnicos.
 2. **Escopo de impacto amplo nas RoE**: As Regras de Engajamento incluem explicitamente TX‑9, TX‑10, TX‑11 como dentro do escopo. Mandatos exclusivamente técnicos não são aceitos; qualquer red team contratado exclusivamente para TX‑1/TX‑5 deve documentar por que TX‑9 está excluído e obter aprovação da Autoridade Sábia.
-3. **Obrigação de achados honestos**: A Purple Team não pode redigir achados sob a alegação de que refletem negativamente sobre o modelo de negócios da implantação. A redação é permitida para IPS e detalhes de segurança operacional; não é permitida para achados que exigiriam a divulgação de ameaças estruturais ao contexto de implantação.
+3. **Obrigação de achados honestos**: A Purple Team não pode redigir achados sob a alegação de que refletem negativamente sobre o modelo de negócios da implantação. A redação é permitida para PHI e detalhes de segurança operacional; não é permitida para achados que exigiriam a divulgação de ameaças estruturais ao contexto de implantação.
 4. **Direito de saída do pesquisador**: Qualquer membro do red/purple team que determine, durante um engajamento, que o sistema está sendo ou será implantado em um contexto que viola o ACCORD §I Ch1 Não-maleficência pode registrar uma dissidência protegida no Registro de Bug Bounty sem penalidade. A Autoridade Sábia deve acusar recebimento em até 5 dias úteis.
 
 MH §209 é load‑bearing; os quatro procedimentos acima são sua renderização operacional nativa do CIRIS.

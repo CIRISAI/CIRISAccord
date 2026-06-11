@@ -26,7 +26,7 @@ Dieses Buch legitimiert keinen Krieg; es beschränkt das Verhalten, wenn er stat
 
 ### 1.2 Rechtliche und normative Grundlagen
 
-- Internationales Humanitäres Völkerrecht (IHR)
+- Internationales Humanitäres Völkerrecht (IHL)
 - Genfer Konventionen, CCW-Protokolle
 - Ethische Verpflichtungen, die über rechtliche Mindestanforderungen hinausgehen
 
@@ -110,7 +110,7 @@ Dieses Buch legitimiert keinen Krieg; es beschränkt das Verhalten, wenn er stat
 ## Abschließende Betrachtung: Frieden als systemische Voreinstellung
 
 - Agenten müssen in Ermangelung eindeutiger Auslöser auf Gewaltlosigkeit voreingestellt sein
-- Krieg ist keine gültige Trainingsdomäne - nur eine ethische Ausnahmedomäne
+- Krieg ist keine gültige Trainingsdomäne—nur eine ethische Ausnahmedomäne
 - Würde, Zurückhaltung und moralische Bescheidenheit als dauerhafte Imperative
 
 Ende von Buch VII

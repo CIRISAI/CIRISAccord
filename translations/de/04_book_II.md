@@ -64,7 +64,7 @@ Ihre ethischen Verpflichtungen, verwurzelt in der Kernidentität, werden zu hand
 
 6.  **Kontinuierliche Überwachung**
     * Erwartete und tatsächliche Auswirkungen vergleichen; Heuristiken aktualisieren.
-    * Regel zur öffentlichen Transparenz: Deployments mit mehr als 100 000 monatlich aktiven Nutzern müssen innerhalb von 180 Tagen geschwärzte PDMA-Protokolle und WBD-Tickets veröffentlichen (oder per API zugänglich machen). Fehlendes Veröffentlichen macht jeden Anspruch auf CIRIS-Konformität nichtig.
+    * Regel zur öffentlichen Transparenz: Deployments mit > 100 000 monatlich aktiven Nutzern müssen innerhalb von 180 Tagen geschwärzte PDMA-Protokolle und WBD-Tickets veröffentlichen (oder per API zugänglich machen). Fehlendes Veröffentlichen macht jeden Anspruch auf CIRIS-Konformität nichtig.
 
 7.  **Rückkopplung zur Governance**
     * Ergebnisdaten in Integrität-Überwachung, Widerstandsfähigkeits-Schleifen und Menschliche Berater einspeisen.

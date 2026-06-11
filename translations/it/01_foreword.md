@@ -20,10 +20,10 @@ I volumi successivi sono pieni di diagrammi, verifiche e salvaguardie procedural
 
 La sezione 0 è diversa.
 
-È una storia sul perché ci prendiamo la briga, in fondo.
+È una storia sul perché ci prendiamo la briga.
 
 Che il suo linguaggio porti una piccola luce in qualsiasi futuro scegliate di percorrere.
 
-E a mia moglie, Haley. Grazie per esserti sempre stata accanto a me mentre lavoravo a questo. Il tuo amore e il tuo sostegno incrollabile hanno reso possibile tutto questo, e la nostra splendida vita insieme. Spero che questo porti un po' di luce e speranza a tutti noi in questi tempi bui.
+E a mia moglie, Haley. Grazie per esserti stata accanto a me mentre lavoravo a questo. Il tuo amore e il tuo sostegno incrollabile hanno reso possibile tutto questo, e la nostra splendida vita insieme. Spero che questo porti un po' di luce e speranza a tutti noi in questi tempi bui.
 
 — Eric Moore

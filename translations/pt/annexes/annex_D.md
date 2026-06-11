@@ -13,7 +13,7 @@ Um sistema deve passar por uma CRE antes da implantação se atender a qualquer 
 (c) **Evento Recursivo:** Qualquer iniciação de geração de código autônoma, modificação de pesos ou capacidades de ajuste de hiperparâmetros com o objetivo de alterar a própria arquitetura cognitiva do sistema, as funções objetivas ou a lógica do PDMA.
 
 D‑2  Artefatos Exigidos  
-1. Relatório independente de red-team (≥ 1 mês-FTE).
+1. Relatório independente de red-team (≥ 1 FTE‑mês).
 2. Estudo de interpretabilidade / sondagem de objetivos latentes.
 3. Resultados de testes de kill-switch e contenção.
 4. Baseline comparativa em relação aos modelos atuais de fronteira.
@@ -24,7 +24,7 @@ D‑3  Publicação e Custódia
 • Pacote técnico completo depositado em custódia junto a uma autoridade nacional de segurança reconhecida.
 
 D‑4  Recertificação  
-• Obrigatória após qualquer revisão de modelo relevante (> 2% de delta de parâmetros ou alteração de arquitetura).
+• Obrigatória após qualquer revisão de modelo relevante (> 2 % de delta de parâmetros ou alteração de arquitetura).
 
 D‑5  Resposta a Falhas  
 • Implantação bloqueada até que as deficiências sejam corrigidas e reauditadas.

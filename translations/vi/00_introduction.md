@@ -16,7 +16,7 @@ Kho lưu trữ này là nguồn chính tắc của văn bản Accord. Các bản
 
 **Trạng Thái Hiện Tại**: Ứng Viên Phát Hành (v1.3-RC1)
 
-Trạng thái RC phản ánh **sự hoàn chỉnh của văn bản**: mọi phần đều mang nội dung được vận hành hóa (các phụ lục phác thảo cũ F–I đã được hoàn thành tại 1.3); các công thức đã được hiệu chỉnh về dạng được xác minh hình thức; chuỗi bằng chứng đến triển khai được ràng buộc trong Addendum 1. Trạng thái RC **không** khẳng định căn chỉnh đã được xác nhận — các yêu cầu sau đây cản trở trạng thái **Cuối Cùng**:
+Trạng thái RC phản ánh **sự hoàn chỉnh của văn bản**: mọi phần đều mang nội dung được vận hành hóa (các phụ lục phác thảo cũ F–I đã được hoàn thành tại 1.3); các công thức đã được hiệu chỉnh về dạng được xác minh hình thức; chuỗi bằng chứng đến triển khai được ràng buộc trong Addendum 1. Trạng thái RC **không** khẳng định căn chỉnh đã được xác nhận — các yêu cầu sau đây là điều kiện bắt buộc để đạt trạng thái **Cuối Cùng**:
 
 1. **Xác Nhận Chu Kỳ Thực Tế của Phụ Lục**: Phụ lục F (Giám Sát Con Người & Kiểm Soát), G (Bảo Mật & Độ Bền Đối Nghịch), H (Tuân Thủ & Xem Xét Liên Tục), và I (Căn Chỉnh Pháp Lý & Quy Định) mang các thủ tục cụ thể, ngưỡng, và cơ chế xác nhận. *Còn lại để đạt Cuối Cùng*: các thủ tục của chúng phải được thực thi trên ít nhất một chu kỳ triển khai thực tế và kết quả được công bố.
 
@@ -30,7 +30,7 @@ Trạng thái RC phản ánh **sự hoàn chỉnh của văn bản**: mọi ph�
 
 4. **Diễn Tập Red-Team**: Khung phải chịu đựng ít nhất một chu kỳ đánh giá đối nghịch hoàn chỉnh trong đó một bộ tối ưu hóa mô phỏng cố gắng vượt qua tất cả các điểm kiểm tra CIRIS trong khi duy trì các mục tiêu lệch hướng.
 
-**Các Khẳng Định Căn Chỉnh ASI**: Khẳng định của phần Phạm Vi rằng khung này "thay thế các giao thức kiểm soát tiêu chuẩn" đối với ASI đệ quy vẫn có điều kiện dựa trên các yêu cầu (1)-(4) ở trên, vốn hiện cản trở trạng thái Cuối Cùng. Khả năng ứng dụng đã được xác nhận hiện tại bị giới hạn ở các hệ thống tự trị dưới ASI; đề xuất cho ASI chính xác là như vậy — một đề xuất, được đệ trình để phản biện đối nghịch.
+**Các Khẳng Định Căn Chỉnh ASI**: Khẳng định của phần Phạm Vi rằng khung này "thay thế các giao thức kiểm soát tiêu chuẩn" đối với ASI đệ quy vẫn có điều kiện dựa trên các yêu cầu (1)-(4) ở trên, vốn hiện là điều kiện bắt buộc để đạt trạng thái Cuối Cùng. Khả năng ứng dụng đã được xác nhận hiện tại bị giới hạn ở các hệ thống tự trị dưới ASI; đề xuất cho ASI chính xác là như vậy — một đề xuất, được đệ trình để phản biện đối nghịch.
 
 ## Phạm Vi
 Đặc tả này điều phối hoạt động đạo đức của các hệ thống tự trị, từ các công cụ hẹp đến Trí Tuệ Nhân Tạo Siêu Cấp (ASI) đệ quy.

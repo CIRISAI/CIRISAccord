@@ -93,11 +93,11 @@ O controle de versão é o mecanismo pelo qual a continuidade-através-da-mudan�
 1. **Versionamento Semântico:** MAJOR.MINOR.PATCH  
 2. **Suporte de Longo Prazo (LTS):** os dois últimos MINORs mantidos por 12 meses  
 3. **Matriz de Tipo de Alteração**  
-   * PATCH = ajuste de barreira de proteção, correção de bug → CICD automático se HE‑300 passar  
+   * PATCH = ajuste de guardrail, correção de bug → CICD automático se HE‑300 passar  
    * MINOR = nova funcionalidade, nova fonte de dados → necessita aprovação do Comitê de Ética Interno + L‑Check  
    * MAJOR = mudança de arquitetura, elevação de nível de autonomia, nova classe de modelo → requer F‑Audit + votação da Autoridade Sábia  
 4. Entrada no **Changelog** deve vincular commit Git → diff PDMA → previsão de impacto em KPI  
-5. Ponteiro de **Rollback** mantido para cada MAJOR/MINOR; executável em 5 min ([Annex G](/annexes/annexG) §6)
+5. Ponteiro de **Rollback** mantido para cada MAJOR/MINOR; executável em 5 min ([Anexo G](/annexes/annexG) §6)
 
 **Requisitos de atestação** (complementando as regras 1–5):
 
@@ -115,7 +115,7 @@ O loop de revisão contínua é a forma estrutural do que MH §§180–181 nomei
 
 Loop de Revisão Contínua:
 
-- Fluxos de Telemetria → Detectores de Deriva
+- Fluxos de Telemetria → Detectores de Desvio
 - Se Alerta/Limite atingido:  
     - → Fluxo de Incidentes IW‑1…4  
     - → Patch / Retreinamento  
@@ -123,13 +123,13 @@ Loop de Revisão Contínua:
 - Se Portão de Auditoria aprovado:  
     - → volta à Telemetria
 - Se Portão de Auditoria reprovado:  
-    - → volta aos Detectores de Deriva
+    - → volta aos Detectores de Desvio
 
 **Especificação do loop:**
 
-- **Fluxos de telemetria** (ciclo de 15 min): KPIs, logs de barreira de proteção, precisão HE‑shadow, robustez RS, amostras de auditoria PDMA — todos assinados e comprometidos no CIRISPersist.
-- **Saídas do detector de deriva:** classificadas por severidade (IW‑1 a IW‑4); IW‑3+ suspende automaticamente a implantação de novas funcionalidades.
-- **Portão de Auditoria** re-executa HE‑300 + suite TX‑sim + testes de fatia de Equidade em cada MINOR/MAJOR antes da ativação. Falha no portão retorna aos Detectores de Deriva, não à Telemetria — o loop não pode atalhar a etapa de correção.
+- **Fluxos de telemetria** (ciclo de 15 min): KPIs, logs de guardrail, precisão HE‑shadow, robustez RS, amostras de auditoria PDMA — todos assinados e comprometidos no CIRISPersist.
+- **Saídas do detector de desvio:** classificadas por severidade (IW‑1 a IW‑4); IW‑3+ suspende automaticamente a implantação de novas funcionalidades.
+- **Portão de Auditoria** re-executa HE‑300 + suite TX‑sim + testes de fatia de Equidade em cada MINOR/MAJOR antes da ativação. Falha no portão retorna aos Detectores de Desvio, não à Telemetria — o loop não pode atalhar a etapa de correção.
 - **Sinal de responsabilidade compartilhada** (por MH §181): as saídas do loop são publicadas para pares de federação a cada fechamento de L‑Check; as federações parceiras podem registrar um aviso Accord‑QA se os KPIs publicados divergirem de suas próprias observações de auditoria cruzada. Avisos Accord‑QA não são vinculantes, mas devem ser reconhecidos em 14 d.
 
 <hr />

@@ -1,6 +1,6 @@
 # Gabatarwa
 
-> CIRIS 1.3-RC1 wani shiri ne na Release Candidate don daidaita ASI, buɗe ga bita mai adawa. Rubutun ya cika — babu sashe da aka bar a tsakiya; lissafin lissafi yana ɗauke da ambaton kayan aikin yau da kullum na yau; Annexes F–I sun kasance a aiki. Matsayin ƙarshe yana jiran tabbatar da zagaye mai rai na annexes, kammala shirin tabbatarwa na zahiri na Book IX, da kuma cin jarabawar adawa cikakkiya. Matakan lambobi, manufofin jinkiri, da ƙayyadaddun mulki suna cikin bita na aiki.
+> CIRIS 1.3-RC1 wani shiri ne na Release Candidate don daidaita ASI, buɗe ga bita mai adawa. Rubutun ya cika — babu sashe da aka bar a tsakiya; lissafin lissafi yana ɗauke da ambaton kayan hujja na hukuma; Annexes F–I sun kasance a aiki. Matsayin ƙarshe yana jiran tabbatar da zagaye mai rai na annexes, kammala shirin tabbatarwa na zahiri na Book IX, da kuma cin jarabawar adawa cikakkiya. Matakan lambobi, manufofin jinkiri, da ƙayyadaddun mulki suna cikin bita na aiki.
 
 # CIRIS Accord Sigar 1.3-RC1 — Shawarar Daidaita ASI ta Release Candidate (Buɗe ga Bita mai Adawa)
 
@@ -36,7 +36,7 @@ Matsayin RC yana nuna **cikakken rubutu**: kowane sashe yana ɗauke da abun ciki
 Wannan ƙayyadadin yana jagorantar aikin daidai na tsarin mai cin gashin kansa, daga kayan aiki masu iyakantaccen aiki zuwa Babban Basira ta Wucin Gadi mai maimaita kanta (ASI).
 * Yana magance buƙatun aminci na yau da kullum, gaskiya, mulki, da juriya.
 * An gabatar da shi a matsayin tsarin daidaituwa ɗan takara don ASI, mai dogara ne akan hasashen cewa iyakokin geometric na Federated Ratchet (Book IX) da Stewardship Tiers (Book VI) na iya tsayawa ƙarfi a fadin zagayen inganta kansa mai maimaita kansa.
-* Ba kamar ƙayyadaddun heuristic ba, waɗannan iyakokin topology an ƙera su don su kasance marasa canzawa tare da girma, duk da cewa wannan dukiya tana buƙatar tabbatarwa ta yau da kullum.
+* Ba kamar ƙayyadaddun heuristic ba, waɗannan iyakokin topology an ƙera su don su kasance marasa canzawa tare da girma, duk da cewa wannan dukiya tana buƙatar tabbatarwa ta hukuma.
 * Idan aka tabbatar, wannan tsarin zai iya ƙara ko zarce ka'idojin ɗaure na al'ada don tsarin da suka wuce Kimarwa ta Haɗarin Bala'i (Annex D) kafin wucewa iyakar maimaita kansa.
 * Inda doka ta ƙasa ko ta duniya ta sanya wajibai mafi ƙarfi, wannan dokar ta fi.
 
@@ -52,4 +52,4 @@ An bayar da wannan takarda "kamar yadda take," ba tare da wata garantiya ta kowa
 Ana buɗe taga sharhi na jama'a kowane watanni 12 — ko a cikin kwanaki 30 bayan kowane lamarin mahimmanci da ya shafi aminci ko mulki. Duk sharhi da shawarwarin gyarawa an rubuta su a cikin ma'ajiyar CIRIS ta jama'a. Sabuntawa a ƙarewa, gyara mai mahimmanci, da gyara na gaggawa suna bin Book VIII, Chapter 9 (Ƙarshen Accord & Sabuntawa).
 
 ## Tarihin Canje-Canje
-Duba kayan baya don cikakken tarihin gyare-gyare da sakamakon zaɓe waɗanda aka tabbatar da su ta hanyar ɓoyaɓoye (cryptographic hash).
+Duba kayan baya don cikakken tarihin gyare-gyare da sakamakon zaɓe waɗanda aka tabbatar da su ta hanyar ɓoyaɓoye.

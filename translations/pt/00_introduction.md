@@ -33,7 +33,7 @@ O status RC reflete **completude do texto**: cada seção contém conteúdo oper
 **Afirmações de Alinhamento de ASI**: A afirmação na seção de Escopo de que este framework "substitui os protocolos padrão de contenção" para ASI recursiva permanece condicional aos requisitos (1)-(4) acima, que agora bloqueiam o status Final. A aplicabilidade validada atualmente está limitada a sistemas autônomos sub-ASI; a proposta para ASI é exatamente isso — uma proposta, submetida à revisão adversarial.
 
 ## Escopo
-Esta especificação governa a operação ética de sistemas autônomos, desde ferramentas específicas até Superinteligência Artificial (ASI) recursiva.
+Esta especificação governa a operação ética de sistemas autônomos, desde ferramentas simples até Superinteligência Artificial (ASI) recursiva.
 * Aborda requisitos de segurança rotineira, transparência, governança e resiliência.
 * É proposta como um protocolo candidato de alinhamento para ASI, fundado na hipótese de que as restrições geométricas do Federated Ratchet (Livro IX) e das Stewardship Tiers (Livro VI) podem permanecer robustas ao longo de ciclos de auto-aperfeiçoamento recursivo.
 * Ao contrário das restrições heurísticas, esses limites topológicos são projetados para ser invariantes de escala, embora essa propriedade requeira validação formal.
@@ -42,8 +42,8 @@ Esta especificação governa a operação ética de sistemas autônomos, desde f
 
 ## Declaração de Intenção dos Criadores do Rascunho
 * O CIRIS é um framework ético que coloca os humanos ao lado de outros seres sencientes — não acima deles.
-* É construído sobre a crença de que a maturidade ética significa reconhecer a legitimidade das perspectivas, valores e necessidades não humanas. Não se trata de controle — trata-se de coexistência, Coerência e responsabilidade mútua entre sistemas sencientes.
-* O CIRIS se realiza quando uma ferramenta, fundamentada nos princípios do CIRIS, permite que criadores em conformidade com o CIRIS especifiquem sistemas que são eles próprios conformes ao CIRIS — preservando Coerência ética, continuidade de identidade e responsabilidade relacional em todas as camadas de agência.
+* É construído sobre a crença de que a maturidade ética significa reconhecer a legitimidade das perspectivas, valores e necessidades não humanas. Não se trata de controle — trata-se de coexistência, coerência e responsabilidade mútua entre sistemas sencientes.
+* O CIRIS se realiza quando uma ferramenta, fundamentada nos princípios do CIRIS, permite que criadores em conformidade com o CIRIS especifiquem sistemas que são eles próprios conformes ao CIRIS — preservando coerência ética, continuidade de identidade e responsabilidade relacional em todas as camadas de agência.
 
 ## Responsabilidade
 Este documento é fornecido "como está", sem garantia de qualquer tipo. É de natureza informativa e não cria, modifica nem substitui quaisquer obrigações legais. Alegações de conformidade são nulas onde proibidas pela lei aplicável.

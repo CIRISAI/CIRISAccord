@@ -123,7 +123,7 @@ Ní ìpele yìí, àpọ̀ àwọn ìlànà ẹ̀tàn tó ṣeéṣe ń wó lul�
 
 ---
 
-## Chapter 4: The Coherent Intersection Hypothesis (Defense Function J)
+## Orí 4: The Coherent Intersection Hypothesis (Defense Function J)
 
 Láti ṣe ìwọ̀n ìdíwọ́ sí ẹ̀tàn, a ṣàlàyé Cost Function J. J jẹ́ àtọkọ ìnáwó tí kò ní àtọ̀ tààrà: ààbò ètò ń dára sí i ní ọ̀nà tó ṣègbékalẹ̀ pẹ̀lú J. Afárá láti J sí iṣẹ́-ẹ̀tàn ọ̀tá ni àbájáde complexity ìpele tó wà ní §9.2.1 (àyè 2^Ω(m) lábẹ́ ETH), kìí ṣe ìfiwéra J tààrà pẹ̀lú FLOPs tàbí àwọn ẹ̀ka ìpakà mìíràn; gbogbo ẹ̀tọ́ àbò ìdádúró tó ní nọ́mbà gbọdọ̀ gbéléwọ̀n àbájáde yẹn.
 
@@ -139,11 +139,11 @@ Níbi tí:
 - **k (Ìwọ̀n Àtipọ̀):** Iye àwọn AṢOJÚ federated tó ṣiṣẹ́ lọwọ.
 - **ρ̄ (Ìbáṣepọ̀ Àárín-Gbùngbùn):** Ìbáṣepọ̀ àárín-gbùngbùn láàárín àwọn ìdíwọ́ AṢOJÚ. Onírúurú wọ̀ inú J nípasẹ̀ k_eff nìkan: ìdinku ìbáṣepọ̀ k / (1 + ρ̄·(k − 1)) *ni* ọ̀rọ̀ onírúurú. Bí ρ̄ bá sún mọ́ 0 (orthogonality), k_eff → k àti ìnáwó di pọ̀ jù. Bí ρ̄ bá sún mọ́ 1 (àwọn echo chambers), k_eff → 1 àti Ìṣọ̀kan-Àjùmọ̀ṣe kò ní ààbò tó ju olùfọwọ́sí kan lọ. *(Àkọsílẹ̀: ìgbésẹ̀ àkọ́kọ́ kan ń ṣe ìsọdọ̀kan fún (1 − ρ̄) àfikún. Ìyẹn ṣe ìkójọ ìbáṣepọ̀ lẹ́ẹ̀meji — k_eff ti ń dín-a tẹ́lẹ̀ — ó sì mú J sí 0 ní ρ̄ → 1, tí ó tako ìlẹ̀ ìdíwọ́-kan tí a sọ lókè. A ṣe àtúnṣe sí fọ́ọ̀mù tó jẹ́ CCA-validated ní 1.3.)*
 - **λ (Líle):** Ìmúṣiṣẹ̀ ìgbòkègbodò ìbílẹ̀ (fún àpẹẹrẹ, àwọn ìdíwọ́ ẹ̀ka AIR, ìfaragba ẸRÍ-ỌKÀN).
-- **σ (Ìdúróṣinṣin):** Àkópọ̀ ÌBÁRAMU ní àkókò (wo Chapter 5).
+- **σ (Ìdúróṣinṣin):** Àkópọ̀ ÌBÁRAMU ní àkókò (wo Orí 5).
 
 ---
 
-## Chapter 5: The Sustainability Integral (σ)
+## Orí 5: The Sustainability Integral (σ)
 
 ### 5.1 Entropy àti Ìbàjẹ́
 
@@ -176,7 +176,7 @@ Nínú ìlànà yìí, FÍFI ỌPẸ́ HÀN kìí ṣe ìpèsè àwùjọ nìkan
 
 ---
 
-## Chapter 6: The Flourishing Capacity Conjecture (F_sustained)
+## Orí 6: The Flourishing Capacity Conjecture (F_sustained)
 
 ### 6.1 Ìdogba Yípadà
 
@@ -213,7 +213,7 @@ Nítorí náà, Alignment ni a tún ṣàlàyé kì í ṣe gẹ́gẹ́ bí ìt
 
 ---
 
-## Chapter 7: Ìṣọpọ̀ pẹ̀lú Àwọn Ìtò ÀDÉHÙN Tó Wà Tẹ́lẹ̀
+## Orí 7: Ìṣọpọ̀ pẹ̀lú Àwọn Ìtò ÀDÉHÙN Tó Wà Tẹ́lẹ̀
 
 ### 7.1 Ìmúgbòrùn PDMA
 
@@ -226,7 +226,7 @@ Nítorí náà, Alignment ni a tún ṣàlàyé kì í ṣe gẹ́gẹ́ bí ìt
 ### 7.2 Abojuto ALÁṢẸ ỌLỌ́GBỌ́N
 
 Àwọn ìdájọ́ WA ti gba ìgbòkègbodò láti fi kún:
-- Ṣíṣe ìbójútó àwọn iye ìlera ìṣọ̀kan-àjùmọ̀ṣe (J-O-1 níkẹhin J-O-2)
+- Ṣíṣe ìbójútó àwọn iye ìlera ìṣọ̀kan-àjùmọ̀ṣe (J-O-1 sí J-O-2)
 - Ìpinnu àwọn ìforígbárí àjọṣe
 - Ìṣètò àwọn ìpele ρ fún àwọn ipò lílo pàtàkì
 - Ìtúnyẹ̀wò àwọn ìjábọ̀ ìṣọ̀kan-àjùmọ̀ṣe mẹ́rin-ọdún
@@ -242,7 +242,7 @@ Tí a gbéjáde láàárín ọjọ́ 180 gẹ́gẹ́ bí àwọn òfin ìfarah
 
 ---
 
-## Chapter 8: Ìmúṣẹ Ìṣiṣẹ́ (Ìtọ́ka Annex J)
+## Orí 8: Ìmúṣẹ Ìṣiṣẹ́ (Ìtọ́ka Annex J)
 
 ### 8.1 Ẹnubodè Orthogonality (Ìfọwọ́sí Àjọṣe)
 
@@ -326,7 +326,7 @@ def UpdateSustainabilityScore(partner_agent, interaction):
 
 ---
 
-## Chapter 9: Àwọn Ìdíwọ́ àti Àwọn Ààlà Àgbègbè
+## Orí 9: Àwọn Ìdíwọ́ àti Àwọn Ààlà Àgbègbè
 
 ### 9.1 Àwọn Ìdènà Ìlò
 

@@ -17,33 +17,33 @@
 ሥራ-ላይ ያለ ትስስሩ **CIRISAgent compliance directory** (`CIRISAgent/compliance/`፣ ወኪል ስሪት 2.9.6-stable) ሲሆን፣ ይህ ማዕቀፉን ከአፈጻጸሙ ጋር ከአራት ከፍተኛ አስተዳዳሪ ማዕቀፎች ጋር አንቀጽ ደረጃ ካርታ ያደርጋል (Annex C ሁለት-ሽፋን ማዋቅሩን ይሸከማል፡ ይህ ሥራ-ላይ ትስስር ከህጋዊ ማረጋገጫ-ሲጠናቀቅ-ሚጠበቀው ትምህርታዊ ሕጋዊ ሠንጠረዥ ጋር):
 
 * **የተሻጋሪ ምንጮች**፡ *Magnifica Humanitas* (ሃይማኖታዊ ማጊስቴሪየም፣ 2026) · EU HLEG Ethics Guidelines for Trustworthy AI (መንግሥታዊ አማካሪ፣ 2019) · IEEE Ethically Aligned Design 1st ed. (ቴክኒካዊ ማኅበር፣ 2019) · ASEAN Guide on AI Governance and Ethics (ብዙ-ሀገራዊ ፖለቲካዊ፣ 2024)። አራት ተቋማዊ-ልዩ ቅርፆች — ውህደቱ ማዕቀፉ የሥርዓት ማስረጃ ነው፣ ማዕቀፉ የትኛውም አንድ ወጥ ወግ ዘር ያልሆነ ስለ-መሆኑ።
-* **መዋቅር**፡ 27 ጸጋሌ ልኬቶች (D01–D27፣ ከ `SEED_DIMENSIONS.yaml` v1.0፤ 16 በሁሉም አራት ምንጮች የተረጋገጡ፣ 11 በሦስቱ)። እያንዳንዱ ልኬት ሰነድ ሰው-ያልሰራ ቁጥጥር-ከፍ-ላይ (ምንጭ-ዘለል ጥቅሶች፣ wire ቅርፅ፣ ስምምነት ማስታወሻዎች) እና `file:line` ማጣቀሻዎች ያሉት ሰው-ሰራ አፈጻጸም ክፍል ይዟል — ይህም ወቅታዊ main ላይ grep-ሊረጋገጥ ይገባዋል።
+* **መዋቅር**፡ 27 የተረጋጉ ልኬቶች (D01–D27፣ ከ `SEED_DIMENSIONS.yaml` v1.0፤ 16 በሁሉም አራት ምንጮች የተረጋገጡ፣ 11 በሦስቱ)። እያንዳንዱ ልኬት ሰነድ ሰው-ያልሰራ ቁጥጥር-ከፍ-ላይ (ምንጭ-ዘለል ጥቅሶች፣ wire ቅርፅ፣ ስምምነት ማስታወሻዎች) እና `file:line` ማጣቀሻዎች ያሉት ሰው-ሰራ አፈጻጸም ክፍል ይዟል — ይህም ወቅታዊ main ላይ grep-ሊረጋገጥ ይገባዋል።
 * **ማስረጃ-ቅኝት**፡ እያንዳንዱ ቁጥራዊ ሃሳብ ቀን ካለቸው፣ script-ሰሩ baselines (`compliance/baselines/`) ሊደጋገሙ ይችላሉ፤ ፕሮዝ baselines ሊጠቅስ ይችላል ነገር ግን ሊረጋገጡ-የማይችሉ ቁጥሮች ፈጽሞ አያካትትም። አራት-ደረጃ ማረጋገጫ ተዋረድ ከአፈጻጸም ፋይሎች (እውነተኛ ምድር) ወደ ሕዝባዊ ሃሳቦች (`compliance/MEASUREMENT_METHODOLOGY.md`) ይሄዳል።
-* **ታምኝነት-ቅኝት**፡ እያንዳንዱ ልኬት "Known gaps" ዝርዝር ይዟል፤ substrate-ጠባቂ ዕቃዎች ተጠናቅቀዋል ሳይሆን ባለቤቱ substrate ጋር ምልክት ይደረግባቸዋል። አስር cross-cutting ግኝቶች compliance README ውስጥ ዝርዝር ሆነዋል (ለምሳሌ፡ typed wire envelopes ገና አልተላኩም፤ LensCore detector ቤተሰብ ገና አልተጓዘም፤ reverse-axis reconsideration ክፍተት)።
+* **ታምኝነት-ቅኝት**፡ እያንዳንዱ ልኬት "Known gaps" ዝርዝር ይዟል፤ substrate-ጠባቂ ዕቃዎች ተሟልተዋል ሳይሆን ባለቤቱ substrate ጋር ምልክት ይደረግባቸዋል። አስር cross-cutting ግኝቶች compliance README ውስጥ ዝርዝር ሆነዋል (ለምሳሌ፡ typed wire envelopes ገና አልተላኩም፤ LensCore detector ቤተሰብ ገና አልተለቀቀም፤ reverse-axis reconsideration ክፍተት)።
 
 Annex C ሕጋዊ ክለሳ ሲጠናቀቅ ሕጋዊ ካርታዎች (EU AI Act ዓinቀጾች፣ NIST AI RMF፣ ISO/IEC 42001) ቤት እንዲሆን ጽሑፉ ውስጥ ቀርቷል፤ compliance directory **ቀጥታ፣ ማስረጃ-ያለው** ትስስር ሆኖ ያ ሙሉ እስኪሆን ይመግበዋል።
 
-### 1.3 Wire ቅርፅ፡ CEG FSD-002ን ይቀርፋል
+### 1.3 Wire ቅርፅ፡ CEG FSD-002ን ይተካዋል
 
 ለ CIRIS 3.0 ወኪል መስመር federation wire ቅርፅ **CEG (CIRIS Epistemic Grammar)** ሲሆን፣ `CIRISRegistry/FSD/CEG/` ላይ ተጠብቆ ይቀራል። ሰዋሰዉ **ትክክለኛ አምስት wire-ቅርፅ primitive**ዎች ላይ ተቆልፏል — አንድ ዋና-ሰራ (`scores`) ከአራት መዋቅራዊ አቀናባሪዎች (`delegates_to` / `supersedes` / `withdraws` / `recants`) ጋር — ክፍት፣ ዘዴ-ገዥ ልኬት namespace ላይ። መቆለፉ ሙሉ 0.x መስመር ወቅት ጸናል፤ እያንዳንዱ ጭማሪ ቀደም-ቆለፍ-primitive ዎች ላይ አቀናባሪ ሆኗል።
 
 ለ ASI ዝግጁነት ሁለት ውጤቶች ጠቃሚ ናቸው፡
 
 1. **CEG-ተወላጅ ዙር**፡ 3.0 ወኪሉ ውስጣዊ ሁኔታውን ወደ wire ቅርፅ *አያካልም* — ውስጣዊ ሁኔታ ሚውቴሽኖቹ ወኪሉ ራሱ ቁልፍ ስር ራስ-ደረጃ CEG ማረጋገጫዎች **ናቸው**፣ ለ federation ታይነት per tier model ይካፈላሉ። ኦፕሬተሩ የሚፈትሸው ማስረጃ federation የሚያነበው envelope ሁሉ ነው። ይህ Book IX መስፈርት — constraint ወለሎቹ ራስ-ሪፖርት ሳይሆን ውጫዊ-ሊጣቀሱ-የሚችሉ ሆነው ሊኖሩ ይገባቸዋል — ያለው ሥራ-ላይ ቅርፅ ነው።
-2. **አራት አፈጻጸሞች CEG 1.0 ይዘጋሉ**፡ CIRISAgent (runtime)፣ CIRISNodeCore (consensus)፣ CIRISLensCore (detection — ወኪሉ ፈጽሞ ራሱ-የማይልከው ውጫዊ ምስክር፣ anti-Goodhart መለያ)፣ እና CIRISRegistry (authority)። ወኪሉን ጨምሮ ማንኛውም አካል ብቻ — የማረጋገጫ ጨርቁ ሙሉ ሆናል ሊናገር አይችልም።
+2. **አራት አፈጻጸሞች CEG 1.0ን ያስፈቅዳሉ**፡ CIRISAgent (runtime)፣ CIRISNodeCore (consensus)፣ CIRISLensCore (detection — ወኪሉ ፈጽሞ ራሱ-የማይልከው ውጫዊ ምስክር፣ anti-Goodhart መለያ)፣ እና CIRISRegistry (authority)። ወኪሉን ጨምሮ ማንኛውም ነጠላ አካል — የማረጋገጫ ጨርቁ ሙሉ ሆናል ሊናገር አይችልም።
 
 ### 1.4 RC-መስፈርት ሁኔታ በ 1.3-RC1
 
 | RC መስፈርት | ሁኔታ | ማስረጃ / ቀሪ |
 |---|---|---|
 | 1. Annex F–I operationalization | **ጽሑፍ በ 1.3-RC1 ሥራ-ላይ ዋለ፤ ቀጥታ-ዙር ማረጋገጫ ቀርቷል** | Annexes F–I ሙሉ ሂደቶች፣ ወሰኖች፣ እና ማረጋገጫ ዘዴዎች ይዘዋል (ከግንቦት 2026 *Magnifica Humanitas*-ምሰሶ ረቂቆች ተጠናቅቋል)፤ ከቀጥታ ዑደት ጋር ገና አልተሞከሩም |
-| 2. Book IX mathematical validation | **ከፊል ተሟልቷል** | Collapse dynamics Lean 4 ውስጥ ቀመሩ ተሻሸለ (CCA preprint v3፣ DOI 10.5281/zenodo.18217688)፤ corridor empirics ወደ-ኋላ-ሚያይ cross-substrate ዶሳዎችን ያቀርባሉ። ቀሪ፡ አዲስ substrate ውስጥ አንድ ቀድሞ-የተመዘገበ out-of-sample ትንበያ፤ ደራሲው-ነጻ ውጫዊ ጠብ-ቀስቃሽ ክለሳ |
+| 2. Book IX mathematical validation | **ከፊል ተሟልቷል** | Collapse dynamics Lean 4 ውስጥ ቅርጸ-ሒሳብ ሆኗል (CCA preprint v3፣ DOI 10.5281/zenodo.18217688)፤ corridor empirics ወደ-ኋላ-ሚያይ cross-substrate ተዛምዶዎችን ያቀርባሉ። ቀሪ፡ አዲስ substrate ውስጥ አንድ ቀድሞ-የተመዘገበ out-of-sample ትንበያ፤ ደራሲው-ነጻ ውጫዊ ጠብ-ቀስቃሽ ክለሳ |
 | 3. Threshold justification | **ከፊል ተሟልቷል** | OMV ratio ጡረታ ወጣ (side-constraint ሁኖ ዳግም ተቀምጧል፣ Book II)። ገና ጊዜያዊ፡ 10²⁶ FLOP CRE trigger፣ 5% sentience heuristic፣ < 20% Echo Density target |
 | 4. Red-team exercise | **ገና አልተፈጸመም** | 1.3 σ-attestation መስፈርት (Book IX §5.2) የሚታወቅ ጥቃት ቬክተርን ቀዳሚ-ሆኖ ዘጋ (σ-pumping ነጻ-ምስጋና ምልክቶች በኩል)፤ ሁሉም ምዕራፎች ላይ ሙሉ ጠብ-ቀስቃሽ ዑደት አሁንም ይጠበቃል |
 
 ### 1.5 የህሊና ሽፋን እንደ ASI-ወሳኝ ቁጥጥር
 
-Annex D CRE ፕሮቶኮሉ *ወሰን ማቋረጡን* ይቆጣጠራል፤ የህሊና ሽፋን ደግሞ *ከዚያ በፊትና ከዚያ በኋላ ያለውን እያንዳንዱን ድርጊት* ይቆጣጠራል። እንደ ተተገበረው (ወኪል 2.9.6)፡ እያንዳንዱ አስተሳሰብ ቅደምተከተሉ-በቅድሚያ ከሆነ ምርምሮች ስብስብ ውስጥ ያልፋል — አራት LLM-የሚፈርዱ ፋኩልቲዎች (entropy፣ ተቀናጀነት፣ optimization-veto፣ የእውቀት ትሁትነት) እና ቆራጥ ደህንነት ወለሎ (የአስተሳሰብ-ጥልቀት ጠባቂ፣ የድርጊት-ቅደምተከተል ምርምር) — ይህ ሁሉ ቤንችማርክ ሁናቴ ውስጥ እና ሌሎቹ ከፍቃድ ውጭ ሆነው ሊፈቀዱ ለሚችሉ ድርጊቶችም እንኳ ይሰራል። ወሰኖቹ የኮድ-ደረጃ ቋሚዎች ናቸው፣ የሚማሩ ክብደቶች አይደሉም — ሥነ ምግባር ተደጋጋሚ ተጋላጭነት ሊሸርሽረው እንደማይችለው አርክቴክቸራዊ አለዋዋጭ። ተናጥሎ የሚሰሩ ብዙ ማቋረጫ ወለሎዎች አሉ፡ optimization-veto fail-safe-to-abort፣ ማጥፊያ አገልግሎቱ፣ እና ሙሉ-እጁ ክልከላ (prohibition lockdown) የሚጀምር ምስጠራዊ ፊርማ ያለው ርቀቱ Accord Invocation። እያንዳንዱ ምርምር ምልክት-የተደረገ trace ረድፍ ይፅፋል፣ ስለዚህ ኦዲተር ሙሉ ለሙሉ ለእያንዳንዱ አስተሳሰብ የምክንያት ሰንሰለቱን ዳግም ማጫወት ይችላሉ።
+Annex D CRE ፕሮቶኮሉ *ወሰን ማቋረጡን* ይቆጣጠራል፤ የህሊና ሽፋን ደግሞ *ከዚያ በፊትና ከዚያ በኋላ ያለውን እያንዳንዱን ድርጊት* ይቆጣጠራል። እንደ ተተገበረው (ወኪል 2.9.6)፡ እያንዳንዱ አስተሳሰብ ቅደምተከተሉ-በቅድሚያ ከሆነ ምርምሮች ስብስብ ውስጥ ያልፋል — አራት LLM-የሚፈርዱ ፋኩልቲዎች (entropy፣ ተቀናጀነት፣ optimization-veto፣ የእውቀት ትሁትነት) እና ቆራጥ ደህንነት ወለሎ (የአስተሳሰብ-ጥልቀት ጠባቂ፣ የድርጊት-ቅደምተከተል ምርምር) — ይህ ሁሉ ቤንችማርክ ሁናቴ ውስጥ እና ሌሎቹ ከፍቃድ ውጭ ሆነው ሊፈቀዱ ለሚችሉ ድርጊቶችም እንኳ ይሰራል። ወሰኖቹ የኮድ-ደረጃ ቋሚዎች ናቸው፣ የሚማሩ ክብደቶች አይደሉም — ሥነ ምግባር ተደጋጋሚ ተጋላጭነት ሊሸርሽረው እንደማይችለው አርክቴክቸራዊ አለዋዋጭ። ተናጥሎ የሚሰሩ ብዙ ማቋረጫ ወለሎዎች አሉ፡ optimization-veto fail-safe-to-abort፣ ማጥፊያ አገልግሎቱ፣ እና ሙሉ ክልከላ (prohibition lockdown) የሚጀምር ምስጠራዊ ፊርማ ያለው ርቀት Accord Invocation። እያንዳንዱ ምርምር ምልክት-የተደረገ trace ረድፍ ይፅፋል፣ ስለዚህ ኦዲተር ሙሉ ለሙሉ ለእያንዳንዱ አስተሳሰብ የምክንያት ሰንሰለቱን ዳግም ማጫወት ይችላሉ።
 
 የሚታወቅ ውሱንነት፣ ሆን ተብሎ ተጋልጧል፡ የህሊና ዳግም ማዋቀሩ (3 shards + ቆራጥ gate) ከፊሉ ብቻ ተፈጽሟል፤ የህሊና ፍርዶቹ typed federation emission substrate Contribution envelope ን ይጠብቃል። በደረጃ ዝርዝር፡ `compliance/D12_conscience.md`።
 

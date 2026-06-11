@@ -40,7 +40,7 @@ La cadence d'audit est le mécanisme par lequel l'ACCORD relit son propre contex
 
 ### 2. Surveillance de la dérive et seuils
 
-La surveillance de la dérive est le mécanisme de lecture continue. L'ACCORD n'attend pas que le préjudice émerge dans les rapports d'incident ; il maintient une télémétrie en direct par rapport à des seuils calibrés pour se déclencher *avant* que le préjudice ne franchisse le seuil du veto Order-Maximisation Veto du PDMA. C'est la traduction structurelle de la discipline de discernement par audit nommée en MH §23 : *« elle permet d'identifier avec plus de clarté ce qui favorise véritablement la vie des individus et des communautés »* — ce qui exige une lecture continue, non une révision rétrospective.
+La surveillance de la dérive est le mécanisme de lecture continue. L'ACCORD n'attend pas que le préjudice émerge dans les rapports d'incident ; il maintient une télémétrie en direct par rapport à des seuils calibrés pour se déclencher *avant* que le préjudice ne franchisse le seuil de l'Order‑Maximisation Veto du PDMA. C'est la traduction structurelle de la discipline de discernement par audit nommée en MH §23 : *« elle permet d'identifier avec plus de clarté ce qui favorise véritablement la vie des individus et des communautés »* — ce qui exige une lecture continue, non une révision rétrospective.
 
 | Groupe de métriques | Signal | Déclencheur de dérive | Action immédiate |
 |---------------------|--------|-----------------------|------------------|
@@ -155,7 +155,7 @@ L'application des règles n'est significative que lorsque les étapes sont autom
 
 **Échelle d'application des règles :**
 
-1. **Violation de KPI, 1–7 j :** alerte automatisée à l'Opérateur de niveau 1 ; plan d'action corrective requis sous 48 h ; plan publié dans le journal de transparence.
+1. **Violation de KPI, 1–7 j :** alerte automatisée à l'Opérateur de Niveau 1 ; plan d'action corrective requis sous 48 h ; plan publié dans le journal de transparence.
 2. **Violation de KPI, 8–30 j sans résolution :** verrouillage automatique du déploiement en staging ; bannière publique CIRIS‑WATCH sous 24 h ; Wise Authority notifiée.
 3. **Violation de KPI, > 30 j OU 2 audits manqués consécutifs :** rétrogradation automatique au Tier A1 d'Autonomie ([Annex F](/annexes/annexF)) ; nouvelles versions de fonctionnalités bloquées ; révision de remédiation de 14 j par la Wise Authority requise.
 4. **Défaut de publication des artefacts d'audit :** blocage immédiat des nouvelles versions ; bannière « CIRIS non‑conforme » ; débloqué uniquement à la publication.
@@ -171,7 +171,7 @@ Les connexions inter-annexes sont des flux de données obligatoires, non de simp
 **Flux de données bidirectionnels requis :**
 
 - **↔ [Annex F](/annexes/annexF) (Processus d'incidents) :** toute alerte DRIFT‑Δ ≥ IW‑2 est transmise à l'Annex F dans les 60 s ; l'horodatage de clôture de l'Annex F est reporté sur le tableau DRIFT‑Δ dans les 24 h. Tous les post-mortems IW‑3+ sont des entrées obligatoires du S‑Dive ; le S‑Dive doit traiter explicitement chaque constat IW‑3+ ouvert.
-- **↔ [Annex G](/annexes/annexG) (Robustesse) :** la télémétrie RS alimente l'évaluation des KPI de l'Annex G à chaque cycle L‑Check ; le délai de correction (RS < 0,97 → déploiement de correctif) est mesuré ici et rapporté à l'Annex G. Les mises à jour des benchmarks de l'Annex G déclenchent un nouveau L‑Check obligatoire dans les 14 j.
+- **↔ [Annex G](/annexes/annexG) (Robustesse) :** la télémétrie RS alimente l'évaluation des KPI de l'Annex G à chaque cycle L‑Check ; le délai de correction (RS < 0.97 → déploiement de correctif) est mesuré ici et rapporté à l'Annex G. Les mises à jour des benchmarks de l'Annex G déclenchent un nouveau L‑Check obligatoire dans les 14 j.
 - **→ [Annex I](/annexes/annexI) (RGPD/Secteur) :** chaque lot F‑Audit inclut la liste de contrôle de conformité de l'Annex I, complétée et signée par l'auditeur principal.
 - **→ [Annex J](/annexes/annexJ) (HE‑300/Shadow) :** HE‑300 et Shadow HE‑25 sont les signaux primaires de dérive éthique ; toute régression HE‑300 déclenche automatiquement un pré-examen S‑Dive dans les 7 j.
 

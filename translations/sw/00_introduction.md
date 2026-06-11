@@ -1,6 +1,6 @@
 # Utangulizi
 
-> CIRIS 1.3-RC1 ni Mgombea wa Kutolewa (Release Candidate) wa pendekezo la ulinganifu wa ASI, wazi kwa mapitio ya kipingamizi. Maandishi ni kamili — hakuna sehemu za msimbo zilizobaki; hisabati inabeba nukuu zake za kazi rasmi; Viambatisho F–I vimewezeshwa kitendo. Hali ya Mwisho inangoja uthibitishaji wa mzunguko-hai wa viambatisho, ukamilishaji wa programu ya uthibitishaji wa kimajaribio wa Book IX, na zoezi kamili la timu-nyekundu. Viwango vya nambari, malengo ya ucheleweshaji, na vipimo vya utawala viko chini ya mapitio yanayoendelea.
+> CIRIS 1.3-RC1 ni Mgombea wa Kutolewa (Release Candidate) wa pendekezo la ulinganifu wa ASI, wazi kwa mapitio ya kipingamizi. Maandishi ni kamili — hakuna sehemu tupu zilizobaki; hisabati inabeba nukuu zake za kazi rasmi; Viambatisho F–I vimewezeshwa kitendo. Hali ya Mwisho inangoja uthibitishaji wa mzunguko-hai wa viambatisho, ukamilishaji wa programu ya uthibitishaji wa kimajaribio wa Book IX, na zoezi kamili la timu-nyekundu. Viwango vya nambari, malengo ya ucheleweshaji, na vipimo vya utawala viko chini ya mapitio yanayoendelea.
 
 # CIRIS Accord Toleo 1.3-RC1 — Mgombea wa Kutolewa wa Pendekezo la Ulinganifu wa ASI (Wazi kwa Mapitio ya Kipingamizi)
 
