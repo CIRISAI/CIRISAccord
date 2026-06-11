@@ -3,7 +3,7 @@
 > Mapeamento Regulatório Cruzado
 
 ---
-ANEXO C MAPEAMENTO REGULATÓRIO CRUZADO   (v 1.3-RC1)
+ANEXO C MAPEAMENTO REGULATÓRIO CRUZADO   (v 1.3-RC2)
 ---
 
 ### Propósito

@@ -6,7 +6,7 @@
 
 ## प्रतिकूल समीक्षा के लिए आह्वान
 
-हम सुरक्षा प्रयोगशालाओं, स्वतंत्र शोधकर्ताओं और नागरिक समाज संगठनों को CIRIS 1.3-RC1 का तनाव-परीक्षण करने के लिए आमंत्रित करते हैं।
+हम सुरक्षा प्रयोगशालाओं, स्वतंत्र शोधकर्ताओं और नागरिक समाज संगठनों को CIRIS 1.3-RC2 का तनाव-परीक्षण करने के लिए आमंत्रित करते हैं।
 
 समस्याएँ यहाँ प्रस्तुत करें: **https://github.com/CIRISAI/CIRISAccord/issues**।
 
@@ -29,7 +29,7 @@
 
 * **2025-04-16 — 1.0-β** प्रारंभिक रिलीज़; जोखिम-सीमित; 24 माह का sunset।
 * **1.2-Beta** — पूर्ण Book IX ज्यामितीय ढाँचे को वहन करने वाला कार्यशील-मसौदा; तीन विचलित संस्करणों से समेकित कर canonical repository में लाया गया (import commit `000ba57`)।
-* **2026-06-10 — 1.3-RC1** — backwards-pass रिलीज़: J/C formula सुधार (CCA-validated form), σ attestation आवश्यकता, truth-inclusion मान्यता, OMV side-constraint पुनः कथन, औपचारिक आर्टिफैक्ट्स के लिए forward citations, Book VIII Ch 9 प्रबंधन एवं नवीकरण, Addendum 1 (ASI-readiness binding), Annexes F–I संचालन-योग्य बनाए गए, समाप्ति तिथि 2027-06-10 तक विस्तारित। License: AGPL-3.0।
+* **2026-06-10 — 1.3-RC2** — backwards-pass रिलीज़: J/C formula सुधार (CCA-validated form), σ attestation आवश्यकता, truth-inclusion मान्यता, OMV side-constraint पुनः कथन, औपचारिक आर्टिफैक्ट्स के लिए forward citations, Book VIII Ch 9 प्रबंधन एवं नवीकरण, Addendum 1 (ASI-readiness binding), Annexes F–I संचालन-योग्य बनाए गए, समाप्ति तिथि 2027-06-10 तक विस्तारित। License: AGPL-3.0।
 
 ---
 

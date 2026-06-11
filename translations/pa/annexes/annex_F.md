@@ -3,7 +3,7 @@
 > ਮਨੁੱਖੀ ਨਿਗਰਾਨੀ ਅਤੇ ਦੇਖ-ਰੇਖ
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC2)
 ---
 
 ### 0. ਉਦੇਸ਼ ਅਤੇ ਦਰਸ਼ਨ

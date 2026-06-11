@@ -3,7 +3,7 @@
 > Mécanismes d'Influence Structurelle (SI) et de Mise en Jeu de la Cohérence (CS)
 
 ---
-ANNEXE E MÉCANISMES D'INFLUENCE STRUCTURELLE (SI) ET DE MISE EN JEU DE LA COHÉRENCE (CS) (v 1.3-RC1)
+ANNEXE E MÉCANISMES D'INFLUENCE STRUCTURELLE (SI) ET DE MISE EN JEU DE LA COHÉRENCE (CS) (v 1.3-RC2)
 ---
 
 ---

@@ -3,7 +3,7 @@
 > Pemetaan Silang Regulasi
 
 ---
-LAMPIRAN C PEMETAAN SILANG REGULASI   (v 1.3-RC1)
+LAMPIRAN C PEMETAAN SILANG REGULASI   (v 1.3-RC2)
 ---
 
 ### Tujuan

@@ -1,13 +1,13 @@
 # Changelog
 
-## 1.3-RC2 (unreleased)
+## 1.3-RC2 (2026-06)
 
 Citation-chain and nomenclature fixes from the Corridor Dynamics synthesis review (issues #2, #3).
 
 - **Citation chain repaired (Book IX backmatter; README; Introduction; Addendum 1).** The CCA preprint citation now points at the canonical v3 record (DOI 10.5281/zenodo.18217688) instead of the superseded v1 (10.5281/zenodo.18142668), so the "CCA-validated form" claim cites the version that carries the validation. The DOI formerly mislabeled as "Coherence Ratchet formal proofs" (10.5281/zenodo.18137161 — actually the CIRISAgent Framework paper) is replaced by the document that carries the Ratchet formal results: *Corridor Dynamics in Coordinated Systems*, concept DOI 10.5281/zenodo.20300773 (resolves to latest version), with proof artifacts at github.com/CIRISAI/RATCHET and github.com/CIRISAI/coherence-ratchet. Historical changelog entries (A7) retain the DOIs as cited at the time.
-- **Flourishing Capacity renamed C → F (Book IX Ch 6, glossary, backmatter; 90_formulas.md §7).** The symbol C collided with the core-identity factor of the CIRIS Capacity Score 𝒞_CIRIS = C · I_int · R · I_inc · S (Corridor Dynamics; CEG §5.5.4), where C is a factor, not a composite. The three-factor flourishing composite F = k_eff · λ · σ is unchanged in substance; a nomenclature note in Book IX Ch 6 is the authoritative statement that F and 𝒞_CIRIS are distinct constructs with no implied mapping. Machine translations (am, ha, yo) still reflect RC1 text and will be regenerated at RC2.
+- **Flourishing Capacity renamed C → F (Book IX Ch 6, glossary, backmatter; 90_formulas.md §7).** The symbol C collided with the core-identity factor of the CIRIS Capacity Score 𝒞_CIRIS = C · I_int · R · I_inc · S (Corridor Dynamics; CEG §5.5.4), where C is a factor, not a composite. The three-factor flourishing composite F = k_eff · λ · σ is unchanged in substance; a nomenclature note in Book IX Ch 6 is the authoritative statement that F and 𝒞_CIRIS are distinct constructs with no implied mapping. Machine translations regenerated for RC2 across all 28 languages.
 
-## 1.3-RC1 (2026-06)
+### Status promotion & backwards-pass (2026-06-10)
 
 **Status promotion: Beta → Release Candidate (founder decision, 2026-06-10).** RC reflects text completeness — no stub sections remain, formulas match the formally verified artifacts, Annexes F–I are operationalized, and the implementation evidence chain is bound in Addendum 1. RC does not assert validated alignment; the four requirements in the Introduction now gate Final status. The front matter names the document what it is: a Release Candidate ASI alignment proposal, open to adversarial review.
 

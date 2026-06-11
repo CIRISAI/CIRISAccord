@@ -3,7 +3,7 @@
 > ساختی اثر (SI) اور ہم آہنگی کا حصہ (CS) کے طریقہ کار
 
 ---
-ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC2)
 ---
 
 ---

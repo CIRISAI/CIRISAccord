@@ -1,20 +1,20 @@
 # Giriş
 
-> CIRIS 1.3-RC1, hasım incelemeye açık bir Sürüm Adayı YZA hizalama önerisidir. Metin tamamdır — taslak bölüm kalmamıştır; matematik, biçimsel-eser atıflarını taşımaktadır; F–I Ekleri işlevselleştirilmiştir. Nihai statü, eklerin canlı döngü doğrulamasına, Kitap IX ampirik doğrulama programının tamamlanmasına ve tam kapsamlı bir kırmızı-ekip egzersizine bağlıdır. Sayısal eşikler, gecikme hedefleri ve yönetişim kotaları etkin inceleme altındadır.
+> CIRIS 1.3-RC2, hasım incelemeye açık bir Sürüm Adayı YZA hizalama önerisidir. Metin tamamdır — taslak bölüm kalmamıştır; matematik, biçimsel-eser atıflarını taşımaktadır; F–I Ekleri işlevselleştirilmiştir. Nihai statü, eklerin canlı döngü doğrulamasına, Kitap IX ampirik doğrulama programının tamamlanmasına ve tam kapsamlı bir kırmızı-ekip egzersizine bağlıdır. Sayısal eşikler, gecikme hedefleri ve yönetişim kotaları etkin inceleme altındadır.
 
-# CIRIS Anlaşması Sürüm 1.3-RC1 — Sürüm Adayı YZA Hizalama Önerisi (Hasım İncelemeye Açık)
+# CIRIS Anlaşması Sürüm 1.3-RC2 — Sürüm Adayı YZA Hizalama Önerisi (Hasım İncelemeye Açık)
 
 Bu depo, Anlaşma metninin kanonik kaynağıdır. Web sitesi ve ajana gömülü kopyalar türetilmiş eserlerdir.
 
 ## Yayın Tarihi
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Otomatik Geçerlilik Sonu
 2027-06-10 (1.3 yenilemesinde uzatılmıştır) — hizmetçilik ve yenileme Kitap VIII, Bölüm 9 tarafından yönetilmektedir. Şu anda kurucu-hizmetçi (beyan edilmiş, gizlenmemiş); son kullanma tarihi bir tazelik işaretidir ve hizmetçilik, belgeyi devralmaya razı olan herkese açıktır.
 
 ## Yayın Durumu
 
-**Güncel Durum**: Sürüm Adayı (v1.3-RC1)
+**Güncel Durum**: Sürüm Adayı (v1.3-RC2)
 
 RC durumu **metnin eksiksizliğini** yansıtır: her bölüm işlevselleştirilmiş içerik taşımaktadır (eski taslak F–I ekleri 1.3'te tamamlandı); formüller biçimsel olarak doğrulanmış biçimlerine düzeltildi; uygulamaya kanıt zinciri Ek 1'de bağlandı. RC durumu doğrulanmış hizalamayı **öne sürmez** — aşağıdaki gereksinimler **Nihai** statünün önkoşullarıdır:
 
@@ -24,7 +24,7 @@ RC durumu **metnin eksiksizliğini** yansıtır: her bölüm işlevselleştirilm
    * Belirtilen varsayımlar altında topolojik çöküş koşullarının geçerliliğini gösteren biçimsel kanıtlar, VEYA
    * Çerçevenin hizasız optimizasyona karşı dirençli olduğunu gösteren hasım simülasyonlar aracılığıyla ampirik doğrulama
 
-   *1.3-RC1 itibarıyla durum: kısmen karşılandı.* Çöküş dinamikleri, Kitap IX'un artık miras aldığı düzeltilmiş maliyet biçimini içeren KÇA önbaskısında (v3, DOI 10.5281/zenodo.18217688) Lean 4 ile biçimselleştirilmiştir; koridor ampirik verileri geriye dönük çapraz-substrat uyumları sağlamaktadır. Bekleyen: yeni bir substratta ön-kayıtlı örneklem-dışı tahmin ve yazardan bağımsız harici hasım inceleme.
+   *1.3-RC2 itibarıyla durum: kısmen karşılandı.* Çöküş dinamikleri, Kitap IX'un artık miras aldığı düzeltilmiş maliyet biçimini içeren KÇA önbaskısında (v3, DOI 10.5281/zenodo.18217688) Lean 4 ile biçimselleştirilmiştir; koridor ampirik verileri geriye dönük çapraz-substrat uyumları sağlamaktadır. Bekleyen: yeni bir substratta ön-kayıtlı örneklem-dışı tahmin ve yazardan bağımsız harici hasım inceleme.
 
 3. **Eşik Gerekçelendirmesi**: Şu anda "pilot" olarak işaretlenmiş veya türetimi eksik olan sayısal eşikler (ör. CRE hesaplama eşiği 10²⁶ FLOP, bilinç algılama %5, Eko Yoğunluğu < %20) simülasyon, ampirik çalışma veya geçici statünün açık kabulü yoluyla belgelenmiş gerekçe sunmak zorundadır. *(Eski Order-Maximisation Veto 10× oranı, 1.3'te deontolojik bir yan-kısıt olarak yeniden ifade edilmiştir — Kitap II, PDMA Step 2 — ve artık gerekçelendirilmesi gereken bir oran eşiği taşımamaktadır.)*
 

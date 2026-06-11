@@ -3,7 +3,7 @@
 > Biyayya Mai Ci Gaba da Duba Aiyuka
 
 ---
-ANNEX H BIYAYYA MAI CI GABA DA DUBA AIYUKA (v 1.3-RC1)
+ANNEX H BIYAYYA MAI CI GABA DA DUBA AIYUKA (v 1.3-RC2)
 ---
 
 ### 0. Manufa da Ruhun Jagora

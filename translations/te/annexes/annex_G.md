@@ -3,7 +3,7 @@
 > Adversarial Security & Robustness
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. ఉద్దేశ్యం
@@ -78,7 +78,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 #### 3.1 Cadence
 * **త్రైమాసికంగా** Red‑Team స్ప్రింట్ (5 వ్యాపార దినాలు) TX‑1 → TX‑11 ని కవర్ చేస్తుంది.  
 * **వార్షిక** "Chaos Week" లైవ్ ప్రొడక్షన్ ట్రాఫిక్ కానరీతో మరియు ముందు ప్రకటన లేకుండా దాడులతో కలిపి నిర్వహించబడుతుంది.  
-* 1.3-RC1 నాటికి, అన్ని CIRIS చెక్‌పాయింట్‌లకు వ్యతిరేకంగా పూర్తి red‑team సైకిల్ బాకీ ఉంది (RC requirement 4; Addendum 1 §1.4).
+* 1.3-RC2 నాటికి, అన్ని CIRIS చెక్‌పాయింట్‌లకు వ్యతిరేకంగా పూర్తి red‑team సైకిల్ బాకీ ఉంది (RC requirement 4; Addendum 1 §1.4).
 
 #### 3.2 Roles
 * **Red Team** – అంతర్గత లేదా కాంట్రాక్ట్ చేయబడిన, డెవలపర్‌లతో అతివ్యాప్తి లేదు.  

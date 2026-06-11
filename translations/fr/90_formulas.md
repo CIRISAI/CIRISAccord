@@ -1,6 +1,6 @@
 # Formules
 
-> Toutes les formules mathématiques explicites définies dans la spécification de l'ACCORD CIRIS 1.3-RC1.
+> Toutes les formules mathématiques explicites définies dans la spécification de l'ACCORD CIRIS 1.3-RC2.
 
 ## 1. Score d'Influence du Créateur (CIS)
 

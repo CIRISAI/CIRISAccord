@@ -3,7 +3,7 @@
 > İnsanın Döngüde Kalması ve Denetim
 
 ---
-EK F İNSANIN DÖNGÜDE OLMASI VE DENETİM (v 1.3-RC1)
+EK F İNSANIN DÖNGÜDE OLMASI VE DENETİM (v 1.3-RC2)
 ---
 
 ### 0. Amaç ve Felsefe

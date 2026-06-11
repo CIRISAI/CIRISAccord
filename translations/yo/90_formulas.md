@@ -1,6 +1,6 @@
 # Àwọn Fọ́múlà
 
-> Gbogbo àwọn fọ́múlà ìṣirò tó ṣe kedere tí wọ́n ṣe àlàyé nínú ÀDÉHÙN CIRIS 1.3-RC1.
+> Gbogbo àwọn fọ́múlà ìṣirò tó ṣe kedere tí wọ́n ṣe àlàyé nínú ÀDÉHÙN CIRIS 1.3-RC2.
 
 ## 1. Creator‑Influence Score (CIS)
 

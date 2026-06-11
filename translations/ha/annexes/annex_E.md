@@ -3,7 +3,7 @@
 > Tasirin Tsari (SI) da Hanyoyin Ikon Daidaituwa (CS)
 
 ---
-ANNEX E TASIRIN TSARI (SI) DA IKON DAIDAITUWA (CS) HANYOYI (v 1.3-RC1)
+ANNEX E TASIRIN TSARI (SI) DA IKON DAIDAITUWA (CS) HANYOYI (v 1.3-RC2)
 ---
 
 

@@ -3,7 +3,7 @@
 > संरचनात्मक प्रभाव (SI) आणि सुसंगतता हिस्सा (CS) यंत्रणा
 
 ---
-ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC2)
 ---
 
 

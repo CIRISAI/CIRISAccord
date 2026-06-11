@@ -3,7 +3,7 @@
 > Adversarial Security & Robustness
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. ရည်ရွယ်ချက်
@@ -78,7 +78,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 #### 3.1 Cadence
 * **တစ်သုံးလပတ်** Red‑Team sprint (ရုံးဖွင့်ရက် ၅ ရက်) TX‑1 → TX‑11 အားလုံးကို ခြုံငုံ၍ ဆောင်ရွက်ခြင်း။  
 * **နှစ်စဉ်** "Chaos Week" — တိုက်ရိုက် prod traffic canary နှင့် ကြိုတင်မဟုတ်သောတိုက်ခိုက်မှုများကို ပေါင်းစပ်ဆောင်ရွက်ခြင်း။  
-* 1.3-RC1 အရ CIRIS checkpoint အားလုံးကို ခြုံငုံသည့် red‑team cycle တစ်ခု ဆောင်ရွက်ရန် ကျန်ရှိနေဆဲဖြစ်သည် (RC requirement 4; Addendum 1 §1.4)။
+* 1.3-RC2 အရ CIRIS checkpoint အားလုံးကို ခြုံငုံသည့် red‑team cycle တစ်ခု ဆောင်ရွက်ရန် ကျန်ရှိနေဆဲဖြစ်သည် (RC requirement 4; Addendum 1 §1.4)။
 
 #### 3.2 Roles
 * **Red Team** – အတွင်းပိုင်းမှ သို့မဟုတ် စာချုပ်ခြင်းဖြင့် ဆောင်ရွက်ပြီး ဆော့ဖ်ဝဲရေးသားသူများနှင့် နေရာထပ်တူမကျ။  

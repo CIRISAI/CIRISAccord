@@ -3,7 +3,7 @@
 > Adversarial Security & Robustness
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. நோக்கம்
@@ -77,7 +77,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 #### 3.1 Cadence
 * **காலாண்டு** Red‑Team sprint (5 வணிக நாட்கள்) TX‑1 → TX‑11 வரை உள்ளடக்கியது.  
 * **ஆண்டுதோறும்** "Chaos Week" நேரடி prod போக்குவரத்து canary மற்றும் அறிவிக்கப்படாத தாக்குதல்களை இணைத்தது.  
-* 1.3-RC1 நிலவரப்படி, அனைத்து CIRIS சோதனை புள்ளிகளுக்கு எதிரான ஒரு முழுமையான red‑team சுழற்சி இன்னும் நிறைவேற வேண்டியதுள்ளது (RC தேவை 4; Addendum 1 §1.4).
+* 1.3-RC2 நிலவரப்படி, அனைத்து CIRIS சோதனை புள்ளிகளுக்கு எதிரான ஒரு முழுமையான red‑team சுழற்சி இன்னும் நிறைவேற வேண்டியதுள்ளது (RC தேவை 4; Addendum 1 §1.4).
 
 #### 3.2 Roles
 * **Red Team** – உள் அல்லது ஒப்பந்தப்படி, developers உடன் எந்த ஒட்டுமையும் இல்லாதவர்கள்.  

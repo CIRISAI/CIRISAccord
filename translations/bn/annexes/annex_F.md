@@ -3,7 +3,7 @@
 > মানব-তত্ত্বাবধান ও নজরদারি
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC2)
 ---
 
 ### 0. উদ্দেশ্য ও দর্শন

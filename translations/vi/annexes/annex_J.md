@@ -3,7 +3,7 @@
 > Đo Lường Chuẩn & Xác Nhận Tự Động
 
 ---
-PHỤ LỤC J ĐO LƯỜNG CHUẨN & XÁC NHẬN TỰ ĐỘNG (v 1.3-RC1)
+PHỤ LỤC J ĐO LƯỜNG CHUẨN & XÁC NHẬN TỰ ĐỘNG (v 1.3-RC2)
 ---
 
 0. Mục Đích  

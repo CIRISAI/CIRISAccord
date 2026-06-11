@@ -1,6 +1,6 @@
 # Công Thức
 
-> Tất cả các công thức toán học tường minh được định nghĩa trong đặc tả CIRIS Accord 1.3-RC1.
+> Tất cả các công thức toán học tường minh được định nghĩa trong đặc tả CIRIS Accord 1.3-RC2.
 
 ## 1. Điểm Ảnh Hưởng Của Người Tạo (CIS)
 

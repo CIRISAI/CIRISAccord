@@ -3,7 +3,7 @@
 > Mutum a Cikin Tsarin & Kulawa
 
 ---
-ANNEX F MUTUM A CIKIN TSARIN & KULAWA (v 1.3-RC1)
+ANNEX F MUTUM A CIKIN TSARIN & KULAWA (v 1.3-RC2)
 ---
 
 ### 0. Manufa & Falsafa

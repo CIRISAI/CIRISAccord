@@ -3,7 +3,7 @@
 > Keselarasan Hukum & Regulasi
 
 ---
-ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC1)
+ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC2)
 ---
 
 Pemetaan silang ini bersifat informatif, bukan nasihat hukum. Tinjauan hukum yurisdiksi diperlukan sebelum penerapan di sektor mana pun yang tercakup dalam overlay §3.

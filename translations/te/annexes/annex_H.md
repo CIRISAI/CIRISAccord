@@ -3,7 +3,7 @@
 > నిరంతర సమ్మతి & సమీక్ష
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. ఉద్దేశ్యం & మార్గదర్శక స్ఫూర్తి

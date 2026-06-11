@@ -3,7 +3,7 @@
 > Human‑in‑the‑Loop & Oversight
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC2)
 ---
 
 ### 0. उद्देश आणि तत्त्वज्ञान

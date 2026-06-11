@@ -3,7 +3,7 @@
 > กลไก Structural Influence (SI) และ Coherence Stake (CS)
 
 ---
-ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC2)
 ---
 
 ---

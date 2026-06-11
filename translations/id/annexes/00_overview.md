@@ -1,6 +1,6 @@
 # Lampiran
 
-> Kerangka kerja dan protokol pendukung. Per 1.3-RC1, semua lampiran memuat teks yang telah dioperasionalkan; tidak ada yang tersisa sebagai kerangka kosong.
+> Kerangka kerja dan protokol pendukung. Per 1.3-RC2, semua lampiran memuat teks yang telah dioperasionalkan; tidak ada yang tersisa sebagai kerangka kosong.
 
 * [Annex A — Kerangka Metrik Berkembang](annex_A.md)
 * [Annex B — Piagam Tata Kelola Otoritas Bijak](annex_B.md)
@@ -13,4 +13,4 @@
 * [Annex I — Keselarasan Hukum & Regulasi](annex_I.md)
 * [Annex J — Tolok Ukur & Validasi Otomatis](annex_J.md)
 
-Status operasionalisasi: Annex F–I diselesaikan pada 1.3-RC1 (dari draf penyelesaian Mei 2026 yang didasarkan pada pemetaan *Magnifica Humanitas*); prosedur-prosedur tersebut belum pernah dijalankan terhadap siklus penerapan langsung — validasi tersebut dilacak di bawah persyaratan RC 1 (lihat Introduction dan Addendum 1 §1.4).
+Status operasionalisasi: Annex F–I diselesaikan pada 1.3-RC2 (dari draf penyelesaian Mei 2026 yang didasarkan pada pemetaan *Magnifica Humanitas*); prosedur-prosedur tersebut belum pernah dijalankan terhadap siklus penerapan langsung — validasi tersebut dilacak di bawah persyaratan RC 1 (lihat Introduction dan Addendum 1 §1.4).

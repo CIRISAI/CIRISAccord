@@ -3,7 +3,7 @@
 > Mechanismen für Strukturellen Einfluss (SI) und Kohärenz-Stake (CS)
 
 ---
-ANHANG E MECHANISMEN FÜR STRUKTURELLEN EINFLUSS (SI) & KOHÄRENZ-STAKE (CS) (v 1.3-RC1)
+ANHANG E MECHANISMEN FÜR STRUKTURELLEN EINFLUSS (SI) & KOHÄRENZ-STAKE (CS) (v 1.3-RC2)
 ---
 
 ---

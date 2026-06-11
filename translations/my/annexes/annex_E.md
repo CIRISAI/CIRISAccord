@@ -3,7 +3,7 @@
 > Structural Influence (SI) နှင့် Coherence Stake (CS) ယန္တရားများ
 
 ---
-ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC2)
 ---
 
 

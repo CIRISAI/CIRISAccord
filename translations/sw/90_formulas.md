@@ -1,6 +1,6 @@
 # Fomula
 
-> Fomula zote za kihesabu zilizofafanuliwa wazi katika maelezo ya CIRIS Accord 1.3-RC1.
+> Fomula zote za kihesabu zilizofafanuliwa wazi katika maelezo ya CIRIS Accord 1.3-RC2.
 
 ## 1. Alama ya Ushawishi wa Muumbaji (CIS)
 

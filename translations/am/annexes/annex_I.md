@@ -3,7 +3,7 @@
 > ሕጋዊ እና ቁጥጥር-ተኮር ማስማማት
 
 ---
-ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC1)
+ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC2)
 ---
 
 ይህ ንፅፅር ሠንጠረዥ መረጃ ሰጪ ብቻ ነው፣ ሕጋዊ ምክር አይደለም። §3 ሽፋን ባካተቱ ዘርፎች ሁሉ ውስጥ ከሚወጡ ቅደም-ተከተሎች ጋር አስቀድሞ የሥልጣን-ወሰን ሕጋዊ ቅኝት ያስፈልጋል።

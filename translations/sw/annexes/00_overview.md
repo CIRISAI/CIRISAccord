@@ -1,6 +1,6 @@
 # Viambatisho
 
-> Mifumo na itifaki za kusaidia. Kufikia 1.3-RC1 viambatisho vyote vina maandishi yaliyotekelezwa; hakuna kinachobaki kama muhtasari tu.
+> Mifumo na itifaki za kusaidia. Kufikia 1.3-RC2 viambatisho vyote vina maandishi yaliyotekelezwa; hakuna kinachobaki kama muhtasari tu.
 
 * [Annex A — Mfumo wa Vipimo vya Ustawi](annex_A.md)
 * [Annex B — Hati ya Utawala wa Mshauri wa Kibinadamu](annex_B.md)
@@ -13,4 +13,4 @@
 * [Annex I — Uelekevu wa Kisheria na Udhibiti](annex_I.md)
 * [Annex J — Upimaji wa Alama na Uthibitishaji wa Kiotomatiki](annex_J.md)
 
-Hali ya utekelezaji: Viambatisho F–I vilikamilishwa katika 1.3-RC1 (kutoka rasimu za kukamilika za Mei 2026 zilizoanzia kwenye ramani ya *Magnifica Humanitas*); taratibu zake hazijapitiwa dhidi ya mzunguko wa usambazaji hai bado — uthibitishaji huo unafuatiliwa chini ya mahitaji ya RC 1 (angalia Utangulizi na Nyongeza 1 §1.4).
+Hali ya utekelezaji: Viambatisho F–I vilikamilishwa katika 1.3-RC2 (kutoka rasimu za kukamilika za Mei 2026 zilizoanzia kwenye ramani ya *Magnifica Humanitas*); taratibu zake hazijapitiwa dhidi ya mzunguko wa usambazaji hai bado — uthibitishaji huo unafuatiliwa chini ya mahitaji ya RC 1 (angalia Utangulizi na Nyongeza 1 §1.4).

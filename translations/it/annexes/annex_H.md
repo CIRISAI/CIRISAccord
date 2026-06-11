@@ -3,7 +3,7 @@
 > Conformità Continua e Revisione
 
 ---
-ANNEX H CONFORMITÀ CONTINUA E REVISIONE (v 1.3-RC1)
+ANNEX H CONFORMITÀ CONTINUA E REVISIONE (v 1.3-RC2)
 ---
 
 ### 0. Scopo e Spirito Guida

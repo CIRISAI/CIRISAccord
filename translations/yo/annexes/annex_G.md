@@ -3,7 +3,7 @@
 > Adversarial Security & Robustness
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. Ète
@@ -78,7 +78,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 #### 3.1 Ìgbà
 * **Ìdámẹ́rin ọdún** Ìgbìyànjú Red‑Team (ọjọ́ 5 iṣẹ́) tó bò TX‑1 → TX‑11.  
 * **Ọdọọdún** "Chaos Week" tó dàpọ̀ canary ìjábọ̀ tó wà lára àti àwọn ìkọlù tí a kò ròyìn.  
-* Gẹ́gẹ́ bí ti 1.3-RC1, ìrìn red‑team kíkún sí gbogbo àwọn ayé CIRIS ṣì jẹ́ ojúsé tí a jẹ́ (RC requirement 4; Addendum 1 §1.4).
+* Gẹ́gẹ́ bí ti 1.3-RC2, ìrìn red‑team kíkún sí gbogbo àwọn ayé CIRIS ṣì jẹ́ ojúsé tí a jẹ́ (RC requirement 4; Addendum 1 §1.4).
 
 #### 3.2 Àwọn Ipa
 * **Red Team** – ìta tàbí tó ní àdéhùn, kò sí ìpapọ̀ pẹ̀lú àwọn olùṣe.  

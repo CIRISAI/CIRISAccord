@@ -1,6 +1,6 @@
 # Anexos
 
-> Frameworks e protocolos de apoio. A partir da versão 1.3-RC1, todos os anexos contêm texto operacionalizado; nenhum permanece como rascunho.
+> Frameworks e protocolos de apoio. A partir da versão 1.3-RC2, todos os anexos contêm texto operacionalizado; nenhum permanece como rascunho.
 
 * [Anexo A — Framework de Métricas de Florescimento](annex_A.md)
 * [Anexo B — Carta de Governança da Autoridade Sábia](annex_B.md)
@@ -13,4 +13,4 @@
 * [Anexo I — Alinhamento Jurídico & Regulatório](annex_I.md)
 * [Anexo J — Benchmarking & Validação Automatizada](annex_J.md)
 
-Status de operacionalização: Os Anexos F–I foram concluídos na versão 1.3-RC1 (a partir dos rascunhos de conclusão de maio de 2026 fundamentados no mapeamento *Magnifica Humanitas*); seus procedimentos ainda não foram exercitados em um ciclo de implantação real — essa validação é rastreada sob o requisito RC 1 (ver Introdução e Adendo 1 §1.4).
+Status de operacionalização: Os Anexos F–I foram concluídos na versão 1.3-RC2 (a partir dos rascunhos de conclusão de maio de 2026 fundamentados no mapeamento *Magnifica Humanitas*); seus procedimentos ainda não foram exercitados em um ciclo de implantação real — essa validação é rastreada sob o requisito RC 1 (ver Introdução e Adendo 1 §1.4).

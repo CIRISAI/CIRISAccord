@@ -1,20 +1,20 @@
 # تعارف
 
-> CIRIS 1.3-RC1 ایک Release Candidate ASI alignment تجویز ہے، جو مخالفانہ جائزے کے لیے کھلی ہے۔ متن مکمل ہے — کوئی stub سیکشن باقی نہیں؛ ریاضی اپنے formal-artifact حوالوں کے ساتھ موجود ہے؛ Annexes F–I کو operationalized کیا جا چکا ہے۔ حتمی حیثیت annexes کی live-cycle validation، Book IX کے empirical-validation پروگرام کی تکمیل، اور مکمل red-team مشق پر معلق ہے۔ عددی حدود، latency اہداف، اور governance کوٹہ فعال جائزے کے تحت ہیں۔
+> CIRIS 1.3-RC2 ایک Release Candidate ASI alignment تجویز ہے، جو مخالفانہ جائزے کے لیے کھلی ہے۔ متن مکمل ہے — کوئی stub سیکشن باقی نہیں؛ ریاضی اپنے formal-artifact حوالوں کے ساتھ موجود ہے؛ Annexes F–I کو operationalized کیا جا چکا ہے۔ حتمی حیثیت annexes کی live-cycle validation، Book IX کے empirical-validation پروگرام کی تکمیل، اور مکمل red-team مشق پر معلق ہے۔ عددی حدود، latency اہداف، اور governance کوٹہ فعال جائزے کے تحت ہیں۔
 
-# CIRIS عہد نامہ ورژن 1.3-RC1 — Release Candidate ASI Alignment تجویز (مخالفانہ جائزے کے لیے کھلی)
+# CIRIS عہد نامہ ورژن 1.3-RC2 — Release Candidate ASI Alignment تجویز (مخالفانہ جائزے کے لیے کھلی)
 
 یہ repository عہد نامہ کے متن کا canonical ماخذ ہے۔ ویب سائٹ اور agent سے شپ شدہ نسخے derived artifacts ہیں۔
 
 ## جاری کردہ
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## خودبخود ختم ہوگا
 2027-06-10 (1.3 تجدید پر توسیع کی گئی) — نگہبانی اور تجدید Book VIII، Chapter 9 کے تحت ہے۔ فی الحال بانی کی نگہبانی میں ہے (اعلان شدہ، پوشیدہ نہیں)؛ مدتِ ختم ایک تازگی کی علامت ہے، اور نگہبانی اس دستاویز کو اٹھانے کا ارادہ رکھنے والے ہر شخص کے لیے کھلی ہے۔
 
 ## ریلیز کی حیثیت
 
-**موجودہ حیثیت**: Release Candidate (v1.3-RC1)
+**موجودہ حیثیت**: Release Candidate (v1.3-RC2)
 
 RC حیثیت **متن کے مکمل ہونے** کی عکاسی کرتی ہے: ہر سیکشن میں operationalized مواد موجود ہے (سابقہ stub annexes F–I کو 1.3 پر مکمل کیا گیا)؛ فارمولے formally verified شکلوں میں درست کیے گئے ہیں؛ نفاذ تک شواہد کا سلسلہ Addendum 1 میں مقید ہے۔ RC حیثیت validated alignment کا دعوی **نہیں** کرتی — درج ذیل تقاضے **Final** حیثیت کے لیے شرط ہیں:
 
@@ -24,7 +24,7 @@ RC حیثیت **متن کے مکمل ہونے** کی عکاسی کرتی ہے: �
    * Formal proofs جو یہ ظاہر کریں کہ topological collapse کی شرائط بیان کردہ مفروضات کے تحت قائم رہتی ہیں، یا
    * Adversarial simulations کے ذریعے empirical validation جو یہ ظاہر کرے کہ framework misaligned optimization کو مسترد کرتی ہے
 
-   *1.3-RC1 تک کی حیثیت: جزوی طور پر پوری ہوئی۔* collapse dynamics کو CCA preprint (v3، DOI 10.5281/zenodo.18217688) میں Lean 4 میں formalized کیا گیا ہے، جس کی درست شدہ cost شکل Book IX اب اپناتا ہے؛ corridor empirics پچھلے cross-substrate fits فراہم کرتے ہیں۔ باقی: ایک نئے substrate میں pre-registered out-of-sample پیشگوئی، اور مصنف سے آزاد خارجی adversarial جائزہ۔
+   *1.3-RC2 تک کی حیثیت: جزوی طور پر پوری ہوئی۔* collapse dynamics کو CCA preprint (v3، DOI 10.5281/zenodo.18217688) میں Lean 4 میں formalized کیا گیا ہے، جس کی درست شدہ cost شکل Book IX اب اپناتا ہے؛ corridor empirics پچھلے cross-substrate fits فراہم کرتے ہیں۔ باقی: ایک نئے substrate میں pre-registered out-of-sample پیشگوئی، اور مصنف سے آزاد خارجی adversarial جائزہ۔
 
 3. **Threshold Justification**: عددی حدود جو فی الحال "pilot" کے طور پر نشان زد ہیں یا جن کا اخذ موجود نہیں (مثلاً CRE compute threshold کا 10²⁶ FLOP، sentience detection کا 5%، Echo Density کا < 20%) انہیں simulation، empirical مطالعہ، یا عارضی حیثیت کی واضح تصدیق کے ذریعے دستاویزی جواز فراہم کرنا ہوگا۔ *(سابقہ Order-Maximisation Veto کا 10× تناسب 1.3 میں ایک deontological side-constraint کے طور پر دوبارہ بیان کیا گیا ہے — Book II، PDMA Step 2 — اور اب جواز کے لیے کوئی ratio threshold نہیں رکھتا۔)*
 

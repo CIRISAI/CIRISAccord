@@ -3,7 +3,7 @@
 > Kontinuierliche Compliance & Überprüfung
 
 ---
-ANHANG H KONTINUIERLICHE COMPLIANCE & ÜBERPRÜFUNG (v 1.3-RC1)
+ANHANG H KONTINUIERLICHE COMPLIANCE & ÜBERPRÜFUNG (v 1.3-RC2)
 ---
 
 ### 0. Zweck & Leitgedanke

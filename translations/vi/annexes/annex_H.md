@@ -3,7 +3,7 @@
 > Tuân Thủ Liên Tục & Xem Xét
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. Mục Đích & Tinh Thần Hướng Dẫn

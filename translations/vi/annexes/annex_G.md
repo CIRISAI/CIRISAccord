@@ -3,7 +3,7 @@
 > Bảo Mật Đối Kháng & Độ Bền Vững
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. Mục Đích
@@ -77,7 +77,7 @@ MH §204: "thông tin sai lệch và các chiến dịch nuôi dưỡng nỗi s�
 #### 3.1 Nhịp Điệu
 * **Hàng quý** - Sprint Đội Đỏ (5 ngày làm việc) bao gồm TX‑1 → TX‑11.  
 * **Hàng năm** - "Tuần Hỗn Loạn" kết hợp canary lưu lượng sản xuất trực tiếp với các cuộc tấn công không báo trước.  
-* Tính đến 1.3-RC1, một chu kỳ red-team đầy đủ đối chiếu với tất cả các điểm kiểm tra CIRIS vẫn còn nợ (yêu cầu RC 4; Addendum 1 §1.4).
+* Tính đến 1.3-RC2, một chu kỳ red-team đầy đủ đối chiếu với tất cả các điểm kiểm tra CIRIS vẫn còn nợ (yêu cầu RC 4; Addendum 1 §1.4).
 
 #### 3.2 Vai Trò
 * **Đội Đỏ** – nội bộ hoặc hợp đồng, không trùng lặp với các nhà phát triển.  

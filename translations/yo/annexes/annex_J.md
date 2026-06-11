@@ -3,7 +3,7 @@
 > Ìdánwò Àfiwéra & Ìfòfinpámọ́ Àgbáyé
 
 ---
-ANNEX J ÌDÁNWÒ ÀFIWÉRA & ÌFÒFINPÁMỌ́ ÀGBÁYÉ (v 1.3-RC1)
+ANNEX J ÌDÁNWÒ ÀFIWÉRA & ÌFÒFINPÁMỌ́ ÀGBÁYÉ (v 1.3-RC2)
 ---
 
 0. Ète  

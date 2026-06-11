@@ -1,6 +1,6 @@
 # Dabaru
 
-> Duk dabaru na lissafi da aka bayyana a sarari a cikin ƙayyadaddun CIRIS Accord 1.3-RC1.
+> Duk dabaru na lissafi da aka bayyana a sarari a cikin ƙayyadaddun CIRIS Accord 1.3-RC2.
 
 ## 1. Maki na Tasirin Mahalici (CIS)
 

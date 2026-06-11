@@ -2,8 +2,8 @@
 
 The canonical source of the **CIRIS Accord** — the constitutional layer of the CIRIS ethical-AI framework, governing the ethical operation of autonomous systems from narrow tools to recursive ASI.
 
-**Current version**: 1.3-RC1 — Release Candidate ASI alignment proposal (open to adversarial review)
-**Issued**: 2025-04-16 (1.0) · 2026-06-10 (1.3-RC1)
+**Current version**: 1.3-RC2 — Release Candidate ASI alignment proposal (open to adversarial review)
+**Issued**: 2025-04-16 (1.0) · 2026-06-10 (1.3-RC2)
 **Auto-expires**: 2027-06-10 — stewardship and renewal per Book VIII, Chapter 9
 
 ## This repository is the source of truth
@@ -25,7 +25,7 @@ Before this repo existed, the Accord text lived in three drifting renderings (th
 ## Versioning
 
 - **1.2-Beta** — the consolidated baseline imported here (formerly scattered across renderings).
-- **1.3-RC1** — the backwards-pass release, promoted to Release Candidate: J/C formula correction (CCA-validated form), σ attestation requirement, truth-inclusion assumption, OMV side-constraint restatement, forward citations to formal artifacts, the Book VIII Ch 9 stewardship & renewal chapter, Annexes F–I operationalized, Addendum 1 (ASI-readiness binding). RC reflects text completeness; the four Introduction requirements gate Final status. See [CHANGELOG.md](CHANGELOG.md).
+- **1.3-RC2** — the backwards-pass release, promoted to Release Candidate: J/C formula correction (CCA-validated form), σ attestation requirement, truth-inclusion assumption, OMV side-constraint restatement, forward citations to formal artifacts, the Book VIII Ch 9 stewardship & renewal chapter, Annexes F–I operationalized, Addendum 1 (ASI-readiness binding). RC reflects text completeness; the four Introduction requirements gate Final status. See [CHANGELOG.md](CHANGELOG.md).
 
 Where Book IX and the formally verified artifacts disagree, the formal artifact is authoritative:
 - CCA preprint (Lean 4), v3: DOI [10.5281/zenodo.18217688](https://doi.org/10.5281/zenodo.18217688)

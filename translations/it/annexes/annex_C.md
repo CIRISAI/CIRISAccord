@@ -3,7 +3,7 @@
 > Tavola di Corrispondenza Normativa
 
 ---
-ANNEX C TAVOLA DI CORRISPONDENZA NORMATIVA   (v 1.3-RC1)
+ANNEX C TAVOLA DI CORRISPONDENZA NORMATIVA   (v 1.3-RC2)
 ---
 
 ### Scopo

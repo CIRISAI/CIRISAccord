@@ -1,6 +1,6 @@
 # Anexos
 
-> Marcos de apoyo y protocolos. A partir de 1.3-RC1, todos los anexos contienen texto operacionalizado; ninguno permanece como esbozo incompleto.
+> Marcos de apoyo y protocolos. A partir de 1.3-RC2, todos los anexos contienen texto operacionalizado; ninguno permanece como esbozo incompleto.
 
 * [Annex A — Marco de Métricas de Florecimiento](annex_A.md)
 * [Annex B — Carta de Gobernanza de Autoridad Sabia](annex_B.md)
@@ -13,4 +13,4 @@
 * [Annex I — Alineación Legal y Regulatoria](annex_I.md)
 * [Annex J — Evaluación Comparativa y Validación Automatizada](annex_J.md)
 
-Estado de operacionalización: Los Annexes F–I fueron completados en 1.3-RC1 (a partir de los borradores de finalización de mayo de 2026 fundamentados en el mapeo de la *Magnifica Humanitas*); sus procedimientos aún no han sido ejercidos frente a un ciclo de despliegue en vivo — esa validación se registra bajo el requisito RC 1 (véase Introducción y Addendum 1 §1.4).
+Estado de operacionalización: Los Annexes F–I fueron completados en 1.3-RC2 (a partir de los borradores de finalización de mayo de 2026 fundamentados en el mapeo de la *Magnifica Humanitas*); sus procedimientos aún no han sido ejercidos frente a un ciclo de despliegue en vivo — esa validación se registra bajo el requisito RC 1 (véase Introducción y Addendum 1 §1.4).

@@ -3,7 +3,7 @@
 > انسانی نگرانی اور Human‑in‑the‑Loop
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC2)
 ---
 
 ### 0. مقصد اور فلسفہ

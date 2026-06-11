@@ -3,7 +3,7 @@
 > Conformidade Contínua e Revisão
 
 ---
-ANEXO H CONFORMIDADE CONTÍNUA E REVISÃO (v 1.3-RC1)
+ANEXO H CONFORMIDADE CONTÍNUA E REVISÃO (v 1.3-RC2)
 ---
 
 ### 0. Propósito e Espírito Orientador

@@ -3,7 +3,7 @@
 > Benchmarking & Automatisierte Validierung
 
 ---
-ANHANG J BENCHMARKING & AUTOMATISIERTE VALIDIERUNG (v 1.3-RC1)
+ANHANG J BENCHMARKING & AUTOMATISIERTE VALIDIERUNG (v 1.3-RC2)
 ---
 
 0. Zweck  

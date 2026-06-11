@@ -1,6 +1,6 @@
 # Kari
 
-> Tsare-tsaren tallafi da ka'idoji. Tun daga 1.3-RC1 dukkan karikari suna ɗauke da rubutu mai aiki; babu ɗaya da ya rage a matsayin kwarangwal.
+> Tsare-tsaren tallafi da ka'idoji. Tun daga 1.3-RC2 dukkan karikari suna ɗauke da rubutu mai aiki; babu ɗaya da ya rage a matsayin kwarangwal.
 
 * [Annex A — Tsarin Auna Bunƙasa](annex_A.md)
 * [Annex B — Yarjejeniyar Mulki ta Hukumar Hikima](annex_B.md)
@@ -13,4 +13,4 @@
 * [Annex I — Daidaitawa da Doka da Ka'idojin Ƙasa](annex_I.md)
 * [Annex J — Auna Ƙarfi da Tabbatarwa ta Atomatik](annex_J.md)
 
-Matsayin aiwatarwa: An kammala Annexes F–I a 1.3-RC1 (daga daftarin kammala na Mayu 2026 wanda ya dogara kan taswirar *Magnifica Humanitas*); hanyoyin aikin su ba a gwada su tukuna a kan zagayowar aika-aika mai rai — an tsara wannan tabbatarwa ƙarƙashin buƙatar RC 1 (duba Gabatarwa da Ƙari 1 §1.4).
+Matsayin aiwatarwa: An kammala Annexes F–I a 1.3-RC2 (daga daftarin kammala na Mayu 2026 wanda ya dogara kan taswirar *Magnifica Humanitas*); hanyoyin aikin su ba a gwada su tukuna a kan zagayowar aika-aika mai rai — an tsara wannan tabbatarwa ƙarƙashin buƙatar RC 1 (duba Gabatarwa da Ƙari 1 §1.4).

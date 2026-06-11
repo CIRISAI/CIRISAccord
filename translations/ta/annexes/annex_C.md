@@ -3,7 +3,7 @@
 > ஒழுங்குமுறை குறுக்கு-நடை
 
 ---
-ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC1)
+ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC2)
 ---
 
 ### நோக்கம்

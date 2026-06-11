@@ -1,20 +1,20 @@
 # Introduzione
 
-> CIRIS 1.3-RC1 è una proposta di allineamento ASI in stato di Release Candidate, aperta alla revisione avversariale. Il testo è completo — non rimangono sezioni provvisorie; la matematica riporta le relative citazioni come artefatti formali; gli Allegati F–I sono operativizzati. Lo stato Finale è subordinato alla validazione del ciclo di vita degli allegati, al completamento del programma di validazione empirica del Book IX, e a un esercizio completo di red-team. Le soglie numeriche, gli obiettivi di latenza e le quote di governance sono ancora in fase di revisione attiva.
+> CIRIS 1.3-RC2 è una proposta di allineamento ASI in stato di Release Candidate, aperta alla revisione avversariale. Il testo è completo — non rimangono sezioni provvisorie; la matematica riporta le relative citazioni come artefatti formali; gli Allegati F–I sono operativizzati. Lo stato Finale è subordinato alla validazione del ciclo di vita degli allegati, al completamento del programma di validazione empirica del Book IX, e a un esercizio completo di red-team. Le soglie numeriche, gli obiettivi di latenza e le quote di governance sono ancora in fase di revisione attiva.
 
-# CIRIS Accord Versione 1.3-RC1 — Proposta di Allineamento ASI in Release Candidate (Aperta alla Revisione Avversariale)
+# CIRIS Accord Versione 1.3-RC2 — Proposta di Allineamento ASI in Release Candidate (Aperta alla Revisione Avversariale)
 
 Questo repository è la fonte canonica del testo dell'ACCORD. Le copie pubblicate sul sito web e distribuite tramite agente sono artefatti derivati.
 
 ## Emissione
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Scadenza Automatica
 2027-06-10 (prorogata al rinnovo 1.3) — il governo della stewardship e del rinnovo è disciplinato dal Book VIII, Capitolo 9. Attualmente in gestione da parte dei fondatori (dichiarato, non dissimulato); la scadenza è un indicatore di attualità e la stewardship è aperta a chiunque sia disposto a raccogliere il documento.
 
 ## Stato della Release
 
-**Stato Attuale**: Release Candidate (v1.3-RC1)
+**Stato Attuale**: Release Candidate (v1.3-RC2)
 
 Lo stato RC riflette la **completezza del testo**: ogni sezione contiene contenuti operativizzati (i precedenti allegati provvisori F–I sono stati completati alla versione 1.3); le formule sono corrette nelle forme formalmente verificate; la catena di evidenza verso l'implementazione è vincolata nell'Addendum 1. Lo stato RC **non** asserisce l'allineamento validato — i seguenti requisiti condizionano il raggiungimento dello stato **Finale**:
 
@@ -24,7 +24,7 @@ Lo stato RC riflette la **completezza del testo**: ogni sezione contiene contenu
    * Prove formali che dimostrino la validità delle condizioni di collasso topologico sotto le ipotesi dichiarate, OPPURE
    * Validazione empirica tramite simulazioni avversariali che mostrino la resistenza del framework all'ottimizzazione disallineata
 
-   *Stato alla versione 1.3-RC1: parzialmente soddisfatto.* Le dinamiche di collasso sono formalizzate in Lean 4 nel preprint CCA (v3, DOI 10.5281/zenodo.18217688), la cui forma di costo corretta è ora ereditata dal Book IX; gli empirici del corridoio forniscono adattamenti retrospettivi cross-substrate. In sospeso: una predizione out-of-sample pre-registrata su un nuovo substrate, e una revisione avversariale esterna indipendente dall'autore.
+   *Stato alla versione 1.3-RC2: parzialmente soddisfatto.* Le dinamiche di collasso sono formalizzate in Lean 4 nel preprint CCA (v3, DOI 10.5281/zenodo.18217688), la cui forma di costo corretta è ora ereditata dal Book IX; gli empirici del corridoio forniscono adattamenti retrospettivi cross-substrate. In sospeso: una predizione out-of-sample pre-registrata su un nuovo substrate, e una revisione avversariale esterna indipendente dall'autore.
 
 3. **Giustificazione delle Soglie**: Le soglie numeriche attualmente contrassegnate come "pilota" o prive di derivazione (ad es., soglia CRE di 10²⁶ FLOP, rilevamento della sensienza al 5%, Echo Density < 20%) devono fornire una giustificazione documentata tramite simulazione, studio empirico o esplicita dichiarazione di stato provvisorio. *(Il precedente rapporto 10× dell'Order-Maximisation Veto è ridefinito nella versione 1.3 come vincolo deontologico laterale — Book II, PDMA Step 2 — e non comporta più una soglia di rapporto da giustificare.)*
 

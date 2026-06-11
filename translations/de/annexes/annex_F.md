@@ -3,7 +3,7 @@
 > Mensch-in-der-Schleife & Aufsicht
 
 ---
-ANNEX F MENSCH-IN-DER-SCHLEIFE & AUFSICHT (v 1.3-RC1)
+ANNEX F MENSCH-IN-DER-SCHLEIFE & AUFSICHT (v 1.3-RC2)
 ---
 
 ### 0. Zweck & Philosophie

@@ -6,7 +6,7 @@
 
 ## विरोधी पुनरावलोकनाचे आवाहन
 
-आम्ही सुरक्षा प्रयोगशाळा, स्वतंत्र संशोधक आणि नागरी समाज संस्थांना CIRIS 1.3-RC1 च्या ताण-परीक्षणासाठी आमंत्रित करतो.
+आम्ही सुरक्षा प्रयोगशाळा, स्वतंत्र संशोधक आणि नागरी समाज संस्थांना CIRIS 1.3-RC2 च्या ताण-परीक्षणासाठी आमंत्रित करतो.
 
 **https://github.com/CIRISAI/CIRISAccord/issues** येथे समस्या सादर करा.
 
@@ -29,7 +29,7 @@
 
 * **2025-04-16 — 1.0-β** प्रारंभिक प्रकाशन; जोखीम-मर्यादित; 24-महिना सूर्यास्त.
 * **1.2-Beta** — संपूर्ण Book IX भूमितीय चौकट असणारी कार्यरत-मसुदा ओळ; तीन विचलित आवृत्तींमधून canonical repository मध्ये एकत्रित केलेली (import commit `000ba57`).
-* **2026-06-10 — 1.3-RC1** — backwards-pass प्रकाशन: J/C सूत्र सुधारणा (CCA-validated form), σ साक्षांकन आवश्यकता, truth-inclusion गृहीतक, OMV side-constraint पुनर्कथन, औपचारिक कलाकृतींसाठी forward citations, Book VIII Ch 9 कारभार आणि नूतनीकरण, Addendum 1 (ASI-readiness binding), Annexes F–I कार्यान्वित, समाप्ती 2027-06-10 पर्यंत वाढवली. परवाना: AGPL-3.0.
+* **2026-06-10 — 1.3-RC2** — backwards-pass प्रकाशन: J/C सूत्र सुधारणा (CCA-validated form), σ साक्षांकन आवश्यकता, truth-inclusion गृहीतक, OMV side-constraint पुनर्कथन, औपचारिक कलाकृतींसाठी forward citations, Book VIII Ch 9 कारभार आणि नूतनीकरण, Addendum 1 (ASI-readiness binding), Annexes F–I कार्यान्वित, समाप्ती 2027-06-10 पर्यंत वाढवली. परवाना: AGPL-3.0.
 
 ---
 

@@ -1,6 +1,6 @@
 # Ekler
 
-> Destekleyici çerçeveler ve protokoller. 1.3-RC1 itibarıyla tüm ekler işlevselleştirilmiş metin içermektedir; hiçbiri taslak olarak kalmamaktadır.
+> Destekleyici çerçeveler ve protokoller. 1.3-RC2 itibarıyla tüm ekler işlevselleştirilmiş metin içermektedir; hiçbiri taslak olarak kalmamaktadır.
 
 * [Ek A — Gelişim Metrikleri Çerçevesi](annex_A.md)
 * [Ek B — Bilge Otorite Yönetim Tüzüğü](annex_B.md)
@@ -13,4 +13,4 @@
 * [Ek I — Yasal ve Düzenleyici Uyum](annex_I.md)
 * [Ek J — Kıyaslama ve Otomatik Doğrulama](annex_J.md)
 
-İşlevselleştirme durumu: Ek F–I, 1.3-RC1'de tamamlandı (*Magnifica Humanitas* eşleştirmesine dayanan Mayıs 2026 tamamlama taslakları temel alındı); söz konusu prosedürler henüz canlı bir dağıtım döngüsüne karşı uygulanmamıştır — bu doğrulama, RC gereksinim 1 kapsamında izlenmektedir (bkz. Giriş ve Ek 1 §1.4).
+İşlevselleştirme durumu: Ek F–I, 1.3-RC2'de tamamlandı (*Magnifica Humanitas* eşleştirmesine dayanan Mayıs 2026 tamamlama taslakları temel alındı); söz konusu prosedürler henüz canlı bir dağıtım döngüsüne karşı uygulanmamıştır — bu doğrulama, RC gereksinim 1 kapsamında izlenmektedir (bkz. Giriş ve Ek 1 §1.4).

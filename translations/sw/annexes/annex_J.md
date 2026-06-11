@@ -3,7 +3,7 @@
 > Upimaji wa Msingi na Uthibitishaji wa Kiotomatiki
 
 ---
-ANNEX J UPIMAJI WA MSINGI NA UTHIBITISHAJI WA KIOTOMATIKI (v 1.3-RC1)
+ANNEX J UPIMAJI WA MSINGI NA UTHIBITISHAJI WA KIOTOMATIKI (v 1.3-RC2)
 ---
 
 0. Madhumuni  

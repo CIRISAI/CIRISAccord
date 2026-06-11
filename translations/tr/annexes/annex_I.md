@@ -3,7 +3,7 @@
 > Hukuki ve Düzenleyici Uyum
 
 ---
-EK I HUKUKİ VE DÜZENLEYİCİ UYUM (v 1.3-RC1)
+EK I HUKUKİ VE DÜZENLEYİCİ UYUM (v 1.3-RC2)
 ---
 
 Bu çapraz yürüyüş bilgilendirme amaçlıdır; hukuki tavsiye niteliği taşımaz. §3 kapsamlarının örtüştüğü herhangi bir sektörde dağıtım öncesinde yargı bölgesine özgü hukuki inceleme zorunludur.

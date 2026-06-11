@@ -3,7 +3,7 @@
 > தரநிலை அளவீடு & தானியங்கி சரிபார்ப்பு
 
 ---
-ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC1)
+ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC2)
 ---
 
 0. நோக்கம்  

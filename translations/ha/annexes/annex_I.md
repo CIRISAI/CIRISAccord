@@ -3,7 +3,7 @@
 > Daidaituwa da Doka da Ka'idoji
 
 ---
-ANNEX I DAIDAITUWA DA DOKA DA KA'IDOJI (v 1.3-RC1)
+ANNEX I DAIDAITUWA DA DOKA DA KA'IDOJI (v 1.3-RC2)
 ---
 
 Wannan kwatancen bayani ne na bayanai kawai, ba shawarar doka ba. Ana buƙatar bita ta ƙwararren mai shari'a a kowane yanki kafin amfani da abubuwan §3.

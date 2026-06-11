@@ -3,7 +3,7 @@
 > Benchmarking & Automated Validation
 
 ---
-ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC1)
+ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC2)
 ---
 
 0. ရည်ရွယ်ချက်  

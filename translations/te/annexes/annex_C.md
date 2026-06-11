@@ -3,7 +3,7 @@
 > నియంత్రణ క్రాస్-వాక్
 
 ---
-ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC1)
+ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC2)
 ---
 
 ### ఉద్దేశ్యం

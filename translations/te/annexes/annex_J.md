@@ -3,7 +3,7 @@
 > బెంచ్‌మార్కింగ్ & స్వయంచాలిత ధృవీకరణ
 
 ---
-ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC1)
+ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC2)
 ---
 
 0. ఉద్దేశ్యం  

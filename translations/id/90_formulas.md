@@ -1,6 +1,6 @@
 # Formulas
 
-> Semua formula matematika eksplisit yang didefinisikan dalam spesifikasi CIRIS Accord 1.3-RC1.
+> Semua formula matematika eksplisit yang didefinisikan dalam spesifikasi CIRIS Accord 1.3-RC2.
 
 ## 1. Creator‑Influence Score (CIS)
 

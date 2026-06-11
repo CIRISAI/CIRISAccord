@@ -3,7 +3,7 @@
 > Regulatorischer Quervergleich
 
 ---
-ANNEX C REGULATORISCHER QUERVERGLEICH   (v 1.3-RC1)
+ANNEX C REGULATORISCHER QUERVERGLEICH   (v 1.3-RC2)
 ---
 
 ### Zweck

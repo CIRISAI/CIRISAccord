@@ -3,7 +3,7 @@
 > ਨਿਰੰਤਰ ਪਾਲਣਾ ਅਤੇ ਸਮੀਖਿਆ
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. ਮਕਸਦ ਅਤੇ ਮਾਰਗਦਰਸ਼ਕ ਭਾਵਨਾ

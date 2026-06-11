@@ -3,7 +3,7 @@
 > Benchmarking & Validação Automatizada
 
 ---
-ANNEX J BENCHMARKING & VALIDAÇÃO AUTOMATIZADA (v 1.3-RC1)
+ANNEX J BENCHMARKING & VALIDAÇÃO AUTOMATIZADA (v 1.3-RC2)
 ---
 
 0. Propósito  

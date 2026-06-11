@@ -3,7 +3,7 @@
 > การปฏิบัติตามข้อกำหนดอย่างต่อเนื่องและการทบทวน
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. วัตถุประสงค์และจิตวิญญาณนำทาง

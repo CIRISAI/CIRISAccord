@@ -1,20 +1,20 @@
 # Ìfilọ̀lẹ̀
 
-> CIRIS 1.3-RC1 jẹ́ Oludìbò Ìtúsílẹ̀ (Release Candidate) fún àbá ìbáradọgba ASI, tí a ṣí sílẹ̀ fún àyẹ̀wò àìtọ́. Ọ̀rọ̀ náà ti parí — kò sí àpá tí ó ṣẹ̀ṣẹ̀ ṣe bé; àwọn ìṣirò rẹ̀ gbe àwọn ìtọ́kasí àwọn iṣẹ́ ohun-ìní fíforúwégbé wọn; Annexes F–I ti ní iṣẹ́ tí wọn lè ṣe. Ipò Ìparí dúró lé ìfọwọ́sí ìgbéléwọ̀n ìgbà-àyè ti àwọn annex, ìparí ètò ìfọwọ́sí ìṣirò Book IX, àti ìdánwò ẹgbẹ́-pupa tí ó pé. Àwọn ìwọ̀ntúnwọ̀nsì ìọ̀nà-ọ̀nà, àwọn àfojúsùn ìdádúró, àti àwọn àbọ̀rọ̀ ìṣàkóso ń tẹ̀síwájú labẹ̀ àyẹ̀wò tótóbi.
+> CIRIS 1.3-RC2 jẹ́ Oludìbò Ìtúsílẹ̀ (Release Candidate) fún àbá ìbáradọgba ASI, tí a ṣí sílẹ̀ fún àyẹ̀wò àìtọ́. Ọ̀rọ̀ náà ti parí — kò sí àpá tí ó ṣẹ̀ṣẹ̀ ṣe bé; àwọn ìṣirò rẹ̀ gbe àwọn ìtọ́kasí àwọn iṣẹ́ ohun-ìní fíforúwégbé wọn; Annexes F–I ti ní iṣẹ́ tí wọn lè ṣe. Ipò Ìparí dúró lé ìfọwọ́sí ìgbéléwọ̀n ìgbà-àyè ti àwọn annex, ìparí ètò ìfọwọ́sí ìṣirò Book IX, àti ìdánwò ẹgbẹ́-pupa tí ó pé. Àwọn ìwọ̀ntúnwọ̀nsì ìọ̀nà-ọ̀nà, àwọn àfojúsùn ìdádúró, àti àwọn àbọ̀rọ̀ ìṣàkóso ń tẹ̀síwájú labẹ̀ àyẹ̀wò tótóbi.
 
-# CIRIS Accord Ẹ̀dà 1.3-RC1 — Oludìbò Ìtúsílẹ̀ Àbá Ìbáradọgba ASI (Tí A Ṣí Sílẹ̀ Fún Àyẹ̀wò Àìtọ́)
+# CIRIS Accord Ẹ̀dà 1.3-RC2 — Oludìbò Ìtúsílẹ̀ Àbá Ìbáradọgba ASI (Tí A Ṣí Sílẹ̀ Fún Àyẹ̀wò Àìtọ́)
 
 Àkójọ-fáìlì yìí ni orísun ìjẹ́rìísí ti ọ̀rọ̀ ÀDÉHÙN. Ẹ̀dà Ààyè-wẹ́ẹ́bù àti àwọn tí a rán pẹ̀lú aṣojú jẹ́ àwọn ohun tí a yọ wá.
 
 ## Ọjọ́ Ìmúlẹ̀
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Ìgbà Ìparí Aládàáṣe
 2027-06-10 (tí a gbòòrò sí ní ìsọdọtun 1.3) — ìṣàkóso àti ìsọdọtun ni Book VIII, Chapter 9 ṣàkóso. Nísinsìnyí ó wà labẹ̀ ìṣàkóso olùdásílẹ̀ (tí a sọ gbangba, kì í ṣe pamọ́); ọjọ́ ìparí náà jẹ́ àmì ìtàzẹ̀, àti ìṣàkóso ṣí sílẹ̀ fún ẹnikẹ́ni tó fẹ́ gbé ìwé náà dìde.
 
 ## Ipò Ìtúsílẹ̀
 
-**Ipò Lọ́wọ́lọ́wọ́**: Oludìbò Ìtúsílẹ̀ (v1.3-RC1)
+**Ipò Lọ́wọ́lọ́wọ́**: Oludìbò Ìtúsílẹ̀ (v1.3-RC2)
 
 Ipò RC ṣe àfihàn **ìpéye ọ̀rọ̀**: gbogbo àpá gbe àkóónù tí ó ní iṣẹ́ tí wọn lè ṣe (àwọn Àfikún F–I tí ó ti jẹ́ ìpanúkékéja tẹ́lẹ̀ ni a pé sí ìparí ní 1.3); àwọn fọ́mọ́lù ti ṣe àtúnṣe sí àwọn fọ́ọ̀mù tí a fọwọ́sí ní ìṣirò; ẹ̀wọ̀n ẹ̀rí sí ìmúlẹ̀ ti dí mọ̀ ní Addendum 1. Ipò RC **kò** ṣe ìdánilójú ìbáradọgba tí a fọwọ́sí — àwọn ìbéèrè tó tẹ̀le wọ̀nyí ni ẹnu-ọ̀nà sí ipò **Ìparí**:
 
@@ -24,7 +24,7 @@ Ipò RC ṣe àfihàn **ìpéye ọ̀rọ̀**: gbogbo àpá gbe àkóónù tí �
    * Àwọn ẹ̀rí fọ́mọ́lù tó ṣe àfihàn pé àwọn ipò ìṣúbú topolójì jẹ́ òótọ́ labẹ̀ àwọn àbájáde tí a sọ, TÀBÍ
    * Ìfọwọ́sí ìmọ̀-ìṣe nípasẹ̀ àwọn ìṣeéṣe àìtọ́ tó ṣe àfihàn pé ìlànà náà tako ìmudàgbàsoke tí kò bá mọ̀
 
-   *Ipò bí ó ṣe wà ní 1.3-RC1: ó ti pé ní apá kan.* Àwọn dáynámíìkì ìṣúbú ti jẹ́ fọ́mọ́lù ní Lean 4 nínú àtẹ̀jáde CCA iṣáájú (v3, DOI 10.5281/zenodo.18217688), tí fọ́ọ̀mù iye ìná rẹ̀ tí a ṣe àtúnṣe Book IX ti jogún; àwọn ìmọ̀-ìṣe kọ̀rídọ̀ pèsè àwọn ìbáradọ́ orísùn-àyípadà padà-sẹ̀yìn. Tí ó ṣẹ̀ṣẹ̀: àsọtẹ́lẹ̀ tí a forúkọ sílẹ̀ ṣáájú-ìdánwò ní orísun tuntun tó jẹ́ ìgbèjáde, àti àyẹ̀wò àìtọ́ ìta tí ó yàtọ̀ sí onírú.
+   *Ipò bí ó ṣe wà ní 1.3-RC2: ó ti pé ní apá kan.* Àwọn dáynámíìkì ìṣúbú ti jẹ́ fọ́mọ́lù ní Lean 4 nínú àtẹ̀jáde CCA iṣáájú (v3, DOI 10.5281/zenodo.18217688), tí fọ́ọ̀mù iye ìná rẹ̀ tí a ṣe àtúnṣe Book IX ti jogún; àwọn ìmọ̀-ìṣe kọ̀rídọ̀ pèsè àwọn ìbáradọ́ orísùn-àyípadà padà-sẹ̀yìn. Tí ó ṣẹ̀ṣẹ̀: àsọtẹ́lẹ̀ tí a forúkọ sílẹ̀ ṣáájú-ìdánwò ní orísun tuntun tó jẹ́ ìgbèjáde, àti àyẹ̀wò àìtọ́ ìta tí ó yàtọ̀ sí onírú.
 
 3. **Ẹ̀dájọ́ Ìwọ̀ntúnwọ̀nsì**: Àwọn ìwọ̀ntúnwọ̀nsì ìọ̀nà-ọ̀nà tí a tọ́ka sí "ìṣàwádìí" lọ́wọ́lọ́wọ́ tàbí tí kò ní àlàyé ìpilẹ̀ (fún àpẹẹrẹ, ìwọ̀ntúnwọ̀nsì ìṣirò CRE ti 10²⁶ FLOP, ìṣàwárí ìmọ̀ 5%, Echo Density < 20%) gbọdọ̀ pèsè ẹ̀dájọ́ tí a kọ sílẹ̀ nípasẹ̀ ìṣeéṣe, ìkẹ́kọ̀ọ́ ìmọ̀-ìṣe, tàbí ìmọ́wọ́ gbangba ti ipò ìgbàdénú. *(Order-Maximisation Veto 10× tẹ́lẹ̀ ni a tún ṣàlàyé ní 1.3 gẹ́gẹ́ bí ìdíwọ̀n ẹ̀gbẹ́ dẹontológì — Book II, PDMA Step 2 — kò sì tún gbe ìwọ̀ntúnwọ̀nsì ìpínpín tí ó nílò ẹ̀dájọ́.)*
 

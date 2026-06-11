@@ -1,20 +1,20 @@
 # Gabatarwa
 
-> CIRIS 1.3-RC1 wani shiri ne na Release Candidate don daidaita ASI, buɗe ga bita mai adawa. Rubutun ya cika — babu sashe da aka bar a tsakiya; lissafin lissafi yana ɗauke da ambaton kayan hujja na hukuma; Annexes F–I sun kasance a aiki. Matsayin ƙarshe yana jiran tabbatar da zagaye mai rai na annexes, kammala shirin tabbatarwa na zahiri na Book IX, da kuma cin jarabawar adawa cikakkiya. Matakan lambobi, manufofin jinkiri, da ƙayyadaddun mulki suna cikin bita na aiki.
+> CIRIS 1.3-RC2 wani shiri ne na Release Candidate don daidaita ASI, buɗe ga bita mai adawa. Rubutun ya cika — babu sashe da aka bar a tsakiya; lissafin lissafi yana ɗauke da ambaton kayan hujja na hukuma; Annexes F–I sun kasance a aiki. Matsayin ƙarshe yana jiran tabbatar da zagaye mai rai na annexes, kammala shirin tabbatarwa na zahiri na Book IX, da kuma cin jarabawar adawa cikakkiya. Matakan lambobi, manufofin jinkiri, da ƙayyadaddun mulki suna cikin bita na aiki.
 
-# CIRIS Accord Sigar 1.3-RC1 — Shawarar Daidaita ASI ta Release Candidate (Buɗe ga Bita mai Adawa)
+# CIRIS Accord Sigar 1.3-RC2 — Shawarar Daidaita ASI ta Release Candidate (Buɗe ga Bita mai Adawa)
 
 Wannan ma'ajiyar ita ce tushen asali na rubutun Accord. Kwafi na gidan yanar gizo da na wakili su ne kayan da aka samo daga nan.
 
 ## An Fitar
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Auto-Expires
 2027-06-10 (an tsawaita a sabuntawar 1.3) — kula da shi da sabuntawa suna ƙarƙashin Book VIII, Chapter 9. A halin yanzu ɗan kafa ne ke kulawa (an bayyana haka, ba a ɓoye ba); ƙarewar wannan wata alama ce ta sabuntawa, kuma kulawa a buɗe take ga kowa mai son ɗaukar wannan takarda.
 
 ## Matsayin Fitar
 
-**Matsayi na Yanzu**: Release Candidate (v1.3-RC1)
+**Matsayi na Yanzu**: Release Candidate (v1.3-RC2)
 
 Matsayin RC yana nuna **cikakken rubutu**: kowane sashe yana ɗauke da abun ciki mai aiki (tsoffin annex F–I da aka bar a ƙasa an kammala su a 1.3); an gyara lissafin zuwa nau'in da aka tabbatar da shi a hukumance; sarkar shaida zuwa aiwatarwa an ɗaura shi a Addendum 1. Matsayin RC **baya** tabbatar da daidaito da aka tabbatar — waɗannan buƙatu suna toshe matsayin **Ƙarshe**:
 
@@ -24,7 +24,7 @@ Matsayin RC yana nuna **cikakken rubutu**: kowane sashe yana ɗauke da abun ciki
    * Tabbatattun hujjoji da ke nuna yanayin rugujewa na topology suna aiki a ƙarƙashin zato da aka bayyana, KO
    * Tabbatarwa ta gwaji ta hanyar kwaikwayowar adawa da ke nuna tsarin yana tsayawa wa daidaitawar da ta ɓace
 
-   *Matsayi kamar na 1.3-RC1: an cika wani ɓangare.* An tsara kuzarin rugujewa a Lean 4 a cikin babban bugawa na CCA (v3, DOI 10.5281/zenodo.18217688), wanda sifar farashin da aka gyara ta Book IX yanzu ta gāda daga gare shi; gwajin corridor yana ba da dacewa da asali kan substrates daban-daban. Abin da ya rage: hasashe da aka yi rajistar sa kafin gwajin a cikin sabon substrate, da bita mai adawa mai zaman kanta daga marubucin.
+   *Matsayi kamar na 1.3-RC2: an cika wani ɓangare.* An tsara kuzarin rugujewa a Lean 4 a cikin babban bugawa na CCA (v3, DOI 10.5281/zenodo.18217688), wanda sifar farashin da aka gyara ta Book IX yanzu ta gāda daga gare shi; gwajin corridor yana ba da dacewa da asali kan substrates daban-daban. Abin da ya rage: hasashe da aka yi rajistar sa kafin gwajin a cikin sabon substrate, da bita mai adawa mai zaman kanta daga marubucin.
 
 3. **Tabbatar da Lambobi**: Lambobin da aka ƙayyadada a yanzu da aka yiwa alama "gwaji" ko marasa asali (misali, ƙayyadaddun lissafi na CRE na 10²⁶ FLOP, gano hankali mai rai 5%, Echo Density < 20%) dole su ba da tabbatacciyar dalili ta hanyar kwaikwayo, bincike na gwaji, ko amincewa bayyananne da matsayin wucin gadi. *(Tsoffin Order-Maximisation Veto mai rabo 10× an sake bayyana shi a 1.3 a matsayin ƙayyadaddun ɓangarori na deontikal — Book II, PDMA Step 2 — kuma ba shi da ƙayyadaddun rabo don tabbatarwa.)*
 

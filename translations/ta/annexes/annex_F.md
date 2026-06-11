@@ -3,7 +3,7 @@
 > மனித-கண்காணிப்பு மற்றும் மேற்பார்வை
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC2)
 ---
 
 ### 0. நோக்கம் மற்றும் தத்துவம்

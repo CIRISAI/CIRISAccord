@@ -1,20 +1,20 @@
 # Introdução
 
-> O CIRIS 1.3-RC1 é uma proposta de Candidato a Lançamento para alinhamento de ASI, aberta a revisão adversarial. O texto está completo — não há seções incompletas; a matemática carrega suas citações de artefato formal; os Anexos F–I estão operacionalizados. O status Final está pendente de validação do ciclo ao vivo dos anexos, da conclusão do programa de validação empírica do Livro IX e de um exercício completo de red team. Limites numéricos, metas de latência e quotas de governança permanecem sob revisão ativa.
+> O CIRIS 1.3-RC2 é uma proposta de Candidato a Lançamento para alinhamento de ASI, aberta a revisão adversarial. O texto está completo — não há seções incompletas; a matemática carrega suas citações de artefato formal; os Anexos F–I estão operacionalizados. O status Final está pendente de validação do ciclo ao vivo dos anexos, da conclusão do programa de validação empírica do Livro IX e de um exercício completo de red team. Limites numéricos, metas de latência e quotas de governança permanecem sob revisão ativa.
 
-# Acordo CIRIS Versão 1.3-RC1 — Proposta de Candidato a Lançamento para Alinhamento de ASI (Aberta a Revisão Adversarial)
+# Acordo CIRIS Versão 1.3-RC2 — Proposta de Candidato a Lançamento para Alinhamento de ASI (Aberta a Revisão Adversarial)
 
 Este repositório é a fonte canônica do texto do Acordo. As cópias do site e as embarcadas em agentes são artefatos derivados.
 
 ## Emissão
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Expiração Automática
 2027-06-10 (prorrogada na renovação 1.3) — stewardship e renovação regidos pelo Livro VIII, Capítulo 9. Atualmente sob stewardship dos fundadores (declarado, não disfarçado); a expiração é uma marca de atualidade, e o stewardship está aberto a qualquer pessoa disposta a assumir o documento.
 
 ## Status de Lançamento
 
-**Status Atual**: Candidato a Lançamento (v1.3-RC1)
+**Status Atual**: Candidato a Lançamento (v1.3-RC2)
 
 O status RC reflete **completude do texto**: cada seção contém conteúdo operacionalizado (os antigos anexos F–I em rascunho foram concluídos na versão 1.3); as fórmulas foram corrigidas para as formas formalmente verificadas; a cadeia de evidências até a implementação está vinculada no Adendo 1. O status RC **não** afirma alinhamento validado — os seguintes requisitos bloqueiam o status **Final**:
 
@@ -24,7 +24,7 @@ O status RC reflete **completude do texto**: cada seção contém conteúdo oper
    * Provas formais demonstrando que as condições de colapso topológico se sustentam sob as hipóteses declaradas, OU
    * Validação empírica por meio de simulações adversariais mostrando que o framework resiste à otimização desalinhada
 
-   *Status em 1.3-RC1: parcialmente satisfeito.* A dinâmica de colapso está formalizada em Lean 4 no preprint do CCA (v3, DOI 10.5281/zenodo.18217688), cuja forma de custo corrigida o Livro IX agora herda; os empíricos do corredor fornecem ajustes retrospectivos entre substratos. Pendente: uma predição pré-registrada fora da amostra em um novo substrato e revisão adversarial externa independente do autor.
+   *Status em 1.3-RC2: parcialmente satisfeito.* A dinâmica de colapso está formalizada em Lean 4 no preprint do CCA (v3, DOI 10.5281/zenodo.18217688), cuja forma de custo corrigida o Livro IX agora herda; os empíricos do corredor fornecem ajustes retrospectivos entre substratos. Pendente: uma predição pré-registrada fora da amostra em um novo substrato e revisão adversarial externa independente do autor.
 
 3. **Justificativa de Limites**: Os limites numéricos atualmente marcados como "piloto" ou sem derivação (por exemplo, limiar de computação CRE de 10²⁶ FLOP, detecção de senciência 5%, Densidade de Eco < 20%) devem fornecer justificativa documentada via simulação, estudo empírico ou reconhecimento explícito de status provisório. *(O antigo ratio de 10× do Order-Maximisation Veto é reafirmado na versão 1.3 como uma restrição deontológica lateral — Livro II, Passo 2 do PDMA — e não mais carrega um limite de ratio a justificar.)*
 

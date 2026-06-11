@@ -3,7 +3,7 @@
 > Đối chiếu Quy định
 
 ---
-PHỤ LỤC C ĐỐI CHIẾU QUY ĐỊNH   (v 1.3-RC1)
+PHỤ LỤC C ĐỐI CHIẾU QUY ĐỊNH   (v 1.3-RC2)
 ---
 
 ### Mục đích

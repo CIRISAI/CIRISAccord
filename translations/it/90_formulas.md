@@ -1,6 +1,6 @@
 # Formule
 
-> Tutte le formule matematiche esplicite definite nella specifica CIRIS Accord 1.3-RC1.
+> Tutte le formule matematiche esplicite definite nella specifica CIRIS Accord 1.3-RC2.
 
 ## 1. Punteggio di Influenza del Creatore (CIS)
 

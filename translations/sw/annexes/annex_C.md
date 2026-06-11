@@ -3,7 +3,7 @@
 > Mwelekeo wa Kanuni za Udhibiti
 
 ---
-ANNEX C MWELEKEO WA KANUNI ZA UDHIBITI   (v 1.3-RC1)
+ANNEX C MWELEKEO WA KANUNI ZA UDHIBITI   (v 1.3-RC2)
 ---
 
 ### Madhumuni

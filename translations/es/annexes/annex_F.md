@@ -3,7 +3,7 @@
 > Supervisión Humana y Control en el Bucle
 
 ---
-ANNEX F SUPERVISIÓN HUMANA Y CONTROL EN EL BUCLE (v 1.3-RC1)
+ANNEX F SUPERVISIÓN HUMANA Y CONTROL EN EL BUCLE (v 1.3-RC2)
 ---
 
 ### 0. Propósito y Filosofía

@@ -1,6 +1,6 @@
 # Annexes
 
-> Cadres de soutien et protocoles. À compter de la version 1.3-RC1, toutes les annexes contiennent un texte opérationnalisé ; aucune ne demeure à l'état d'ébauche.
+> Cadres de soutien et protocoles. À compter de la version 1.3-RC2, toutes les annexes contiennent un texte opérationnalisé ; aucune ne demeure à l'état d'ébauche.
 
 * [Annexe A — Cadre de Métriques de Floraison](annex_A.md)
 * [Annexe B — Charte de Gouvernance de la Wise Authority](annex_B.md)
@@ -13,4 +13,4 @@
 * [Annexe I — Alignement Juridique & Réglementaire](annex_I.md)
 * [Annexe J — Étalonnage & Validation Automatisée](annex_J.md)
 
-Statut d'opérationnalisation : les Annexes F–I ont été finalisées à la version 1.3-RC1 (à partir des brouillons de finalisation de mai 2026 fondés sur le mappage *Magnifica Humanitas*) ; leurs procédures n'ont pas encore été mises à l'épreuve d'un cycle de déploiement réel — cette validation est suivie sous l'exigence RC 1 (voir Introduction et Addendum 1 §1.4).
+Statut d'opérationnalisation : les Annexes F–I ont été finalisées à la version 1.3-RC2 (à partir des brouillons de finalisation de mai 2026 fondés sur le mappage *Magnifica Humanitas*) ; leurs procédures n'ont pas encore été mises à l'épreuve d'un cycle de déploiement réel — cette validation est suivie sous l'exigence RC 1 (voir Introduction et Addendum 1 §1.4).

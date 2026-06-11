@@ -3,7 +3,7 @@
 > بینچ مارکنگ اور خودکار توثیق
 
 ---
-ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC1)
+ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC2)
 ---
 
 0. مقصد  

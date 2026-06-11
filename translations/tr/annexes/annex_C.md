@@ -3,7 +3,7 @@
 > Düzenleyici Çapraz Referans
 
 ---
-EK C DÜZENLEYİCİ ÇAPRAZ REFERANS   (v 1.3-RC1)
+EK C DÜZENLEYİCİ ÇAPRAZ REFERANS   (v 1.3-RC2)
 ---
 
 ### Amaç

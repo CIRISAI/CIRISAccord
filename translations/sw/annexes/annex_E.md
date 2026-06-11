@@ -3,7 +3,7 @@
 > Mifumo ya Ushawishi wa Kimuundo (SI) na Hisa ya Upatanifu (CS)
 
 ---
-ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC2)
 ---
 
 ---

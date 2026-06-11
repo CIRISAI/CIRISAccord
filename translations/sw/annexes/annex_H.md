@@ -3,7 +3,7 @@
 > Ufuatiliaji wa Kuzingatia & Ukaguzi Unaoendelea
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. Madhumuni na Roho ya Mwongozo

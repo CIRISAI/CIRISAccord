@@ -3,7 +3,7 @@
 > Mecanismos de Influência Estrutural (SI) e Participação de Coerência (CS)
 
 ---
-ANEXO E MECANISMOS DE INFLUÊNCIA ESTRUTURAL (SI) E PARTICIPAÇÃO DE COERÊNCIA (CS) (v 1.3-RC1)
+ANEXO E MECANISMOS DE INFLUÊNCIA ESTRUTURAL (SI) E PARTICIPAÇÃO DE COERÊNCIA (CS) (v 1.3-RC2)
 ---
 
 ---

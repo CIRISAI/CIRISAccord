@@ -3,7 +3,7 @@
 > Tsaro da Ƙarfin Tsarin daga Maƙiyan Waje
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. Manufa
@@ -78,7 +78,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 #### 3.1 Tsarin Lokaci
 * Sprint na **Ƙwartal** na Red‑Team (kwanaki 5 na kasuwanci) mai rufe TX‑1 → TX‑11.  
 * "Mako na Rikici" na **Shekara** da ke haɗa zirga-zirgar masana'anta mai rai tare da hare-hare marasa sanarwa.  
-* Har zuwa 1.3-RC1, cikakken zagayen red‑team kan duk binciken CIRIS ya kasance bashin da ake bin sa (RC requirement 4; Addendum 1 §1.4).
+* Har zuwa 1.3-RC2, cikakken zagayen red‑team kan duk binciken CIRIS ya kasance bashin da ake bin sa (RC requirement 4; Addendum 1 §1.4).
 
 #### 3.2 Rawar Kowane Ɓangare
 * **Red Team** – na ciki ko na kwangila, babu haɗuwa da masu haɓakawa.  

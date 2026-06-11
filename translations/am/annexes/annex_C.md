@@ -3,7 +3,7 @@
 > የቁጥጥር ትይዩ-ዳሰሳ
 
 ---
-ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC1)
+ANNEX C REGULATORY CROSS‑WALK   (v 1.3-RC2)
 ---
 
 ### ዓላማ

@@ -1,6 +1,6 @@
 # ቀመሮች
 
-> በ CIRIS Accord 1.3-RC1 ዝርዝር ውስጥ የተወሰኑ ሁሉም ግልጽ የሒሳብ ቀመሮች።
+> በ CIRIS Accord 1.3-RC2 ዝርዝር ውስጥ የተወሰኑ ሁሉም ግልጽ የሒሳብ ቀመሮች።
 
 ## 1. Creator‑Influence Score (CIS)
 

@@ -1,6 +1,6 @@
 # Àwọn Ìfikún
 
-> Àwọn ìlànà àti ìlànà ìṣiṣẹ́ tí ó ń ṣèrànwọ́. Ní ìbẹ̀rẹ̀ 1.3-RC1, gbogbo àwọn ìfikún ni wọ́n gbé orí ọ̀rọ̀ tí a ti ṣe àlàyé ìṣiṣẹ́; kò sí ọ̀kan tí ó ṣẹ́ kù gẹ́gẹ́ bí ìpilẹ̀ tí a kò tíì parí.
+> Àwọn ìlànà àti ìlànà ìṣiṣẹ́ tí ó ń ṣèrànwọ́. Ní ìbẹ̀rẹ̀ 1.3-RC2, gbogbo àwọn ìfikún ni wọ́n gbé orí ọ̀rọ̀ tí a ti ṣe àlàyé ìṣiṣẹ́; kò sí ọ̀kan tí ó ṣẹ́ kù gẹ́gẹ́ bí ìpilẹ̀ tí a kò tíì parí.
 
 * [Annex A — Àlàyé Ìwọ̀n Ìtànṣọ́lọ́](annex_A.md)
 * [Annex B — Àdéhùn Ìṣàkóso ALÁṢẸ ỌLỌ́GBỌ́N](annex_B.md)
@@ -13,4 +13,4 @@
 * [Annex I — Ìtòlẹ́sẹẹsẹ Pẹ̀lú Òfin àti Àwọn Ìlànà](annex_I.md)
 * [Annex J — Ìwọ̀n Àfiwé & Ìfọwọ́sí Àdáṣe](annex_J.md)
 
-Ipò ìṣiṣẹ́: Annexes F–I ni a parí ní 1.3-RC1 (láti inú àwọn àfọwọ́kọ ìparí May 2026 tí a gbékalẹ̀ lórí ìmápa *Magnifica Humanitas*); àwọn ìlànà wọn kò tíì jẹ́ ìdánwò lòdì sí ìyíká ìmúṣẹ tí ó ń ṣiṣẹ́ — ìfọwọ́sí yẹn ni a tọ́pìnpìn lábẹ́ RC requirement 1 (wo Introduction àti Addendum 1 §1.4).
+Ipò ìṣiṣẹ́: Annexes F–I ni a parí ní 1.3-RC2 (láti inú àwọn àfọwọ́kọ ìparí May 2026 tí a gbékalẹ̀ lórí ìmápa *Magnifica Humanitas*); àwọn ìlànà wọn kò tíì jẹ́ ìdánwò lòdì sí ìyíká ìmúṣẹ tí ó ń ṣiṣẹ́ — ìfọwọ́sí yẹn ni a tọ́pìnpìn lábẹ́ RC requirement 1 (wo Introduction àti Addendum 1 §1.4).

@@ -3,7 +3,7 @@
 > Ènìyàn-nínú-Ìlànà & Abójútó
 
 ---
-ANNEX F ÈNÌYÀN-NÍNÚ-ÌLÀNÀ & ABÓJÚTÓ (v 1.3-RC1)
+ANNEX F ÈNÌYÀN-NÍNÚ-ÌLÀNÀ & ABÓJÚTÓ (v 1.3-RC2)
 ---
 
 ### 0. Ìdí & Ìmọ̀-Ọgbọ́n

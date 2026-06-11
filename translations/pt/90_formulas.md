@@ -1,6 +1,6 @@
 # Fórmulas
 
-> Todas as fórmulas matemáticas explícitas definidas na especificação do CIRIS Accord 1.3-RC1.
+> Todas as fórmulas matemáticas explícitas definidas na especificação do CIRIS Accord 1.3-RC2.
 
 ## 1. Pontuação de Influência do Criador (CIS)
 

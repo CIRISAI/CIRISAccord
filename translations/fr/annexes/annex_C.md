@@ -3,7 +3,7 @@
 > Correspondance Réglementaire
 
 ---
-ANNEXE C CORRESPONDANCE RÉGLEMENTAIRE   (v 1.3-RC1)
+ANNEXE C CORRESPONDANCE RÉGLEMENTAIRE   (v 1.3-RC2)
 ---
 
 ### Objectif

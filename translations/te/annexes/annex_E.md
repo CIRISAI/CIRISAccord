@@ -3,7 +3,7 @@
 > నిర్మాణాత్మక ప్రభావం (SI) మరియు సంఘటన వాటా (CS) యంత్రాంగాలు
 
 ---
-ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC1)
+ANNEX E STRUCTURAL INFLUENCE (SI) & COHERENCE STAKE (CS) MECHANISMS (v 1.3-RC2)
 ---
 
 

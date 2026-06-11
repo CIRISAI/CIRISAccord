@@ -1,6 +1,6 @@
 # Formüller
 
-> CIRIS Accord 1.3-RC1 spesifikasyonunda tanımlanan tüm açık matematiksel formüller.
+> CIRIS Accord 1.3-RC2 spesifikasyonunda tanımlanan tüm açık matematiksel formüller.
 
 ## 1. Yaratıcı Etki Puanı (CIS)
 

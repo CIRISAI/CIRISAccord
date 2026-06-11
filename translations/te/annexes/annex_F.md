@@ -3,7 +3,7 @@
 > Human‑in‑the‑Loop & Oversight
 
 ---
-ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC1)
+ANNEX F HUMAN‑IN‑THE‑LOOP & OVERSIGHT (v 1.3-RC2)
 ---
 
 ### 0. ఉద్దేశ్యం & తత్వశాస్త్రం

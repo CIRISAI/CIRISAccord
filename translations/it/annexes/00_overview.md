@@ -1,6 +1,6 @@
 # Allegati
 
-> Framework e protocolli di supporto. A partire dalla versione 1.3-RC1 tutti gli allegati contengono testo operativizzato; nessuno rimane incompleto.
+> Framework e protocolli di supporto. A partire dalla versione 1.3-RC2 tutti gli allegati contengono testo operativizzato; nessuno rimane incompleto.
 
 * [Allegato A — Framework delle Metriche di Fioritura](annex_A.md)
 * [Allegato B — Carta di Governance della Wise Authority](annex_B.md)
@@ -13,4 +13,4 @@
 * [Allegato I — Allineamento Legale e Normativo](annex_I.md)
 * [Allegato J — Benchmarking e Validazione Automatizzata](annex_J.md)
 
-Stato di operativizzazione: Gli Allegati F–I sono stati completati alla versione 1.3-RC1 (dalle bozze di completamento del maggio 2026 fondate sulla mappatura *Magnifica Humanitas*); le loro procedure non sono ancora state esercitate in un ciclo di distribuzione reale — tale validazione è monitorata nell'ambito del requisito RC 1 (cfr. Introduzione e Addendum 1 §1.4).
+Stato di operativizzazione: Gli Allegati F–I sono stati completati alla versione 1.3-RC2 (dalle bozze di completamento del maggio 2026 fondate sulla mappatura *Magnifica Humanitas*); le loro procedure non sono ancora state esercitate in un ciclo di distribuzione reale — tale validazione è monitorata nell'ambito del requisito RC 1 (cfr. Introduzione e Addendum 1 §1.4).

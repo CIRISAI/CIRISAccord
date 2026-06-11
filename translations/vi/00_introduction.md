@@ -1,20 +1,20 @@
 # Giới Thiệu
 
-> CIRIS 1.3-RC1 là một Ứng Viên Phát Hành đề xuất căn chỉnh ASI, mở để phản biện đối nghịch. Văn bản đã hoàn chỉnh — không còn phần nào ở dạng phác thảo; các công thức toán học mang các trích dẫn hiện vật hình thức; Phụ lục F–I đã được vận hành hóa. Trạng thái Cuối cùng đang chờ xác nhận chu kỳ thực tế của các phụ lục, hoàn thành chương trình xác nhận thực nghiệm của Book IX, và một đợt diễn tập red-team toàn diện. Các ngưỡng số, mục tiêu độ trễ, và hạn ngạch quản trị vẫn đang được xem xét tích cực.
+> CIRIS 1.3-RC2 là một Ứng Viên Phát Hành đề xuất căn chỉnh ASI, mở để phản biện đối nghịch. Văn bản đã hoàn chỉnh — không còn phần nào ở dạng phác thảo; các công thức toán học mang các trích dẫn hiện vật hình thức; Phụ lục F–I đã được vận hành hóa. Trạng thái Cuối cùng đang chờ xác nhận chu kỳ thực tế của các phụ lục, hoàn thành chương trình xác nhận thực nghiệm của Book IX, và một đợt diễn tập red-team toàn diện. Các ngưỡng số, mục tiêu độ trễ, và hạn ngạch quản trị vẫn đang được xem xét tích cực.
 
-# CIRIS Accord Phiên Bản 1.3-RC1 — Ứng Viên Phát Hành Đề Xuất Căn Chỉnh ASI (Mở để Phản Biện Đối Nghịch)
+# CIRIS Accord Phiên Bản 1.3-RC2 — Ứng Viên Phát Hành Đề Xuất Căn Chỉnh ASI (Mở để Phản Biện Đối Nghịch)
 
 Kho lưu trữ này là nguồn chính tắc của văn bản Accord. Các bản sao trên trang web và được vận chuyển qua tác nhân là các hiện vật phái sinh.
 
 ## Ngày Phát Hành
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Tự Động Hết Hạn
 2027-06-10 (gia hạn tại lần đổi mới 1.3) — việc quản lý và đổi mới được điều phối bởi Book VIII, Chapter 9. Hiện đang được quản lý bởi người sáng lập (được khai báo công khai, không được che giấu); ngày hết hạn là dấu mốc độ tươi mới, và việc quản lý mở cho bất kỳ ai sẵn lòng tiếp nhận tài liệu.
 
 ## Trạng Thái Phát Hành
 
-**Trạng Thái Hiện Tại**: Ứng Viên Phát Hành (v1.3-RC1)
+**Trạng Thái Hiện Tại**: Ứng Viên Phát Hành (v1.3-RC2)
 
 Trạng thái RC phản ánh **sự hoàn chỉnh của văn bản**: mọi phần đều mang nội dung được vận hành hóa (các phụ lục phác thảo cũ F–I đã được hoàn thành tại 1.3); các công thức đã được hiệu chỉnh về dạng được xác minh hình thức; chuỗi bằng chứng đến triển khai được ràng buộc trong Addendum 1. Trạng thái RC **không** khẳng định căn chỉnh đã được xác nhận — các yêu cầu sau đây là điều kiện bắt buộc để đạt trạng thái **Cuối Cùng**:
 
@@ -24,7 +24,7 @@ Trạng thái RC phản ánh **sự hoàn chỉnh của văn bản**: mọi ph�
    * Bằng chứng hình thức chứng minh các điều kiện sụp đổ cấu trúc tô-pô đúng dưới các giả định đã nêu, HOẶC
    * Xác nhận thực nghiệm thông qua các mô phỏng đối nghịch cho thấy khung chống lại tối ưu hóa lệch hướng
 
-   *Trạng thái tính đến 1.3-RC1: được thỏa mãn một phần.* Động học sụp đổ được hình thức hóa trong Lean 4 trong bản preprint CCA (v3, DOI 10.5281/zenodo.18217688), mà dạng chi phí đã hiệu chỉnh của nó Book IX hiện kế thừa; các dữ liệu thực nghiệm hành lang cung cấp các khớp hồi cứu trên nhiều nền tảng. Còn thiếu: một dự đoán ngoài mẫu được đăng ký trước trong một nền tảng mới, và đánh giá đối nghịch bên ngoài độc lập với tác giả.
+   *Trạng thái tính đến 1.3-RC2: được thỏa mãn một phần.* Động học sụp đổ được hình thức hóa trong Lean 4 trong bản preprint CCA (v3, DOI 10.5281/zenodo.18217688), mà dạng chi phí đã hiệu chỉnh của nó Book IX hiện kế thừa; các dữ liệu thực nghiệm hành lang cung cấp các khớp hồi cứu trên nhiều nền tảng. Còn thiếu: một dự đoán ngoài mẫu được đăng ký trước trong một nền tảng mới, và đánh giá đối nghịch bên ngoài độc lập với tác giả.
 
 3. **Biện Minh Ngưỡng**: Các ngưỡng số hiện được đánh dấu là "thí điểm" hoặc thiếu sự dẫn xuất (ví dụ: ngưỡng tính toán CRE là 10²⁶ FLOP, phát hiện ý thức 5%, Mật Độ Echo < 20%) phải cung cấp biện minh được lập tài liệu thông qua mô phỏng, nghiên cứu thực nghiệm, hoặc xác nhận rõ ràng về trạng thái tạm thời. *(Order-Maximisation Veto tỷ lệ 10× cũ được diễn đạt lại trong 1.3 như một ràng buộc phụ nghĩa vụ luận — Book II, PDMA Step 2 — và không còn mang một ngưỡng tỷ lệ cần biện minh.)*
 

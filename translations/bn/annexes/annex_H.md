@@ -3,7 +3,7 @@
 > Continuous Compliance & Review
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. উদ্দেশ্য ও পরিচালনাকারী চেতনা

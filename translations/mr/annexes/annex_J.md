@@ -3,7 +3,7 @@
 > बेंचमार्किंग आणि स्वयंचलित प्रमाणीकरण
 
 ---
-ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC1)
+ANNEX J BENCHMARKING & AUTOMATED VALIDATION (v 1.3-RC2)
 ---
 
 0. उद्देश  

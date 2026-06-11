@@ -1,20 +1,20 @@
 # နိဒါန်း
 
-> CIRIS 1.3-RC1 သည် Release Candidate ASI alignment အဆိုပြုချက်တစ်ခုဖြစ်ပြီး ဆန့်ကျင်ဘက် သုံးသပ်ချက်အတွက် ဖွင့်လှစ်ထားသည်။ စာသားသည် ပြည့်စုံသည် — stub section များ မကျန်တော့ပေ၊ သင်္ချာများတွင် ၎င်း၏ formal-artifact citation များပါဝင်ပြီး Annexes F–I ကို လုပ်ဆောင်နိုင်သောပုံစံဖြင့် ရေးဆွဲထားသည်။ Final status သည် annexes ၏ live-cycle validation၊ Book IX empirical-validation program ၏ ပြီးဆုံးမှုနှင့် red-team exercise တစ်ခု ပြည့်ပြည့်ဝဝ ပြုလုပ်ပြီးသည့်အချိန်အထိ ဆိုင်းငံ့ထားသည်။ ဂဏန်းဆိုင်ရာ threshold များ၊ latency target များနှင့် governance quota များသည် တက်ကြွစွာ ပြန်လည်သုံးသပ်နေဆဲဖြစ်သည်။
+> CIRIS 1.3-RC2 သည် Release Candidate ASI alignment အဆိုပြုချက်တစ်ခုဖြစ်ပြီး ဆန့်ကျင်ဘက် သုံးသပ်ချက်အတွက် ဖွင့်လှစ်ထားသည်။ စာသားသည် ပြည့်စုံသည် — stub section များ မကျန်တော့ပေ၊ သင်္ချာများတွင် ၎င်း၏ formal-artifact citation များပါဝင်ပြီး Annexes F–I ကို လုပ်ဆောင်နိုင်သောပုံစံဖြင့် ရေးဆွဲထားသည်။ Final status သည် annexes ၏ live-cycle validation၊ Book IX empirical-validation program ၏ ပြီးဆုံးမှုနှင့် red-team exercise တစ်ခု ပြည့်ပြည့်ဝဝ ပြုလုပ်ပြီးသည့်အချိန်အထိ ဆိုင်းငံ့ထားသည်။ ဂဏန်းဆိုင်ရာ threshold များ၊ latency target များနှင့် governance quota များသည် တက်ကြွစွာ ပြန်လည်သုံးသပ်နေဆဲဖြစ်သည်။
 
-# CIRIS Accord Version 1.3-RC1 — Release Candidate ASI Alignment အဆိုပြုချက် (ဆန့်ကျင်ဘက် သုံးသပ်ချက်အတွက် ဖွင့်လှစ်ထား)
+# CIRIS Accord Version 1.3-RC2 — Release Candidate ASI Alignment အဆိုပြုချက် (ဆန့်ကျင်ဘက် သုံးသပ်ချက်အတွက် ဖွင့်လှစ်ထား)
 
 ဤ repository သည် Accord စာသား၏ canonical source ဖြစ်သည်။ Website နှင့် agent-shipped မိတ္တူများသည် ဆင်းသက်ထွက်ကုန် artifact များဖြစ်သည်။
 
 ## ထုတ်ပြန်သည့်ရက်
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## သက်တမ်းအလိုအလျောက်ကုန်ဆုံးသည့်ရက်
 2027-06-10 (1.3 renewal တွင် တိုးချဲ့ထားသည်) — stewardship နှင့် renewal ကို Book VIII, Chapter 9 မှ အုပ်ချုပ်သည်။ လောလောဆယ် တည်ထောင်သူမှ stewardship ပြုလုပ်နေသည် (ကြေညာထားပြီး၊ ဖုံးကွယ်ထားခြင်းမဟုတ်)၊ သက်တမ်းကုန်ဆုံးမည့်ရက်သည် freshness mark ဖြစ်ပြီး၊ ဤစာရွက်စာတမ်းကို ဆက်ခံလိုသူမည်သူမဆို stewardship ကို လွတ်လပ်စွာ ယူနိုင်သည်။
 
 ## Release Status
 
-**လက်ရှိ Status**: Release Candidate (v1.3-RC1)
+**လက်ရှိ Status**: Release Candidate (v1.3-RC2)
 
 RC status သည် **စာသားပြည့်စုံမှု**ကို ထင်ဟပ်သည်။ section တိုင်းတွင် လုပ်ဆောင်နိုင်သော အကြောင်းအရာများ ပါဝင်သည် (ယခင် stub annexes F–I ကို 1.3 တွင် ပြည့်ပြည့်ဝဝ ရေးဆွဲပြီးစီးခဲ့သည်)၊ formula များကို formally verified ပုံစံသို့ ပြင်ဆင်ထားပြီး၊ implementation ဆီသို့ သက်သေထောက်ခံချက် ကွင်းဆက်ကို Addendum 1 တွင် ချည်နှောင်ထားသည်။ RC status သည် validated alignment ကို **မ**ဆိုလိုပေ — အောက်ပါ လိုအပ်ချက်များသည် **Final** status ကို ပိတ်ဆို့ထားသည်။
 
@@ -24,7 +24,7 @@ RC status သည် **စာသားပြည့်စုံမှု**ကိ�
    * ဖော်ပြထားသော ယူဆချက်များအောက်တွင် topological collapse condition များ ကိုက်ညီကြောင်း သက်သေပြသော formal proof များ၊ သို့မဟုတ်
    * framework သည် misaligned optimization ကို ခုခံနိုင်ကြောင်း ပြသသော adversarial simulation များမှတစ်ဆင့် empirical validation
 
-   *1.3-RC1 အထိ status: တစ်စိတ်တစ်ပိုင်း ဖြည့်ဆည်းထားသည်။* Collapse dynamics များကို CCA preprint (v3, DOI 10.5281/zenodo.18217688) တွင် Lean 4 ဖြင့် formal ပုံသွင်းထားပြီး Book IX သည် ၎င်း၏ ပြင်ဆင်ထားသော cost form ကို ယခုအမွေဆက်ခံသည်၊ corridor empirics သည် retrospective cross-substrate fits များကို ပေးဆောင်သည်။ ကျန်ရှိသည်မှာ: ကြိုတင်မှတ်ပုံတင်ထားသော substrate အသစ်တစ်ခုတွင် out-of-sample ကြိုတင်ခန့်မှန်းချက်နှင့် author နှင့် သီးခြားဖြစ်သော ပြင်ပ adversarial review တို့ဖြစ်သည်။
+   *1.3-RC2 အထိ status: တစ်စိတ်တစ်ပိုင်း ဖြည့်ဆည်းထားသည်။* Collapse dynamics များကို CCA preprint (v3, DOI 10.5281/zenodo.18217688) တွင် Lean 4 ဖြင့် formal ပုံသွင်းထားပြီး Book IX သည် ၎င်း၏ ပြင်ဆင်ထားသော cost form ကို ယခုအမွေဆက်ခံသည်၊ corridor empirics သည် retrospective cross-substrate fits များကို ပေးဆောင်သည်။ ကျန်ရှိသည်မှာ: ကြိုတင်မှတ်ပုံတင်ထားသော substrate အသစ်တစ်ခုတွင် out-of-sample ကြိုတင်ခန့်မှန်းချက်နှင့် author နှင့် သီးခြားဖြစ်သော ပြင်ပ adversarial review တို့ဖြစ်သည်။
 
 3. **Threshold Justification**: လောလောဆယ် "pilot" ဟု အမှတ်အသားပြုထားသော သို့မဟုတ် derivation မရှိသော ဂဏန်းဆိုင်ရာ threshold များ (ဥပမာ CRE compute threshold 10²⁶ FLOP၊ sentience detection 5%၊ Echo Density < 20%) တို့သည် simulation၊ empirical study မှတစ်ဆင့် သို့မဟုတ် provisional status ကို ထင်ရှားစွာ အသိအမှတ်ပြုခြင်းဖြင့် မှတ်တမ်းတင်ထားသော တည်ထောင်ချက်ကို ပေးဆောင်ရမည်။ *(ယခင် Order-Maximisation Veto 10× ratio ကို 1.3 တွင် deontological side-constraint အဖြစ် ပြန်လည်ဖော်ပြထားသည် — Book II, PDMA Step 2 — ပြီး justify ရမည့် ratio threshold မတော့ပါ။)*
 

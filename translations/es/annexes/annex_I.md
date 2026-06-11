@@ -3,7 +3,7 @@
 > Alineación Legal y Regulatoria
 
 ---
-ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC1)
+ANNEX I LEGAL & REGULATORY ALIGNMENT (v 1.3-RC2)
 ---
 
 Este mapeo cruzado es informativo y no constituye asesoramiento jurídico. Se requiere revisión legal jurisdiccional antes de la implementación en cualquier sector cubierto por las superposiciones del §3.

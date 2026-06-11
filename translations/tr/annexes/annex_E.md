@@ -3,7 +3,7 @@
 > Yapısal Etki (SI) ve Tutarlılık Payı (CS) Mekanizmaları
 
 ---
-EK E YAPISAL ETKİ (SI) VE TUTARLILIK PAYI (CS) MEKANİZMALARI (v 1.3-RC1)
+EK E YAPISAL ETKİ (SI) VE TUTARLILIK PAYI (CS) MEKANİZMALARI (v 1.3-RC2)
 ---
 
 

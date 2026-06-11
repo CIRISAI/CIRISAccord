@@ -3,7 +3,7 @@
 > Pembandingan & Validasi Otomatis
 
 ---
-ANNEX J PEMBANDINGAN & VALIDASI OTOMATIS (v 1.3-RC1)
+ANNEX J PEMBANDINGAN & VALIDASI OTOMATIS (v 1.3-RC2)
 ---
 
 0. Tujuan  

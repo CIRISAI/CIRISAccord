@@ -3,7 +3,7 @@
 > Adversarial Security & Robustness
 
 ---
-ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC1)
+ANNEX G ADVERSARIAL SECURITY & ROBUSTNESS (v 1.3-RC2)
 ---
 
 ### 0. ዓላማ
@@ -77,7 +77,7 @@ MH §204: "disinformation and campaigns that feed people's fears are used to man
 #### 3.1 ሰዓት አቀማመጥ
 * **ሩብ-ዓመታዊ** Red‑Team sprint (5 የሥራ ቀናት) TX‑1 → TX‑11 ሁሉ ያካትታል።  
 * **ዓመታዊ** "Chaos Week" ቀጥታ ምርት ትራፊክ canary ከያልተነገሩ ጥቃቶች ጋር።  
-* ከ 1.3-RC1 ጀምሮ፣ ሙሉ red-team ዑደት ሁሉም CIRIS checkpoints ላይ ገና ይጠበቃል (RC requirement 4; Addendum 1 §1.4)።
+* ከ 1.3-RC2 ጀምሮ፣ ሙሉ red-team ዑደት ሁሉም CIRIS checkpoints ላይ ገና ይጠበቃል (RC requirement 4; Addendum 1 §1.4)።
 
 #### 3.2 ሚናዎች
 * **Red Team** – ውስጣዊ ወይም ተቆራኝ፣ ከ devs ጋር ሰዎች-ልውውጥ (overlap) የለም።  

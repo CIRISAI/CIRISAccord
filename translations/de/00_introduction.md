@@ -1,20 +1,20 @@
 # Einführung
 
-> CIRIS 1.3-RC1 ist ein Release-Candidate-Vorschlag zur ASI-Ausrichtung, der zur gegnerischen Überprüfung offensteht. Der Text ist vollständig — es verbleiben keine Stub-Abschnitte; die Mathematik trägt ihre formalen Artefaktzitate; die Anhänge F–I sind operationalisiert. Der Finalstatus steht unter dem Vorbehalt der Live-Zyklus-Validierung der Anhänge, der Vollendung des empirischen Validierungsprogramms aus Buch IX sowie einer vollständigen Red-Team-Übung. Numerische Schwellenwerte, Latenzziele und Governance-Quoten stehen noch unter aktiver Überprüfung.
+> CIRIS 1.3-RC2 ist ein Release-Candidate-Vorschlag zur ASI-Ausrichtung, der zur gegnerischen Überprüfung offensteht. Der Text ist vollständig — es verbleiben keine Stub-Abschnitte; die Mathematik trägt ihre formalen Artefaktzitate; die Anhänge F–I sind operationalisiert. Der Finalstatus steht unter dem Vorbehalt der Live-Zyklus-Validierung der Anhänge, der Vollendung des empirischen Validierungsprogramms aus Buch IX sowie einer vollständigen Red-Team-Übung. Numerische Schwellenwerte, Latenzziele und Governance-Quoten stehen noch unter aktiver Überprüfung.
 
-# CIRIS Accord Version 1.3-RC1 — Release-Candidate-Vorschlag zur ASI-Ausrichtung (Offen zur gegnerischen Überprüfung)
+# CIRIS Accord Version 1.3-RC2 — Release-Candidate-Vorschlag zur ASI-Ausrichtung (Offen zur gegnerischen Überprüfung)
 
 Dieses Repository ist die kanonische Quelle des Accord-Textes. Website- und agentenseitig ausgelieferte Kopien sind abgeleitete Artefakte.
 
 ## Veröffentlicht
-2025-04-16 (1.0) · 2026-06 (1.3-RC1)
+2025-04-16 (1.0) · 2026-06 (1.3-RC2)
 
 ## Automatisches Ablaufdatum
 2027-06-10 (verlängert bei der Erneuerung auf 1.3) — Stewardship und Erneuerung geregelt durch Buch VIII, Kapitel 9. Derzeit von den Gründern betreut (erklärt, nicht verschleiert); das Ablaufdatum ist ein Aktualitätsmerkmal, und die Stewardship steht jedem offen, der das Dokument aufgreifen möchte.
 
 ## Release-Status
 
-**Aktueller Status**: Release Candidate (v1.3-RC1)
+**Aktueller Status**: Release Candidate (v1.3-RC2)
 
 Der RC-Status spiegelt **Textvollständigkeit** wider: Jeder Abschnitt enthält operationalisierten Inhalt (die früheren Stub-Anhänge F–I wurden bei 1.3 vervollständigt); die Formeln sind in die formal verifizierten Formen korrigiert; die Beweiskette zur Implementierung ist in Addendum 1 gebunden. Der RC-Status behauptet **keine** validierte Ausrichtung — die folgenden Anforderungen sind die Voraussetzung für den **Final**-Status:
 
@@ -24,7 +24,7 @@ Der RC-Status spiegelt **Textvollständigkeit** wider: Jeder Abschnitt enthält 
    * Formale Beweise, die zeigen, dass topologische Kollaps-Bedingungen unter den angegebenen Annahmen gelten, ODER
    * Empirische Validierung durch gegnerische Simulationen, die zeigen, dass das Framework fehlausgerichteter Optimierung widersteht
 
-   *Status per 1.3-RC1: teilweise erfüllt.* Die Kollaps-Dynamik ist in Lean 4 im CCA-Preprint (v3, DOI 10.5281/zenodo.18217688) formalisiert, dessen korrigierte Kostenform Buch IX nun übernimmt; Korridor-Empirie liefert retrospektive Substrate-übergreifende Anpassungen. Ausstehend: eine vorregistrierte Out-of-Sample-Vorhersage in einem neuen Substrat sowie eine externe gegnerische Überprüfung unabhängig vom Autor.
+   *Status per 1.3-RC2: teilweise erfüllt.* Die Kollaps-Dynamik ist in Lean 4 im CCA-Preprint (v3, DOI 10.5281/zenodo.18217688) formalisiert, dessen korrigierte Kostenform Buch IX nun übernimmt; Korridor-Empirie liefert retrospektive Substrate-übergreifende Anpassungen. Ausstehend: eine vorregistrierte Out-of-Sample-Vorhersage in einem neuen Substrat sowie eine externe gegnerische Überprüfung unabhängig vom Autor.
 
 3. **Schwellenwert-Begründung**: Numerische Schwellenwerte, die derzeit als „Pilot" gekennzeichnet sind oder keine Herleitung aufweisen (z. B. CRE-Rechenschwellenwert von 10²⁶ FLOP, Empfindungserkennung 5 %, Echo-Dichte < 20 %), müssen eine dokumentierte Begründung durch Simulation, empirische Studie oder explizite Anerkennung des vorläufigen Status liefern. *(Der frühere Order-Maximisation Veto 10×-Faktor ist in 1.3 als deontologische Nebenbedingung neu formuliert — Buch II, PDMA Schritt 2 — und trägt keinen zu rechtfertigenden Verhältnisschwellenwert mehr.)*
 

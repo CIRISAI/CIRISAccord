@@ -3,7 +3,7 @@
 > निरंतर अनुपालन और समीक्षा
 
 ---
-ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC1)
+ANNEX H CONTINUOUS COMPLIANCE & REVIEW (v 1.3-RC2)
 ---
 
 ### 0. उद्देश्य और मार्गदर्शक भावना
